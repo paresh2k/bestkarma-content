@@ -125,3 +125,4 @@ The gut-brain axis is one of the most exciting frontiers in medicine. But the pr
 [^11]: Wastyk HC, et al. (2021). Gut-microbiota-targeted diets modulate human immune status. *Cell*, 184(16), 4137–4153.
 
 [^12]: Schnabel L, et al. (2019). Association between ultraprocessed food consumption and functional gastrointestinal disorders: results from the French NutriNet-Santé cohort. *American Journal of Gastroenterology*, 113(8), 1217–1228. See also: Kim H et al. (2019) ultraprocessed food intake and mortality in JAMA Internal Medicine.
+test
