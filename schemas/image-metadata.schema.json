@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bestkarma.local/schemas/image-metadata.schema.json",
+  "title": "BestKarma Image Metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "alt",
+    "usage"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "alt": {
+      "type": "string",
+      "minLength": 10
+    },
+    "credit": {
+      "type": "string"
+    },
+    "sourceUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "usage": {
+      "type": "string",
+      "enum": [
+        "hero",
+        "inline",
+        "social"
+      ]
+    },
+    "cropIntent": {
+      "type": "string"
+    }
+  }
+}
