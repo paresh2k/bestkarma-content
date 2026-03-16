@@ -1,0 +1,10 @@
+{
+  "name": "bestkarma-content",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "BestKarma editorial content system — articles, research, drafts, and publishing pipeline",
+  "scripts": {
+    "validate": "node pipelines/validate-content.mjs",
+    "promote": "node pipelines/promote-article.mjs"
+  }
+}
