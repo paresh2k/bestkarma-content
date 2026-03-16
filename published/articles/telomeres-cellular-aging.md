@@ -6,6 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
+heroImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [telomeres, cellular-aging, inflammation, exercise, longevity]
 readTime: 8

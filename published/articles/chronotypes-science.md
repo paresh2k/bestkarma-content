@@ -6,6 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
+heroImage: "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [chronotype, morning-person, circadian-rhythm, genetics, sleep-timing]
 readTime: 7

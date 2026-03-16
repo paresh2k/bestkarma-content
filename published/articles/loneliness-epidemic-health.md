@@ -6,6 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
+heroImage: "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [loneliness, social-connection, mental-health, mortality, community, wellbeing]
 readTime: 8

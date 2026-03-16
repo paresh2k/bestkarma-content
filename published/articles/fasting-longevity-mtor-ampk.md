@@ -6,6 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
+heroImage: "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [fasting, caloric-restriction, mtor, ampk, autophagy, longevity]
 readTime: 9

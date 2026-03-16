@@ -65,6 +65,16 @@ let updatedContent = originalContent
   .replace(/^reviewedDate: .+$/m, `reviewedDate: ${today}`)
   .replace(/^reviewer: .+$/m, `reviewer: ${reviewer}`);
 
+// Inject or update heroImage in frontmatter
+if (/^heroImage:/m.test(updatedContent)) {
+  updatedContent = updatedContent.replace(/^heroImage:.*$/m, `heroImage: "${imageUrl}"`);
+} else {
+  updatedContent = updatedContent.replace(
+    /^(reviewedDate:.+)$/m,
+    `$1\nheroImage: "${imageUrl}"`
+  );
+}
+
 // --- Write to validated/articles/ ---
 const validatedArticlesDir = path.join(contentRoot, 'validated', 'articles');
 await ensureDir(validatedArticlesDir);

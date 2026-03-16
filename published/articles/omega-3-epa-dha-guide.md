@@ -6,6 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
+heroImage: "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [omega-3, epa, dha, fish-oil, heart-health, brain-health, nutrition]
 readTime: 7

@@ -6,6 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
+heroImage: "https://images.unsplash.com/photo-1544161513-0179fe746fd5?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [hormesis, resilience, stress, cold-exposure, exercise, longevity, mental-toughness]
 readTime: 9

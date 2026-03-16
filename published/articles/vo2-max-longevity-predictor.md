@@ -6,6 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
+heroImage: "https://images.unsplash.com/photo-1538805060514-97d9cc172fd5?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [vo2-max, cardiorespiratory-fitness, exercise, longevity, heart-health]
 readTime: 8

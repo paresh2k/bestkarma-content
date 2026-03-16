@@ -6,6 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
+heroImage: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [emotional-regulation, emotions, mental-health, resilience, cbt, wellbeing]
 readTime: 8

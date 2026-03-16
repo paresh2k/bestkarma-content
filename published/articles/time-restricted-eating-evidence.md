@@ -6,6 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
+heroImage: "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [time-restricted-eating, intermittent-fasting, metabolic-health, insulin-sensitivity, circadian]
 readTime: 8
