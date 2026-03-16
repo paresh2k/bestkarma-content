@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bestkarma.local/schemas/article.schema.json",
+  "title": "BestKarma Article",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "slug",
+    "title",
+    "description",
+    "author",
+    "reviewer",
+    "pubDate",
+    "reviewedDate",
+    "category",
+    "tags",
+    "status"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 10
+    },
+    "description": {
+      "type": "string",
+      "minLength": 30
+    },
+    "author": {
+      "type": "string",
+      "minLength": 1
+    },
+    "reviewer": {
+      "type": "string",
+      "minLength": 1
+    },
+    "pubDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "reviewedDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "updatedDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "category": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "readTime": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "heroImage": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "briefed",
+        "researched",
+        "drafted",
+        "validated",
+        "approved",
+        "published"
+      ]
+    }
+  }
+}

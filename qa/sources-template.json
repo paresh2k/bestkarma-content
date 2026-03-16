@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "title": "Source title",
+      "url": "https://example.com/source",
+      "type": "paper",
+      "evidenceLevel": "high",
+      "notes": "Why this source matters."
+    }
+  ]
+}
