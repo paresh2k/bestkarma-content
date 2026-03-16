@@ -43,6 +43,16 @@ for (const filename of articles) {
     continue;
   }
 
+  // Validate the URL before injecting
+  try {
+    const res = await fetch(heroImage, { method: 'HEAD' });
+    if (!res.ok) {
+      console.warn(`  warn  ${slug} — image URL returned ${res.status} (injecting anyway, fix later)`);
+    }
+  } catch {
+    console.warn(`  warn  ${slug} — image URL unreachable (injecting anyway, fix later)`);
+  }
+
   let content = await fs.readFile(articlePath, 'utf8');
 
   // Already has heroImage? Update it. Otherwise inject after reviewedDate line.

@@ -53,6 +53,21 @@ if (!draftPath) {
 
 console.log(`Found draft: ${path.relative(contentRoot, draftPath)}`);
 
+// --- Validate image URL ---
+process.stdout.write(`Checking image URL... `);
+try {
+  const res = await fetch(imageUrl, { method: 'HEAD' });
+  if (res.ok) {
+    console.log(`${res.status} OK`);
+  } else {
+    console.error(`${res.status} — image URL returned an error. Fix the URL and retry.`);
+    process.exit(1);
+  }
+} catch (err) {
+  console.error(`Failed to reach image URL: ${err.message}`);
+  process.exit(1);
+}
+
 // --- Read and parse the draft ---
 const originalContent = await fs.readFile(draftPath, 'utf8');
 const frontmatter = parseFrontmatter(originalContent);
