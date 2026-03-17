@@ -5,7 +5,7 @@
   "description": "BestKarma editorial content system — articles, research, drafts, and publishing pipeline",
   "scripts": {
     "validate": "node pipelines/validate-content.mjs",
-    "prepare": "node pipelines/prepare-article.mjs",
+    "prepare-article": "node pipelines/prepare-article.mjs",
     "promote": "node pipelines/promote-article.mjs",
     "draft": "node pipelines/agent-drafter.mjs",
     "validate-content": "node pipelines/agent-validator.mjs"
