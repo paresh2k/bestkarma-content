@@ -1,0 +1,95 @@
+name: Agent 2 — Editor
+
+# Triggers on any push to drafts — but only runs for human pushes
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'drafts/*/*.md'
+
+jobs:
+  edit:
+    name: Review human edits with Claude Haiku
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check if this is a human push
+        id: check
+        run: |
+          AUTHOR=$(git log -1 --format='%an')
+          echo "Commit author: $AUTHOR"
+          if [[ "$AUTHOR" == *"Bot"* ]]; then
+            echo "Bot push detected — Agent 2 skipping (Agent 3 will handle)."
+            echo "is_human=false" >> $GITHUB_OUTPUT
+          else
+            echo "Human push detected — Agent 2 will review edits."
+            echo "is_human=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Setup Node.js
+        if: steps.check.outputs.is_human == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        if: steps.check.outputs.is_human == 'true'
+        run: npm install --ignore-scripts
+
+      - name: Detect drafted articles changed by human
+        if: steps.check.outputs.is_human == 'true'
+        id: detect
+        run: |
+          SLUGS=""
+          CHANGED=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'drafts/*/*.md' || true)
+          for file in $CHANGED; do
+            if [ -f "$file" ]; then
+              STATUS=$(grep "^status:" "$file" | awk '{print $2}' | tr -d '\r')
+              if [ "$STATUS" = "drafted" ]; then
+                SLUG=$(basename "$file" .md)
+                SLUGS="$SLUGS $SLUG"
+                echo "Human-edited drafted article: $SLUG"
+              fi
+            fi
+          done
+          SLUGS=$(echo "$SLUGS" | xargs)
+          echo "slugs=$SLUGS" >> $GITHUB_OUTPUT
+          if [ -z "$SLUGS" ]; then
+            echo "No drafted articles changed by human — nothing to review."
+          fi
+
+      - name: Review each article with Claude Haiku
+        if: steps.check.outputs.is_human == 'true' && steps.detect.outputs.slugs != ''
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          for slug in ${{ steps.detect.outputs.slugs }}; do
+            echo "Getting diff for: $slug"
+            # Find the file path for this slug
+            FILE=$(git diff --name-only HEAD~1 HEAD -- "drafts/*/${slug}.md" | head -1)
+            if [ -n "$FILE" ]; then
+              git diff HEAD~1 HEAD -- "$FILE" > /tmp/${slug}.diff
+              echo "Running editor for: $slug"
+              node pipelines/agent-editor.mjs "$slug" "/tmp/${slug}.diff"
+            fi
+          done
+
+      - name: Commit editorial improvements
+        if: steps.check.outputs.is_human == 'true' && steps.detect.outputs.slugs != ''
+        run: |
+          git config user.name "BestKarma Editor Bot"
+          git config user.email "editor@bestkarma.com"
+          git add drafts/
+          if git diff --staged --quiet; then
+            echo "No changes after editorial review — article unchanged."
+          else
+            git commit -m "Auto-edit: ${{ steps.detect.outputs.slugs }}"
+            git push
+          fi

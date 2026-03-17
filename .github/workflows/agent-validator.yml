@@ -1,6 +1,7 @@
 name: Agent 3 — Validator
 
 # Triggers when draft files are pushed — checks for status: drafted
+# Skips human pushes (Agent 2 reviews those first, then commits for Agent 3 to pick up)
 on:
   push:
     branches: [main]
@@ -20,15 +21,31 @@ jobs:
         with:
           fetch-depth: 2
 
+      - name: Check if this is a bot push
+        id: check
+        run: |
+          AUTHOR=$(git log -1 --format='%an')
+          echo "Commit author: $AUTHOR"
+          if [[ "$AUTHOR" == *"Bot"* ]]; then
+            echo "Bot push — Agent 3 will validate."
+            echo "is_bot=true" >> $GITHUB_OUTPUT
+          else
+            echo "Human push — Agent 2 will review first. Agent 3 skipping."
+            echo "is_bot=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Setup Node.js
+        if: steps.check.outputs.is_bot == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '24'
 
       - name: Install dependencies
+        if: steps.check.outputs.is_bot == 'true'
         run: npm install --ignore-scripts
 
       - name: Detect drafted articles in this push
+        if: steps.check.outputs.is_bot == 'true'
         id: detect
         run: |
           SLUGS=""
@@ -50,7 +67,7 @@ jobs:
           fi
 
       - name: Validate articles with GPT-4o-mini
-        if: steps.detect.outputs.slugs != ''
+        if: steps.check.outputs.is_bot == 'true' && steps.detect.outputs.slugs != ''
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
@@ -60,7 +77,7 @@ jobs:
           done
 
       - name: Commit validation results
-        if: steps.detect.outputs.slugs != ''
+        if: steps.check.outputs.is_bot == 'true' && steps.detect.outputs.slugs != ''
         run: |
           git config user.name "BestKarma Validator Bot"
           git config user.email "validator@bestkarma.com"
