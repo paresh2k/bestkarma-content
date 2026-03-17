@@ -1,6 +1,12 @@
 name: Agent 4 — Auto-Publisher
 
+# Triggers after Agent 3 validates (workflow_run bypasses GITHUB_TOKEN restriction)
+# Also triggers on manual drops to validated/articles/ from humans
 on:
+  workflow_run:
+    workflows: ["Agent 3 — Validator"]
+    types: [completed]
+    branches: [main]
   push:
     branches: [main]
     paths:
@@ -24,15 +30,22 @@ jobs:
         with:
           node-version: '24'
 
-      - name: Detect changed validated articles
+      - name: Find validated articles not yet published
         id: detect
         run: |
-          SLUGS=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'validated/articles/*.md' | sed 's|validated/articles/||;s|\.md$||' | tr '\n' ' ' | xargs)
+          SLUGS=""
+          for file in validated/articles/*.md; do
+            [ -f "$file" ] || continue
+            SLUG=$(basename "$file" .md)
+            if [ ! -f "published/articles/$SLUG.md" ]; then
+              SLUGS="$SLUGS $SLUG"
+              echo "Needs publishing: $SLUG"
+            fi
+          done
+          SLUGS=$(echo "$SLUGS" | xargs)
           echo "slugs=$SLUGS" >> $GITHUB_OUTPUT
-          if [ -n "$SLUGS" ]; then
-            echo "Articles to publish: $SLUGS"
-          else
-            echo "No validated articles changed in this push"
+          if [ -z "$SLUGS" ]; then
+            echo "No unpublished validated articles found."
           fi
 
       - name: Promote each article

@@ -1,8 +1,12 @@
 name: Agent 3 — Validator
 
-# Triggers when draft files are pushed — checks for status: drafted
-# Skips human pushes (Agent 2 reviews those first, then commits for Agent 3 to pick up)
+# Triggers after Agent 1 or Agent 2 bot commits (workflow_run bypasses GITHUB_TOKEN restriction)
+# Also triggers on human pushes to drafts/ — but skips them (Agent 2 handles those first)
 on:
+  workflow_run:
+    workflows: ["Agent 1 — Drafter", "Agent 2 — Editor"]
+    types: [completed]
+    branches: [main]
   push:
     branches: [main]
     paths:
@@ -44,26 +48,28 @@ jobs:
         if: steps.check.outputs.is_bot == 'true'
         run: npm install --ignore-scripts
 
-      - name: Detect drafted articles in this push
+      - name: Find drafted articles not yet in validated/
         if: steps.check.outputs.is_bot == 'true'
         id: detect
         run: |
           SLUGS=""
-          CHANGED=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'drafts/*/*.md' || true)
-          for file in $CHANGED; do
-            if [ -f "$file" ]; then
+          for pillar in longevity sleep nutrition mind-body wellness; do
+            for file in drafts/$pillar/*.md; do
+              [ -f "$file" ] || continue
               STATUS=$(grep "^status:" "$file" | awk '{print $2}' | tr -d '\r')
               if [ "$STATUS" = "drafted" ]; then
                 SLUG=$(basename "$file" .md)
-                SLUGS="$SLUGS $SLUG"
-                echo "Drafted article detected: $SLUG"
+                if [ ! -f "validated/articles/$SLUG.md" ]; then
+                  SLUGS="$SLUGS $SLUG"
+                  echo "Needs validation: $SLUG"
+                fi
               fi
-            fi
+            done
           done
           SLUGS=$(echo "$SLUGS" | xargs)
           echo "slugs=$SLUGS" >> $GITHUB_OUTPUT
           if [ -z "$SLUGS" ]; then
-            echo "No drafted articles in this push — skipping."
+            echo "No unvalidated drafted articles found."
           fi
 
       - name: Validate articles with GPT-4o-mini
