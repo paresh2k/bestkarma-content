@@ -6,6 +6,10 @@
   "scripts": {
     "validate": "node pipelines/validate-content.mjs",
     "prepare": "node pipelines/prepare-article.mjs",
-    "promote": "node pipelines/promote-article.mjs"
+    "promote": "node pipelines/promote-article.mjs",
+    "draft": "node pipelines/agent-drafter.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
   }
 }

@@ -1,0 +1,73 @@
+name: Agent 1 — Drafter
+
+# Triggers when draft files are pushed with status: briefed
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'drafts/*/*.md'
+
+jobs:
+  draft:
+    name: Draft briefed articles with Claude
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Detect briefed articles in this push
+        id: detect
+        run: |
+          SLUGS=""
+          CHANGED=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'drafts/*/*.md' || true)
+          for file in $CHANGED; do
+            if [ -f "$file" ]; then
+              STATUS=$(grep "^status:" "$file" | awk '{print $2}' | tr -d '\r')
+              if [ "$STATUS" = "briefed" ]; then
+                SLUG=$(basename "$file" .md)
+                SLUGS="$SLUGS $SLUG"
+                echo "Briefed article detected: $SLUG"
+              fi
+            fi
+          done
+          SLUGS=$(echo "$SLUGS" | xargs)
+          echo "slugs=$SLUGS" >> $GITHUB_OUTPUT
+          if [ -z "$SLUGS" ]; then
+            echo "No briefed articles in this push — skipping."
+          fi
+
+      - name: Draft articles with Claude
+        if: steps.detect.outputs.slugs != ''
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          for slug in ${{ steps.detect.outputs.slugs }}; do
+            echo "Running drafter for: $slug"
+            node pipelines/agent-drafter.mjs "$slug"
+          done
+
+      - name: Commit drafted articles
+        if: steps.detect.outputs.slugs != ''
+        run: |
+          git config user.name "BestKarma Drafter Bot"
+          git config user.email "drafter@bestkarma.com"
+          git add drafts/
+          if git diff --staged --quiet; then
+            echo "Nothing to commit — no articles were drafted."
+          else
+            git commit -m "Auto-draft: ${{ steps.detect.outputs.slugs }}"
+            git push
+          fi
