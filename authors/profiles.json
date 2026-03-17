@@ -10,6 +10,17 @@
       "editorial strategy"
     ]
   },
+  "gpt-validator": {
+    "name": "BestKarma Review Team",
+    "role": "Review Team",
+    "credentials": "Evidence review and content review",
+    "bio": "The BestKarma Review Team checks health claims for source quality, nuance, and alignment with editorial standards before publication.",
+    "expertise": [
+      "source review",
+      "health content QA",
+      "editorial standards"
+    ]
+  },
   "bestkarma-review": {
     "name": "BestKarma Review Team",
     "role": "Review Team",
