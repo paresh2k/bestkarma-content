@@ -71,3 +71,4 @@ What the research recommends against: treating gratitude journaling as a checkli
 ---
 
 *Key sources: Emmons & McCullough 2003 (gratitude and health outcomes RCT); Fox et al. 2015 (gratitude brain correlates, neuroimaging); Japanese amygdala volumetrics study (Pacific Neuroscience Institute); PMC 10393216 (gratitude interventions systematic review and meta-analysis); Wood et al. 2009 (gratitude and sleep); APA PsycNET 2025 (neuroscience of positive emotions).*
+
