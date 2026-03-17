@@ -1,0 +1,73 @@
+name: Agent 3 — Validator
+
+# Triggers when draft files are pushed — checks for status: drafted
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'drafts/*/*.md'
+
+jobs:
+  validate:
+    name: Validate drafted articles with GPT-4o-mini
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+
+      - name: Detect drafted articles in this push
+        id: detect
+        run: |
+          SLUGS=""
+          CHANGED=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'drafts/*/*.md' || true)
+          for file in $CHANGED; do
+            if [ -f "$file" ]; then
+              STATUS=$(grep "^status:" "$file" | awk '{print $2}' | tr -d '\r')
+              if [ "$STATUS" = "drafted" ]; then
+                SLUG=$(basename "$file" .md)
+                SLUGS="$SLUGS $SLUG"
+                echo "Drafted article detected: $SLUG"
+              fi
+            fi
+          done
+          SLUGS=$(echo "$SLUGS" | xargs)
+          echo "slugs=$SLUGS" >> $GITHUB_OUTPUT
+          if [ -z "$SLUGS" ]; then
+            echo "No drafted articles in this push — skipping."
+          fi
+
+      - name: Validate articles with GPT-4o-mini
+        if: steps.detect.outputs.slugs != ''
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          for slug in ${{ steps.detect.outputs.slugs }}; do
+            echo "Validating: $slug"
+            node pipelines/agent-validator.mjs "$slug"
+          done
+
+      - name: Commit validation results
+        if: steps.detect.outputs.slugs != ''
+        run: |
+          git config user.name "BestKarma Validator Bot"
+          git config user.email "validator@bestkarma.com"
+          git add drafts/ validated/
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "Auto-validate: ${{ steps.detect.outputs.slugs }}"
+            git push
+          fi

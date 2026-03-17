@@ -7,9 +7,11 @@
     "validate": "node pipelines/validate-content.mjs",
     "prepare": "node pipelines/prepare-article.mjs",
     "promote": "node pipelines/promote-article.mjs",
-    "draft": "node pipelines/agent-drafter.mjs"
+    "draft": "node pipelines/agent-drafter.mjs",
+    "validate-content": "node pipelines/agent-validator.mjs"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.39.0"
+    "@anthropic-ai/sdk": "^0.39.0",
+    "openai": "^4.98.0"
   }
 }
