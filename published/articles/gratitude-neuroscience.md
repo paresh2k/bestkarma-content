@@ -5,8 +5,7 @@ description: "Gratitude activates reward circuits, suppresses cortisol, and prod
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
-reviewedDate: 2026-03-16
-heroImage: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&auto=format&fit=crop&q=80"
+reviewedDate: 2026-03-17
 category: wellness
 tags: [gratitude, neuroscience, mental-health, sleep, wellbeing, positive-psychology]
 readTime: 7
@@ -72,3 +71,4 @@ What the research recommends against: treating gratitude journaling as a checkli
 ---
 
 *Key sources: Emmons & McCullough 2003 (gratitude and health outcomes RCT); Fox et al. 2015 (gratitude brain correlates, neuroimaging); Japanese amygdala volumetrics study (Pacific Neuroscience Institute); PMC 10393216 (gratitude interventions systematic review and meta-analysis); Wood et al. 2009 (gratitude and sleep); APA PsycNET 2025 (neuroscience of positive emotions).*
+
