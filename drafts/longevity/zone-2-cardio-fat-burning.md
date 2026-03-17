@@ -9,7 +9,7 @@ reviewedDate: TBD
 category: longevity
 tags: [zone-2, cardio, mitochondria, fat-burning, longevity, exercise]
 readTime: 8
-status: drafted
+status: briefed
 ---
 
 Most people who exercise regularly are training in a metabolic no-man's-land. Not hard enough to drive the high-intensity adaptations that come from pushing into Zone 4 or 5. Not easy enough to unlock the fat-burning, mitochondria-building cascade that happens at lower intensities. If you're working out at a pace that feels moderately hard — a brisk run, a spin class at medium resistance, a bike ride where you're breathing too heavily to chat — there's a good chance you're spending most of your exercise time in exactly the wrong place.
@@ -85,3 +85,4 @@ San Millán's recommendation, echoed by Attia, is **at least 3 hours per week of
 ---
 
 *Key sources: San Millán & Brooks 2018 Journal of Applied Physiology (lactate metabolism, mitochondrial function, and Zone 2 training); Mandsager et al. 2018 JAMA Network Open (cardiorespiratory fitness and all-cause mortality in 122,007 patients); Bacon et al. 2017 PLOS One (meta-analysis of MICT vs HIIT for mitochondrial adaptation and VO2 max); Attia P. "The Drive" podcast episodes on Zone 2 and longevity (clinical translation of San Millán's work)*
+
