@@ -87,4 +87,3 @@ The progress is slower than it feels like it should be. That's the point. Zone 2
 ---
 
 *Key sources: San Millán & Brooks 2018 Journal of Applied Physiology (lactate metabolism, mitochondrial function, and Zone 2 intensity); Mandsager et al. 2018 JAMA Network Open (cardiorespiratory fitness and all-cause mortality in 122,007 patients over 8.4 years); Bacon et al. 2017 PLOS One (meta-analysis of moderate-intensity continuous training vs. HIIT for mitochondrial adaptation and VO2 max); Attia P. "The Drive" podcast, multiple episodes on Zone 2 and longevity (clinical translation of San Millán's framework)*
-
