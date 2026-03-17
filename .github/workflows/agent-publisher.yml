@@ -1,6 +1,5 @@
 name: Agent 4 — Auto-Publisher
 
-# Triggers when validated articles are added or updated
 on:
   push:
     branches: [main]
@@ -18,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2  # Need previous commit to diff against
+          fetch-depth: 2
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -28,16 +27,12 @@ jobs:
       - name: Detect changed validated articles
         id: detect
         run: |
-          # Find .md files added or modified in validated/articles/ in this push
-          SLUGS=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'validated/articles/*.md' \
-            | sed 's|validated/articles/||;s|\.md$||' \
-            | tr '\n' ' ' \
-            | xargs)
+          SLUGS=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'validated/articles/*.md' | sed 's|validated/articles/||;s|\.md$||' | tr '\n' ' ' | xargs)
           echo "slugs=$SLUGS" >> $GITHUB_OUTPUT
           if [ -n "$SLUGS" ]; then
             echo "Articles to publish: $SLUGS"
           else
-            echo "No validated articles changed — nothing to publish"
+            echo "No validated articles changed in this push"
           fi
 
       - name: Promote each article
@@ -45,11 +40,11 @@ jobs:
         run: |
           FAILED=""
           for slug in ${{ steps.detect.outputs.slugs }}; do
-            echo "→ Promoting: $slug"
+            echo "Promoting: $slug"
             if node pipelines/promote-article.mjs "$slug"; then
-              echo "  ✓ $slug promoted successfully"
+              echo "✓ $slug promoted"
             else
-              echo "  ✗ $slug failed — check bundle files exist in validated/$slug.bundle/"
+              echo "✗ $slug failed — check validated/$slug.bundle/ exists"
               FAILED="$FAILED $slug"
             fi
           done
@@ -58,24 +53,19 @@ jobs:
             exit 1
           fi
 
-      - name: Commit promoted articles
+      - name: Commit and push
         if: steps.detect.outputs.slugs != ''
         run: |
           git config user.name "BestKarma Publisher Bot"
           git config user.email "actions@bestkarma.com"
           git add published/
           if git diff --staged --quiet; then
-            echo "Nothing new to commit — articles already up to date in published/"
+            echo "Nothing to commit — already up to date"
           else
-            git commit -m "Auto-publish: ${{ steps.detect.outputs.slugs }}
-
-Promoted by Agent 4 (Auto-Publisher) from validated/articles/."
+            git commit -m "Auto-publish: ${{ steps.detect.outputs.slugs }}"
             git push
           fi
 
       - name: Trigger Vercel deploy
         if: steps.detect.outputs.slugs != ''
-        run: |
-          echo "Triggering Vercel rebuild..."
-          curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}"
-          echo "Deploy triggered."
+        run: curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}"
