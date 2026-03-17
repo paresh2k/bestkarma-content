@@ -38,3 +38,4 @@ Zone 2 training is low-to-moderate intensity aerobic exercise performed at a hea
 ## Target Audience
 
 Health-conscious adults who already exercise but may be training at the wrong intensity — spinning classes, moderate jogging — and missing the Zone 2 adaptation window.
+
