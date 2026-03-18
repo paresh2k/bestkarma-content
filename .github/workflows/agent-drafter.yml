@@ -29,25 +29,39 @@ jobs:
       - name: Install dependencies
         run: npm install --ignore-scripts
 
-      - name: Detect briefed articles in this push
+      - name: Detect briefed articles
         id: detect
         run: |
           SLUGS=""
-          CHANGED=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'drafts/*/*.md' || true)
-          for file in $CHANGED; do
-            if [ -f "$file" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            # Manual trigger — scan ALL drafts for status: briefed
+            echo "Manual trigger — scanning all drafts for briefed articles..."
+            for file in drafts/*/*.md; do
+              [ -f "$file" ] || continue
+              STATUS=$(grep "^status:" "$file" | awk '{print $2}' | tr -d '\r')
+              if [ "$STATUS" = "briefed" ]; then
+                SLUG=$(basename "$file" .md)
+                SLUGS="$SLUGS $SLUG"
+                echo "Briefed article found: $SLUG"
+              fi
+            done
+          else
+            # Push trigger — only look at files changed in this push
+            CHANGED=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'drafts/*/*.md' || true)
+            for file in $CHANGED; do
+              [ -f "$file" ] || continue
               STATUS=$(grep "^status:" "$file" | awk '{print $2}' | tr -d '\r')
               if [ "$STATUS" = "briefed" ]; then
                 SLUG=$(basename "$file" .md)
                 SLUGS="$SLUGS $SLUG"
                 echo "Briefed article detected: $SLUG"
               fi
-            fi
-          done
+            done
+          fi
           SLUGS=$(echo "$SLUGS" | xargs)
           echo "slugs=$SLUGS" >> $GITHUB_OUTPUT
           if [ -z "$SLUGS" ]; then
-            echo "No briefed articles in this push — skipping."
+            echo "No briefed articles found — skipping."
           fi
 
       - name: Draft articles with Claude
