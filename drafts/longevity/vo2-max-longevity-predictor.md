@@ -3,13 +3,14 @@ slug: vo2-max-longevity-predictor
 title: "VO2 Max: The Single Fitness Metric That Predicts How Long You'll Live"
 description: "Cardiorespiratory fitness — measured by VO2 max — is the strongest independent predictor of all-cause mortality. Here's what the science shows, what your number means, and how to improve it."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [vo2-max, cardiorespiratory-fitness, exercise, longevity, heart-health]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 Your doctor measures your blood pressure, cholesterol, and blood sugar. These are useful numbers. They tell you about cardiovascular risk, metabolic risk, the likelihood of certain diseases.

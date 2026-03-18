@@ -3,13 +3,14 @@ slug: telomeres-cellular-aging
 title: "Telomeres: The Cellular Scoreboard for How You're Actually Aging"
 description: "Every cell in your body keeps a countdown timer at the end of each chromosome. Inflammation shortens it faster than almost anything else. Here's what the science says — and what to do about it."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [telomeres, cellular-aging, inflammation, exercise, longevity]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 At the end of every chromosome in every cell of your body, there is a repetitive DNA sequence: TTAGGG, repeated hundreds to thousands of times. This sequence does not code for any protein. It serves a protective function — like the plastic cap at the end of a shoelace, it prevents the chromosome from fraying and fusing with other chromosomes.

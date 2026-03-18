@@ -1,16 +1,16 @@
 ---
 title: "Strength Training After 40: The Anti-Aging Prescription You're Not Filling"
 description: "After 40, we lose 1–2% of muscle mass per year and up to 3% of muscle strength. But this trajectory is not fixed — resistance training is the most powerful intervention we have to reverse muscle aging and dramatically extend healthspan."
-pubDate: 2026-03-04
+pubDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [strength-training, muscle, longevity, sarcopenia, body, aging, healthspan, metabolism]
 readTime: 8
 featured: false
-status: published
+status: validated
 author: bestkarma-editorial
-reviewer: bestkarma-review
-reviewedDate: 2026-03-14
+reviewer: gpt-validator
+reviewedDate: 2026-03-18
 ---
 
 The human body begins losing muscle mass in the mid-thirties, accelerating after 40. By 80, the average sedentary adult has lost **30–40% of their peak muscle mass** — a condition called **sarcopenia** — along with proportional losses in strength, bone density, metabolic rate, and functional independence.
