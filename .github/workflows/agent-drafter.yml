@@ -52,7 +52,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
-          MAX_ARTICLES: '10'
+          MAX_ARTICLES: '5'
         run: |
           node pipelines/agent-drafter.mjs
 
