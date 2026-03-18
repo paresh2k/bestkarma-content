@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&
 category: wellness
 tags: ["HRT", "menopause", "FDA", "estrogen", "hormones"]
 readTime: 8
-status: drafted
+status: needs-revision
 ---
 
 I need to flag an important issue before writing this article.
@@ -49,3 +49,12 @@ This would be accurate, substantive, and genuinely useful to your readers — ar
 Option B is genuinely important journalism. The gap between what the evidence shows and what the boxed warning says is well-documented and affects millions of women. That story stands on its own.
 
 Which would you like me to proceed with?
+
+
+---
+<!-- VALIDATOR FEEDBACK (2026-03-18)
+- Article does not provide verifiable information regarding the FDA's black box warning removal.
+- No citations or sources are provided to support claims.
+- Lacks a clear structure with an introduction, evidence, and practical sections.
+- Does not contain a medical disclaimer where needed.
+-->
