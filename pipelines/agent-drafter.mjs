@@ -1,12 +1,11 @@
 #!/usr/bin/env node
 /**
- * agent-drafter.mjs — Agent 1: Claude Drafter (with web research + image sourcing)
+ * agent-drafter.mjs — Agent 1: Claude Drafter (research + write in one call)
  *
  * Finds articles with status: briefed in drafts/{pillar}/, then:
- *   1. Searches the web for recent studies and evidence on the topic
- *   2. Fetches a relevant Unsplash image for the hero
- *   3. Calls Claude to write a full, research-grounded article
- *   4. Saves the draft with heroImage set and status: drafted
+ *   1. Fetches a relevant Unsplash image for the hero
+ *   2. Calls Claude once with web_search tool — it researches and writes in one pass
+ *   3. Saves the draft with heroImage set and status: drafted
  *
  * Usage:
  *   node pipelines/agent-drafter.mjs           — process all briefed articles
@@ -74,89 +73,35 @@ function extractBody(content) {
   return content.slice(match[0].length).trim();
 }
 
-// --- Step 1: Web research using Claude's web_search tool ---
-async function researchTopic(frontmatter, brief) {
-  console.log(`  🔍 Researching: ${frontmatter.title}`);
-
-  const researchPrompt = `You are a health science researcher. Research the following wellness/longevity topic and gather:
-1. Key scientific studies (with authors, journal, year, and main finding)
-2. Current clinical guidelines or expert consensus
-3. Recent developments or debates in the field (2023-2026)
-4. Any important caveats or limitations in the evidence
-
-Topic: ${frontmatter.title}
-Category: ${frontmatter.category}
-Brief: ${brief || frontmatter.description}
-
-Search for recent, high-quality evidence. Focus on peer-reviewed studies, systematic reviews, and meta-analyses. Return a structured research summary that will be used to write an evidence-based article.`;
-
-  try {
-    const response = await client.messages.create({
-      model: 'claude-sonnet-4-6',
-      max_tokens: 2048,
-      tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-      messages: [{ role: 'user', content: researchPrompt }],
-    });
-
-    // Extract text from all content blocks (including after tool use)
-    const researchSummary = response.content
-      .filter(block => block.type === 'text')
-      .map(block => block.text)
-      .join('\n\n')
-      .trim();
-
-    return researchSummary || 'No additional research findings.';
-  } catch (err) {
-    console.log(`  ⚠ Web research unavailable (${err.message?.slice(0, 50)}), proceeding without it.`);
-    return null;
-  }
-}
-
-// --- Step 2: Fetch relevant Unsplash image ---
+// --- Fetch relevant Unsplash image ---
 async function fetchUnsplashImage(frontmatter) {
   const accessKey = process.env.UNSPLASH_ACCESS_KEY;
   if (!accessKey) {
     return DEFAULT_HERO_IMAGES[frontmatter.category] || DEFAULT_HERO_IMAGES.wellness;
   }
 
-  // Build a focused search query from the title and category
   const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags.slice(0, 3) : [];
   const query = [...tags, frontmatter.category, 'health'].join(' ');
 
   try {
     const url = `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&per_page=5&orientation=landscape&content_filter=high`;
-    const res = await fetch(url, {
-      headers: { Authorization: `Client-ID ${accessKey}` },
-    });
-
+    const res = await fetch(url, { headers: { Authorization: `Client-ID ${accessKey}` } });
     if (!res.ok) throw new Error(`Unsplash API ${res.status}`);
-
     const data = await res.json();
     const results = data.results || [];
-
     if (results.length === 0) {
-      console.log(`  ⚠ No Unsplash results for "${query}", using category default.`);
       return DEFAULT_HERO_IMAGES[frontmatter.category] || DEFAULT_HERO_IMAGES.wellness;
     }
-
-    // Pick a random result from top 5 for variety
     const pick = results[Math.floor(Math.random() * results.length)];
-    const imageUrl = `${pick.urls.raw}&w=1200&auto=format&fit=crop&q=80`;
-
-    console.log(`  🖼 Image sourced from Unsplash (${pick.user.name})`);
-    return imageUrl;
-  } catch (err) {
-    console.log(`  ⚠ Unsplash fetch failed (${err.message?.slice(0, 50)}), using category default.`);
+    console.log(`  🖼 Image: Unsplash / ${pick.user.name}`);
+    return `${pick.urls.raw}&w=1200&auto=format&fit=crop&q=80`;
+  } catch {
     return DEFAULT_HERO_IMAGES[frontmatter.category] || DEFAULT_HERO_IMAGES.wellness;
   }
 }
 
-// --- Step 3: Call Claude to write the article ---
-async function callClaude(frontmatter, brief, researchSummary) {
-  const researchSection = researchSummary
-    ? `## Research Findings\n\n${researchSummary}\n\n---\n\n`
-    : '';
-
+// --- Single Claude call: research + write using web_search tool ---
+async function researchAndWrite(frontmatter, brief) {
   const prompt = `
 Here is the article brief:
 
@@ -167,43 +112,69 @@ Here is the article brief:
 **Target read time:** ${frontmatter.readTime} minutes (~${(frontmatter.readTime || 8) * 180} words)
 
 ## Editorial Brief
-${brief || 'No additional brief provided — write a comprehensive article based on the title and description.'}
+${brief || 'Write a comprehensive, evidence-based article based on the title and description.'}
 
-${researchSection}---
+---
 
-Write the full article body following the BestKarma content guidelines. Use the research findings above to cite specific studies, authors, journals, and years throughout the article. Every major claim should reference a named source. Return ONLY the article body — no frontmatter, no YAML, no title heading. Start directly with the opening paragraph.
+Instructions:
+1. Use web_search to find 2-3 key recent studies or expert sources on this topic (2020-2026).
+2. Write the full article body following the BestKarma content guidelines.
+3. Cite the studies, authors, journals, and years you found throughout the article.
+4. Return ONLY the article body — no frontmatter, no YAML, no title heading. Start with the opening paragraph.
 `.trim();
 
-  const response = await client.messages.create({
-    model: 'claude-sonnet-4-6',
-    max_tokens: 4096,
-    system: guidelines,
-    messages: [{ role: 'user', content: prompt }],
-  });
+  const messages = [{ role: 'user', content: prompt }];
+  let inputTokens = 0;
+  let outputTokens = 0;
 
-  return {
-    body: response.content[0].text.trim(),
-    inputTokens: response.usage.input_tokens,
-    outputTokens: response.usage.output_tokens,
-  };
+  // Agentic loop — continue until Claude finishes (no more tool calls)
+  while (true) {
+    const response = await client.messages.create({
+      model: 'claude-sonnet-4-6',
+      max_tokens: 4096,
+      system: guidelines,
+      tools: [{ type: 'web_search_20250305', name: 'web_search' }],
+      messages,
+    });
+
+    inputTokens += response.usage.input_tokens;
+    outputTokens += response.usage.output_tokens;
+    messages.push({ role: 'assistant', content: response.content });
+
+    if (response.stop_reason === 'end_turn') {
+      const body = response.content
+        .filter(b => b.type === 'text')
+        .map(b => b.text)
+        .join('\n\n')
+        .trim();
+      return { body, inputTokens, outputTokens };
+    }
+
+    if (response.stop_reason === 'tool_use') {
+      console.log(`  🔍 Searching web...`);
+      const toolResults = response.content
+        .filter(b => b.type === 'tool_use')
+        .map(b => ({ type: 'tool_result', tool_use_id: b.id, content: '' }));
+      messages.push({ role: 'user', content: toolResults });
+      continue;
+    }
+
+    throw new Error(`Unexpected stop_reason: ${response.stop_reason}`);
+  }
 }
 
 // --- Write the drafted article back to the file ---
 async function writeDraft(filePath, content, articleBody, heroImage) {
-  // Update status in frontmatter
   let updated = content.replace(/^status: .+$/m, 'status: drafted');
 
-  // Set heroImage in frontmatter
   if (/^heroImage:/m.test(updated)) {
     updated = updated.replace(/^heroImage:.*$/m, `heroImage: "${heroImage}"`);
   } else {
     updated = updated.replace(/^(category:.+)$/m, `$1\nheroImage: "${heroImage}"`);
   }
 
-  // Replace body after closing ---
   const fmEnd = updated.indexOf('---', 3) + 3;
   const newContent = updated.slice(0, fmEnd) + '\n\n' + articleBody + '\n';
-
   await fs.writeFile(filePath, newContent, 'utf8');
 }
 
@@ -213,7 +184,6 @@ const articles = await findBriefedArticles();
 if (articles.length === 0) {
   if (targetSlug) {
     console.log(`No briefed article found for slug: ${targetSlug}`);
-    console.log('Make sure the file exists in drafts/{pillar}/ with status: briefed');
   } else {
     console.log('No briefed articles found across any pillar.');
   }
@@ -222,11 +192,12 @@ if (articles.length === 0) {
 
 console.log(`Found ${articles.length} briefed article(s) to draft.\n`);
 
+// 65 seconds between articles — one Claude call per article now,
+// but web_search rounds add tokens. 65s safely stays under 30k TPM.
+const DELAY_MS = 65_000;
+
 let totalInput = 0;
 let totalOutput = 0;
-
-// Delay between articles to stay under API rate limits (30k input tokens/min)
-const DELAY_MS = 35_000; // 35 seconds — safe for ~2 Claude calls per article
 
 for (let i = 0; i < articles.length; i++) {
   const { slug, pillar, filePath, content, frontmatter } = articles[i];
@@ -234,30 +205,22 @@ for (let i = 0; i < articles.length; i++) {
   const brief = extractBody(content);
 
   try {
-    // Step 1: Research
-    const researchSummary = await researchTopic(frontmatter, brief);
-
-    // Step 2: Image
     const heroImage = await fetchUnsplashImage(frontmatter);
-
-    // Step 3: Draft
-    console.log(`  ✍ Writing article...`);
-    const { body, inputTokens, outputTokens } = await callClaude(frontmatter, brief, researchSummary);
+    console.log(`  ✍ Researching and writing...`);
+    const { body, inputTokens, outputTokens } = await researchAndWrite(frontmatter, brief);
 
     await writeDraft(filePath, content, body, heroImage);
 
     totalInput += inputTokens;
     totalOutput += outputTokens;
-
     const cost = ((inputTokens * 3 + outputTokens * 15) / 1_000_000).toFixed(4);
-    console.log(`  ✓ Drafted — ${outputTokens} tokens out, ~$${cost}`);
+    console.log(`  ✓ Done — ${outputTokens} tokens out, ~$${cost}`);
   } catch (err) {
-    console.error(`  ✗ Failed to draft ${slug}: ${err.message}`);
+    console.error(`  ✗ Failed: ${err.message?.slice(0, 120)}`);
   }
 
-  // Pause between articles (skip after last one)
   if (i < articles.length - 1) {
-    console.log(`  ⏳ Waiting ${DELAY_MS / 1000}s before next article (rate limit)...`);
+    console.log(`  ⏳ Waiting ${DELAY_MS / 1000}s (rate limit)...`);
     await new Promise(r => setTimeout(r, DELAY_MS));
   }
 }
