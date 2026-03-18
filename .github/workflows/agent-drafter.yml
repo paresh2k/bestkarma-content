@@ -54,9 +54,12 @@ jobs:
 
       - name: Commit drafted articles
         if: steps.detect.outputs.count != '0'
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config user.name "BestKarma Drafter Bot"
           git config user.email "drafter@bestkarma.com"
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
           git add drafts/
           if git diff --staged --quiet; then
             echo "Nothing to commit — no articles were drafted."
