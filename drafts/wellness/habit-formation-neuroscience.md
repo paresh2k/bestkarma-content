@@ -3,13 +3,14 @@ slug: habit-formation-neuroscience-behavior-change
 title: "Habit Formation: What Neuroscience Actually Says About Building Lasting Behavior"
 description: "Habits are stored as automatized programs in the basal ganglia — they run on cues, not willpower. The '21-day' myth has been replaced by data showing 18-254 days, mediated by behavior complexity. Here's the mechanistic guide to rewiring your behavior."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [habits, behavior-change, neuroscience, willpower, motivation, routine]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 The 21-day rule — the widely repeated claim that it takes three weeks to form a new habit — originated from a 1960 book by a plastic surgeon named Maxwell Maltz, who observed that it took patients approximately 21 days to adjust to their new appearance after surgery. This was a clinical observation about psychological adjustment, not a habit formation study. It entered popular culture as a precise scientific fact that it never was.

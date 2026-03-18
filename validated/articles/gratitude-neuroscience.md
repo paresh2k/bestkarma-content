@@ -3,13 +3,14 @@ slug: gratitude-neuroscience
 title: "The Brain Science Behind Gratitude (And Why 3 Minutes Can Change Your Day)"
 description: "Gratitude activates reward circuits, suppresses cortisol, and produces structural brain changes within 3 weeks. Japanese MRI research links gratitude to a larger amygdala and better cognitive function. Here's the science and the practice."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-17
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [gratitude, neuroscience, mental-health, sleep, wellbeing, positive-psychology]
 readTime: 7
-status: approved
+status: validated
 ---
 
 Gratitude has a reputation problem. It lives in the territory of motivational posters and morning affirmations — sincere enough, but hardly rigorous. The neuroscience tells a different story. In the past decade, researchers have used fMRI, salivary cortisol measurement, MRI volumetrics, and longitudinal health data to map what gratitude does to the brain and body. The results are specific enough to warrant taking seriously.
@@ -71,4 +72,3 @@ What the research recommends against: treating gratitude journaling as a checkli
 ---
 
 *Key sources: Emmons & McCullough 2003 (gratitude and health outcomes RCT); Fox et al. 2015 (gratitude brain correlates, neuroimaging); Japanese amygdala volumetrics study (Pacific Neuroscience Institute); PMC 10393216 (gratitude interventions systematic review and meta-analysis); Wood et al. 2009 (gratitude and sleep); APA PsycNET 2025 (neuroscience of positive emotions).*
-

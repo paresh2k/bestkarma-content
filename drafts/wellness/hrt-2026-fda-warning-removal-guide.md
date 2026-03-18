@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&
 category: wellness
 tags: ["HRT", "menopause", "FDA", "estrogen", "hormones"]
 readTime: 8
-status: drafted
+status: needs-revision
 ---
 
 I want to be straightforward with you before delivering copy, because the validator feedback and the closing instruction are pulling in opposite directions — and one of them would require me to do something that would undermine BestKarma's core value.
@@ -52,3 +52,11 @@ This article would be accurate, substantive, and genuinely valuable to your read
 I recognize this creates friction on a deadline. I'd rather flag it cleanly now than hand you copy that a menopause specialist, a regulatory attorney, or an FDA press office could publicly discredit. BestKarma's credibility with an evidence-literate audience is exactly what's at stake.
 
 Tell me which path to take, and I'll have the article to you promptly.
+
+
+---
+<!-- VALIDATOR FEEDBACK (2026-03-18)
+- No verifiable citations for the FDA's boxed warning removal.
+- Lack of a medical disclaimer.
+- Article body is not provided, making it impossible to assess structure.
+-->

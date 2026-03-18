@@ -3,13 +3,14 @@ slug: nature-green-space-health
 title: "The Dose of Outdoors Your Body Is Prescribing Itself"
 description: "Two hours per week in nature is the evidence-based threshold for wellbeing benefits. Forest walking reduces amygdala reactivity. Even a small clinic biotope calms the nervous system. Here's the nature-health research — and how to access it."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [nature, green-space, mental-health, stress-reduction, outdoor-health, wellbeing]
 readTime: 7
-status: approved
+status: validated
 ---
 
 In 2019, a paper published in *Scientific Reports* by Matthew White and colleagues analyzed data from 19,806 UK adults and asked a question with a straightforward structure: does time spent in natural environments predict better health and wellbeing? And if so, is there a dose-response relationship?

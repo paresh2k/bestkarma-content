@@ -1,16 +1,16 @@
 ---
 title: "The Hidden Health Cost of Financial Stress — And What to Do About It"
 description: "Financial worry is the #1 source of stress for Americans — and it's aging you at a cellular level. The science of financial stress reveals measurable effects on cortisol, inflammation, cardiovascular health, and even telomere length."
-pubDate: 2026-02-19
+pubDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [financial-wellness, stress, cortisol, mental-health, financial, longevity, inflammation]
 readTime: 7
 featured: false
-status: published
+status: validated
 author: bestkarma-editorial
-reviewer: bestkarma-review
-reviewedDate: 2026-03-14
+reviewer: gpt-validator
+reviewedDate: 2026-03-18
 ---
 
 For decades, the conversation about financial health and physical health ran in parallel but rarely intersected. Personal finance advisers talked about emergency funds; doctors talked about cholesterol. The research of the last 20 years has collapsed that division.

@@ -3,13 +3,14 @@ slug: exercise-snacks-movement
 title: "Exercise Snacks: Why Breaking Up Sitting Matters As Much As Your Workout"
 description: "Prolonged sitting is an independent health risk — even for people who exercise. Brief 'exercise snacks' throughout the day improve glucose, blood pressure, cognitive function, and cardiovascular health. Here's what the evidence shows."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [exercise-snacks, sedentary-behavior, metabolic-health, movement, productivity]
 readTime: 7
-status: drafted
+status: validated
 ---
 
 For a long time, the conversation about physical activity was binary: you exercise, or you don't. The exercise recommendation was a block of time — 150 minutes per week, 30 minutes most days — and if you met it, you were considered physically active regardless of what happened during the other 23.5 hours of each day.
