@@ -2,6 +2,7 @@ name: Agent 1 — Drafter
 
 # Triggers when draft files are pushed with status: briefed
 on:
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
