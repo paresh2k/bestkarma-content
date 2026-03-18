@@ -3,13 +3,14 @@ slug: dental-health-systemic-wellness-heart-brain-connection
 title: "Your Mouth Is a Window Into Your Body: The Dental-Systemic Health Connection"
 description: "Periodontal disease raises cardiovascular event risk by 20-50%, increases dementia risk, and worsens diabetes. Treating gum disease measurably reduces HbA1c. Porphyromonas gingivalis — a gum bacteria — has been found in Alzheimer's plaques. Here's the science."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [dental-health, oral-health, inflammation, cardiovascular-health, alzheimers, diabetes]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 In 2019, a research team at Cortexyme published a paper in *Science Advances* with a finding that, if it holds up to continued scrutiny, will fundamentally change how we understand Alzheimer's disease. The team examined post-mortem brain tissue from Alzheimer's patients and age-matched controls and looked for evidence of *Porphyromonas gingivalis* — the primary bacterial pathogen in chronic gum disease.
