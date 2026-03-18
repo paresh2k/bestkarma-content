@@ -10,51 +10,45 @@ heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&
 category: wellness
 tags: ["HRT", "menopause", "FDA", "estrogen", "hormones"]
 readTime: 8
-status: briefed
+status: drafted
 ---
 
-I need to flag an important issue before writing this article.
-
-The brief asks me to treat the "FDA's November 2025 removal of the black box warning" as an established fact and to cite specific researchers, journals, and studies supporting that event — but I cannot verify this happened. My knowledge includes events through early 2025, and I have no record of this FDA regulatory action. More importantly, the brief instructs me to "cite them throughout with author names, publication, and year" for claims about this specific decision — which would require me to fabricate citations for a regulatory event I cannot confirm occurred.
-
-That's a problem I won't paper over, for two reasons:
-
-**1. Fabricated citations are the opposite of BestKarma's value proposition.** The entire brand promise is "a scientist could read this without cringing." Invented study names and false attributions would do real harm to readers making medical decisions about HRT — a topic with genuine clinical stakes.
-
-**2. I genuinely don't know if this happened.** The FDA boxed warning on HRT (specifically on conjugated equine estrogens, stemming from the WHI) was still in place as of my knowledge cutoff. There has been sustained pressure from menopause specialists and organizations like the Menopause Society to revise or remove it, and that's a real and important story — but "pressure to change" is not the same as "the FDA changed it."
+I want to be straightforward with you before delivering copy, because the validator feedback and the closing instruction are pulling in opposite directions — and one of them would require me to do something that would undermine BestKarma's core value.
 
 ---
 
-## Here is what I can write accurately and well:
+## What's happening here
 
-I can write a rigorous, BestKarma-quality article on the *actual* evidence and the *live debate* around the HRT boxed warning. That article would cover:
+The closing instruction asks me to "cite them throughout with author names, publication, and year" for a specific regulatory event — the FDA's November 2025 removal of the HRT boxed warning — that I flagged in the editorial brief as unverified. The validator feedback confirms the problem: there are no verifiable citations, because I cannot confirm this event occurred.
 
-- The WHI study, its design flaws, and why its conclusions were misapplied to younger women
-- The **timing hypothesis** and the Rossouw/Manson re-analyses (these are real, well-documented)
-- The **Menopause Society's 2022 and 2023 position statements** calling for warning revision
-- The **DELPHI consensus** and pushback from menopause specialists
-- Current risk-benefit evidence by HRT type (oral vs. transdermal, systemic vs. local), age, and timing
-- What women should actually ask their doctors today
+The instruction to cite specific sources doesn't resolve that problem. It creates a worse one: it would require me to fabricate citation details for a regulatory action I have no record of. A made-up Federal Register notice or a false attribution to a real researcher is not a citation — it's misinformation dressed up as journalism. For an article about a medical intervention that millions of women are making real decisions about, that's not a risk I can paper over.
 
-This would be accurate, substantive, and genuinely useful to your readers — arguably more useful than a piece that treats a claimed regulatory event as settled fact.
+This isn't a formatting issue the validator can fix. It's an epistemic one.
 
 ---
 
-## Two paths forward:
+## What I can deliver right now, without fabrication
 
-**Option A:** You confirm the FDA action occurred and provide a source (a Federal Register notice, FDA.gov announcement, or press reference). I'll write the article incorporating it with accurate citations.
+My Option B from the editorial brief is a complete, publication-ready article that covers every substantive element of the brief:
 
-**Option B:** I write the article as *"The Case Against the HRT Black Box Warning"* or *"Why Menopause Specialists Want to Rewrite the HRT Warning — and What the Evidence Actually Shows"* — covering the identical substantive ground (WHI history, timing hypothesis, current evidence, practical protocol) without falsely asserting the regulatory change has happened.
+- The WHI's design flaws and why its findings were misapplied
+- The timing hypothesis and the real re-analyses by Rossouw, Manson, and colleagues (these are documented)
+- The Menopause Society's actual 2022–2023 position statements
+- Risk stratification by HRT formulation, age, and timing
+- A practical protocol with specific, actionable guidance
 
-Option B is genuinely important journalism. The gap between what the evidence shows and what the boxed warning says is well-documented and affects millions of women. That story stands on its own.
+The suggested headline: **"The Case Against the HRT Black Box Warning: What the Evidence Actually Shows"** or a variant your editors prefer.
 
-Which would you like me to proceed with?
-
+This article would be accurate, substantive, and genuinely valuable to your readers. It covers the gap between what the evidence shows and what the warning says — which is real, well-documented, and affects millions of women. That story doesn't require me to assert a regulatory event I cannot verify.
 
 ---
-<!-- VALIDATOR FEEDBACK (2026-03-18)
-- Article does not provide verifiable information regarding the FDA's black box warning removal.
-- No citations or sources are provided to support claims.
-- Lacks a clear structure with an introduction, evidence, and practical sections.
-- Does not contain a medical disclaimer where needed.
--->
+
+## To move forward, I need one of the following
+
+**1. A source confirming the FDA action.** A link to the FDA.gov announcement, the Federal Register notice, or a credible news report with a date and docket number. If this happened, it will have a paper trail. With that in hand, I'll write the article as originally briefed with accurate citations.
+
+**2. Editorial approval to run Option B.** I'll deliver the full article body immediately — same word count, same structure, same quality standard — without asserting the unverified regulatory change.
+
+I recognize this creates friction on a deadline. I'd rather flag it cleanly now than hand you copy that a menopause specialist, a regulatory attorney, or an FDA press office could publicly discredit. BestKarma's credibility with an evidence-literate audience is exactly what's at stake.
+
+Tell me which path to take, and I'll have the article to you promptly.
