@@ -1,16 +1,16 @@
 ---
 title: "Your Morning Routine Is Your Longevity Routine"
 description: "The first 60 minutes after waking set the hormonal and neurological tone for everything that follows. Here's what science says about structuring your mornings for a longer, healthier life."
-pubDate: TBD
+pubDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [morning-routine, longevity, habits, cortisol, circadian-rhythm]
 readTime: 6
 featured: false
-status: drafted
+status: validated
 author: bestkarma-editorial
-reviewer: pending
-reviewedDate: TBD
+reviewer: gpt-validator
+reviewedDate: 2026-03-18
 ---
 
 There's a reason so much has been written about morning routines. It's not just productivity mythology — the first hour after waking is when your body makes some of its most consequential hormonal decisions of the day. And those decisions cascade.

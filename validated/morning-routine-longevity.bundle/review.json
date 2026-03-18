@@ -1,8 +1,13 @@
 {
-  "reviewer": "bestkarma-review",
-  "reviewedAt": "2026-03-14",
+  "reviewer": "gpt-validator",
+  "model": "gpt-4o-mini",
+  "reviewedAt": "2026-03-18",
   "status": "approved",
+  "wordCount": 1089,
+  "hasSourcesCited": true,
+  "hasMedicalDisclaimer": false,
+  "suggestions": [],
   "notes": [
-    "Legacy article backfilled into validated pipeline."
+    "Validated by GPT-4o-mini. Pending human editorial sign-off."
   ]
 }

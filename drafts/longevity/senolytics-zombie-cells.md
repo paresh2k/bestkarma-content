@@ -3,13 +3,14 @@ slug: senolytics-zombie-cells
 title: "Zombie Cells Are Real — And They're Slowly Destroying Your Health"
 description: "Senescent cells accumulate in aging tissue, secreting inflammatory signals that damage surrounding healthy cells. New research on senolytics — drugs and natural compounds that clear them — is rewriting what's possible."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [senolytics, cellular-senescence, inflammaging, quercetin, longevity-drugs]
 readTime: 9
-status: drafted
+status: validated
 ---
 
 In a healthy body, damaged cells have two appropriate responses to irreparable harm: repair themselves or self-destruct. The first keeps the cell functional. The second removes a potential threat before it can become cancerous or disruptive.

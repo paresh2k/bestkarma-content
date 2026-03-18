@@ -3,13 +3,14 @@ slug: nad-plus-decline-aging
 title: "NAD+ and the Cellular Energy Crisis of Aging"
 description: "Your cells' NAD+ levels drop roughly 50% between ages 40 and 60, impairing DNA repair, mitochondrial function, and sirtuin activity. Here's what the research says about NMN, NR, and whether they live up to the hype."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [nad-plus, nmn, nr, sirtuins, mitochondria, longevity-supplements]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 Inside every cell in your body, a molecule called NAD+ is working without rest. It ferries electrons through the metabolic reactions that convert food into energy. It activates enzymes that repair damaged DNA. It regulates the sirtuins — proteins that govern gene expression in response to stress and nutrient availability. It participates in more than 500 enzymatic reactions.

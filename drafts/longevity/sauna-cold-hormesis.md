@@ -3,13 +3,14 @@ slug: sauna-cold-hormesis
 title: "Heat, Cold, and Hormesis: Why Deliberate Discomfort Is Good for You"
 description: "A 20-year Finnish study linked regular sauna use to 40% lower all-cause mortality. Cold exposure reshapes metabolism. Here's the evidence for temperature-based hormesis and how to use it safely."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [sauna, cold-exposure, hormesis, cardiovascular-health, longevity]
 readTime: 7
-status: drafted
+status: validated
 ---
 
 In Finland, sauna isn't a luxury. It's infrastructure. There are roughly 3.3 million saunas in a country of 5.5 million people — more saunas than cars. Finnish families have used them for thousands of years, not as a wellness trend but as a regular part of life, several times a week, regardless of age.

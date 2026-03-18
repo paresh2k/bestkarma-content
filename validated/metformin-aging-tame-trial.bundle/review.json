@@ -3,9 +3,9 @@
   "model": "gpt-4o-mini",
   "reviewedAt": "2026-03-18",
   "status": "approved",
-  "wordCount": 1365,
+  "wordCount": 1342,
   "hasSourcesCited": true,
-  "hasMedicalDisclaimer": false,
+  "hasMedicalDisclaimer": true,
   "suggestions": [],
   "notes": [
     "Validated by GPT-4o-mini. Pending human editorial sign-off."
