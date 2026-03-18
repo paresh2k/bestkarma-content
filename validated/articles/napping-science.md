@@ -3,13 +3,14 @@ slug: napping-science-performance-health
 title: "The Science of Napping: When It Helps, When It Hurts, and How to Do It Right"
 description: "A well-timed 20-minute nap restores alertness as effectively as a full cup of coffee. NASA research documented a 34% improvement in performance and 100% improvement in alertness from naps in pilots. But napping has rules — and breaking them undermines your night sleep."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [napping, alertness, performance, sleep-debt, circadian-rhythm, power-nap]
 readTime: 7
-status: approved
+status: validated
 ---
 
 The afternoon energy dip is not a personality defect or the result of eating too many carbs at lunch. It is a biological feature: a hardwired reduction in alertness between approximately 1pm and 3pm driven by a secondary circadian trough in the wake-promoting signal from the suprachiasmatic nucleus. It occurs in all humans, regardless of cultural norms around napping, and it predates the post-lunch carbohydrate meal by millions of years.

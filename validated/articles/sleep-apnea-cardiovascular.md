@@ -3,13 +3,14 @@ slug: sleep-apnea-cardiovascular
 title: "Sleep Apnea: The Silent Epidemic Destroying Cardiovascular Health While You Sleep"
 description: "One billion people have obstructive sleep apnea. 80% are undiagnosed. Every episode stops your breathing, spikes cortisol, and stresses your heart. Here's who's at risk, why it matters, and what treatment actually does."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [sleep-apnea, cardiovascular-health, cpap, snoring, diagnosis, breathing]
 readTime: 8
-status: approved
+status: validated
 ---
 
 You've probably heard the statistic about common diseases going undiagnosed. But the numbers for obstructive sleep apnea are striking enough to warrant their own category: approximately 1 billion people worldwide have OSA, with an estimated 80% undiagnosed. In the United States, roughly 30 million people have been diagnosed — against an estimated 50+ million who have it.
