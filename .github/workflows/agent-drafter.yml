@@ -68,11 +68,9 @@ jobs:
         if: steps.detect.outputs.slugs != ''
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         run: |
-          for slug in ${{ steps.detect.outputs.slugs }}; do
-            echo "Running drafter for: $slug"
-            node pipelines/agent-drafter.mjs "$slug"
-          done
+          node pipelines/agent-drafter.mjs
 
       - name: Commit drafted articles
         if: steps.detect.outputs.slugs != ''
