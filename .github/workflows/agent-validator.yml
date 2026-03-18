@@ -28,36 +28,15 @@ jobs:
         with:
           token: ${{ secrets.PAT_TOKEN }}
 
-      - name: Check if this is a bot push
-        id: check
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "Manual trigger — Agent 3 will validate."
-            echo "is_bot=true" >> $GITHUB_OUTPUT
-          else
-            AUTHOR=$(git log -1 --format='%an')
-            echo "Commit author: $AUTHOR"
-            if [[ "$AUTHOR" == *"Bot"* ]]; then
-              echo "Bot push — Agent 3 will validate."
-              echo "is_bot=true" >> $GITHUB_OUTPUT
-            else
-              echo "Human push — Agent 2 will review first. Agent 3 skipping."
-              echo "is_bot=false" >> $GITHUB_OUTPUT
-            fi
-          fi
-
       - name: Setup Node.js
-        if: steps.check.outputs.is_bot == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '24'
 
       - name: Install dependencies
-        if: steps.check.outputs.is_bot == 'true'
         run: npm install --ignore-scripts
 
       - name: Find drafted articles not yet in validated/
-        if: steps.check.outputs.is_bot == 'true'
         id: detect
         run: |
           COUNT=0
@@ -80,14 +59,15 @@ jobs:
           fi
 
       - name: Validate articles with GPT-4o-mini
-        if: steps.check.outputs.is_bot == 'true' && steps.detect.outputs.count != '0'
+        if: steps.detect.outputs.count != '0'
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MAX_ARTICLES: '10'
         run: |
           node pipelines/agent-validator.mjs
 
       - name: Commit validation results
-        if: steps.check.outputs.is_bot == 'true' && steps.detect.outputs.count != '0'
+        if: steps.detect.outputs.count != '0'
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
