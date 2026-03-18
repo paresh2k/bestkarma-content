@@ -1,0 +1,13 @@
+{
+  "reviewer": "gpt-validator",
+  "model": "gpt-4o-mini",
+  "reviewedAt": "2026-03-18",
+  "status": "approved",
+  "wordCount": 1749,
+  "hasSourcesCited": true,
+  "hasMedicalDisclaimer": true,
+  "suggestions": [],
+  "notes": [
+    "Validated by GPT-4o-mini. Pending human editorial sign-off."
+  ]
+}
