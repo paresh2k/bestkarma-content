@@ -3,13 +3,14 @@ slug: purpose-ikigai-health
 title: "Purpose Is Not Optional: The Science of Having a Reason to Get Up in the Morning"
 description: "Sense of purpose is associated with 15-20% lower mortality risk across studies of 30,000+ adults. It predicts lower dementia risk, reduced cardiovascular events, and better health behaviors. Here's the ikigai science and how to find yours."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [purpose, ikigai, meaning, longevity, mental-health, motivation, wellbeing]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 In the JAMA Network Open in 2019, researchers published a prospective cohort study of 31,551 adults from the Understanding America Study. Participants were measured on a validated life purpose scale and followed for an average of 3.7 years. After controlling for depression, health behaviors, and sociodemographic factors, those with higher purpose scores had a 15-20% lower risk of all-cause mortality — a hazard ratio of 0.83. The finding held across age groups, sexes, and races.

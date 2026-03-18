@@ -3,13 +3,14 @@ slug: neat-non-exercise-activity-thermogenesis-metabolism
 title: "NEAT: Why the Other 23 Hours Matter More Than Your Workout"
 description: "Non-exercise activity thermogenesis accounts for up to 50% of daily energy expenditure and predicts obesity better than gym attendance. Two people with identical workouts can differ by 2,000 calories/day in daily energy burn. Here's the science of NEAT — and how to use it."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [neat, metabolism, sedentary-behavior, weight-management, movement, energy-expenditure]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 Exercise science has devoted enormous resources to studying the effects of formal exercise sessions — the 45-minute run, the hour at the gym, the structured HIIT class. These sessions matter. But they typically represent 30-60 minutes of a 1,440-minute day. What happens in the remaining 1,380 minutes turns out to be at least as metabolically relevant.
