@@ -31,14 +31,19 @@ jobs:
       - name: Check if this is a bot push
         id: check
         run: |
-          AUTHOR=$(git log -1 --format='%an')
-          echo "Commit author: $AUTHOR"
-          if [[ "$AUTHOR" == *"Bot"* ]]; then
-            echo "Bot push — Agent 3 will validate."
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual trigger — Agent 3 will validate."
             echo "is_bot=true" >> $GITHUB_OUTPUT
           else
-            echo "Human push — Agent 2 will review first. Agent 3 skipping."
-            echo "is_bot=false" >> $GITHUB_OUTPUT
+            AUTHOR=$(git log -1 --format='%an')
+            echo "Commit author: $AUTHOR"
+            if [[ "$AUTHOR" == *"Bot"* ]]; then
+              echo "Bot push — Agent 3 will validate."
+              echo "is_bot=true" >> $GITHUB_OUTPUT
+            else
+              echo "Human push — Agent 2 will review first. Agent 3 skipping."
+              echo "is_bot=false" >> $GITHUB_OUTPUT
+            fi
           fi
 
       - name: Setup Node.js
