@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1590779032260-5623d6774f7a?ixid=M3
 category: nutrition
 tags: ["dietary-guidelines", "USDA", "nutrition-policy", "protein", "ultra-processed-foods"]
 readTime: 8
-status: drafted
+status: needs-revision
 ---
 
 Something important to flag before diving in: **the 2025–2030 Dietary Guidelines for Americans had not been publicly released as of my knowledge cutoff in early 2025.** The guidelines were expected sometime in 2025 or 2026, but I don't have access to their actual content — which means I cannot accurately report what changed, cite real findings from the document, or name real studies that informed it in the way this brief requires.
@@ -41,3 +41,13 @@ Once you have access to the actual 2025–2030 guidelines document, share the ke
 ---
 
 Which direction would you like to take? Option 2 would give you a strong, fully citable piece that's genuinely useful to readers right now — and honestly, an article explaining *what the debate has been and why it matters* may be more valuable than a pure policy summary anyway.
+
+
+---
+<!-- VALIDATOR FEEDBACK (2026-03-18)
+- Word count is under 700.
+- No sources cited to support claims.
+- Missing a medical disclaimer.
+- Major claims about the guidelines are unsupported and speculative.
+- Lacks a clear structure with distinct sections.
+-->
