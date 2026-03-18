@@ -68,7 +68,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "Nothing to commit — no articles were drafted."
           else
-            git commit -m "Auto-draft: batch of up to 10 articles"
+            git commit -m "Auto-draft: batch of up to 5 articles"
             git pull --rebase
             git push
           fi

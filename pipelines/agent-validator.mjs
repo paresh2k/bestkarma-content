@@ -18,7 +18,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import OpenAI from 'openai';
-import { parseFrontmatter, getMarkdownFiles, ensureDir, fileExists } from './content-utils.mjs';
+import { parseFrontmatter, getMarkdownFiles, ensureDir } from './content-utils.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const contentRoot = path.resolve(__dirname, '..');
@@ -227,7 +227,9 @@ async function markNeedsRevision(filePath, content, issues) {
 }
 
 // --- Main ---
-const articles = await findDraftedArticles();
+const MAX_ARTICLES = parseInt(process.env.MAX_ARTICLES || '100');
+const allArticles = await findDraftedArticles();
+const articles = targetSlug ? allArticles : allArticles.slice(0, MAX_ARTICLES);
 
 if (articles.length === 0) {
   if (targetSlug) {
@@ -238,7 +240,8 @@ if (articles.length === 0) {
   process.exit(0);
 }
 
-console.log(`Found ${articles.length} drafted article(s) to validate.\n`);
+const remaining = allArticles.length - articles.length;
+console.log(`Found ${allArticles.length} drafted article(s) total. Validating ${articles.length} this batch${remaining > 0 ? ` (${remaining} queued for next run)` : ''}.\n`);
 
 let totalTokens = 0;
 

@@ -1,11 +1,15 @@
 name: Agent 2 — Editor
 
-# Triggers on any push to drafts — but only runs for human pushes
+# Triggers on human pushes to drafts only
 on:
   push:
     branches: [main]
     paths:
       - 'drafts/*/*.md'
+
+concurrency:
+  group: agent-editor
+  cancel-in-progress: false
 
 jobs:
   edit:
@@ -19,6 +23,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 2
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Check if this is a human push
         id: check
@@ -47,6 +52,7 @@ jobs:
         if: steps.check.outputs.is_human == 'true'
         id: detect
         run: |
+          COUNT=0
           SLUGS=""
           CHANGED=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'drafts/*/*.md' || true)
           for file in $CHANGED; do
@@ -55,41 +61,44 @@ jobs:
               if [ "$STATUS" = "drafted" ]; then
                 SLUG=$(basename "$file" .md)
                 SLUGS="$SLUGS $SLUG"
+                COUNT=$((COUNT + 1))
                 echo "Human-edited drafted article: $SLUG"
               fi
             fi
           done
           SLUGS=$(echo "$SLUGS" | xargs)
           echo "slugs=$SLUGS" >> $GITHUB_OUTPUT
-          if [ -z "$SLUGS" ]; then
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          if [ "$COUNT" = "0" ]; then
             echo "No drafted articles changed by human — nothing to review."
           fi
 
       - name: Review each article with Claude Haiku
-        if: steps.check.outputs.is_human == 'true' && steps.detect.outputs.slugs != ''
+        if: steps.check.outputs.is_human == 'true' && steps.detect.outputs.count != '0'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           for slug in ${{ steps.detect.outputs.slugs }}; do
-            echo "Getting diff for: $slug"
-            # Find the file path for this slug
             FILE=$(git diff --name-only HEAD~1 HEAD -- "drafts/*/${slug}.md" | head -1)
             if [ -n "$FILE" ]; then
               git diff HEAD~1 HEAD -- "$FILE" > /tmp/${slug}.diff
-              echo "Running editor for: $slug"
               node pipelines/agent-editor.mjs "$slug" "/tmp/${slug}.diff"
             fi
           done
 
       - name: Commit editorial improvements
-        if: steps.check.outputs.is_human == 'true' && steps.detect.outputs.slugs != ''
+        if: steps.check.outputs.is_human == 'true' && steps.detect.outputs.count != '0'
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config user.name "BestKarma Editor Bot"
           git config user.email "editor@bestkarma.com"
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
           git add drafts/
           if git diff --staged --quiet; then
             echo "No changes after editorial review — article unchanged."
           else
             git commit -m "Auto-edit: ${{ steps.detect.outputs.slugs }}"
+            git pull --rebase
             git push
           fi

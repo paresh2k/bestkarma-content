@@ -1,7 +1,5 @@
 name: Agent 4 — Auto-Publisher
 
-# Triggers after Agent 3 validates (workflow_run bypasses GITHUB_TOKEN restriction)
-# Also triggers on manual drops to validated/articles/ from humans
 on:
   workflow_run:
     workflows: ["Agent 3 — Validator"]
@@ -11,6 +9,10 @@ on:
     branches: [main]
     paths:
       - 'validated/articles/**.md'
+
+concurrency:
+  group: agent-publisher
+  cancel-in-progress: false
 
 jobs:
   publish:
@@ -23,62 +25,54 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '24'
 
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+
       - name: Find validated articles not yet published
         id: detect
         run: |
-          SLUGS=""
+          COUNT=0
           for file in validated/articles/*.md; do
             [ -f "$file" ] || continue
             SLUG=$(basename "$file" .md)
             if [ ! -f "published/articles/$SLUG.md" ]; then
-              SLUGS="$SLUGS $SLUG"
+              COUNT=$((COUNT + 1))
               echo "Needs publishing: $SLUG"
             fi
           done
-          SLUGS=$(echo "$SLUGS" | xargs)
-          echo "slugs=$SLUGS" >> $GITHUB_OUTPUT
-          if [ -z "$SLUGS" ]; then
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          if [ "$COUNT" = "0" ]; then
             echo "No unpublished validated articles found."
           fi
 
-      - name: Promote each article
-        if: steps.detect.outputs.slugs != ''
-        run: |
-          FAILED=""
-          for slug in ${{ steps.detect.outputs.slugs }}; do
-            echo "Promoting: $slug"
-            if node pipelines/promote-article.mjs "$slug"; then
-              echo "✓ $slug promoted"
-            else
-              echo "✗ $slug failed — check validated/$slug.bundle/ exists"
-              FAILED="$FAILED $slug"
-            fi
-          done
-          if [ -n "$FAILED" ]; then
-            echo "::error::Promotion failed for:$FAILED"
-            exit 1
-          fi
+      - name: Promote all unpublished articles
+        if: steps.detect.outputs.count != '0'
+        run: node pipelines/promote-article.mjs
 
       - name: Commit and push
-        if: steps.detect.outputs.slugs != ''
+        if: steps.detect.outputs.count != '0'
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config user.name "BestKarma Publisher Bot"
           git config user.email "actions@bestkarma.com"
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
           git add published/
           if git diff --staged --quiet; then
-            echo "Nothing to commit — already up to date"
+            echo "Nothing to commit — already up to date."
           else
-            git commit -m "Auto-publish: ${{ steps.detect.outputs.slugs }}"
+            git commit -m "Auto-publish: batch"
+            git pull --rebase
             git push
           fi
 
       - name: Trigger Vercel deploy
-        if: steps.detect.outputs.slugs != ''
+        if: steps.detect.outputs.count != '0'
         run: curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}"
