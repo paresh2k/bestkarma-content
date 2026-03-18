@@ -3,13 +3,14 @@ slug: breathwork-physiology
 title: "Breathwork: The Fastest Evidence-Based Way to Change Your Physiology Right Now"
 description: "Breathing is the only autonomic function you can consciously control — and that gives you direct access to your nervous system. Here's what the science shows about different techniques, which have the best evidence, and a practical starting protocol."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [breathwork, breathing, nervous-system, hrv, stress-reduction, vagal-tone]
 readTime: 8
-status: approved
+status: validated
 ---
 
 Your heart rate, digestion, blood pressure, and hormone release all operate automatically — managed by the autonomic nervous system, beyond conscious control. You can't decide to lower your heart rate the way you decide to raise your hand.

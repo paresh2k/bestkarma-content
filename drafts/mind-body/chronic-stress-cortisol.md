@@ -3,13 +3,14 @@ slug: chronic-stress-cortisol
 title: "What Happens to Your Body When Stress Never Switches Off"
 description: "Acute stress is adaptive and life-saving. Chronic stress, where the emergency system runs 24/7, damages every major organ system. Here's the biology of chronic stress — and the evidence-based toolkit for down-regulating it."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [stress, cortisol, hpa-axis, chronic-stress, resilience, inflammation]
 readTime: 9
-status: drafted
+status: validated
 ---
 
 The stress response is one of evolution's most elegant designs. Faced with a predator, your hypothalamus fires, your adrenal glands flood the bloodstream with cortisol and adrenaline, your heart rate doubles, glucose is mobilized from the liver, blood flows away from digestion and toward muscles, and your immune system primes for injury. You run or you fight. The threat passes. The system returns to baseline.

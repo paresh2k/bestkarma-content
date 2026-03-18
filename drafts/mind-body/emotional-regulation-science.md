@@ -3,13 +3,14 @@ slug: emotional-regulation-science
 title: "Emotional Regulation: The Science of Not Being Run by Your Feelings"
 description: "Emotional regulation is one of the strongest predictors of mental health, relationship quality, and career outcomes. Here's what the research reveals about how emotions actually work — and the strategies with the best evidence."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [emotional-regulation, emotions, mental-health, resilience, cbt, wellbeing]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 The word "emotional" is often used as a synonym for irrational — as if having strong feelings is the opposite of thinking clearly. This framing is not only inaccurate; it is actively misleading about how emotions work and what good emotional functioning looks like.

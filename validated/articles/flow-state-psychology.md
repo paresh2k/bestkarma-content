@@ -3,13 +3,14 @@ slug: flow-state-psychology
 title: "Flow States: The Science of Being Completely Absorbed (And How to Get There)"
 description: "Flow is among the most studied positive psychological states — and one of the most practically engineerable. Here's what Csikszentmihalyi's research reveals about optimal experience, and what the neuroscience adds."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [flow, optimal-experience, performance, focus, psychology, wellbeing]
 readTime: 7
-status: approved
+status: validated
 ---
 
 Mihaly Csikszentmihalyi, the Hungarian-American psychologist who spent fifty years studying what makes life worth living, arrived at a surprising answer: not pleasure, not wealth, not leisure, but absorption. The moments people report as most satisfying and meaningful are typically moments when they are completely focused on a challenging activity — when the boundaries between self and task dissolve, time seems to dilate or compress, and effort feels effortless. He called this state flow.

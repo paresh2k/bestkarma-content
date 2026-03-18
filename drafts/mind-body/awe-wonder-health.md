@@ -3,13 +3,14 @@ slug: awe-wonder-health
 title: "The Science of Awe: The Emotion That Reduces Inflammation and Expands Your World"
 description: "A 2025 RCT found awe interventions reduce depression in long COVID patients. Research shows awe lowers inflammation, quiets self-referential brain activity, and improves wellbeing. Here's how to cultivate it intentionally."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [awe, wonder, nature, wellbeing, mental-health, inflammation]
 readTime: 7
-status: drafted
+status: validated
 ---
 
 In 2015, Dacher Keltner's lab at UC Berkeley published findings from a study that asked a simple question: among all positive emotions — joy, amusement, love, contentment, awe, pride — which one was most associated with reduced levels of IL-6, a key inflammatory cytokine linked to chronic disease?
