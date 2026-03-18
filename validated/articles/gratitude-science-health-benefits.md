@@ -1,16 +1,16 @@
 ---
 title: "Gratitude Is a Practice, Not a Feeling — And the Science Proves It Works"
 description: "Three randomized controlled trials, longitudinal health studies, and neuroimaging research all point the same direction: deliberate gratitude practice produces measurable changes in mental health, inflammation, and longevity. The mechanism is not mysterious."
-pubDate: 2026-02-26
+pubDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [gratitude, mental-health, wellbeing, longevity, soul, inflammation, happiness]
 readTime: 7
 featured: false
-status: published
+status: validated
 author: bestkarma-editorial
-reviewer: bestkarma-review
-reviewedDate: 2026-03-14
+reviewer: gpt-validator
+reviewedDate: 2026-03-18
 ---
 
 Gratitude has a credibility problem. Wrapped in inspirational-poster aesthetics and self-help rhetoric, it sounds like wishful thinking dressed in pseudoscience.

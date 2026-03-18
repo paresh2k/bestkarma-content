@@ -3,13 +3,14 @@ slug: journaling-evidence-based
 title: "Journaling: The Evidence-Based Practice That Costs Nothing and Actually Works"
 description: "James Pennebaker's 40 years of research established that expressive writing produces lasting health benefits. Here's what the science shows, which methods work best, and simple protocols to start tonight."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [journaling, expressive-writing, mental-health, sleep, immune-function, stress]
 readTime: 7
-status: drafted
+status: validated
 ---
 
 In the late 1980s, James Pennebaker ran an experiment that should not have worked. He recruited healthy college students and randomly assigned them to one of two conditions: write for 15-20 minutes per day about the most traumatic or upsetting experiences of their lives, or write about trivial topics (what they had for lunch, their shoes, the furniture in their room). The expressive writing group was told to write continuously, without editing or concern for grammar, about what happened and how they felt about it.

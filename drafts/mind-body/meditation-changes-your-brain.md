@@ -1,16 +1,16 @@
 ---
 title: "Eight Weeks of Meditation Literally Reshapes Your Brain — The Neuroscience"
 description: "Neuroscientists at Harvard and MIT have documented measurable structural changes in the brain after as little as 8 weeks of mindfulness practice. This is no longer philosophy — it's neuroscience."
-pubDate: TBD
+pubDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [meditation, mindfulness, neuroscience, neuroplasticity, mental-health, mind, mbsr]
 readTime: 8
 featured: false
-status: drafted
+status: validated
 author: bestkarma-editorial
-reviewer: pending
-reviewedDate: TBD
+reviewer: gpt-validator
+reviewedDate: 2026-03-18
 ---
 
 Until the early 2000s, the prevailing view in neuroscience was that the adult brain was largely fixed — its structure determined by genetics and early development, its decline thereafter inevitable. Meditation was considered a spiritual practice, not a medical one.
