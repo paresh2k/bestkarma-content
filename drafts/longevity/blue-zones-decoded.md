@@ -3,13 +3,14 @@ slug: blue-zones-decoded
 title: "Blue Zones Decoded: What the World's Longest-Lived People Actually Do"
 description: "Five places on Earth produce unusual numbers of centenarians. After scrutinizing the data — and the critics — here's what genuinely holds up and what you can adopt regardless of your zip code."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [blue-zones, longevity, ikigai, okinawa, sardinia, lifestyle]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 There are five places on Earth where people forget to die.
