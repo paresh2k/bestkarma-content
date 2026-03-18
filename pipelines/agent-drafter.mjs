@@ -155,7 +155,9 @@ async function writeDraft(filePath, content, articleBody, heroImage) {
 }
 
 // --- Main ---
-const articles = await findBriefedArticles();
+const MAX_ARTICLES = parseInt(process.env.MAX_ARTICLES || '100');
+const allArticles = await findBriefedArticles();
+const articles = targetSlug ? allArticles : allArticles.slice(0, MAX_ARTICLES);
 
 if (articles.length === 0) {
   if (targetSlug) {
@@ -166,10 +168,10 @@ if (articles.length === 0) {
   process.exit(0);
 }
 
-console.log(`Found ${articles.length} briefed article(s) to draft.\n`);
+const remaining = allArticles.length - articles.length;
+console.log(`Found ${allArticles.length} briefed article(s) total. Processing ${articles.length} this batch${remaining > 0 ? ` (${remaining} queued for next run)` : ''}.\n`);
 
-// 65 seconds between articles — one Claude call per article now,
-// but web_search rounds add tokens. 65s safely stays under 30k TPM.
+// 65 seconds between articles to stay under 30k TPM.
 const DELAY_MS = 65_000;
 
 let totalInput = 0;
