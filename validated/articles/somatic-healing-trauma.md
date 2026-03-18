@@ -3,13 +3,14 @@ slug: somatic-healing-trauma
 title: "Why the Body Keeps the Score — And What Somatic Therapies Do About It"
 description: "Trauma isn't just stored in memories. It lives in the body as unresolved physiological survival responses. Somatic therapies work at this level — and the clinical evidence is growing. Here's what the science shows."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [somatic-therapy, trauma, ptsd, body-based-healing, nervous-system, resilience]
 readTime: 9
-status: approved
+status: validated
 ---
 
 Traditional trauma therapy works primarily with the mind: it invites people to talk about what happened, understand it, reframe it, and find meaning in it. For many people, this works. For others — particularly those with severe, prolonged, or developmental trauma — talk alone misses something important. They understand intellectually that the war is over, or that the abuser is gone, or that they are safe now. The body doesn't seem to have gotten the message.

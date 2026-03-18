@@ -3,13 +3,14 @@ slug: self-compassion-science
 title: "Self-Compassion: The Science of Being Kind to Yourself (And Why It Improves Performance)"
 description: "Self-compassion is not self-pity or making excuses. It's associated with higher accountability, greater resilience, and better mental health outcomes than self-criticism. Here's what the research shows."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&auto=format&fit=crop&q=80"
 category: mind-body
 tags: [self-compassion, mental-health, resilience, mindfulness, wellbeing, kristin-neff]
 readTime: 7
-status: drafted
+status: validated
 ---
 
 There is a widely held belief that the path to high performance runs through self-criticism — that holding yourself to demanding standards requires a harsh internal voice that catalogs every failure, amplifies every shortcoming, and refuses to accept less than the best. On this view, self-compassion is the soft alternative: what you do instead of trying hard.
