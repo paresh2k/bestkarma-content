@@ -1,16 +1,16 @@
 ---
 title: "The Ikigai Effect: How Having a Purpose Adds Years to Your Life"
 description: "Decades of research from Japan to the United States confirm that people with a clear sense of purpose live longer, healthier lives. Here's the science behind why your 'why' is a longevity tool."
-pubDate: TBD
+pubDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [ikigai, purpose, longevity, mental-health, soul, blue-zones]
 readTime: 8
 featured: false
-status: drafted
+status: validated
 author: bestkarma-editorial
-reviewer: pending
-reviewedDate: TBD
+reviewer: gpt-validator
+reviewedDate: 2026-03-18
 ---
 
 In Okinawa, Japan — one of the original Blue Zones where people routinely live past 100 — there is no word for retirement. The concept doesn't translate, because the concept doesn't quite exist. Okinawans don't stop; they simply keep doing what gives their life meaning. They call it **ikigai**: the reason you get up in the morning.

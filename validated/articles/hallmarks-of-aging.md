@@ -3,13 +3,14 @@ slug: hallmarks-of-aging
 title: "The 12 Hallmarks of Aging: What Science Says Is Actually Happening Inside Your Body"
 description: "From genomic instability to cellular senescence, aging isn't random — it follows predictable biological patterns. Understanding the hallmarks is the first step to slowing them."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [aging-biology, hallmarks-of-aging, longevity-science, cellular-health]
 readTime: 10
-status: approved
+status: validated
 ---
 
 For most of human history, aging was treated as a fact of life rather than a problem to understand. The body declined, systems failed, and we attributed the whole process to the passage of time — as if time itself were the causative agent.

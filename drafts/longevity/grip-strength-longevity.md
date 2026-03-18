@@ -3,13 +3,14 @@ slug: grip-strength-longevity-predictor
 title: "Grip Strength: The 3-Second Test That Predicts Your Lifespan"
 description: "A hand dynamometer test lasting three seconds predicts cardiovascular mortality, cognitive decline, and early death better than blood pressure. Here's why grip strength is a proxy for systemic health — and how to improve it."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [grip-strength, muscle-health, longevity-biomarkers, sarcopenia, aging]
 readTime: 7
-status: drafted
+status: validated
 ---
 
 At every doctor's visit, your blood pressure gets measured. The cuff inflates, deflates, and produces two numbers that have shaped cardiology practice for decades. High blood pressure is a proven cardiovascular risk factor, and lowering it saves lives.

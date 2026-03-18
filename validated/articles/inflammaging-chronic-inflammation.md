@@ -1,16 +1,16 @@
 ---
 title: "Inflammaging: The Slow-Burning Fire That Drives Every Major Disease of Aging"
 description: "Italian gerontologist Claudio Franceschi coined 'inflammaging' in 2000 to describe the chronic, low-grade inflammation that underlies Alzheimer's, cardiovascular disease, cancer, and diabetes. Understanding it may be the most important thing you can do for your long-term health."
-pubDate: 2026-03-01
+pubDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [inflammation, inflammaging, longevity, diet, lifestyle, body, chronic-disease, anti-inflammatory]
 readTime: 9
 featured: true
-status: published
+status: validated
 author: bestkarma-editorial
-reviewer: bestkarma-review
-reviewedDate: 2026-03-14
+reviewer: gpt-validator
+reviewedDate: 2026-03-18
 ---
 
 In 2000, Italian gerontologist Claudio Franceschi published a paper in the *Annals of the New York Academy of Sciences* that introduced a word that would reshape how geroscientists — researchers who study the biology of aging — think about disease.[^1]

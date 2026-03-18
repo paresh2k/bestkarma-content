@@ -3,13 +3,14 @@ slug: fasting-longevity-mtor-ampk
 title: "Fasting and Longevity: What mTOR, AMPK, and Autophagy Actually Do"
 description: "The molecular machinery behind caloric restriction and fasting has been mapped in extraordinary detail. Here's what the science shows — in animals and humans — and how to apply it without obsession."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [fasting, caloric-restriction, mtor, ampk, autophagy, longevity]
 readTime: 9
-status: approved
+status: validated
 ---
 
 The oldest longevity intervention in biology is also one of the most studied: eat less.

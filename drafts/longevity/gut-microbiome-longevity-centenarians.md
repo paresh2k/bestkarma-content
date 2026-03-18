@@ -3,13 +3,14 @@ slug: gut-microbiome-longevity-centenarians
 title: "What Centenarians' Gut Microbiomes Can Teach Us About Living Longer"
 description: "Studies of 100-year-olds consistently find higher gut microbiome diversity and specific longevity-associated bacterial species. Here's what their microbiomes reveal — and how to cultivate a gut ecosystem that ages well."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
 category: longevity
 tags: [microbiome, gut-health, centenarians, aging, akkermansia, longevity]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 Researchers studying centenarians have found the expected things: good genes in some, active lifestyles, plant-heavy diets, close social networks. They've also found something unexpected: the oldest people alive tend to have gut microbiomes that look younger than their age.
