@@ -1,6 +1,7 @@
 name: Agent 4 — Auto-Publisher
 
 on:
+  workflow_dispatch:
   workflow_run:
     workflows: ["Agent 3 — Validator"]
     types: [completed]

@@ -1,6 +1,7 @@
 name: Agent 3 — Validator
 
 on:
+  workflow_dispatch:
   workflow_run:
     workflows: ["Agent 1 — Drafter", "Agent 2 — Editor"]
     types: [completed]
