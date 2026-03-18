@@ -3,13 +3,14 @@ slug: cbt-i-insomnia-treatment
 title: "CBT-I: The Insomnia Treatment That Works Better Than Sleeping Pills (And Why You've Never Heard of It)"
 description: "Cognitive Behavioral Therapy for Insomnia is first-line recommended by every major sleep medicine body. It outperforms sleeping pills in clinical trials and the effects last. Here's what it is and how to access it."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [cbt-i, insomnia, sleep-therapy, sleeping-pills, cognitive-behavioral]
 readTime: 8
-status: approved
+status: validated
 ---
 
 An estimated 30% of adults have insomnia symptoms. About 10% meet criteria for chronic insomnia disorder — difficulty sleeping at least three nights per week for at least three months, producing real daytime impairment. It is one of the most common health complaints in primary care.

@@ -3,13 +3,14 @@ slug: chronotypes-science-morning-evening
 title: "Chronotypes: The Science Behind Why You're Not a Morning Person"
 description: "Your chronotype — morning lark, night owl, or somewhere in between — is substantially genetic, changes across the lifespan, and has real health implications when forced into misaligned schedules. Here's what the research shows."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [chronotype, morning-person, circadian-rhythm, genetics, sleep-timing]
 readTime: 7
-status: approved
+status: validated
 ---
 
 There are people who spring out of bed at 5:30am, genuinely energized, already thinking through the day. There are people for whom 11pm is when their mind sharpens and creative energy peaks. And there is a wide distribution between these poles — the early types, the late types, and the majority in the intermediate range.

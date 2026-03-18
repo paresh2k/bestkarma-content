@@ -3,13 +3,14 @@ slug: magnesium-sleep
 title: "Magnesium and Sleep: The Mineral Most People Are Deficient In"
 description: "Up to 80% of Western adults don't get enough magnesium. It plays a direct role in GABA activation, cortisol regulation, and melatonin production. Here's what the RCTs show — and which form actually works."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [magnesium, sleep, insomnia, supplementation, minerals, gaba]
 readTime: 7
-status: drafted
+status: validated
 ---
 
 Most sleep supplements don't work. Melatonin, sold in doses 10-100x physiologically appropriate, mostly just shifts your sleep timing rather than improving its quality. Valerian root has nearly no clinical evidence. "Sleep support" blends often contain ingredients at doses too low to be meaningful.

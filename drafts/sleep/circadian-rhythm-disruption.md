@@ -3,13 +3,14 @@ slug: circadian-rhythm-disruption
 title: "Why Your Body Clock Matters More Than How Long You Sleep"
 description: "A 24-hour clock governs nearly every organ system in your body. When social schedules override this biological clock, the health consequences extend far beyond fatigue. Here's the science of circadian disruption and how to work with your biology."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [circadian-rhythm, body-clock, sleep-timing, chronobiology, metabolic-health]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 There is a clock inside every cell in your body. Not a metaphor — a literal molecular clock, built from interlocking protein loops that cycle with a period of approximately 24 hours. This clock anticipates the demands of the day before they arrive. It prepares your liver for the metabolic load of breakfast. It primes your immune system for peak function in the early afternoon. It suppresses cortisol so you can sleep, then releases it so you can wake.
