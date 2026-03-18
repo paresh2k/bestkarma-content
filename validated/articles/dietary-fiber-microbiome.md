@@ -3,13 +3,14 @@ slug: dietary-fiber-microbiome
 title: "Dietary Fiber: The Most Powerful Microbiome Intervention You're Probably Not Getting Enough Of"
 description: "Americans average 15g of fiber daily. The recommendation is 25-38g. More importantly, the diversity of fiber types matters as much as quantity. Here's what the research shows about feeding your gut ecosystem."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [dietary-fiber, microbiome, gut-health, prebiotic, butyrate, nutrition]
 readTime: 7
-status: approved
+status: validated
 ---
 
 The average American eats about 15 grams of dietary fiber per day. The recommended intake is 25-38 grams, depending on age and sex. Less than 5% of Americans meet this recommendation.

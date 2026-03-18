@@ -3,13 +3,14 @@ slug: fermented-foods-microbiome
 title: "The Stanford Study That Changed How We Think About Fermented Foods"
 description: "A landmark 2021 Cell paper found that eating fermented foods daily for 10 weeks increased microbiome diversity AND reduced 18 inflammatory markers — while a high-fiber diet did neither. Here's what that means for your plate."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [fermented-foods, microbiome, gut-health, inflammation, kefir, kimchi]
 readTime: 7
-status: drafted
+status: validated
 ---
 
 In 2021, researchers at Stanford published a randomized controlled trial in *Cell* that produced a finding the nutrition world wasn't quite expecting. The study set out to compare two promising gut-health dietary strategies — high-fiber eating and high-fermented-food eating — to see which produced better outcomes for microbiome health and systemic inflammation.
