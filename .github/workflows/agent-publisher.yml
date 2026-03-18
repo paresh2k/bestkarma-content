@@ -65,7 +65,10 @@ jobs:
           git config user.name "BestKarma Publisher Bot"
           git config user.email "actions@bestkarma.com"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
+          git add published/
+          git stash
           git pull --rebase
+          git stash pop
           git add published/
           if git diff --staged --quiet; then
             echo "Nothing to commit — already up to date."

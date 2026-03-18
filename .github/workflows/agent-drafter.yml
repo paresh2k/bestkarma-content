@@ -64,7 +64,10 @@ jobs:
           git config user.name "BestKarma Drafter Bot"
           git config user.email "drafter@bestkarma.com"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
+          git add drafts/
+          git stash
           git pull --rebase
+          git stash pop
           git add drafts/
           if git diff --staged --quiet; then
             echo "Nothing to commit — no articles were drafted."
