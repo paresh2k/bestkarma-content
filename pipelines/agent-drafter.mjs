@@ -225,8 +225,12 @@ console.log(`Found ${articles.length} briefed article(s) to draft.\n`);
 let totalInput = 0;
 let totalOutput = 0;
 
-for (const { slug, pillar, filePath, content, frontmatter } of articles) {
-  console.log(`→ Drafting: ${slug} (${pillar})`);
+// Delay between articles to stay under API rate limits (30k input tokens/min)
+const DELAY_MS = 35_000; // 35 seconds — safe for ~2 Claude calls per article
+
+for (let i = 0; i < articles.length; i++) {
+  const { slug, pillar, filePath, content, frontmatter } = articles[i];
+  console.log(`→ [${i + 1}/${articles.length}] Drafting: ${slug} (${pillar})`);
   const brief = extractBody(content);
 
   try {
@@ -249,6 +253,12 @@ for (const { slug, pillar, filePath, content, frontmatter } of articles) {
     console.log(`  ✓ Drafted — ${outputTokens} tokens out, ~$${cost}`);
   } catch (err) {
     console.error(`  ✗ Failed to draft ${slug}: ${err.message}`);
+  }
+
+  // Pause between articles (skip after last one)
+  if (i < articles.length - 1) {
+    console.log(`  ⏳ Waiting ${DELAY_MS / 1000}s before next article (rate limit)...`);
+    await new Promise(r => setTimeout(r, DELAY_MS));
   }
 }
 
