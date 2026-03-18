@@ -88,11 +88,11 @@ jobs:
           git config user.name "BestKarma Validator Bot"
           git config user.email "validator@bestkarma.com"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
+          git pull --rebase
           git add drafts/ validated/
           if git diff --staged --quiet; then
             echo "Nothing to commit."
           else
             git commit -m "Auto-validate: batch"
-            git pull --rebase
             git push
           fi

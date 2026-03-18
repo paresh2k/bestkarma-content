@@ -94,11 +94,11 @@ jobs:
           git config user.name "BestKarma Editor Bot"
           git config user.email "editor@bestkarma.com"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
+          git pull --rebase
           git add drafts/
           if git diff --staged --quiet; then
             echo "No changes after editorial review — article unchanged."
           else
             git commit -m "Auto-edit: ${{ steps.detect.outputs.slugs }}"
-            git pull --rebase
             git push
           fi
