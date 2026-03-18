@@ -1,7 +1,5 @@
 name: Agent 3 — Validator
 
-# Triggers after Agent 1 or Agent 2 bot commits (workflow_run bypasses GITHUB_TOKEN restriction)
-# Also triggers on human pushes to drafts/ — but skips them (Agent 2 handles those first)
 on:
   workflow_run:
     workflows: ["Agent 1 — Drafter", "Agent 2 — Editor"]
@@ -11,6 +9,10 @@ on:
     branches: [main]
     paths:
       - 'drafts/*/*.md'
+
+concurrency:
+  group: agent-validator
+  cancel-in-progress: false
 
 jobs:
   validate:
@@ -23,7 +25,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Check if this is a bot push
         id: check
@@ -52,7 +54,7 @@ jobs:
         if: steps.check.outputs.is_bot == 'true'
         id: detect
         run: |
-          SLUGS=""
+          COUNT=0
           for pillar in longevity sleep nutrition mind-body wellness; do
             for file in drafts/$pillar/*.md; do
               [ -f "$file" ] || continue
@@ -60,37 +62,37 @@ jobs:
               if [ "$STATUS" = "drafted" ]; then
                 SLUG=$(basename "$file" .md)
                 if [ ! -f "validated/articles/$SLUG.md" ]; then
-                  SLUGS="$SLUGS $SLUG"
+                  COUNT=$((COUNT + 1))
                   echo "Needs validation: $SLUG"
                 fi
               fi
             done
           done
-          SLUGS=$(echo "$SLUGS" | xargs)
-          echo "slugs=$SLUGS" >> $GITHUB_OUTPUT
-          if [ -z "$SLUGS" ]; then
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          if [ "$COUNT" = "0" ]; then
             echo "No unvalidated drafted articles found."
           fi
 
       - name: Validate articles with GPT-4o-mini
-        if: steps.check.outputs.is_bot == 'true' && steps.detect.outputs.slugs != ''
+        if: steps.check.outputs.is_bot == 'true' && steps.detect.outputs.count != '0'
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          for slug in ${{ steps.detect.outputs.slugs }}; do
-            echo "Validating: $slug"
-            node pipelines/agent-validator.mjs "$slug"
-          done
+          node pipelines/agent-validator.mjs
 
       - name: Commit validation results
-        if: steps.check.outputs.is_bot == 'true' && steps.detect.outputs.slugs != ''
+        if: steps.check.outputs.is_bot == 'true' && steps.detect.outputs.count != '0'
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config user.name "BestKarma Validator Bot"
           git config user.email "validator@bestkarma.com"
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
           git add drafts/ validated/
           if git diff --staged --quiet; then
             echo "Nothing to commit."
           else
-            git commit -m "Auto-validate: ${{ steps.detect.outputs.slugs }}"
+            git commit -m "Auto-validate: batch"
+            git pull --rebase
             git push
           fi
