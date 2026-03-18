@@ -242,8 +242,12 @@ console.log(`Found ${articles.length} drafted article(s) to validate.\n`);
 
 let totalTokens = 0;
 
-for (const { slug, pillar, filePath, content, frontmatter } of articles) {
-  console.log(`→ Validating: ${slug} (${pillar})`);
+// Delay between articles to stay under OpenAI rate limits (200k TPM for gpt-4o-mini)
+const DELAY_MS = 10_000; // 10 seconds — safe for bulk validation runs
+
+for (let i = 0; i < articles.length; i++) {
+  const { slug, pillar, filePath, content, frontmatter } = articles[i];
+  console.log(`→ [${i + 1}/${articles.length}] Validating: ${slug} (${pillar})`);
   const body = extractBody(content);
 
   try {
@@ -260,6 +264,12 @@ for (const { slug, pillar, filePath, content, frontmatter } of articles) {
     }
   } catch (err) {
     console.error(`  ✗ Validation failed for ${slug}: ${err.message}`);
+  }
+
+  // Pause between articles (skip after last one)
+  if (i < articles.length - 1) {
+    console.log(`  ⏳ Waiting ${DELAY_MS / 1000}s before next article (rate limit)...`);
+    await new Promise(r => setTimeout(r, DELAY_MS));
   }
 }
 
