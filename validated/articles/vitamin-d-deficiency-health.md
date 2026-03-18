@@ -3,13 +3,14 @@ slug: vitamin-d-deficiency-health
 title: "Vitamin D: The Deficiency You Probably Don't Know You Have"
 description: "One billion people worldwide are vitamin D deficient. Its roles extend far beyond bone health — immune function, muscle strength, mood, and cancer risk are all involved. Here's how to know your level and what to do about it."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [vitamin-d, deficiency, immune-function, bone-health, supplementation]
 readTime: 7
-status: approved
+status: validated
 ---
 
 Vitamin D is called a vitamin, but it functions as a hormone. It is synthesized in the skin from cholesterol when exposed to ultraviolet B radiation from sunlight, transported to the liver for a first modification, then to the kidneys for conversion to its active hormonal form — calcitriol. Vitamin D receptors are present in virtually every tissue in the body: bone, muscle, brain, immune cells, pancreatic beta cells, and more.

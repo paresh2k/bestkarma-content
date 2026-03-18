@@ -3,13 +3,14 @@ slug: time-restricted-eating-evidence
 title: "Time-Restricted Eating: What the Research Actually Says (And Doesn't)"
 description: "TRE has become one of the most talked-about nutrition strategies. Here's a rigorous look at what randomized trials show, what remains uncertain, and who benefits most."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [time-restricted-eating, intermittent-fasting, metabolic-health, insulin-sensitivity, circadian]
 readTime: 8
-status: approved
+status: validated
 ---
 
 Time-restricted eating has traveled a familiar path through the wellness world: from fringe practice to mainstream trend to backlash to nuanced reassessment. The truth, as usual, sits in the evidence rather than in either the enthusiastic advocacy or the skeptical debunking.

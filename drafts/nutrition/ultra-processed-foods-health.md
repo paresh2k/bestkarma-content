@@ -3,13 +3,14 @@ slug: ultra-processed-foods-health
 title: "Ultra-Processed Foods: The Ingredient Hidden in Plain Sight"
 description: "57% of American calories come from ultra-processed foods. A 2024 BMJ umbrella review linked high UPF intake to 32 adverse health outcomes. Here's how to identify them and what the evidence says about cutting back."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [ultra-processed-foods, nova-classification, nutrition, metabolic-health, food-systems]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 Read the ingredient list on a loaf of supermarket bread. If it contains wheat flour, water, yeast, salt, and perhaps a small amount of oil or sugar — you're looking at bread. If it contains DATEM, calcium propionate, azodicarbonamide, soy lecithin, modified corn starch, artificial flavors, and caramel color alongside the wheat flour — you're looking at something else. Both are sold as bread. They are not the same product.

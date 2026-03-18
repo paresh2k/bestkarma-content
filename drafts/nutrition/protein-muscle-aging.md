@@ -3,13 +3,14 @@ slug: protein-muscle-aging
 title: "Why Protein Is the Most Undervalued Longevity Tool After 40"
 description: "Sarcopenia — muscle loss with aging — starts at 30 and accelerates sharply after 60. The RDA for protein is a minimum for survival, not an optimum for healthy aging. Here's what you actually need."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [protein, sarcopenia, muscle-mass, aging, nutrition, strength]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 The US recommended daily allowance for protein is 0.8 grams per kilogram of body weight. For a 70-kilogram adult, that's 56 grams per day — a number set by the Institute of Medicine to prevent deficiency in a sedentary adult. It is explicitly not an optimal intake for health. It is a floor.
