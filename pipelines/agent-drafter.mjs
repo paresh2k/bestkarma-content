@@ -100,7 +100,7 @@ async function fetchUnsplashImage(frontmatter) {
   }
 }
 
-// --- Single Claude call: research + write using web_search tool ---
+// --- Single Claude call: write from brief + training knowledge ---
 async function researchAndWrite(frontmatter, brief) {
   const prompt = `
 Here is the article brief:
@@ -116,51 +116,27 @@ ${brief || 'Write a comprehensive, evidence-based article based on the title and
 
 ---
 
-Instructions:
-1. Use web_search to find 2-3 key recent studies or expert sources on this topic (2020-2026).
-2. Write the full article body following the BestKarma content guidelines.
-3. Cite the studies, authors, journals, and years you found throughout the article.
-4. Return ONLY the article body — no frontmatter, no YAML, no title heading. Start with the opening paragraph.
+Write the full article body following the BestKarma content guidelines. The brief names specific studies, researchers, and journals — cite them throughout with author names, publication, and year. Every major claim should reference a named source. Return ONLY the article body — no frontmatter, no YAML, no title heading. Start directly with the opening paragraph.
 `.trim();
 
-  const messages = [{ role: 'user', content: prompt }];
-  let inputTokens = 0;
-  let outputTokens = 0;
+  const response = await client.messages.create({
+    model: 'claude-sonnet-4-6',
+    max_tokens: 6000,
+    system: guidelines,
+    messages: [{ role: 'user', content: prompt }],
+  });
 
-  // Agentic loop — continue until Claude finishes (no more tool calls)
-  while (true) {
-    const response = await client.messages.create({
-      model: 'claude-sonnet-4-6',
-      max_tokens: 4096,
-      system: guidelines,
-      tools: [{ type: 'web_search_20250305', name: 'web_search' }],
-      messages,
-    });
+  const body = response.content
+    .filter(b => b.type === 'text')
+    .map(b => b.text)
+    .join('\n\n')
+    .trim();
 
-    inputTokens += response.usage.input_tokens;
-    outputTokens += response.usage.output_tokens;
-    messages.push({ role: 'assistant', content: response.content });
-
-    if (response.stop_reason === 'end_turn') {
-      const body = response.content
-        .filter(b => b.type === 'text')
-        .map(b => b.text)
-        .join('\n\n')
-        .trim();
-      return { body, inputTokens, outputTokens };
-    }
-
-    if (response.stop_reason === 'tool_use') {
-      console.log(`  🔍 Searching web...`);
-      const toolResults = response.content
-        .filter(b => b.type === 'tool_use')
-        .map(b => ({ type: 'tool_result', tool_use_id: b.id, content: '' }));
-      messages.push({ role: 'user', content: toolResults });
-      continue;
-    }
-
-    throw new Error(`Unexpected stop_reason: ${response.stop_reason}`);
-  }
+  return {
+    body,
+    inputTokens: response.usage.input_tokens,
+    outputTokens: response.usage.output_tokens,
+  };
 }
 
 // --- Write the drafted article back to the file ---
