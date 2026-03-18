@@ -1,16 +1,16 @@
 ---
 title: "The Science of Deep Sleep: Why 7 Hours Isn't Enough"
 description: "Most of us count sleep hours, but science shows it's the quality of your sleep architecture — not just the quantity — that determines how well you recover, think, and age."
-pubDate: TBD
+pubDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [sleep, longevity, recovery, circadian-rhythm, health]
 readTime: 7
 featured: true
-status: drafted
+status: validated
 author: bestkarma-editorial
-reviewer: pending
-reviewedDate: TBD
+reviewer: gpt-validator
+reviewedDate: 2026-03-18
 ---
 
 You've probably heard the advice: get 7–9 hours of sleep. And while that's a reasonable guideline, it misses something critical. **Sleep is not a uniform block of time.** It's a complex architectural process — and the *structure* of your sleep matters as much as the duration.

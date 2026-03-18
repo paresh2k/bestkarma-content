@@ -3,13 +3,14 @@ slug: sleep-wearables-accuracy
 title: "Sleep Trackers: What Oura, WHOOP, and Apple Watch Actually Get Right (And Wrong)"
 description: "Sleep wearables are now validated against polysomnography in peer-reviewed trials. Here's what the 2024-2025 research shows about which devices are most accurate — and how to use data without obsessing over it."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [sleep-trackers, wearables, oura-ring, whoop, apple-watch, sleep-staging]
 readTime: 8
-status: approved
+status: validated
 ---
 
 Millions of people now wake up to a sleep score. Oura Ring users check their "readiness" before getting out of bed. WHOOP subscribers watch their HRV trend over morning coffee. Apple Watch owners see a breakdown of light, deep, and REM sleep with a confidence that the technology's underlying accuracy may not fully justify.

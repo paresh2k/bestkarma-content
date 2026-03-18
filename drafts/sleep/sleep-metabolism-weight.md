@@ -3,13 +3,14 @@ slug: sleep-metabolism-weight-connection
 title: "The Sleep-Weight Connection: How Poor Sleep Makes You Store Fat and Crave Sugar"
 description: "Sleeping less than 7 hours for one week shifts your hormonal profile toward fat storage, increases hunger by 24%, and specifically drives cravings for high-calorie foods. Here's the metabolic science of sleep and weight regulation."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [sleep, metabolism, weight-management, hormones, ghrelin, leptin, obesity]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 Weight management advice focuses relentlessly on two variables: what you eat and how much you move. Billions of dollars and decades of public health messaging have been directed at calories in and calories out.

@@ -3,13 +3,14 @@ slug: social-jetlag-chronobiology
 title: "Social Jetlag: What Happens When Your Lifestyle Fights Your Body Clock"
 description: "If you sleep later on weekends than weekdays, you have social jetlag. It affects 70% of the working population and is associated with obesity, depression, and impaired cognition — even if your total sleep time is adequate."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
 category: sleep
 tags: [social-jetlag, circadian-rhythm, chronotype, metabolic-health, sleep-timing]
 readTime: 7
-status: approved
+status: validated
 ---
 
 You fly from New York to London. For the next few days, you're groggy at noon, alert at 2am, hungry at strange hours. Your internal clock says one time; the external world demands another. This is biological jetlag — a mismatch between your circadian system and your environment, produced by rapid time zone crossing.
