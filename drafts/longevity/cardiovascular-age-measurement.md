@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1747302653826-42c6cd7295f2?ixid=M3
 category: longevity
 tags: ["cardiovascular-age", "CAC-score", "arterial-stiffness", "heart-health", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Two people walk into a clinic, both 52 years old. One has the coronary arteries of a 38-year-old. The other has the arteries of a 71-year-old. Their birthdays are the same. Their biological futures are not. The gap between chronological age and cardiovascular age is arguably the most consequential number in preventive medicine — and for most people, it goes completely unmeasured.

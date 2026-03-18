@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&
 category: longevity
 tags: ["rapamycin", "metformin", "acarbose", "ITP", "polypharmacy"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Three drugs, combined. A 30% extension in mouse lifespan. The researchers running the experiment hadn't expected the result to be that clean.

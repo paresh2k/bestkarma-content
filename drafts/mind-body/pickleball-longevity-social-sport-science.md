@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1758274535784-87125dc915cc?ixid=M3
 category: mind-body
 tags: ["pickleball", "social-sport", "longevity", "cardiovascular", "community"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Of all the ways to add years to your life, few come with a waiting list for court time. Pickleball — that improbable hybrid of tennis, badminton, and ping-pong played on a court the size of a large bedroom — is now the fastest-growing sport in the United States, with participation tripling between 2020 and 2023 according to the Sports & Fitness Industry Association. The growth is easy to mock: the name alone does a lot of work. But the biology doesn't care what it's called. A growing body of evidence suggests that the combination of moderate cardiovascular demand, rapid reaction time, and — crucially — the social architecture of a doubles game may make racquet sports among the most potent longevity tools available to adults at any fitness level.

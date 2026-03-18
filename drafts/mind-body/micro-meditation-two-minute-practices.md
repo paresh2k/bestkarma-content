@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1630406866478-a2fca6070d25?ixid=M3
 category: mind-body
 tags: ["micro-meditation", "mindfulness", "stress", "attention", "practical-meditation"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Four days. That's all it took for Fadel Zeidan and colleagues at the University of North Carolina to measurably improve mood, working memory, and spatial processing in people who had never meditated before. The 2010 study, published in *Consciousness and Cognition*, put participants through just four 20-minute sessions of mindfulness training — brief enough to feel almost trivial. The cognitive gains were not trivial. Working memory capacity improved significantly, and self-reported anxiety dropped. Most wellness culture absorbed this finding and moved on to promoting 20-minute daily sits. But buried in the data was a more interesting question: if four short sessions could do this, what happens when you stop treating meditation as a scheduled event and start treating it as something you do in the cracks of ordinary life?

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&
 category: sleep
 tags: ["microbiome", "sleep", "circadian-rhythm", "gut-health", "serotonin"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 About 90% of your body's serotonin is manufactured not in your brain, but in your gut. That fact alone should reframe how you think about sleep — because serotonin is the molecular precursor to melatonin, the hormone that governs your entire sleep-wake cycle. Which means that what's happening in your intestinal tract, among trillions of bacteria most people never think about, has a direct line to whether you lie awake at 2 a.m. staring at the ceiling. The gut-sleep connection isn't a wellness abstraction. It's a biological feedback loop, and the science of how it works has advanced considerably in the last five years.

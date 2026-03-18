@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1702648159730-00699257be79?ixid=M3
 category: longevity
 tags: ["metformin", "TAME-trial", "aging", "AMPK", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 For decades, metformin was unremarkable — a cheap, generic diabetes drug that kept blood sugar in check and collected little excitement from anyone outside endocrinology. Then researchers started noticing something strange: diabetic patients taking metformin were, in some analyses, living longer than non-diabetic patients who weren't taking it. Not just dying less from diabetes complications — actually outliving people who didn't have diabetes in the first place. That observation launched one of the most consequential experiments in the history of medicine.

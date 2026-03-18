@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1747302653730-91070dfaa827?ixid=M3
 category: longevity
 tags: ["mTOR", "AMPK", "autophagy", "longevity", "cellular-biology"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Every cell in your body is making a bet about the future. When resources are abundant, it bets on growth — building new proteins, proliferating, expanding. When resources are scarce, it bets on survival — clearing out damaged components, conserving energy, fortifying its defenses. Two ancient molecular switches govern this decision, and they have been at war inside your cells since before your ancestors were multicellular. How that war ends, day after day, decade after decade, is one of the most important determinants of how you age.

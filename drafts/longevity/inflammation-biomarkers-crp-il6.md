@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1764816657515-793a9c63acdd?ixid=M3
 category: longevity
 tags: ["CRP", "IL-6", "inflammaging", "biomarkers", "inflammation"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Your cardiologist might call your bloodwork "normal." But if they didn't run a high-sensitivity CRP test, they may have missed the most predictive marker of your future heart attack — and of how fast you're biologically aging.

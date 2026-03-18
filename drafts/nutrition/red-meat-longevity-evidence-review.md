@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1690983322025-aab4f95a0269?ixid=M3
 category: nutrition
 tags: ["red-meat", "longevity", "colorectal-cancer", "saturated-fat", "nutrition"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Few nutrition debates generate more heat and less light than the one about red meat. In the span of a single decade, red meat has been declared a probable carcinogen by the World Health Organization, championed as an ancestral superfood by carnivore diet evangelists, and now — in a pivot that surprised many dietitians — given a more permissive reading in the 2025 U.S. Dietary Guidelines, which shifted emphasis toward adequate protein intake rather than specific limits on meat consumption. If you're a reasonably health-conscious person trying to make sense of all this, you're not confused because you haven't been paying attention. You're confused because the evidence is genuinely complicated.

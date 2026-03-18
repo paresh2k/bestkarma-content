@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1650112818623-af4b4ab85a38?ixid=M3
 category: mind-body
 tags: ["polyvagal-theory", "vagus-nerve", "nervous-system", "trauma", "safety"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a moment most of us recognize: you walk into a room full of strangers and your chest tightens before you've consciously registered anything threatening. Or you hear a particular tone of voice — not angry, exactly, but cold — and something in your body shifts before your brain has finished parsing the words. This isn't anxiety or irrationality. It's your nervous system doing exactly what it was designed to do, running a continuous security scan that operates roughly 200 milliseconds faster than conscious awareness. Stephen Porges, a neuroscientist at Indiana University, spent decades mapping the biological architecture behind this phenomenon. What he found reshaped how clinicians understand trauma, connection, and healing.

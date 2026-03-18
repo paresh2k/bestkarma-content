@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&
 category: longevity
 tags: ["DEXA", "body-composition", "BMI", "lean-mass", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Here's something that should bother you: a person can have a completely "normal" BMI — say, 23 — while carrying enough visceral fat to meaningfully shorten their life, and not a single clinician would flag it from a routine physical. Meanwhile, a 58-year-old woman with a BMI of 27 might be quietly losing the skeletal muscle that is one of the strongest predictors of whether she'll be alive and functional at 80. BMI, the single most commonly used measure of body composition in clinical medicine, tells you your weight relative to your height. That's it. It says nothing about what your body is actually made of — and it turns out, that distinction is almost everything when it comes to longevity.

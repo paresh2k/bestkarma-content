@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1765438864034-37cad54b8a12?ixid=M3
 category: mind-body
 tags: ["meditation", "mindfulness", "dose-response", "anxiety", "stress"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 The most common question people ask before starting a meditation practice isn't *how* to meditate — it's *how long*. And buried inside that question is a more honest one: *can I get away with five minutes?* The answer, it turns out, depends entirely on what you want meditation to do for you. The dose-response data exists. It just rarely gets communicated with any precision.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1650897492548-e169a9857373?ixid=M3
 category: wellness
 tags: ["nervous-system", "parasympathetic", "sympathetic", "HRV", "stress"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a measurable difference between a body that's genuinely resting and one that's merely sitting still. Heart rate variability — the tiny fluctuations in timing between heartbeats — tells the story. In people with chronically elevated stress, HRV collapses. The heart beats with metronomic regularity, which sounds healthy but isn't: it means the nervous system has lost the flexibility to respond to changing demands. It's the biological signature of a system stuck in high alert. And according to a growing body of research, that stuck state — chronic sympathetic dominance — is quietly upstream of cardiovascular disease, metabolic dysfunction, impaired immunity, and accelerated aging.

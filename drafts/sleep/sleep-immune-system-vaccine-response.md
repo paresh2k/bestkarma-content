@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1672928499632-1d040212e3f4?ixid=M3
 category: sleep
 tags: ["sleep", "immune-system", "vaccines", "cytokines", "immune-function"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 The night before your flu shot, most people are thinking about whether they'll feel a sore arm the next day. Almost nobody is thinking about whether they slept enough the week before. They should be. A landmark study led by **Aric Prather** at the University of California San Francisco found that people who slept fewer than six hours per night in the days before receiving the hepatitis B vaccine were **more than four times less likely** to achieve full seroprotection — the antibody threshold required for the vaccine to actually protect you — compared to those sleeping seven hours or more. The vaccine didn't fail. Their sleep did.

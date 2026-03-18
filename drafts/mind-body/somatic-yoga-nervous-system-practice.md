@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1768430826748-e5c1c9faf643?ixid=M3
 category: mind-body
 tags: ["somatic-yoga", "somatic-therapy", "nervous-system", "trauma", "body-awareness"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a common assumption in yoga culture that doing the pose correctly — hips square, spine neutral, gaze fixed — is where the value lives. Somatic yoga inverts this entirely. In a somatic practice, the external shape of the movement is almost irrelevant. What matters is what you can feel from the inside. And this shift in attention, from performance to perception, turns out to have surprisingly deep roots in neuroscience — and growing relevance for people dealing with chronic pain, nervous system dysregulation, and trauma.

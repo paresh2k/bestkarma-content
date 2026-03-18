@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1535007829477-d13662ffb714?ixid=M3
 category: wellness
 tags: ["slow-living", "rest", "stress-recovery", "wellbeing", "leisure"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There is a quiet rebellion underway in wellness culture, and it is characterised by doing less. Not less junk food, less screen time, or less stress — though those too — but a more fundamental kind of less: fewer goals, fewer optimised routines, fewer morning stacks. The people leading it are not burning out and retreating. They are, increasingly, making a deliberate philosophical choice. And the biology, it turns out, backs them up.

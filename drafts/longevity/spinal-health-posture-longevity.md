@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1650897492414-8661563845a7?ixid=M3
 category: longevity
 tags: ["spinal-health", "posture", "disc-degeneration", "longevity", "mobility"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people think their back pain is a soft tissue problem — a pulled muscle, a tight hip flexor, something that will resolve with a few days of rest and some ibuprofen. They're often wrong. What's actually happening, in tens of millions of adults over 40, is a slow structural failure of the spine itself: intervertebral discs losing water content and height, vertebral endplates calcifying, facet joints grinding through their cartilage. And here's the part that almost no longevity-focused clinician talks about: this process doesn't just cause pain. It compresses the future. Spinal degeneration is one of the leading drivers of physical disability in older adults, and disability — loss of the capacity to move, to load, to be functionally independent — is among the strongest predictors of early death we have.

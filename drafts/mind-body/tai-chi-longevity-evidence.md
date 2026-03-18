@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1768430826748-e5c1c9faf643?ixid=M3
 category: mind-body
 tags: ["tai-chi", "falls-prevention", "cognition", "balance", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Every year, one in four Americans over 65 falls. Of those, roughly 800,000 are hospitalized — and fall-related injuries are now the leading cause of injury death in older adults. The medical system's answer is usually physical therapy, balance training, grab bars, and perhaps a cane. But one of the most robustly supported interventions in the gerontology literature is something that looks, from the outside, like slow-motion dancing practiced in public parks at dawn. A **2005 randomized controlled trial by Li et al. in the New England Journal of Medicine** found that older adults who practiced tai chi for six months reduced their fall rate by 55% compared to stretching controls. That number still stops researchers mid-sentence. Not 10%. Not 20%. Fifty-five.

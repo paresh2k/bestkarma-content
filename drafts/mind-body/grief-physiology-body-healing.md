@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1764816647003-1846f0496150?ixid=M3
 category: mind-body
 tags: ["grief", "loss", "immune-function", "broken-heart-syndrome", "healing"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 The week after his wife died, a 61-year-old man was admitted to a Johns Hopkins hospital with chest pain and shortness of breath that looked, on every available test, like a heart attack. His arteries were clear. What had happened instead was that his heart — under the sudden, massive load of grief — had changed shape. The left ventricle had ballooned outward, losing its ability to pump efficiently. The cardiologists called it takotsubo cardiomyopathy, after the Japanese octopus trap the distorted heart resembles on imaging. The rest of us might call it a broken heart, and we would not be wrong.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1590587478871-7ca2dc0f4210?ixid=M3
 category: wellness
 tags: ["testosterone", "women", "libido", "energy", "HSDD"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most women are never told that their testosterone levels peak in their early twenties and then spend the next four decades declining — quietly, continuously, and with real consequences. By the time a woman reaches menopause, her testosterone is roughly half what it was at its peak. By her late fifties, it may be a quarter. And yet testosterone barely registers in routine women's healthcare. It isn't screened. It isn't discussed. When women bring up fatigue, low libido, or difficulty building muscle, the conversation rarely goes there. That silence has a cost.

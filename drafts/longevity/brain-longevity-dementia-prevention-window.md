@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&
 category: longevity
 tags: ["dementia", "Alzheimer", "brain-longevity", "prevention", "cognitive-health"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people think of dementia as something that happens in your seventies — a late-life disease you either get or you don't, driven mostly by genetics. That framing is wrong, and it's costing people the most valuable years they have to do something about it. The amyloid plaques and tau tangles that define Alzheimer's disease begin accumulating **fifteen to twenty years before a single symptom appears**. Which means that by the time someone forgets where they put their keys or struggles to find a word, the biological damage is already deep. Prevention — real prevention — doesn't happen in the memory clinic. It happens in your forties.

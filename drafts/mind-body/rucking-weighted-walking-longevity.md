@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1518214934695-28f97cb71257?ixid=M3
 category: mind-body
 tags: ["rucking", "walking", "strength-training", "cardio", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Before a single gym opened its doors, before protein powder existed, before anyone had heard of VO2 max, soldiers were getting fit the old-fashioned way: picking up something heavy and walking a long distance with it. The Roman legionary carried a *furca* — a forked pole loaded with tools, rations, and armor — for up to 20 miles a day. The word "infantry" shares a root with the Latin for "foot soldier," and for most of human history, the foot soldier's primary training tool was a pack. What's remarkable is that this ancient practice — now rebranded as rucking — turns out to be one of the most metabolically efficient, joint-friendly, and accessible forms of exercise that modern science has validated. Not because it's trendy. Because it works.

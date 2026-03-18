@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1742860866012-fc167d8366bf?ixid=M3
 category: nutrition
 tags: ["leucine", "muscle-protein-synthesis", "protein", "anabolism", "sarcopenia"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There is a threshold your muscle cells are waiting for — and most people, most meals, never reach it.

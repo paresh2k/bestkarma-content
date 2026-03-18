@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1771151720650-2a71117c5415?ixid=M3
 category: sleep
 tags: ["strength-training", "sleep", "exercise-timing", "deep-sleep", "recovery"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a quiet irony in the gym: the activity most associated with being wide awake — grunting, straining, heart pounding — turns out to be one of the most powerful tools we have for falling deeper into sleep. Not walking. Not yoga. Not a bath. Resistance training, specifically, produces some of the most consistent improvements in sleep quality of any lifestyle intervention studied. And the magnitude of that effect may surprise you.

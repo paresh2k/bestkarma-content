@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1508270355006-9e3484a234c7?ixid=M3
 category: sleep
 tags: ["jet-lag", "circadian-rhythm", "travel", "melatonin", "light-therapy"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people treat jet lag like a hangover — something to push through with coffee and willpower. That framing costs you days. Jet lag isn't tiredness; it's a biological timing disaster. Your circadian clock — the roughly 24-hour oscillator that governs sleep, hormone release, digestion, immune function, and cognitive performance — has been violently displaced from local time. The good news is that this clock is not fixed. It is exquisitely responsive to a small set of environmental signals, and if you know what those signals are and when to deploy them, you can compress a week of misery into 48 hours of manageable adjustment.

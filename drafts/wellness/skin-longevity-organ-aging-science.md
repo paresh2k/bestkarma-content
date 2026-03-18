@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1567671569645-0d21445141c4?ixid=M3
 category: wellness
 tags: ["skin-aging", "collagen", "photoaging", "longevity", "senescence"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people think about skin the way they think about paint on a house — aesthetic, surface-level, replaceable. But in the last decade, a quieter revolution has been happening in dermatology research, and it has reframed skin as something far more consequential: a metabolic organ, an immune hub, an endocrine gland, and increasingly, a window into how fast the rest of you is aging. The wrinkles and sunspots matter less than what's driving them — because those same drivers are also accelerating aging in your heart, your brain, and your immune system.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&
 category: sleep
 tags: ["perimenopause", "sleep", "hot-flashes", "night-sweats", "HRT"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Around age 47, something shifts. Sleep — which may have been reliable for decades — starts to fracture. You wake at 3am in a pool of sweat, heart pounding. You fall back asleep, then wake again an hour later with your mind racing. By morning you feel like you've been awake all night, even if the clock says otherwise. This isn't stress, and it isn't aging in the ordinary sense. It's perimenopause systematically dismantling the hormonal architecture that makes sleep possible — and for many women, it goes on for years.

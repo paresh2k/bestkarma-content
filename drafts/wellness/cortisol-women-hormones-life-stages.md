@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&
 category: wellness
 tags: ["cortisol", "women", "stress", "HPA-axis", "estrogen"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Here is something most stress-management advice gets wrong: it was largely developed on male subjects, tested on male subjects, and calibrated to a male stress response. The result is a vast body of "universal" guidance that quietly ignores a biological reality — estrogen is one of the most powerful modulators of the human stress system. Which means that for women, stress isn't just an emotional experience or a lifestyle problem. It's a hormonal event, and it plays out differently depending on whether you're in the luteal phase of your cycle, three months postpartum, or two years into perimenopause. The stakes are not abstract: cortisol dysregulation in women is linked to accelerated bone loss, visceral fat accumulation, disrupted sleep architecture, and increased risk of depression — all outcomes that track closely with estrogen's fluctuating influence on the hypothalamic-pituitary-adrenal (HPA) axis.

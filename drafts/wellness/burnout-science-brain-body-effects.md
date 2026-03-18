@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1605606437828-598340dfaeb7?ixid=M3
 category: wellness
 tags: ["burnout", "chronic-stress", "cortisol", "HPA-axis", "recovery"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Something quietly breaks in the brain before burnout becomes obvious. Long before you're staring at your inbox without comprehension, or canceling plans because you have nothing left to give, your prefrontal cortex is already losing the argument with your amygdala — and your HPA axis has quietly begun to malfunction. Burnout is not a personality flaw, a productivity problem, or even a synonym for exhaustion. It is a measurable physiological state, with traceable effects on your immune system, your cardiovascular health, your hormones, and the literal volume of structures in your brain. The science has been building for decades. It is now unambiguous enough that the World Health Organization added burnout to the International Classification of Diseases in 2019 — not as a medical condition exactly, but as an "occupational phenomenon" that generates them.

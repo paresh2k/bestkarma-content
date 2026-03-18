@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&
 category: nutrition
 tags: ["lions-mane", "Hericium-erinaceus", "NGF", "brain-health", "cognitive-function"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There is a moment in most wellness trends when the marketing outruns the science by several years. Lion's mane mushroom — the shaggy white fungus that looks more like a sea anemone than a superfood — is currently living in that gap. Supplement brands describe it as a "natural Adderall." Biohackers stack it with other nootropics and credit it with memory recall that would impress a chess grandmaster. The actual human trial data tells a more modest, though still genuinely interesting, story.

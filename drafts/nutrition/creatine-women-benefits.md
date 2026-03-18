@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1542677014-15e371939f4e?ixid=M3w4O
 category: nutrition
 tags: ["creatine", "women", "brain-health", "bone-density", "supplementation"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most women who've heard of creatine picture a tub of white powder on a gym bro's shelf. That's a branding problem, not a science problem. The same molecule that's been studied for decades as a performance enhancer in male athletes turns out to have a strikingly different and arguably more compelling story in women — one that touches on cognition, mood, hormones, and bone health, not just bench press numbers.

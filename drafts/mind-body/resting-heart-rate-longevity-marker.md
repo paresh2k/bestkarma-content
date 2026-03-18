@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1764816647003-1846f0496150?ixid=M3
 category: mind-body
 tags: ["resting-heart-rate", "cardiovascular", "longevity", "VO2-max", "wearables"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Your resting heart rate might be the single most underrated number in medicine. It costs nothing to measure, requires no lab, and carries predictive power that rivals expensive biomarkers. And yet most people who own a smartwatch glance at it once, shrug, and forget it exists.

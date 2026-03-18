@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1610377607305-2ce1c935f202?ixid=M3
 category: longevity
 tags: ["centenarians", "SuperAgers", "NECS", "genetics", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 The people who live past 100 don't follow the rules we wrote for them. Many centenarians smoke. Some drink. A surprising number are overweight by midlife standards. When researchers from the **New England Centenarian Study (NECS)** systematically profiled the lifestyle histories of over 1,500 people who'd reached 100 or beyond, they found that the usual suspects — pristine diet, lifelong exercise, low stress — explained far less than expected. What explained far more was something you can't buy, engineer, or find on a wellness retreat: their DNA.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&
 category: mind-body
 tags: ["body-scan", "interoception", "meditation", "insula", "somatic-awareness"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a part of your brain — a crescent-shaped strip of cortex buried deep in the lateral sulcus — that is constantly receiving signals from your heart, lungs, gut, skin, and muscles, and assembling them into something we might loosely call "how you feel right now." This region, the **insula**, is less famous than the prefrontal cortex or amygdala, but neuroscientists increasingly regard it as one of the most important structures for understanding human health. What's surprising is that its function — interoception, the perception of your body's internal state — isn't fixed. You can train it. And one of the most effective tools for doing so turns out to be something that looks, on the surface, like lying still and paying attention to your feet.

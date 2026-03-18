@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&
 category: longevity
 tags: ["rapamycin", "longevity", "mTOR", "aging", "clinical-trials"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 For a drug that's never been approved for healthy humans, rapamycin has accumulated a remarkable following among longevity physicians and researchers who take it themselves. Matt Kaeberlein, one of the field's most rigorous scientists, has been taking it. Peter Attia has discussed taking it publicly for years. The PEARL trial — the first randomized, placebo-controlled study of rapamycin in healthy, middle-aged adults — was supposed to answer the question everyone had been circling. What it actually showed is more interesting, and more honest, than either the enthusiasts or the skeptics wanted.

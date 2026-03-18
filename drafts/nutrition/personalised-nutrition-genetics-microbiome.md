@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1567966221845-e91f7d888354?ixid=M3
 category: nutrition
 tags: ["personalised-nutrition", "nutrigenomics", "microbiome-testing", "CGM", "precision-nutrition"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 The most striking finding in modern nutrition research isn't about a superfood or a macronutrient ratio. It's about how wildly different two people's blood sugar can spike after eating the exact same meal. In a landmark 2015 study published in *Cell*, Eran Segal, Eran Elinav, and colleagues at the Weizmann Institute measured continuous glucose responses in 800 adults eating standardized meals. The variability was enormous — one person's blood sugar would barely budge after white rice while another's would spike as dramatically as if they'd eaten straight glucose. The average response to a given food told you almost nothing useful about any individual's response to that food. If the average is that misleading, the premise of universal dietary guidelines starts to look shaky.

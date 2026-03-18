@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&
 category: longevity
 tags: ["GLP-1", "semaglutide", "longevity", "inflammation", "cardiovascular"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 When researchers at the Buck Institute and elsewhere began calling semaglutide a "longevity drug" in early 2025, the wellness internet predictably lost its mind. But the claim didn't come from a supplement company or a biohacker's Substack. It came from a peer-reviewed paper in *Nature Biotechnology* — and the argument it makes is more careful, and more provocative, than the headlines suggested.

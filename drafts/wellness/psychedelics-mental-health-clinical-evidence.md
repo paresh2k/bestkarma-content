@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&
 category: wellness
 tags: ["psilocybin", "ketamine", "MDMA", "mental-health", "clinical-trials"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Three decades after the War on Drugs effectively ended psychedelic research, psychiatry finds itself in an unusual position: some of the most promising results in treatment-resistant mental illness are coming from compounds that remain federally illegal, administered in carefully monitored clinical sessions lasting six to eight hours, with therapists sitting quietly in the room while patients wear eye shades and listen to curated playlists. The science is real. The results, in some cases, are striking. But the path from compelling trial data to something you can actually access is bumpier than the headlines suggest — and the evidence has meaningful limits that are easy to miss.

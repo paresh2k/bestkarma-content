@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1688382575775-9aaa5025524e?ixid=M3
 category: sleep
 tags: ["tryptophan", "serotonin", "melatonin", "sleep", "nutrition"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a metabolic plot twist hiding in your evening meal: the same amino acid that makes you feel calm and connected after a good day is also the raw material your brain uses to tell your body it's time to sleep. Tryptophan — best known, somewhat unfairly, as the thing in turkey that supposedly makes you drowsy at Thanksgiving — is the sole dietary precursor for both serotonin and melatonin. Get the pathway right, and your plate becomes a meaningful lever for sleep quality. Get it wrong, and you may be inadvertently competing with your own brain chemistry every night.

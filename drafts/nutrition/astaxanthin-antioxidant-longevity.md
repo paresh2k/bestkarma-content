@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1683394541762-f96c0d03dc38?ixid=M3
 category: nutrition
 tags: ["astaxanthin", "antioxidant", "carotenoid", "longevity", "skin-health"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Here's something worth sitting with: salmon flesh is pink because the fish accumulate a pigment so chemically stable that it doesn't degrade under the oxidative stress of sustained aerobic swimming. That pigment — **astaxanthin** — has demonstrated antioxidant activity up to 6,000 times stronger than vitamin C and 550 times stronger than vitamin E in certain in vitro assays. Those numbers circulate widely in wellness spaces, usually without context. What's more interesting is what happens when you actually give astaxanthin to humans — and where the evidence gets genuinely compelling versus where it falls short.

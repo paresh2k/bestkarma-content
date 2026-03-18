@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1603804449568-2f36c9f12844?ixid=M3
 category: sleep
 tags: ["sleep-debt", "sleep-deprivation", "recovery-sleep", "chronic-sleep-loss"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people treat sleep like a credit card: run a deficit during the week, pay it off on Saturday. It's an appealing idea. It's also mostly wrong — and the part that's right is more complicated than you'd think. A growing body of research shows that sleep debt is neurologically real, accumulates in ways that feel invisible, and leaves marks on your body that a long weekend in bed cannot fully erase.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&
 category: wellness
 tags: ["HRT", "menopause", "FDA", "estrogen", "hormones"]
 readTime: 8
-status: needs-revision
+status: briefed
 ---
 
 I need to flag an important issue before writing this article.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1688383454417-b11a123846e9?ixid=M3
 category: sleep
 tags: ["HRV", "heart-rate-variability", "sleep", "wearables", "recovery"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people glance at their HRV score the way they check the weather — a number that vaguely shapes their mood before they've had coffee. A "64" feels reassuring. A "41" triggers a low-grade anxiety that follows them into their morning. But almost nobody can answer a basic question about it: *what is that number actually measuring?*

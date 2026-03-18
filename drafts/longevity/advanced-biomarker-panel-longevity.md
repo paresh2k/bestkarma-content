@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1728988914134-c14e15f91d8a?ixid=M3
 category: longevity
 tags: ["biomarkers", "blood-tests", "longevity", "preventive-medicine", "diagnostics"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people leave their annual physical with a clean bill of health — and a lab report that says almost nothing useful about their future. The standard panel your doctor orders covers roughly six to eight markers: a basic metabolic panel, a complete blood count, maybe a lipid panel. It will catch acute problems and some chronic disease. What it won't catch is the slow metabolic unraveling that predicts cardiovascular disease, cancer, cognitive decline, and premature death decades before symptoms arrive. Longevity medicine has spent the last fifteen years building a different approach — a broader panel of twenty or so biomarkers that, together, describe not just whether you're sick today but how fast you're aging and what's likely to kill you.

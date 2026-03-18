@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1551638358-8baedb8b2c65?ixid=M3w4O
 category: mind-body
 tags: ["mindful-strength", "resistance-training", "attentional-focus", "mind-muscle", "mindfulness"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a version of strength training most people have never tried — and it doesn't require a new program, different equipment, or more time in the gym. It just requires paying attention. Not to your phone, not to the mirror, not to the playlist. To the muscle you're actually trying to train. This sounds almost embarrassingly simple, but the research is unambiguous: *where* you put your attention during a set measurably changes what that set does to your body.

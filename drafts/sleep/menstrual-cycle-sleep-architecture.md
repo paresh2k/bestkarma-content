@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&
 category: sleep
 tags: ["menstrual-cycle", "sleep", "progesterone", "REM-sleep", "womens-health"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most sleep research has been conducted on men, or on mixed-sex samples where female data was folded into aggregate averages and the cycle was never tracked. The result is a body of sleep science that treats the female body as a minor variation on a default — and a generation of women told they have "poor sleep" when, in fact, their sleep is doing exactly what reproductive hormones tell it to do. What looks like a sleep disorder in the luteal phase may be normal physiology. What looks like unusually deep sleep in the follicular phase may be a genuine biological advantage. The difference between the two is about 10 days and a sharp rise in progesterone.

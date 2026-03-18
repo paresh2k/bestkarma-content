@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&
 category: nutrition
 tags: ["SIBO", "bloating", "gut-health", "dysbiosis", "microbiome"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 You can eat a perfectly clean diet — no gluten, no dairy, no processed food — and still spend every afternoon looking six months pregnant. The bloating is real, the discomfort is real, and the standard reassurance ("it's probably just IBS") is, for a significant subset of sufferers, wrong. What's actually happening is a bacterial problem in a place bacteria aren't supposed to thrive in large numbers: the small intestine.

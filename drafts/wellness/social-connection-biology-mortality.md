@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1623764410283-b45aeaacfd5c?ixid=M3
 category: wellness
 tags: ["social-connection", "longevity", "oxytocin", "immune-function", "mortality"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Loneliness kills faster than obesity. That sentence is not a metaphor or a wellness-industry exaggeration — it is the conclusion of a landmark analysis that, if it described a pharmaceutical compound, would have reshaped medicine overnight. Yet somehow we absorbed the finding and largely moved on. We built apps, optimized our sleep stacks, and kept measuring our steps. The social fabric frayed, and we called it modern life.

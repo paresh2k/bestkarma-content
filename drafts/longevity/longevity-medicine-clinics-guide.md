@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1631217868204-db1ed6bdd224?ixid=M3
 category: longevity
 tags: ["longevity-clinics", "preventive-medicine", "diagnostics", "functional-medicine"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 The blood panel your GP orders once a year was designed to catch disease, not prevent it. A standard lipid panel, a fasting glucose, a TSH — these are tools built around a 1970s model of medicine, one that intervenes when you're already sick. A growing number of clinics are now selling something different: a comprehensive, proactive, data-rich picture of your biology, years or decades before conventional medicine would notice a problem. Some of them are delivering exactly that. Others are selling expensive anxiety dressed up as prevention.

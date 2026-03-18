@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1508387027939-27cccde53673?ixid=M3
 category: wellness
 tags: ["bone-density", "perimenopause", "osteoporosis", "calcium", "resistance-training"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most women know that menopause affects their bones. Far fewer know that the most dangerous period isn't after menopause — it's during the transition, in the five to seven years when estrogen begins its erratic decline but hasn't yet bottomed out. By the time a woman reaches her late fifties and her doctor orders a DEXA scan, she may have already lost the bone density that would have been worth fighting to keep. The prevention window doesn't wait.

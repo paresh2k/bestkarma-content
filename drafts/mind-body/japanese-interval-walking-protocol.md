@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1730040600137-e9502495f22a?ixid=M3
 category: mind-body
 tags: ["interval-walking", "IWT", "Shinshu-University", "cardio", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most cardio advice for adults over 50 collapses into a familiar prescription: get your heart rate into the moderate zone and keep it there for 30 minutes. It's not wrong, exactly. But a research team at Shinshu University in Japan spent more than a decade testing whether that approach was actually *optimal* — and their findings suggest we've been leaving a meaningful amount of benefit on the table. The difference, it turns out, isn't how long you walk or even how far. It's what you do with the three minutes in between.

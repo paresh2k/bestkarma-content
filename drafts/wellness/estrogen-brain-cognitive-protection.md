@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1737108663716-aff4b226b75e?ixid=M3
 category: wellness
 tags: ["estrogen", "brain-health", "dementia", "Alzheimer", "neuroprotection"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There is a window. Miss it, and the protective effect of estrogen on your brain may be substantially diminished — possibly gone. This is not a fringe hypothesis. It is increasingly the consensus position among neuroscientists studying Alzheimer's disease, and it reframes the entire conversation about hormone therapy after menopause. For decades, that conversation was dominated by fear. It is time for a more precise one.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1692607038273-8f45f4b0b1c7?ixid=M3
 category: longevity
 tags: ["biological-age", "epigenetic-clocks", "TruAge", "Horvath-clock", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 You sent in a saliva sample six weeks ago. The results came back with a number that wasn't your age — it was five years older. What does that actually mean? Should you be alarmed? And more importantly, is there anything you can do about it?

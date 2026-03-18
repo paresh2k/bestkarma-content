@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1740227816770-2bce61d6985d?ixid=M3
 category: sleep
 tags: ["alcohol", "REM-sleep", "slow-wave-sleep", "sleep-architecture", "recovery"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a widespread belief that a glass of wine before bed helps you sleep. It does — for about the first ninety minutes. What happens after that is a different story, and it's one that most people who drink never see because they're unconscious for it.

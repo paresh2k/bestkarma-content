@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1551638358-8baedb8b2c65?ixid=M3w4O
 category: mind-body
 tags: ["functional-fitness", "movement", "longevity", "daily-function", "ACSM"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There is a test your doctor can perform in about thirty seconds that predicts your risk of dying in the next decade with unsettling accuracy. It involves no blood draw, no imaging, no expensive equipment. You simply stand up from a chair, walk ten feet, turn around, walk back, and sit down again. The **Timed Up and Go test** — developed by Podsiadlo and Richardson and published in the *Journal of the American Geriatrics Society* in 1991 — measures something deceptively simple: how well your body coordinates the movements of daily life. It turns out that coordination is one of the most powerful signals of longevity we have. And the fitness industry, after decades of optimizing for aesthetics and isolated strength, is finally catching up to what the data has been saying for years.

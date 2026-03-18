@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1654613412232-10aaf36df8a6?ixid=M3
 category: mind-body
 tags: ["Pilates", "core-strength", "spinal-health", "balance", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a moment, usually sometime in your fifties, when the fitness priorities you held in your thirties start to look slightly naive. Cardiovascular output still matters. Muscle mass matters enormously. But a quieter set of qualities — the ability to stabilize your spine under load, to recover your balance after a stumble, to sit and stand without wincing — turns out to predict independence and quality of life more reliably than your marathon time. Pilates, long dismissed in serious fitness circles as gentle stretching for dancers, has accumulated a surprisingly robust evidence base for exactly these qualities. And the mechanisms behind it illuminate something important about how longevity actually works at the level of bone, nerve, and muscle.

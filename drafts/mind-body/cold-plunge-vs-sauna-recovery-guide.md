@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1613647112768-19666071c361?ixid=M3
 category: mind-body
 tags: ["cold-plunge", "sauna", "recovery", "hormesis", "cardiovascular"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a moment in the research on sauna use that stops most people cold — which is to say, it makes them want to sit in the heat more. A 2018 study by **Laukkanen et al.** published in *BMC Medicine* found that Finnish men who used a sauna four to seven times per week had a **40% lower risk of all-cause mortality** compared to those who went once a week. Not cardiovascular mortality — all-cause mortality. That is the kind of number that usually requires a pharmaceutical trial to produce. And it came from sitting in a hot room.

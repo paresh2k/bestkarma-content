@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1611095966422-50a79dd5313b?ixid=M3
 category: wellness
 tags: ["behaviour-change", "psychology", "habits", "motivation", "self-determination"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people trying to get healthier don't have an information problem. They know vegetables are better than chips. They know they should exercise. They know sleep matters. And yet, come Tuesday evening, they're on the couch eating chips and doom-scrolling instead of at the gym. The conventional explanation — that they simply lack willpower — isn't just unhelpful. According to decades of psychological research, it's wrong.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1766336042002-ec5d7a7ebb47?ixid=M3
 category: nutrition
 tags: ["resistant-starch", "prebiotic", "gut-health", "microbiome", "fiber"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people eating a "high-fiber" diet are still starving a critical portion of their gut microbiome. That's not an exaggeration — it's a structural problem with how we think about fiber. The vast majority of dietary fiber advice conflates fermentable and non-fermentable fibers, soluble and insoluble, and misses a category that behaves differently from all of them: **resistant starch**. Unlike the fiber in a bran muffin or a psyllium supplement, resistant starch arrives in your colon largely intact, where it becomes a selective feast for the specific bacterial species most associated with metabolic health, inflammation control, and colon protection. A 2020 review by Baxter and colleagues in *Cell Host & Microbe* described resistant starch as one of the most potent dietary modulators of the gut microbiome tested to date — and yet the average American consumes less than 5 grams per day, against an estimated ancestral intake of 30–40 grams.

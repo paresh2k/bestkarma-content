@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1654613698271-ab6d8b6da005?ixid=M3
 category: sleep
 tags: ["nasal-breathing", "nitric-oxide", "sleep", "sleep-apnea"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people assume the mouth and nose are interchangeable air inlets — biological redundancy, like having two kidneys. They are not. Your nose is a precision instrument that does something your mouth cannot: it manufactures a gas that dilates blood vessels, kills pathogens, and dramatically improves how your lungs extract oxygen from every breath. When you breathe through your mouth during sleep, you bypass this system entirely. The downstream effects range from restless nights to measurable drops in blood oxygen saturation — and most people doing it have no idea.

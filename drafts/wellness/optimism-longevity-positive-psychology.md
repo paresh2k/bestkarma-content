@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1603206006222-26ecff6f4f5c?ixid=M3
 category: wellness
 tags: ["optimism", "longevity", "positive-psychology", "cardiovascular", "immune-function"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a version of this story that sounds like a motivational poster, and it's easy to dismiss: *happy people live longer*. But the actual finding is more interesting — and more uncomfortable — than that. Dispositional optimism, a stable personality trait that predicts whether you expect good things to happen, is associated with an 11–15% longer lifespan compared to people low in optimism. Not a few months. Years. And the effect holds after controlling for depression, socioeconomic status, baseline health, and health behaviours. This is not the biology of smiling more. It's something deeper.

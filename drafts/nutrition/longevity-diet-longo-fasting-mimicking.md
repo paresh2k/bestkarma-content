@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1743715032627-444532ad7b29?ixid=M3
 category: nutrition
 tags: ["Valter-Longo", "fasting-mimicking", "ProLon", "longevity-diet", "autophagy"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most longevity researchers study aging. Valter Longo is trying to reverse it. The USC gerontologist and director of the Longevity Institute has spent three decades arguing that the body already knows how to repair itself — it just needs the right metabolic signal to start. That signal, his research suggests, is periodic near-starvation. Not chronic caloric restriction, which tends to make people miserable and immunocompromised, but brief, strategic drops in energy intake that trick the body into a cellular housecleaning mode. The clinical data behind this idea is more compelling than most longevity nutrition research — and more complicated.

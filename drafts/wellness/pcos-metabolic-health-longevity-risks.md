@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1685485276219-cbdf9309be1a?ixid=M3
 category: wellness
 tags: ["PCOS", "metabolic-health", "insulin-resistance", "cardiovascular", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most women with PCOS spend years focused on one question: *Can I get pregnant?* It's an understandable preoccupation — PCOS is the leading cause of anovulatory infertility, and the condition announces itself through irregular cycles, acne, and unwanted hair growth that make fertility the obvious headline. But a growing body of evidence suggests that framing PCOS as primarily a reproductive disorder is a costly misunderstanding. PCOS is, at its core, a metabolic condition — one that quietly elevates your risk of type 2 diabetes, cardiovascular disease, non-alcoholic fatty liver disease, and endometrial cancer across decades of life. The fertility questions matter. But so does what happens after your childbearing years are over.

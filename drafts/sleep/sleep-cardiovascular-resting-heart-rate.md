@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1688383454437-c3c6805a8ec0?ixid=M3
 category: sleep
 tags: ["resting-heart-rate", "sleep", "cardiovascular", "wearables", "recovery"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 The number on your wrist when you wake up may be more useful than your doctor's blood pressure cuff. A growing body of evidence suggests that your resting heart rate during sleep — not your daytime resting HR, not your blood pressure at a clinic visit, but the beats your heart takes while you're unconscious and your body is doing nothing but keeping you alive — is one of the most sensitive, real-time indicators of cardiovascular health we have. And thanks to the proliferation of consumer wearables, most of us are now collecting this data every night without knowing what to do with it.

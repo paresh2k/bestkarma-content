@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1739932884695-98a239b8adf1?ixid=M3
 category: longevity
 tags: ["senomorphics", "senolytics", "SASP", "senescent-cells", "aging"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There is a version of cellular aging that looks less like a quiet shutdown and more like a slow riot. Senescent cells — damaged, dysfunctional cells that have stopped dividing but refuse to die — don't just sit inertly in aging tissue. They broadcast. They release a continuous stream of inflammatory proteins, proteases, and signaling molecules that corrode the surrounding tissue, recruit immune dysfunction, and accelerate the aging of neighboring healthy cells. Researchers have taken to calling them zombie cells, and the metaphor is apt: they're not dead, but they're making everything around them worse.

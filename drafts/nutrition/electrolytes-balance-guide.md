@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1632689199201-bf222b1ee40f?ixid=M3
 category: nutrition
 tags: ["electrolytes", "sodium", "potassium", "magnesium", "hydration"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people think electrolyte balance is a sports nutrition concern — something for triathletes and football players sweating through August two-a-days. But a 2021 analysis of NHANES data published in *Nutrients* found that approximately 60% of American adults consume less than the adequate intake for potassium, and roughly 45% fall short on magnesium. These aren't athletes with unusual demands. These are ordinary people eating ordinary diets, running low on minerals that govern nerve firing, blood pressure regulation, muscle contraction, and sleep quality. The electrolyte supplement market, now worth over $3 billion annually, exists partly because it spotted a real gap — and partly because it learned to market effectively into anxiety. Knowing the difference requires understanding the underlying physiology.

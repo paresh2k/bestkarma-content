@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1685717989816-25b030dfd2d0?ixid=M3
 category: longevity
 tags: ["cardiovascular", "women", "sex-differences", "heart-disease", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Until 1993, women were routinely excluded from major cardiovascular clinical trials. Not as an oversight — as policy. The assumption was that women were essentially smaller men with hormonal noise that complicated the data. That assumption has cost lives. Today, heart disease kills more women than all cancers combined, yet women are still less likely to be referred for cardiac testing, less likely to receive evidence-based medications after a heart attack, and more likely to be sent home from the emergency department with a diagnosis of anxiety. The problem isn't just historical. It's happening right now, in hospitals with excellent reputations, to patients with real arterial disease.

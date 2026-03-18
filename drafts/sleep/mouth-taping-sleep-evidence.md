@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1649168916833-2b08c7da43ce?ixid=M3
 category: sleep
 tags: ["mouth-taping", "sleep", "nasal-breathing", "sleep-quality"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a strip of surgical tape over your mouth. You're asleep. Somehow, this is supposed to make you healthier.

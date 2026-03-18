@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1621878974676-a41806cc9ed1?ixid=M3
 category: nutrition
 tags: ["protein", "protein-timing", "muscle-protein-synthesis", "leucine", "anabolic-window"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people optimizing their protein intake are asking only half the right question. They're tracking grams — hitting 1.6g per kilogram of bodyweight, distributing carefully across the day — and feeling good about it. What they're often missing is that the *same* total protein, eaten at the *same* times, can produce meaningfully different amounts of muscle protein synthesis depending on whether each individual meal crosses a critical biological threshold. You can hit your daily target and still be leaving significant anabolic stimulus on the table.

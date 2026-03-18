@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1659437505117-8ab21e5a2266?ixid=M3
 category: longevity
 tags: ["spermidine", "autophagy", "polyamines", "longevity", "cellular-health"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a molecule in your sourdough bread and aged Parmesan that may be doing something remarkable inside your cells: triggering a cleanup process that your body performs less and less efficiently as you age. Spermidine — a name that tends to raise eyebrows before it raises interest — is a naturally occurring polyamine found in nearly every living cell. And over the past decade, a growing body of research has positioned it as one of the more compelling longevity compounds in the field, not because it adds years in isolation, but because of *how* it works: by reactivating autophagy, the cellular recycling system that degrades with age and, when it does, takes a great deal of our resilience with it.

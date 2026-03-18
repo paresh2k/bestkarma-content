@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1709907325862-170caa96e8bb?ixid=M3
 category: nutrition
 tags: ["seed-oils", "linoleic-acid", "omega-6", "inflammation", "nutrition"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Few nutrition debates generate more heat and less light than the one about seed oils. On one side, a growing coalition of carnivore advocates, ancestral health influencers, and some serious researchers argue that linoleic acid — the primary omega-6 fatty acid in oils like soybean, corn, sunflower, and canola — is quietly driving chronic inflammation and metabolic disease. On the other side, most mainstream nutrition scientists and major health organizations insist the evidence shows seed oils are neutral or even beneficial. Both camps are more confident than the data warrants. Here is what the evidence actually says.

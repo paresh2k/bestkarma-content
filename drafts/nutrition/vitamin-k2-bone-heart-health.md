@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1625814059678-a5d3a7f72a16?ixid=M3
 category: nutrition
 tags: ["vitamin-K2", "bone-health", "cardiovascular", "calcium", "MK-7"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people taking vitamin D supplements don't realize they may be solving half the problem. Vitamin D tells your body to absorb calcium. But without vitamin K2, that calcium has nowhere useful to go — and may end up exactly where you don't want it: hardening your arteries while leaving your bones brittle. The irony is that the supplement aisle has spent two decades fixated on vitamin D while K2, its essential partner, sits quietly on the bottom shelf. The Rotterdam Study, which followed 4,807 Dutch adults over ten years, found that people with the highest dietary K2 intake had a **52% lower risk of severe aortic calcification** and a 57% lower risk of dying from cardiovascular disease compared to those with the lowest intake. K1 — the form found in leafy greens — showed no such association. That distinction matters enormously, and understanding it could change how you think about bone and heart health.

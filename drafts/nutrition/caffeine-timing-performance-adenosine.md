@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1615895016446-963b8ab4d59f?ixid=M3
 category: nutrition
 tags: ["caffeine", "adenosine", "cortisol", "sleep", "performance"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a decent chance you're drinking your morning coffee wrong — not in the sense that it's harming you, but in the sense that you're leaving performance on the table. The recommendation that went mainstream through Andrew Huberman's podcast — delay your first coffee by 90 minutes after waking — sounds like the kind of biohacking trivia that gets cited endlessly and understood rarely. But the underlying science is more interesting than the talking point, and it touches on two separate physiological systems that most caffeine drinkers have never considered together: adenosine clearance and the cortisol awakening response. Getting the timing right doesn't just affect how alert you feel at 9 a.m. It affects how you sleep 16 hours later.

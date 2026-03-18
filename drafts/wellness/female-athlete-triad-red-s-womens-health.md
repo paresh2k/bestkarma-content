@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&
 category: wellness
 tags: ["RED-S", "female-athlete-triad", "energy-availability", "bone-stress", "hormonal-health"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most active women have never heard of relative energy deficiency in sport. Many are living with it right now — and mistaking it for normal training fatigue.

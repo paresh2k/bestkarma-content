@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&
 category: longevity
 tags: ["ApoB", "cardiovascular", "LDL", "biomarkers", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a number on your standard cholesterol panel that your doctor watches closely — LDL cholesterol — and there's a number that's almost certainly not on your panel that predicts cardiovascular events more accurately. That number is **apolipoprotein B**, or **ApoB**. In large-scale studies, people with high LDL but low ApoB have substantially lower cardiovascular risk than their LDL alone would suggest. The reverse is also true: near-normal LDL with elevated ApoB is a warning sign that a standard lipid panel will miss entirely. If you've ever been told your cholesterol looks "fine" but you're still worried about your heart, this is the article to read.

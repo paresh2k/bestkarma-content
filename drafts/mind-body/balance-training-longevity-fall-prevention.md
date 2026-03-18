@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1758599880788-e49f6ee77bc7?ixid=M3
 category: mind-body
 tags: ["balance", "vestibular", "proprioception", "fall-prevention", "longevity"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Here is something almost no one knows about the simple act of standing on one foot: it may be one of the most accurate predictors of whether you'll be alive in a decade.

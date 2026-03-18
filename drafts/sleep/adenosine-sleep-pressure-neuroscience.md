@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&
 category: sleep
 tags: ["adenosine", "sleep-pressure", "sleep-drive", "neuroscience", "caffeine"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There is a molecule building up in your brain right now. Every hour you stay awake, it accumulates — quietly, steadily, in the basal forebrain and throughout the cortex — until the pressure becomes impossible to ignore. That molecule is adenosine, and it is the closest thing neuroscience has found to a physical record of wakefulness. It is not a metaphor. Sleep pressure is not just feeling tired. It is a measurable neurochemical state, and understanding how it works explains nearly everything confusing about sleep: why naps help but sometimes backfire, why caffeine eventually fails you, and why sleeping in on weekends doesn't actually fix a week of short nights.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1733940056690-8c86eac6bc73?ixid=M3
 category: mind-body
 tags: ["proprioception", "balance", "aging", "fall-prevention", "neuromuscular"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a sense you use thousands of times a day that you've probably never thought about. It has no obvious organ — no eyes, no ears, no taste buds — yet without it, you couldn't walk across a room in the dark, catch yourself on a slippery step, or stand still with your eyes closed. It's proprioception: your nervous system's continuous, largely unconscious awareness of where your body is in space. And starting around age 40, it begins to quietly erode.

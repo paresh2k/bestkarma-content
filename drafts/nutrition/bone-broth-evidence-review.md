@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1737094562877-da33229a0166?ixid=M3
 category: nutrition
 tags: ["bone-broth", "collagen", "gut-health", "glycine", "minerals"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a version of bone broth that exists in marketing copy — a golden elixir that heals your gut, rebuilds your joints, tightens your skin, and adds years to your life. And then there's the version that exists in your pot: a liquid made from simmered animal bones that contains some genuinely interesting compounds, considerable variability, and a body of evidence that is real but far more modest than the labels suggest. The gap between those two versions is worth understanding, because bone broth isn't a scam — but it isn't a supplement either.

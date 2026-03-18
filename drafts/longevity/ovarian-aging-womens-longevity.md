@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1771923891218-cf56ae6ac1ab?ixid=M3
 category: longevity
 tags: ["ovarian-aging", "womens-longevity", "menopause", "estrogen", "healthspan"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 The human body has roughly 78 organs. Only one of them is on an accelerated aging clock that runs a full decade ahead of everything else — and for half the population, that organ is quietly driving some of the most consequential health transitions they'll ever experience. The ovary doesn't just govern reproduction. It governs biological aging in ways that science is only beginning to fully map, and its decline reshapes the risk landscape for heart disease, dementia, osteoporosis, and metabolic dysfunction in ways that no comparable male organ does. The fact that most longevity research was conducted in men — or male mice — means we've been working from an incomplete map for decades.

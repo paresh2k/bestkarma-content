@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&
 category: wellness
 tags: ["progesterone", "progestins", "HRT", "breast-cancer", "menopause"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most women who've heard that hormone replacement therapy raises breast cancer risk are picturing a specific study: the **Women's Health Initiative (WHI)**, published in *JAMA* in 2002, which triggered a global retreat from HRT and left a generation of women undertreated for menopausal symptoms. What most of those women — and many of their doctors — don't know is that the WHI didn't test progesterone. It tested a synthetic compound called **medroxyprogesterone acetate (MPA)**, a progestin that behaves quite differently in the body. The distinction matters enormously, and the evidence has been accumulating for two decades that the type of progestogen in your HRT is not a footnote — it's potentially one of the most consequential variables in the entire risk-benefit calculation.

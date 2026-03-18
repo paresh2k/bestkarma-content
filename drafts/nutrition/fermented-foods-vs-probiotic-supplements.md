@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1717980650137-8596c8d57e87?ixid=M3
 category: nutrition
 tags: ["fermented-foods", "probiotics", "supplements", "gut-health", "microbiome"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 If you walked into any pharmacy or grocery store today, you'd face a choice that seems simple but isn't: a $12 jar of kimchi or a $45 bottle of 50-billion-CFU probiotics. Both promise a healthier gut. One of them has substantially better evidence behind it — and it's probably not the one with the health claims printed on the label.

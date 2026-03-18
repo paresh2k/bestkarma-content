@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1675249754631-385e473a921c?ixid=M3
 category: nutrition
 tags: ["collagen", "collagen-peptides", "skin-aging", "joints", "gut-health"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 The supplement aisle wants you to believe collagen is magic. Drink it for glowing skin, lubricated joints, a sealed gut, and whatever else the label promises between photos of radiant 50-year-olds. The marketing is, predictably, ahead of the science. But here's the more interesting story: some of the science is actually pretty good — and it points to real, specific benefits that most people haven't heard explained properly.

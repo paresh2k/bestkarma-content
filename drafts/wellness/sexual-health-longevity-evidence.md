@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1763335404057-f6dfcd5464d6?ixid=M3
 category: wellness
 tags: ["sexual-health", "longevity", "intimacy", "cardiovascular", "wellbeing"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Few things get dropped from the standard preventive care checklist as quickly as sexual health. Your doctor asks about sleep, exercise, alcohol, and stress. Sexual activity — how often, whether it's satisfying, whether anything has changed — rarely comes up. That omission may have real consequences. A growing body of epidemiological and mechanistic research suggests that a satisfying sex life isn't just a quality-of-life bonus: it appears to be a meaningful signal of, and contributor to, cardiovascular health, immune function, psychological resilience, and all-cause mortality risk.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1737094562884-184e89b6c7c5?ixid=M3
 category: wellness
 tags: ["perimenopause", "hormones", "estrogen", "progesterone", "menopause"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most women are told that menopause happens around age 51 and involves hot flashes. What they are rarely told is that the transition leading up to it — perimenopause — can begin a full decade earlier, lasts an average of seven years, and involves a hormonal upheaval that touches nearly every system in the body. The brain, bones, cardiovascular system, metabolism, sleep, and mood are all downstream of estrogen. When estrogen becomes erratic, so does almost everything else.

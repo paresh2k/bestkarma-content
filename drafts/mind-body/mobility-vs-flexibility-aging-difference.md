@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1758599879133-e1f34aeccf63?ixid=M3
 category: mind-body
 tags: ["mobility", "flexibility", "joint-health", "aging", "movement"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people who can touch their toes can't squat to the floor and stand back up without holding something. That gap — between what your body will allow passively and what it can actually *do* under its own control — is where a lot of aging happens. And it's almost entirely ignored in conventional fitness culture, which celebrates the split and the backbend while quietly overlooking whether you can get off the ground unassisted, catch yourself mid-stumble, or carry a heavy object overhead without your shoulder quietly falling apart.

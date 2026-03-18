@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1624193308627-87fdce298a50?ixid=M3
 category: mind-body
 tags: ["play", "spontaneous-movement", "creativity", "social-play", "wellbeing"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most adults haven't played — truly played, without agenda or outcome — since childhood. Not exercised. Not relaxed with a podcast. Not competed in a recreational league with a beer waiting at the finish line. Played: absorbed, purposeless, intrinsically motivated, a little ridiculous. If that description makes you vaguely uncomfortable, that discomfort is data. It tells you something about how comprehensively productivity culture has colonized the inner life of modern adults, and it may be telling you something about your health.

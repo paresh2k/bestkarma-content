@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&
 category: wellness
 tags: ["perimenopause", "anxiety", "GABA", "estrogen", "brain-chemistry"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 If you've sailed through decades of relatively stable moods and then found yourself, somewhere in your early forties, gripped by a new and inexplicable anxiety — a racing heart before a routine meeting, dread arriving with the alarm clock, a sense that something is wrong that you cannot name — you are not imagining it, and you are not falling apart. You are experiencing one of the most underrecognized neurological transitions in medicine. Up to 70% of perimenopausal women report significant anxiety symptoms, according to a 2020 review by Bromberger and Epperson in *Obstetrics and Gynecology Clinics of North America*. Many of them have no prior psychiatric history. What's happening is not a psychological failing. It is a specific, mechanistic shift in how your brain regulates its own chemistry — and understanding it changes everything about how you respond to it.

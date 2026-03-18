@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1764390745408-74f0dbbb5bca?ixid=M3
 category: nutrition
 tags: ["anti-inflammatory", "diet", "inflammation", "CRP", "nutrition"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Chronic inflammation doesn't announce itself. There's no fever, no swelling you can see — just a slow, systemic burn that quietly accelerates cardiovascular disease, type 2 diabetes, cognitive decline, and several cancers over decades. The good news: food is one of the most powerful dials you have to turn it down. Not supplements. Not cleanses. Actual food, eaten in specific combinations, with a measurable effect on the biomarkers that matter.

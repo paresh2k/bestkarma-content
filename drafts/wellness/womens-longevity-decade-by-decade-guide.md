@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&
 category: wellness
 tags: ["womens-longevity", "healthspan", "preventive-health", "perimenopause", "aging"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most women are told their health risks are simply "men's risks, slightly adjusted." The evidence says otherwise. Cardiovascular disease kills more women than all cancers combined — yet for decades, landmark heart trials enrolled almost no women. Women develop Alzheimer's at nearly twice the rate of men. Bone loss accelerates so sharply in the five years around menopause that a woman can lose more skeletal mass in that window than a man loses across his entire lifetime. These are not minor footnotes. They are the central plot of women's healthspan — and the good news is that the highest-leverage interventions map almost perfectly onto the decades in which they matter most.

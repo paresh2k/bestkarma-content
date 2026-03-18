@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&
 category: nutrition
 tags: ["Ozempic", "GLP-1", "muscle-loss", "protein", "resistance-training"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people who start Ozempic or Wegovy are thinking about the number on the scale. Few are thinking about what's happening to the tissue underneath. That's a problem — because the clinical trial data tells a story that the prescription pad often doesn't: a meaningful portion of the weight lost on GLP-1 receptor agonists isn't fat. It's muscle.

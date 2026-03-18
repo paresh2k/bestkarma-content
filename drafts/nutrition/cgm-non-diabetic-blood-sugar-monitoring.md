@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1599814516324-66aa0bf16425?ixid=M3
 category: nutrition
 tags: ["CGM", "glucose-monitoring", "metabolic-health", "blood-sugar", "biohacking"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 If you strap a continuous glucose monitor to your arm and eat a slice of white bread, you will almost certainly watch your blood sugar spike. The app will flash. Your score will drop. You'll feel like you've done something wrong. But here's what that alert doesn't tell you: in a healthy person with a functioning pancreas, that spike is almost certainly going to resolve within 90 minutes, and the long-term health consequences may be close to zero. The question worth asking — the one the $89-per-sensor marketing rarely raises — is whether watching that number go up and then come down is actually doing anything useful for you.

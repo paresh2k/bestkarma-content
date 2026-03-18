@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&
 category: longevity
 tags: ["SuperAgers", "cognitive-aging", "brain-longevity", "Northwestern", "memory"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people treat cognitive decline as inevitable — a slow, predictable erosion that comes with gray hair and reading glasses. But a small group of octogenarians is quietly upending that assumption. They're in their 80s and 90s, and when researchers at Northwestern University put them through rigorous memory tests, they scored as well as healthy adults thirty years younger. Not approximately as well. Not "pretty good for their age." Equivalently. These people — now called **SuperAgers** — don't just have sharper minds than their peers. They appear to have fundamentally different brains.

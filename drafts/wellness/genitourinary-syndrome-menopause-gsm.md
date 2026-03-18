@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1597999709389-e29dc41e218a?ixid=M3
 category: wellness
 tags: ["GSM", "menopause", "vaginal-atrophy", "urinary-symptoms", "estrogen"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Here's something that will strike most people as backward: the most distressing long-term symptom of menopause isn't the one everyone talks about.

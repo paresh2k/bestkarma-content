@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1565894897273-9f4240d4ac56?ixid=M3
 category: mind-body
 tags: ["exercise", "depression", "antidepressant", "BDNF", "mental-health"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Something remarkable happened in early 2024 that barely made it past the health news cycle: a meta-analysis so large it should have changed how every psychiatrist and GP thinks about first-line treatment for depression. It didn't get nearly enough attention. Here's what it found — and what you can do with it.

@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&
 category: longevity
 tags: [zone-2, cardio, mitochondria, fat-burning, longevity, exercise]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people who exercise regularly are training in a metabolic no-man's-land. Not hard enough to drive the adaptations that come from genuinely high-intensity work. Not easy enough to unlock the fat-burning, mitochondria-building cascade that happens at lower intensities. If your default workout pace feels moderately hard — a brisk run, a spin class at medium resistance, a bike ride where conversation is technically possible but uncomfortable — there's a good chance you're spending most of your exercise time in exactly the wrong place.

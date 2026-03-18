@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1686828752365-1f90f9c502b4?ixid=M3
 category: sleep
 tags: ["sleep-temperature", "core-cooling", "deep-sleep", "sleep-environment"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a counterintuitive truth buried in the physiology of sleep that most people never learn: to fall asleep, your body must actively *shed* heat. Not passively cool down — actively dump warmth from your core to your periphery in a process as deliberate as a furnace venting exhaust. If that process is blocked — by a room that's too warm, a mattress that traps heat, or clothing that insulates when it shouldn't — your brain simply won't drop into the deep, restorative sleep stages that repair tissue, consolidate memory, and regulate metabolism. The problem is that most bedrooms in the developed world sit at temperatures between 20–23°C. That's somewhere between five and seven degrees too warm for optimal sleep. The consequence, repeated night after night, isn't trivial.

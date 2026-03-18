@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1687184144779-51a366352458?ixid=M3
 category: wellness
 tags: ["nature-prescriptions", "Park-Rx", "green-exercise", "mental-health", "cortisol"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Your doctor hands you a prescription. You expect a drug name, a dosage, a pharmacy address. Instead, you get the name of a park, a recommended duration, and instructions to go outside. This is not a thought experiment — it is a clinical practice now operating across the NHS, Japan's national health system, New Zealand's GP networks, and more than 125 U.S. healthcare sites through **Park Rx America**. The intriguing part is not the prescription pad. It is that the science behind it is more rigorous than most people expect.

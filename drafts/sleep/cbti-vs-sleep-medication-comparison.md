@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&
 category: sleep
 tags: ["CBT-I", "insomnia", "sleep-medication", "zolpidem", "cognitive-behavioral-therapy"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 Most people who struggle to sleep reach for a pill. Their doctor often obliges — in the United States, sleep medication prescriptions run into the tens of millions annually, with zolpidem alone generating over 40 million scripts a year at its peak. What fewer people know is that a structured talk-based therapy outperforms those pills on nearly every meaningful outcome measure — and the effects last far longer. The therapy is called CBT-I: Cognitive Behavioral Therapy for Insomnia. It has been the first-line recommended treatment from the American College of Physicians since 2016, and from the American Academy of Sleep Medicine since 2021. It remains dramatically underused.

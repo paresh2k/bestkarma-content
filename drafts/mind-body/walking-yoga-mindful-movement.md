@@ -10,7 +10,7 @@ heroImage: "https://images.unsplash.com/photo-1561577732-12fffa81b37e?ixid=M3w4O
 category: mind-body
 tags: ["walking-yoga", "mindful-movement", "zone-2", "mindfulness", "outdoor-exercise"]
 readTime: 8
-status: validated
+status: drafted
 ---
 
 There's a version of this you've almost certainly done without knowing it had a name. You slow down on a trail, match your steps to your breath, notice the particular quality of light through leaves, feel something in your chest unknot. That's not just a nice walk. According to a growing body of research — and a practice that's quietly become one of the most-searched wellness terms of 2025 — it's something physiologically distinct from ordinary ambulation, and meaningfully different from a yoga class.
