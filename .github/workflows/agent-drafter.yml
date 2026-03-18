@@ -8,6 +8,10 @@ on:
     paths:
       - 'drafts/*/*.md'
 
+concurrency:
+  group: agent-drafter
+  cancel-in-progress: false
+
 jobs:
   draft:
     name: Draft briefed articles with Claude
