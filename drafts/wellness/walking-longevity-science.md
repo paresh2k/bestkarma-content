@@ -3,13 +3,14 @@ slug: walking-exercise-science-step-count-longevity
 title: "Walking Is Not a Consolation Prize: What the Step-Count Science Actually Shows"
 description: "A meta-analysis of 15 international cohorts rewrote the walking prescription. 7,000-8,000 steps matters more than 10,000. Walking pace adds survival advantage beyond step count. Incline activates metabolic pathways flat walking doesn't. Here's the precision science."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [walking, exercise, longevity, cardiovascular-health, metabolism, step-count]
 readTime: 8
-status: drafted
+status: validated
 ---
 
 The 10,000-step daily target has been so thoroughly embedded in wellness culture that most people assume it emerged from careful clinical research. It did not. It originated from a Japanese marketing campaign for a pedometer brand called Manpo-kei — which translates to "10,000-step meter" — launched before the 1964 Tokyo Olympics. The number was chosen because the character for 10,000 (万) resembles a person walking. No clinical trial informed it.

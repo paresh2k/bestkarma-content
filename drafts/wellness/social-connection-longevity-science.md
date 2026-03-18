@@ -1,16 +1,16 @@
 ---
 title: "Loneliness Is as Deadly as Smoking 15 Cigarettes a Day — Here's the Science"
 description: "A 2015 meta-analysis of 3.7 million people concluded that social isolation is one of the greatest threats to human health. The Harvard Study of Adult Development — the longest study of human happiness ever conducted — agrees."
-pubDate: TBD
+pubDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&auto=format&fit=crop&q=80"
 category: wellness
 tags: [social-health, loneliness, connection, longevity, community, social]
 readTime: 8
 featured: false
-status: drafted
+status: validated
 author: bestkarma-editorial
-reviewer: pending
-reviewedDate: TBD
+reviewer: gpt-validator
+reviewedDate: 2026-03-18
 ---
 
 In 2023, the United States Surgeon General Dr. Vivek Murthy declared loneliness a public health epidemic. Not a social problem, not a cultural malaise — a **medical emergency**. The advisory cited sobering data: approximately half of American adults report measurable loneliness, and the health consequences rival those of smoking, obesity, and physical inactivity.
