@@ -3,13 +3,14 @@ slug: polyphenols-aging
 title: "Polyphenols: The Plant Compounds Behind the 'Eat More Plants' Advice"
 description: "There are 8,000+ polyphenols in plants. They act as antioxidants, anti-inflammatories, and prebiotics. Here's which ones have the best evidence, where to find them, and why supplements rarely match whole foods."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [polyphenols, antioxidants, plant-foods, gut-health, flavonoids, longevity]
 readTime: 8
-status: approved
+status: validated
 ---
 
 When scientists ask why plant-rich diets are associated with reduced inflammation, slower aging, and lower chronic disease risk — and find that high-dose antioxidant supplements generally fail to replicate those benefits — they're encountering a fundamental gap in nutritional understanding.

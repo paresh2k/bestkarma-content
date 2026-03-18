@@ -3,13 +3,14 @@ slug: mediterranean-diet-science
 title: "The Mediterranean Diet: Why Every Large Study Points to the Same Eating Pattern"
 description: "Across 50+ years of research and populations from 40+ countries, one dietary pattern consistently reduces cardiovascular disease, dementia risk, and all-cause mortality. Here's what the evidence actually says."
 author: bestkarma-editorial
-reviewer: bestkarma-review
-pubDate: 2026-03-16
-reviewedDate: 2026-03-16
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [mediterranean-diet, cardiovascular-health, nutrition, longevity, olive-oil]
 readTime: 8
-status: approved
+status: validated
 ---
 
 Nutrition science is famously contradictory. Eggs are good, then bad, then good again. Saturated fat is the villain, then redeemed in some quarters. Carbohydrates cycle between enemy and staple. The field produces headlines that cancel each other out, leaving most people genuinely uncertain about what to eat.

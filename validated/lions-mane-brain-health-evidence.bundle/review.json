@@ -5,7 +5,7 @@
   "status": "approved",
   "wordCount": 1395,
   "hasSourcesCited": true,
-  "hasMedicalDisclaimer": false,
+  "hasMedicalDisclaimer": true,
   "suggestions": [],
   "notes": [
     "Validated by GPT-4o-mini. Pending human editorial sign-off."

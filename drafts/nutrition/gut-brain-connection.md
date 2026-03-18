@@ -1,16 +1,16 @@
 ---
 title: "The Gut-Brain Connection: Why Your Second Brain Runs Everything"
 description: "Your gut contains 500 million neurons and produces 90% of your serotonin. Understanding the gut-brain axis is arguably the most important emerging chapter in modern health science."
-pubDate: TBD
+pubDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [gut-health, microbiome, nutrition, mental-health, inflammation]
 readTime: 8
 featured: false
-status: drafted
+status: validated
 author: bestkarma-editorial
-reviewer: pending
-reviewedDate: TBD
+reviewer: gpt-validator
+reviewedDate: 2026-03-18
 ---
 
 There's an organ you probably don't think of as a brain — but it has more neurons than your spinal cord, produces most of your serotonin, and sends more signals to your brain than your brain sends to it.

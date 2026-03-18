@@ -3,13 +3,14 @@ slug: omega-3-epa-dha-guide
 title: "Omega-3s: Sorting EPA, DHA, and ALA From the Noise"
 description: "Not all omega-3s are equal. EPA and DHA do the heavy lifting for cardiovascular and brain health; ALA barely converts. Here's how to assess your intake, choose the right source, and understand what the trials actually showed."
 author: bestkarma-editorial
-reviewer: pending
-pubDate: TBD
-reviewedDate: TBD
+reviewer: gpt-validator
+pubDate: 2026-03-18
+reviewedDate: 2026-03-18
+heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
 category: nutrition
 tags: [omega-3, epa, dha, fish-oil, heart-health, brain-health, nutrition]
 readTime: 7
-status: drafted
+status: validated
 ---
 
 Omega-3 fatty acids are one of the most extensively studied nutrients in medicine and one of the most widely misunderstood. The confusion starts with the fact that "omega-3" describes not one compound but a family of structurally related fatty acids with substantially different biological activities. The popular understanding collapses these differences into a single recommendation — eat more omega-3s — without distinguishing between forms that drive the biology and forms that contribute little.
