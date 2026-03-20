@@ -134,7 +134,7 @@ No single meal will move your CRP meaningfully. The mechanism is cumulative — 
 </div>
 
 <div class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-gold mb-3">Quick Read</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Chronic inflammation is the slow burn behind heart disease, diabetes, and brain decline. You can't feel it — but you can measure it, and food is one of your biggest levers. The anti-inflammatory shopping list: fatty fish twice a week, olive oil daily, berries every day, leafy greens, walnuts, and turmeric with black pepper (that combination boosts absorption by 2,000%). What to cut back: sugary drinks, processed meats, white bread as a staple. The key insight — no single meal matters. What matters is whether most of your meals trend the right way, consistently, for months. Think of it as a pattern, not a diet. Your CRP level is averaging your last 90 days of eating.</p>
 </div>
 

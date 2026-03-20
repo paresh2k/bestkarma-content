@@ -106,7 +106,7 @@ Given what we know about adenosine kinetics and the two-process model, several c
 </div>
 
 <div class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-gold mb-3">Quick Read</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">There's a molecule called adenosine that builds up in your brain every hour you're awake. The more it accumulates, the sleepier you feel — that's sleep pressure. Caffeine doesn't give you energy. It just blocks adenosine from reaching its receptors, so you can't feel the pressure. But adenosine keeps building. When caffeine wears off, that backlog floods in — that's the crash. The practical rules: stop caffeine 10–12 hours before bed, don't caffeinate within 90 minutes of waking, and nap only between 1–3pm for max 25 minutes. If you want an upgrade, try a nappuccino — drink coffee then nap immediately. Caffeine takes 20–30 minutes to kick in, which means it hits right when you wake up. And remember: no amount of caffeine clears sleep debt. Only sleep does.</p>
 </div>
 
