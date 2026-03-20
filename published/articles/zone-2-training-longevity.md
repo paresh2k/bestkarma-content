@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Zone 2 is easy-paced cardio where you can talk—it's where real mitochondrial magic happens.</li>
+    <li>✓ VO₂ max is the strongest predictor of lifespan, beating smoking and disease risk as a mortality factor.</li>
+    <li>✓ Zone 2 triggers mitochondrial biogenesis, restoring your cells' ability to burn fat efficiently.</li>
+    <li>✓ Most people either exercise too hard or skip the zone that builds lasting fitness.</li>
+    <li>✓ Zone 2 training restores insulin sensitivity and metabolic health in weeks, without medication.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most of us exercise too hard or not hard enough. The cardio zone that actually confers the greatest long-term metabolic and cardiovascular benefit is the one that feels almost embarrassingly easy: Zone 2.
 
 Zone 2 isn't a social media trend. It's the product of decades of exercise physiology research — and increasingly, the cornerstone of longevity medicine protocols.
@@ -107,3 +119,19 @@ Your heart is a muscle. Zone 2 is how you train it for a very long race.
 [^3]: Hood DA, et al. (2019). Maintenance of mitochondrial membrane potential and biogenesis in exercise. *Journal of Applied Physiology*, 127(5), 1476–1484.
 
 [^4]: Fontana L, et al. (2012). Extending healthy life span — from yeast to humans. *Science*, 328(5976), 321–326. See also ongoing Zone 2 metabolic research by San Millán I at CU Medicine.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Find your Zone 2:</strong> Exercise at 60-70% max heart rate where conversation feels comfortable but breathing is elevated.</li>
+    <li>→ <strong>Train consistently:</strong> Aim for regular Zone 2 sessions to build mitochondrial density and metabolic flexibility over time.</li>
+    <li>→ <strong>Test your fitness:</strong> Get a VO₂ max assessment baseline—it's the single best predictor of longevity available.</li>
+    <li>→ <strong>Prioritize fat burning:</strong> Zone 2 trains your body to burn fat at rest, improving metabolic health durably.</li>
+    <li>→ <strong>Rethink 'hard' workouts:</strong> Balance intense exercise with Zone 2 work; too much intensity without aerobic base backfires.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You're probably exercising wrong. Either you're crushing it too hard or coasting too easy—and missing the zone that actually extends your life. Zone 2 is the "boring" pace where you can hold a conversation. Your heart rate sits at 60-70% of max. Feels almost too easy, right? That's the point. This is where your mitochondria—your cells' powerhouses—get rebuilt and multiplied. Research shows cardiorespiratory fitness (VO₂ max) predicts longevity better than smoking status, diabetes, or heart disease. Zone 2 is the primary way to build it. Elite athletes train here constantly. And if you have metabolic issues—insulin resistance, weight struggles, fatigue—Zone 2 fixes them within weeks. Stop chasing the burn. Start building the engine.</p>
+</div>

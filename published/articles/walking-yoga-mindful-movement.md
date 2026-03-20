@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Walking yoga combines two proven longevity practices into one coherent intervention.</li>
+    <li>✓ Even 3,800 daily steps cuts mortality risk by 25%; benefits increase up to 9,800 steps.</li>
+    <li>✓ Yoga alone elevates GABA and reduces inflammation markers like IL-6 and CRP.</li>
+    <li>✓ Mindful walking (breath + attention + movement) produces stress reduction comparable to formal meditation.</li>
+    <li>✓ The combination activates parasympathetic pathways more robustly than either practice alone.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a version of this you've almost certainly done without knowing it had a name. You slow down on a trail, match your steps to your breath, notice the particular quality of light through leaves, feel something in your chest unknot. That's not just a nice walk. According to a growing body of research — and a practice that's quietly become one of the most-searched wellness terms of 2025 — it's something physiologically distinct from ordinary ambulation, and meaningfully different from a yoga class.
 
 Walking yoga sits at the intersection of two of the most evidence-dense longevity practices we have. What makes it interesting isn't the branding. It's the mechanism: the combination of rhythmic movement, breath synchronization, and sustained attentional focus appears to activate parasympathetic pathways more robustly than either practice tends to achieve alone. The question worth asking is whether the science actually supports that claim — or whether this is just mindfulness wearing hiking shoes.
@@ -67,6 +79,23 @@ Three to four sessions per week of thirty minutes aligns with the minimum effect
 The movement sequences that some walking yoga instructors incorporate — hip circles, arm sweeps, gentle spinal rotations performed at a pause point on the route — have the least direct evidentiary support, but serve a plausible function: they interrupt postural fixity, cue proprioceptive attention, and provide a natural reset point in the session. Add them if they feel useful; don't feel they're required.
 
 Start with the breath sync. That's where the physiology lives.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Match breath to steps:</strong> Synchronize your breathing with your walking rhythm to amplify parasympathetic activation and stress relief.</li>
+    <li>→ <strong>Aim for 9,800 steps:</strong> Target roughly 10,000 daily steps to maximize cardiovascular mortality reduction and longevity benefits.</li>
+    <li>→ <strong>Walk with intention:</strong> Replace distracted walks with focused attention on sensation, environment, and breathing for measurable anxiety reduction.</li>
+    <li>→ <strong>Choose nature routes:</strong> Walking outdoors with awareness components lowers cortisol and improves wellbeing more than urban or passive walking.</li>
+    <li>→ <strong>Practice 40-minute sessions:</strong> A single structured mindful walk of this length produces measurable improvements in stress response and mood.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Walking yoga isn't a new trend—it's what happens when you slow down, sync your breath to your steps, and actually pay attention. Research shows regular walking cuts mortality risk by 25%, and yoga alone boosts GABA and reduces inflammation. But combine them? You get something stronger. Studies show mindful walking—breath-aware, attentive movement in nature—produces stress reduction on par with formal meditation, with measurable drops in cortisol and anxiety. The mechanism: synchronized breath and rhythmic movement activate your parasympathetic nervous system more powerfully than either practice solo. You don't need special training. Just walk 40 minutes with intention, match your breathing to your steps, and notice what's around you. That unknotting feeling in your chest? That's science.</p>
+</div>
 
 ---
 

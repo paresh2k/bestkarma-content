@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Vitamin D functions like a hormone, not just a vitamin, affecting nearly every tissue in your body.</li>
+    <li>✓ About 40% of Americans are deficient due to indoor living, winter latitude, and limited dietary sources.</li>
+    <li>✓ Deficiency weakens bones and immune function, increasing infection risk and disease susceptibility.</li>
+    <li>✓ Sunscreen, darker skin at northern latitudes, and age all reduce your body's vitamin D production capacity.</li>
+    <li>✓ Diet alone cannot provide enough vitamin D—most people need supplementation or strategic sun exposure.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Vitamin D is called a vitamin, but it functions as a hormone. It is synthesized in the skin from cholesterol when exposed to ultraviolet B radiation from sunlight, transported to the liver for a first modification, then to the kidneys for conversion to its active hormonal form — calcitriol. Vitamin D receptors are present in virtually every tissue in the body: bone, muscle, brain, immune cells, pancreatic beta cells, and more.
 
 The roles of vitamin D extend far beyond the calcium absorption function it's classically taught for. And approximately 1 billion people worldwide — including 40% of Americans — are deficient in it.
@@ -79,6 +91,23 @@ The skin cancer risk from this brief exposure is very low. Extended unprotected 
 The practical approach for most people: some strategic midday sun exposure in summer when latitude allows, daily D3 supplementation in winter or for those with consistently low sun exposure, and testing to confirm status is in the optimal range.
 
 Vitamin D may be the easiest significant deficiency to fix. The barrier is not lifestyle change — it is simply knowing you're deficient.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Get tested first:</strong> Ask your doctor for a 25-hydroxyvitamin D blood test to establish your baseline before supplementing.</li>
+    <li>→ <strong>Supplement strategically:</strong> Most adults need 1,000–2,000 IU daily; adjust based on test results and geographic location.</li>
+    <li>→ <strong>Prioritize winter sun:</strong> Spend 10–30 minutes outdoors midday several times weekly when possible, without sunscreen on exposed skin.</li>
+    <li>→ <strong>Eat fatty fish:</strong> Include salmon, sardines, or mackerel 2–3 times weekly for natural dietary vitamin D sources.</li>
+    <li>→ <strong>Don't skip sunscreen:</strong> Vitamin D supplementation is easier and safer than risking skin cancer from excessive UV exposure.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Vitamin D isn't just a vitamin—it's a hormone your whole body needs. About 4 in 10 Americans are deficient, especially if you live north of a certain latitude, spend most time indoors, have darker skin, or use sunscreen consistently (which you should). The problem: your skin can't make enough from winter sun, and almost no foods naturally contain it. The impact matters—deficiency weakens bones and cripples immune function, making you more prone to infections. Getting enough from diet alone is nearly impossible. The fix is simple: get your levels tested, supplement with 1,000–2,000 IU daily, catch some midday sun when you can, and eat fatty fish regularly. It's one of the easiest ways to support your long-term health.</p>
+</div>
 
 ---
 

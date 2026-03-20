@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Ultra-processed foods contain lab-made additives you'd never use at home.</li>
+    <li>✓ They now make up 57% of American calories — they've basically become our diet.</li>
+    <li>✓ Eating them regularly is linked to 32 serious health problems.</li>
+    <li>✓ The risks include 21% higher death rate and 50% higher heart disease risk.</li>
+    <li>✓ The NOVA classification helps you distinguish real food from industrial formulations.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Read the ingredient list on a loaf of supermarket bread. If it contains wheat flour, water, yeast, salt, and perhaps a small amount of oil or sugar — you're looking at bread. If it contains DATEM, calcium propionate, azodicarbonamide, soy lecithin, modified corn starch, artificial flavors, and caramel color alongside the wheat flour — you're looking at something else. Both are sold as bread. They are not the same product.
 
 The distinction between these two things — between minimally processed food and what researchers now call ultra-processed food — has become one of the most important questions in contemporary nutritional science. The evidence linking high ultra-processed food intake to disease is accumulating at a pace that has outrun regulatory and clinical response.
@@ -94,6 +106,23 @@ The evidence does not require eliminating all ultra-processed foods. The dose-re
 None of these require cooking skill or significant time. They require a slightly different shopping pattern and some recalibration of what "convenient food" looks like.
 
 The body responds to reduced UPF intake relatively quickly: improved satiety signals within weeks, lower caloric intake without hunger, and — based on the Hall study — spontaneous reduction in consumption when whole foods replace UPFs in the diet.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Read ingredient lists:</strong> if you don't recognize 50% of the ingredients, it's likely ultra-processed.</li>
+    <li>→ <strong>Cook from scratch:</strong> preparing meals with Group 1 and 2 ingredients reduces UPF intake dramatically.</li>
+    <li>→ <strong>Check health claims:</strong> 'multigrain,' 'protein,' and 'natural' labels often hide ultra-processed products.</li>
+    <li>→ <strong>Meal prep simple foods:</strong> frozen vegetables, canned beans, and whole grains beat convenience items.</li>
+    <li>→ <strong>Know the additive names:</strong> DATEM, xanthan gum, soy lecithin, and carrageenan signal industrial processing.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">That supermarket bread with five ingredients? Real food. The one with DATEM and artificial colors? Not the same thing. Ultra-processed foods—packed with lab-made additives, engineered to be addictive, and shelf-stable forever—now make up over half of what Americans eat. A massive 2024 research review found they're linked to serious problems: 21% higher death risk, 50% higher heart disease risk, and depression. The scary part? This happened fast. Since the 1960s, processed foods doubled in our diet. The fix isn't complicated: read labels, cook from scratch when you can, and pick foods with ingredients you actually recognize. Your future self will thank you.</p>
+</div>
 
 ---
 

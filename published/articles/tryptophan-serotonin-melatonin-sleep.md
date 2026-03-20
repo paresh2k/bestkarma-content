@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Tryptophan is the only dietary source for serotonin and melatonin, your sleep chemicals.</li>
+    <li>✓ Tryptophan competes with five other amino acids to enter the brain—it often loses.</li>
+    <li>✓ Eating carbs with dinner shifts the competition in tryptophan's favor, boosting sleep.</li>
+    <li>✓ High-protein meals alone can paradoxically reduce brain tryptophan despite more total intake.</li>
+    <li>✓ Timing matters: a carb-rich meal 4 hours before bed works best for sleep.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a metabolic plot twist hiding in your evening meal: the same amino acid that makes you feel calm and connected after a good day is also the raw material your brain uses to tell your body it's time to sleep. Tryptophan — best known, somewhat unfairly, as the thing in turkey that supposedly makes you drowsy at Thanksgiving — is the sole dietary precursor for both serotonin and melatonin. Get the pathway right, and your plate becomes a meaningful lever for sleep quality. Get it wrong, and you may be inadvertently competing with your own brain chemistry every night.
 
 The Thanksgiving story is actually a myth worth unpacking, because understanding why it's wrong teaches you something genuinely useful. Turkey isn't particularly high in tryptophan compared to other proteins. What matters isn't how much tryptophan you eat in isolation — it's whether that tryptophan can get across the blood-brain barrier. And that's where nutrition strategy gets interesting.
@@ -80,6 +92,23 @@ Building the tryptophan-serotonin-melatonin pathway into your daily routine does
 The pathway from plate to pineal gland is longer than most sleep content acknowledges. But when you understand the mechanism — the transporter competition, the insulin-mediated shift, the enzymatic cofactors — the nutrition strategy becomes logical rather than folkloric. That's a meaningful difference.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have a diagnosed sleep disorder, take medications, or are managing a chronic health condition.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Pair carbs with dinner:</strong> Add moderate starch (rice, bread, potato) to evening meals to help tryptophan reach your brain.</li>
+    <li>→ <strong>Skip heavy protein alone:</strong> Avoid large protein-only dinners, which flood your blood with competing amino acids that block tryptophan.</li>
+    <li>→ <strong>Time your meal right:</strong> Eat a carb-containing dinner about 4 hours before bedtime for maximum sleep benefit.</li>
+    <li>→ <strong>Choose high-glycemic carbs:</strong> Pick refined or starchy carbohydrates at dinner—they trigger the insulin response that favors tryptophan uptake.</li>
+    <li>→ <strong>Eat tryptophan sources regularly:</strong> Include turkey, chicken, eggs, cheese, nuts, or seeds in balanced meals to maintain steady dietary tryptophan supply.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your Thanksgiving turkey isn't actually making you sleepy—but the logic behind that myth reveals a real sleep hack. Tryptophan, an amino acid you eat, is the only raw material your brain uses to make melatonin (your sleep hormone) and serotonin (your mood chemical). The catch: tryptophan has to compete with five other amino acids to cross into your brain, and it usually loses. The winning move? Eat carbs with dinner. When you consume carbohydrates, your body releases insulin, which pulls the competing amino acids into muscle tissue, letting tryptophan slip through unopposed. A 2003 study found high-carb meals eaten 4 hours before bed cut the time to fall asleep by nearly half. Skip the protein-only dinners—they backfire. Add rice, bread, or potatoes to your evening meal and let biochemistry work in your favor.</p>
+</div>
 
 ---
 

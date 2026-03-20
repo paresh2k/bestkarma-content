@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Where your fat sits matters more than how much you have overall.</li>
+    <li>✓ Visceral fat wraps organs and directly damages your liver and metabolism.</li>
+    <li>✓ Your scale and BMI can't detect visceral fat — it's invisible.</li>
+    <li>✓ Visceral fat pumps inflammatory chemicals that age your heart and brain.</li>
+    <li>✓ Thin people can have dangerous belly fat; BMI misses this completely.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Your bathroom scale doesn't know where your fat lives. Your doctor's BMI calculation doesn't either.
 
 This matters enormously, because the location of fat — not just its quantity — determines most of its metabolic impact. A person with 20% body fat stored predominantly under the skin carries a very different risk profile than someone with the same percentage stored around their abdominal organs.
@@ -92,6 +104,23 @@ Managing visceral fat — through the combination of aerobic exercise, sleep, st
 The measurement is accessible. The interventions are known. The biology is clear.
 
 Where your fat lives is something you can influence — and it may matter more than what the scale says.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Measure waist circumference:</strong> track abdominal fat directly since BMI and scales miss it.</li>
+    <li>→ <strong>Manage chronic stress:</strong> high cortisol drives visceral fat accumulation around organs.</li>
+    <li>→ <strong>Know your ancestry risk:</strong> Asian populations accumulate more visceral fat at same BMI.</li>
+    <li>→ <strong>Request liver screening:</strong> visceral fat causes fatty liver disease silently.</li>
+    <li>→ <strong>Prioritize insulin health:</strong> break the visceral fat cycle through metabolic management.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your scale is lying to you. Two people at identical weights can have totally different health risks depending on where their fat actually lives. Visceral fat — the kind wrapped around your organs — is metabolically toxic in ways subcutaneous fat (the pinchable kind under your skin) simply isn't. It floods your liver with inflammatory chemicals, hijacks your insulin response, and accelerates aging. The scary part? You can't see it or pinch it, and standard measurements like BMI completely miss it. You could have a "normal" BMI and still be carrying dangerous amounts. This is especially true if you're of Asian descent. Waist circumference matters way more than what your scale says.</p>
+</div>
 
 ---
 

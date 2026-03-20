@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Women's health risks differ fundamentally from men's — heart disease and Alzheimer's rates prove it.</li>
+    <li>✓ Your 30s are when you build bone density and cardiovascular health that protect you for decades.</li>
+    <li>✓ Peak bone mass is largely set by 30; weight-bearing exercise now prevents osteoporosis later.</li>
+    <li>✓ Perimenopause starts in your 40s with estrogen volatility that disrupts sleep, mood, and metabolism.</li>
+    <li>✓ Each decade has specific, high-leverage interventions — the key is timing them right.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most women are told their health risks are simply "men's risks, slightly adjusted." The evidence says otherwise. Cardiovascular disease kills more women than all cancers combined — yet for decades, landmark heart trials enrolled almost no women. Women develop Alzheimer's at nearly twice the rate of men. Bone loss accelerates so sharply in the five years around menopause that a woman can lose more skeletal mass in that window than a man loses across his entire lifetime. These are not minor footnotes. They are the central plot of women's healthspan — and the good news is that the highest-leverage interventions map almost perfectly onto the decades in which they matter most.
 
 This is that map.
@@ -102,6 +114,23 @@ Muscle mass is not merely a performance variable; it is a metabolic organ. Skele
 There is a recurring finding across the longevity literature that deserves emphasis: the benefits of nearly every major intervention — resistance training, cardiovascular fitness, metabolic health, bone density, cognitive reserve — are maximized when started early and maintained consistently. The biological returns on prevention far exceed the returns on treatment. The decades described here are not rigid categories; they are rough guides to when each priority reaches its highest leverage point.
 
 The most important thing is not which decade you're in. It is whether you start.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Test your baseline now:</strong> Get lipid panel, glucose, insulin, vitamin D, and blood pressure checked in your 30s to catch early risk.</li>
+    <li>→ <strong>Build bone capital early:</strong> Hit 1,000 mg dietary calcium daily and maintain vitamin D above 40 ng/mL before peak bone mass closes.</li>
+    <li>→ <strong>Track cycle changes:</strong> Note irregular periods, heavy bleeding, or mood shifts in your 40s — they signal addressable conditions like PCOS or thyroid issues.</li>
+    <li>→ <strong>Prioritize resistance training:</strong> Strength work becomes non-negotiable in perimenopause to protect muscle, bone, and metabolic health through the transition.</li>
+    <li>→ <strong>Know perimenopause timing:</strong> Expect estrogen volatility anytime between 35–55, not just at 50 — prepare early rather than react in crisis.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Women aren't just men with adjusted health risks — we have completely different biology. Heart disease kills more women than all cancers combined, yet we're barely in the research. Here's the real timeline: Your 30s are foundational. Build bone density and nail cardiovascular health now because these determine your health decades later. Your 40s bring perimenopause (which starts earlier than you think) with wild estrogen swings that wreck sleep, mood, and metabolism. Resistance training shifts from optional to essential. The bottom line? Women's health isn't one-size-fits-all across life stages. Each decade has specific, science-backed interventions that work best when timed right. Stop waiting for midlife to care about your health. Start now.</p>
+</div>
 
 ---
 

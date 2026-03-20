@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Vitamin K2 directs calcium to bones and away from arteries; K1 (leafy greens) doesn't do this.</li>
+    <li>✓ People with highest K2 intake had 52% lower risk of arterial calcification and 57% lower cardiovascular death risk.</li>
+    <li>✓ MK-7 form of K2 (natto, aged cheese) lasts 3 days in body; MK-4 (meat, eggs) lasts only 1–2 hours.</li>
+    <li>✓ K2 supplements improve bone density at hip and spine, especially when combined with vitamin D and calcium.</li>
+    <li>✓ Most people taking vitamin D miss K2, potentially leaving bones weak while hardening arteries instead.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people taking vitamin D supplements don't realize they may be solving half the problem. Vitamin D tells your body to absorb calcium. But without vitamin K2, that calcium has nowhere useful to go — and may end up exactly where you don't want it: hardening your arteries while leaving your bones brittle. The irony is that the supplement aisle has spent two decades fixated on vitamin D while K2, its essential partner, sits quietly on the bottom shelf. The Rotterdam Study, which followed 4,807 Dutch adults over ten years, found that people with the highest dietary K2 intake had a **52% lower risk of severe aortic calcification** and a 57% lower risk of dying from cardiovascular disease compared to those with the lowest intake. K1 — the form found in leafy greens — showed no such association. That distinction matters enormously, and understanding it could change how you think about bone and heart health.
 
 ---
@@ -90,6 +102,23 @@ Based on the available intervention trials — particularly the Knapen 2013 tria
 - **Anticoagulant caution:** Individuals taking warfarin (Coumadin) should consult their physician before adding any form of vitamin K, as it interacts with the drug's mechanism of action
 
 The safety profile of MK-7 at these doses is reassuring — no adverse effects have been observed in trials at 180–360 mcg/day.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Add fermented K2 sources:</strong> eat natto, aged cheeses, or sauerkraut regularly to boost MK-7 intake without supplements.</li>
+    <li>→ <strong>Pair D with K2:</strong> don't take vitamin D alone—ensure K2 intake so calcium deposits in bones, not vessels.</li>
+    <li>→ <strong>Choose MK-7 over MK-4:</strong> if supplementing, select MK-7 form because its longer half-life means once-daily dosing works.</li>
+    <li>→ <strong>Test your intake baseline:</strong> track K2-rich foods for one week to see if you naturally hit adequate levels before supplementing.</li>
+    <li>→ <strong>Stack with calcium and D:</strong> K2 works best alongside vitamin D and calcium; all three together improve bone and cardiovascular outcomes.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You've probably heard about vitamin D for bones, but here's what's missing: vitamin D tells your body to absorb calcium, but K2 is what actually sends that calcium to your bones instead of letting it harden your arteries. One major study of 4,800+ people found those eating the most K2 had 52% lower risk of arterial calcification and 57% lower heart disease death risk. The catch? K2 has two main forms. MK-7 (found in natto, aged cheese, fermented foods) stays in your body for three days, making it way more effective than MK-4 (meat, eggs) which only lasts 1–2 hours. If you're taking vitamin D without K2, you might actually be solving half the problem. Most people don't even realize they need both.</p>
+</div>
 
 ---
 

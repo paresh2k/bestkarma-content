@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ VO2 max predicts lifespan better than cholesterol, blood pressure, or blood sugar combined.</li>
+    <li>✓ Each 1-point increase in VO2 max adds roughly 45 days to your life expectancy.</li>
+    <li>✓ Moving from sedentary to merely below-average fitness cuts mortality risk by over 50%.</li>
+    <li>✓ High aerobic fitness is linked to longer telomeres, meaning slower cellular aging.</li>
+    <li>✓ Most people lose 30-40% of peak aerobic capacity by age 60 due to inactivity, not age.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Your doctor measures your blood pressure, cholesterol, and blood sugar. These are useful numbers. They tell you about cardiovascular risk, metabolic risk, the likelihood of certain diseases.
 
 But there's a number your doctor almost certainly hasn't measured — and the research suggests it may be more predictive of how long you'll live than any of those standard markers.
@@ -114,6 +126,23 @@ Not elite. Not optimal. But meaningful — in a way that extends a life, not jus
 Get a baseline measurement this week. Use your watch's estimate, run the Cooper test, or book a proper assessment. Write the number down. Then train consistently for 90 days and measure again.
 
 VO2 max is the one fitness metric that tells you not how fit you feel, but how long you'll live. The body keeps its own score. It's worth knowing yours.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Get tested:</strong> Ask your doctor for a VO2 max assessment or find a fitness center that offers cardiorespiratory testing to establish your baseline.</li>
+    <li>→ <strong>Build aerobic capacity:</strong> Commit to consistent cardio training—walking, running, cycling, or swimming—to improve fitness and add years to your life.</li>
+    <li>→ <strong>Aim for below-average minimum:</strong> Don't chase elite status. Simply moving out of the sedentary category delivers the biggest health gains.</li>
+    <li>→ <strong>Target 10-point improvement:</strong> A realistic 6-12 month training plan can boost VO2 max by 10 points, adding over a year of life expectancy.</li>
+    <li>→ <strong>Start now at any age:</strong> Your VO2 max declines 1% yearly without training, but consistent exercise stops and reverses this decline at any stage.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your VO2 max—how much oxygen your body uses during hard exercise—might be the single best predictor of how long you'll live. The research is wild: it's as predictive as smoking status, and way better than standard markers like cholesterol. Here's the math: every 1-point increase in VO2 max adds roughly 45 days to your life. A 10-point improvement (totally doable in 6-12 months) gives you over a year extra. The best part? You don't need to become an athlete. Moving from sedentary to just below-average fitness cuts mortality risk by 50%+. Most people lose 30-40% of their aerobic capacity by 60, not from aging but from sitting around. Get tested. Train consistently. Your future self will thank you.</p>
+</div>
 
 ---
 

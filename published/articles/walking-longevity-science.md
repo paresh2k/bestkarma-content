@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ The 10,000-step target came from a 1960s Japanese pedometer ad, not science.</li>
+    <li>✓ Mortality benefits plateau at 6,000-8,000 steps for older adults; gains taper after that.</li>
+    <li>✓ Going from 3,000 to 7,000 steps delivers bigger health wins than 7,000 to 12,000.</li>
+    <li>✓ Walking pace matters as much as step count—brisk walkers have 53% lower heart disease risk.</li>
+    <li>✓ Even short bursts of fast walking (1-2 minutes) throughout the day cut mortality by 40%.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The 10,000-step daily target has been so thoroughly embedded in wellness culture that most people assume it emerged from careful clinical research. It did not. It originated from a Japanese marketing campaign for a pedometer brand called Manpo-kei — which translates to "10,000-step meter" — launched before the 1964 Tokyo Olympics. The number was chosen because the character for 10,000 (万) resembles a person walking. No clinical trial informed it.
 
 This matters because the actual science of walking and mortality tells a more interesting and, for most people, more accessible story.
@@ -74,6 +86,23 @@ Practically: using stairs rather than elevators, walking routes that include hil
 The remarkable thing about walking's evidence base is not any single finding but the sheer consistency and scale of the research. No other single health intervention has been studied in as many people, across as many countries, for as many outcomes, and produced as consistent a signal. The intervention is free, requires no equipment, carries essentially no injury risk at moderate intensity, and produces benefits from the first week onward.
 
 It is not a consolation prize for people who can't manage more demanding exercise. It is one of the best-evidenced longevity interventions available.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Reset your target:</strong> aim for 7,000-8,000 steps daily instead of 10,000—the science-backed sweet spot.</li>
+    <li>→ <strong>Add intensity, not distance:</strong> incorporate 1-2 minute brisk walking bursts into your day for outsized benefits.</li>
+    <li>→ <strong>Use the talk test:</strong> walk fast enough to speak in sentences but not sing—that's brisk.</li>
+    <li>→ <strong>Focus on pace first:</strong> prioritize walking speed over hitting a specific step count for better outcomes.</li>
+    <li>→ <strong>Build from where you are:</strong> if you walk 3,000-4,000 steps now, increasing to 7,000 delivers major mortality gains.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Forget 10,000 steps—that number came from a 1960s pedometer ad, not research. The actual science is better news: older adults see major mortality benefits at 6,000-8,000 steps daily, and the biggest gains happen when you jump from very low counts (under 4,000) to moderate ones (around 7,000). Even better? Walking pace matters more than you'd think. Brisk walkers—moving at 3-4 mph, able to talk but not sing—have 53% lower heart disease risk than slow walkers, regardless of total steps. Throw in short bursts of fast walking throughout your day (1-2 minutes at a time) and you can cut all-cause mortality by up to 40%. The takeaway: consistency and intensity beat the arbitrary 10K target every time.</p>
+</div>
 
 ---
 

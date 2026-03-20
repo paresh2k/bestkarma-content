@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Most people exercise at the wrong intensity—too hard for fat-burning, too easy for real gains.</li>
+    <li>✓ Zone 2 training builds mitochondria and improves VO2 max, both linked to living longer.</li>
+    <li>✓ Zone 2 is the highest intensity where your body clears lactate as fast as it produces it.</li>
+    <li>✓ Studies show cardiorespiratory fitness reduces mortality risk more than quitting smoking or managing diabetes.</li>
+    <li>✓ Zone 2 is sustainable long-term with lower injury risk than high-intensity training.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people who exercise regularly are training in a metabolic no-man's-land. Not hard enough to drive the adaptations that come from genuinely high-intensity work. Not easy enough to unlock the fat-burning, mitochondria-building cascade that happens at lower intensities. If your default workout pace feels moderately hard — a brisk run, a spin class at medium resistance, a bike ride where conversation is technically possible but uncomfortable — there's a good chance you're spending most of your exercise time in exactly the wrong place.
 
 This is the central frustration behind Zone 2 training, a concept that's migrated from elite cycling coaches into mainstream longevity medicine with unusual speed. The reason it's landed so hard in that world: the adaptations Zone 2 produces aren't just relevant for endurance athletes chasing performance. They're foundational to mitochondrial function, metabolic health, and — increasingly — to how long and how well you live.
@@ -84,6 +96,23 @@ San Millán's recommendation, echoed widely in longevity medicine, is **at least
 The progress is slower than it feels like it should be. That's the point. Zone 2 is a long game, and the people who play it consistently tend to have the metabolic profiles — and the VO2 max numbers — to show for it.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Find your Zone 2:</strong> Train at an intensity where conversation is possible but uncomfortable—this is your fat-burning sweet spot.</li>
+    <li>→ <strong>Prioritize consistency:</strong> Build Zone 2 training into your weekly routine for 3-4 sessions to drive mitochondrial adaptations.</li>
+    <li>→ <strong>Measure your fitness:</strong> Track VO2 max improvements over months; even small gains meaningfully reduce your mortality risk.</li>
+    <li>→ <strong>Skip the moderate trap:</strong> Avoid the brisk-but-not-hard pace most people default to—it triggers neither adaptation nor fat-burning.</li>
+    <li>→ <strong>Combine with intensity:</strong> Use Zone 2 as your base, add high-intensity work sparingly for optimal, sustainable results.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Most people are exercising in a metabolic wasteland: not hard enough for real gains, not easy enough for fat-burning and mitochondrial health. Enter Zone 2 training—the intensity where your body clears lactate as fast as it produces it. Studies show it's one of the most reliable ways to boost VO2 max, and research involving over 120,000 people found that cardiorespiratory fitness is more predictive of longevity than smoking, diabetes, or heart disease. The sweet spot: train hard enough that conversation is uncomfortable but still possible. It's sustainable, lower-injury, and builds the mitochondrial foundation that actually determines how long and how well you live. Most people can skip it. That's exactly why you shouldn't.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ The vagus nerve is your body's main stress-relief system, controlling the shift from fight-or-flight to calm recovery mode.</li>
+    <li>✓ Your vagus nerve is mostly sensory—it reads your body's state and tells your brain whether you're safe or in danger.</li>
+    <li>✓ Heart rate variability (HRV) measures how well your vagus nerve works; higher HRV means better stress recovery and overall health.</li>
+    <li>✓ Low HRV predicts heart disease, depression, and anxiety; high HRV predicts resilience, emotional control, and faster stress recovery.</li>
+    <li>✓ Vagal tone is trainable through breathing, cold exposure, exercise, meditation, and social connection—measurable improvements happen in weeks to months.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people know the sympathetic nervous system intuitively — it's the system that makes your heart race before a difficult conversation, tightens your chest under deadline pressure, and floods your body with adrenaline when something startles you. The fight-or-flight response is part of general cultural knowledge.
 
 The counterpart — the parasympathetic nervous system, which returns you to calm, slows the heart, restores digestion, and switches the body from emergency mode to recovery mode — is less well understood. And the specific anatomy of how it works, and how you can deliberately engage it, is less understood still.
@@ -80,6 +92,23 @@ The practical value of tracking HRV over time is less in any single data point t
 The vagus nerve is not a mystical pathway — it is a specific anatomical structure with well-characterized physiology. Its health can be measured (HRV), improved through specific practices, and disrupted by known inputs (chronic stress, poor sleep, alcohol, social isolation). The practices that support it — slow breathing, cold exposure, social connection, regular exercise, meditation — are the same practices that support cardiovascular health, mental health, and longevity by multiple other pathways.
 
 Understanding the vagus nerve adds a unifying framework: these practices work partly because they directly train the body's most fundamental recovery system.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Monitor your HRV:</strong> Track heart rate variability with a wearable device to get real data on your stress recovery capacity and nervous system health.</li>
+    <li>→ <strong>Slow your breathing:</strong> Practice deliberate slow breathing (especially longer exhales) to activate your vagus nerve and shift into calm mode throughout the day.</li>
+    <li>→ <strong>Move regularly:</strong> Exercise trains vagal tone and improves HRV—aim for consistent physical activity to build nervous system resilience.</li>
+    <li>→ <strong>Build social time:</strong> Genuine connection and conversation activate the vagus nerve; prioritize time with people who make you feel safe.</li>
+    <li>→ <strong>Try cold exposure:</strong> Brief cold showers or ice baths stimulate the vagus nerve and increase HRV when done safely and consistently.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your vagus nerve is basically your body's off-switch for stress. It's a long nerve running from your brain through your chest and gut that controls whether you're in fight-or-flight mode or relaxed recovery mode. Here's the wild part: it mostly listens to your body, not your brain. So when your breathing slows and your heart rate steadies, your vagus sends 'all clear' signals to your brain—literally changing how safe you feel. Scientists measure vagal health through HRV (heart rate variability), and it's one of the best predictors of overall resilience and health. Low HRV = stuck in stress mode. High HRV = fast recovery from stress. The good news? You can train it. Slow breathing, exercise, cold exposure, meditation, and real social connection all improve vagal tone measurably in weeks. Your nervous system is more flexible than you think.</p>
+</div>
 
 ---
 

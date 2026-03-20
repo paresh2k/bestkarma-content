@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Time-restricted eating works best for people with metabolic issues, not lean healthy people.</li>
+    <li>✓ Weight loss from TRE comes from eating fewer calories naturally, not metabolic magic.</li>
+    <li>✓ Blood pressure, insulin sensitivity, and blood sugar improve in people who need it most.</li>
+    <li>✓ The viral 2024 cardiovascular death study had major flaws and doesn't reflect actual TRE risks.</li>
+    <li>✓ TRE is a valid tool for some people—just not a universal wellness solution.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Time-restricted eating has traveled a familiar path through the wellness world: from fringe practice to mainstream trend to backlash to nuanced reassessment. The truth, as usual, sits in the evidence rather than in either the enthusiastic advocacy or the skeptical debunking.
 
 What do the rigorous studies actually show?
@@ -99,6 +111,23 @@ The simplest and most sustainable TRE approach for most adults:
 **Early window over late window.** If choosing between skipping dinner and skipping breakfast, skipping dinner is metabolically superior — counterintuitive for social reasons, but better for the circadian metabolism.
 
 TRE is not a universal prescription. For metabolically healthy people eating real food in a reasonable pattern, the incremental benefit is modest. For people with metabolic syndrome, insulin resistance, or significant evening eating patterns, it can be one of the more impactful single dietary changes available.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Consider TRE if:</strong> you have metabolic syndrome, prediabetes, or high blood pressure—benefits are strongest here.</li>
+    <li>→ <strong>Skip the hype:</strong> weight loss happens because you eat fewer calories, not because fasting is magic.</li>
+    <li>→ <strong>Don't force it:</strong> if you're already lean and healthy, TRE offers minimal advantage over normal eating.</li>
+    <li>→ <strong>Start conservative:</strong> try 12-14 hour fasting windows first; extreme restriction isn't necessary for results.</li>
+    <li>→ <strong>Ignore scary headlines:</strong> the 2024 viral study used flawed methodology that doesn't apply to intentional TRE.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Time-restricted eating isn't a wellness cure-all, but it does work—for specific people. If you have metabolic issues like prediabetes, high blood pressure, or metabolic syndrome, eating within an 8-10 hour window can shrink your waist, improve insulin sensitivity, and lower blood pressure. The weight loss happens because you naturally eat fewer calories, not because fasting is metabolic magic. If you're already lean and healthy, TRE probably won't help. And that viral 2024 study claiming TRE causes early death? It used two days of food recalls to classify people, which doesn't show who actually practices TRE—major flaw. Bottom line: TRE is a legitimate tool if you have metabolic room to improve. Otherwise, skip the hype and eat normally.</p>
+</div>
 
 ---
 
