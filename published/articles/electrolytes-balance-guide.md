@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ 60% of Americans don't get enough potassium; 45% lack adequate magnesium intake.</li>
+    <li>✓ Sodium, potassium, and magnesium control nerve signals, blood pressure, muscle function, and sleep.</li>
+    <li>✓ Standard blood tests miss magnesium deficiency because 99% is stored in cells, not serum.</li>
+    <li>✓ Low potassium raises blood pressure; potassium supplementation can reduce it by 4.7 mmHg.</li>
+    <li>✓ Low magnesium causes muscle cramps, poor sleep, anxiety, and hyperexcitability across your body.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people think electrolyte balance is a sports nutrition concern — something for triathletes and football players sweating through August two-a-days. But a 2021 analysis of NHANES data published in *Nutrients* found that approximately 60% of American adults consume less than the adequate intake for potassium, and roughly 45% fall short on magnesium. These aren't athletes with unusual demands. These are ordinary people eating ordinary diets, running low on minerals that govern nerve firing, blood pressure regulation, muscle contraction, and sleep quality. The electrolyte supplement market, now worth over $3 billion annually, exists partly because it spotted a real gap — and partly because it learned to market effectively into anxiety. Knowing the difference requires understanding the underlying physiology.
 
 ---
@@ -84,6 +96,23 @@ The right approach depends on who you are and what you're doing.
 The electrolyte supplement boom is not entirely manufactured hype. The underlying physiology is real, the dietary gaps are real, and for people exercising hard in heat, targeted supplementation has genuine utility. But for the majority of people buying LMNT sachets and Liquid IV sticks for daily hydration support, the honest answer is that a plate of legumes and leafy greens would cover the actual deficit more effectively, at a fraction of the cost, with meaningfully better overall nutritional value. Understanding the mechanism — rather than the marketing — is what allows you to make that call for yourself.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have kidney disease, cardiovascular conditions, or take diuretics or other medications that affect electrolyte balance.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize potassium sources:</strong> eat leafy greens, sweet potatoes, beans, and fish to meet daily adequate intake.</li>
+    <li>→ <strong>Add magnesium-rich foods:</strong> incorporate almonds, pumpkin seeds, spinach, and dark chocolate into regular meals.</li>
+    <li>→ <strong>Request functional testing:</strong> ask your doctor about magnesium status beyond standard serum tests if you have symptoms.</li>
+    <li>→ <strong>Watch sodium balance:</strong> don't drastically cut sodium—maintain balance with potassium to protect heart function.</li>
+    <li>→ <strong>Monitor sleep and muscle:</strong> track cramps, twitching, insomnia, or anxiety as signs you may need electrolyte adjustment.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Most of us aren't getting enough potassium and magnesium—and it matters way more than we realize. These minerals control everything: your heartbeat, nerve signals, blood pressure, sleep quality, and muscle function. The problem? A standard blood test often misses magnesium deficiency because 99% of it lives inside your cells, not in your bloodstream. If you're experiencing muscle cramps, poor sleep, anxiety, or weakness, electrolyte imbalance could be the culprit. The good news: you don't need expensive supplements. Leafy greens, sweet potatoes, beans, almonds, and pumpkin seeds all pack serious electrolyte power. Small shifts in what you eat can restore balance without hype or marketing.</p>
+</div>
 
 ---
 

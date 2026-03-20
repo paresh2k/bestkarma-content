@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Most Americans eat 15g fiber daily; experts recommend 25-38g for health.</li>
+    <li>✓ Fiber feeds gut bacteria, which produce compounds that reduce inflammation and disease.</li>
+    <li>✓ Different fiber types (soluble, insoluble, resistant starch) have different health benefits.</li>
+    <li>✓ Butyrate, a byproduct of fiber fermentation, protects your gut lining and prevents disease.</li>
+    <li>✓ Hunter-gatherers ate 100g fiber daily and had far less chronic disease than us.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The average American eats about 15 grams of dietary fiber per day. The recommended intake is 25-38 grams, depending on age and sex. Less than 5% of Americans meet this recommendation.
 
 The Hadza hunter-gatherers of Tanzania — a population that remains one of the best-studied examples of ancestral human diet — consume an estimated 100 grams of fiber per day from tubers, berries, baobab fruit, and fibrous plant material. Their gut microbiome diversity substantially exceeds that of Western populations, and their rates of chronic inflammatory disease are correspondingly low.
@@ -86,6 +98,23 @@ Psyllium husk, inulin, and other fiber supplements are legitimate tools for spec
 The microbiome diversity benefit that comes from 30 plants per week is not replicated by a psyllium capsule. Supplements can fill a fiber quantity gap; they cannot replace food variety.
 
 A practical sequencing: start with food diversity. If whole-food fiber intake remains consistently below 20g despite dietary effort, then psyllium or inulin supplementation bridges the gap while dietary habits are building.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track your fiber intake:</strong> Aim for 25-38g daily by logging what you eat this week.</li>
+    <li>→ <strong>Mix fiber sources:</strong> Combine oats, beans, vegetables, and resistant starch for maximum microbiome benefit.</li>
+    <li>→ <strong>Cool your carbs:</strong> Refrigerate cooked potatoes and rice to convert starch into gut-feeding resistant starch.</li>
+    <li>→ <strong>Add prebiotic foods:</strong> Include garlic, onions, and asparagus to feed beneficial bacteria species.</li>
+    <li>→ <strong>Increase gradually:</strong> Add 5g fiber weekly to avoid bloating while your microbiome adapts.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You're probably not eating enough fiber—and it's costing your health. Most Americans get 15g daily when they should get 25-38g. Fiber is plant material your body can't digest, but your gut bacteria absolutely love it. When bacteria ferment fiber, they produce compounds like butyrate that reduce inflammation, protect your gut lining, and lower disease risk. Different fibers do different things: soluble fiber (oats, beans) slows digestion, insoluble fiber (vegetables, whole wheat) adds bulk, and resistant starch (cooled potatoes, underripe bananas) feeds your best bacteria. Hunter-gatherers eating 100g fiber daily had diverse microbiomes and almost no chronic disease. The fix is simple: eat more plants, vary your sources, and be patient—your gut adapts over weeks.</p>
+</div>
 
 ---
 

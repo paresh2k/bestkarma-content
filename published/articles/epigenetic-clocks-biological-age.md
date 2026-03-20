@@ -13,6 +13,18 @@ readTime: 9
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your biological age can differ from your birth certificate age by a decade or more.</li>
+    <li>✓ Epigenetic clocks measure biological age through DNA methylation patterns with striking accuracy.</li>
+    <li>✓ Several clocks exist; GrimAge is the strongest predictor of mortality and lifespan.</li>
+    <li>✓ Biological age is not fixed—it responds to diet, lifestyle, and targeted interventions.</li>
+    <li>✓ Being five years biologically older than your chronological age significantly raises disease risk.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Two people born in the same year can have biologically different ages by a decade or more. One of them is aging faster — at the cellular level, in ways that predict disease and death more accurately than their birth certificate.
 
 For most of history, we had no way to measure this. We could observe that some 55-year-olds seemed physiologically younger than others of the same chronological age. But the mechanism — and the measurement — were elusive.
@@ -108,6 +120,23 @@ The lesson from epigenetic aging research isn't to obsess over expensive testing
 The interventions with the strongest epigenetic clock evidence — aerobic exercise, anti-inflammatory diet, quality sleep, stress management, social connection — are the same interventions supported across virtually every other longevity metric. They're not performing differently at the epigenetic level; they're confirming that these behaviors work all the way down to the molecular machinery of aging.
 
 That's the signal worth acting on.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Get tested:</strong> Ask your doctor about epigenetic clock testing to establish your true biological age baseline.</li>
+    <li>→ <strong>Track methylation markers:</strong> Use epigenetic clocks to monitor whether lifestyle changes actually slow aging.</li>
+    <li>→ <strong>Prioritize methylation-supporting diet:</strong> Eat plant-rich foods and nutrients that influence DNA methylation patterns positively.</li>
+    <li>→ <strong>Measure what matters:</strong> Focus on GrimAge or PhenoAge for the most clinically relevant aging data.</li>
+    <li>→ <strong>Reverse your clock:</strong> Commit to sustained diet and lifestyle changes proven to lower biological age measurably.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You might be aging faster or slower than your birth certificate suggests—and science can now measure it. Epigenetic clocks read chemical marks on your DNA that predict disease and death better than your actual age. The breakthrough: unlike your genes, these marks aren't fixed. They respond to what you eat, how you move, and what you do. Several versions exist, but GrimAge is the gold standard for predicting how long you'll actually live. Even better? A recent study showed you can reverse your biological age through targeted diet and lifestyle changes in just eight weeks. This isn't about feeling young—it's measurable, molecular aging reversal.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Sitting for long periods is a health risk that morning exercise doesn't fix.</li>
+    <li>✓ Just 2-3 minutes of movement reactivates fat-burning enzymes in your muscles.</li>
+    <li>✓ Exercise snacks (brief movement throughout day) are as effective as longer workouts.</li>
+    <li>✓ Even 60-second intense bursts improve heart and lung function significantly.</li>
+    <li>✓ Breaking up sitting also sharpens focus and attention throughout your day.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 For a long time, the conversation about physical activity was binary: you exercise, or you don't. The exercise recommendation was a block of time — 150 minutes per week, 30 minutes most days — and if you met it, you were considered physically active regardless of what happened during the other 23.5 hours of each day.
 
 Research over the past decade has fundamentally revised this picture. Prolonged uninterrupted sitting, it turns out, is an independent health risk — one that is not cancelled out by a morning workout. And breaking up sitting with brief periods of movement produces metabolic benefits that accumulate in ways the 30-minute morning session alone cannot replicate.
@@ -77,6 +89,23 @@ A practical movement menu for a desk-work day:
 | End of workday | Walk home or around the block | 10-20 min |
 
 The 2025 consensus from the exercise snack literature is clear: the question is no longer whether brief, distributed movement produces meaningful health benefits. It does. The question is only how to make it automatic enough to actually happen.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Stand every 30 minutes:</strong> interrupt sitting with 2-3 minutes of light walking or standing to reactivate muscle enzymes that burn fat.</li>
+    <li>→ <strong>Add movement snacks:</strong> do brief exercise bursts (under 10 minutes) at least twice daily, 30 minutes apart.</li>
+    <li>→ <strong>Try stair sprints:</strong> climb stairs for 60 seconds at full effort for cardiovascular benefits comparable to longer moderate workouts.</li>
+    <li>→ <strong>Walk between tasks:</strong> take a 2-minute walk every 30 minutes of desk work to improve attention and cognitive performance.</li>
+    <li>→ <strong>Don't rely on morning workouts alone:</strong> exercise doesn't cancel out sitting's metabolic harm—distributed movement throughout the day is essential.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You hit your 30-minute workout this morning—great. But then you sat for 9 hours straight. Your body doesn't care about that one session. Prolonged sitting suppresses fat-burning enzymes in your muscles and raises disease risk, regardless of formal exercise. The fix is simple: move for 2-3 minutes every 30 minutes. Stand, walk, take the stairs. Even a 60-second stair sprint at full effort delivers real cardiovascular benefits. These "exercise snacks" throughout your day are as powerful as longer workouts—and they sharpen your focus too. Your body wasn't built for 8-hour sitting blocks. Movement distributed across the day is the antidote.</p>
+</div>
 
 ---
 

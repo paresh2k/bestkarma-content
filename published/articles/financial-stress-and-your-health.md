@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Money stress is the #1 stressor for Americans, affecting 65-72% of adults regularly.</li>
+    <li>✓ Chronic financial worry triggers constant cortisol release, damaging metabolism, immunity, and brain health.</li>
+    <li>✓ Money stress ages your cells at the DNA level, linked to earlier disease onset.</li>
+    <li>✓ Financial hardship increases heart attack and stroke risk by 13%, independent of income level.</li>
+    <li>✓ The threat of money problems damages health more than the actual lack of money itself.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 For decades, the conversation about financial health and physical health ran in parallel but rarely intersected. Personal finance advisers talked about emergency funds; doctors talked about cholesterol. The research of the last 20 years has collapsed that division.
 
 Financial stress is not just a state of mind. It is a physiological condition with measurable effects on the body — effects significant enough to shorten your life.
@@ -115,3 +127,19 @@ Your financial plan is, in a very literal sense, a health plan.
 [^6]: Consumer Financial Protection Bureau (2015). *Financial Well-Being: The Goal of Financial Education*. CFPB.
 
 [^7]: Kaiser T & Menkhoff L (2017). Does financial education impact financial literacy and financial behavior, and if so, when? *The World Bank Economic Review*, 31(3), 611–630.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track spending habits:</strong> monitor how financial stress triggers unhealthy coping like smoking or overeating, then replace with alternatives.</li>
+    <li>→ <strong>Build a small buffer:</strong> even a modest emergency fund reduces chronic worry and cortisol activation significantly.</li>
+    <li>→ <strong>Talk to someone:</strong> anxiety and depression from money stress are treatable; therapy or counseling breaks the stress cycle.</li>
+    <li>→ <strong>Prioritize sleep:</strong> financial worry disrupts deep sleep; protect 7-9 hours nightly to counter cortisol damage.</li>
+    <li>→ <strong>Seek financial guidance:</strong> working with an advisor or counselor on a concrete plan reduces the ongoing threat perception.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your bank account stress is literally aging your body. Money is now scientifically proven as the #1 stressor for Americans—worse than health scares or work pressure. Here's the problem: constant worry about finances keeps your stress hormone cortisol permanently elevated. That wrecks your metabolism, tanks your immune system, makes you gain belly fat, destroys sleep quality, and even shortens your telomeres (the DNA caps that measure cellular aging). Research shows financial hardship increases heart attack risk by 13%. The kicker? Chronic worry about money damages health more than being actually poor. Your brain perceives ongoing threat—that's what triggers the damage. The fix: build even a small emergency fund, get professional financial or mental health support, and protect your sleep. Your biology will thank you.</p>
+</div>

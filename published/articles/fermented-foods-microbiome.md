@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Fermented foods beat fiber for increasing gut microbiome diversity in a major Stanford study.</li>
+    <li>✓ Fermented foods reduced 18 of 19 inflammatory proteins; high-fiber diet showed no consistent reduction.</li>
+    <li>✓ Fermented foods introduce new microbial species; fiber mainly feeds existing ones already present.</li>
+    <li>✓ A single serving of kefir contains 30-60 species; probiotic pills typically have only 3-10.</li>
+    <li>✓ Fermented foods and fiber work best together: diversity first, then feed that richer ecosystem.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In 2021, researchers at Stanford published a randomized controlled trial in *Cell* that produced a finding the nutrition world wasn't quite expecting. The study set out to compare two promising gut-health dietary strategies — high-fiber eating and high-fermented-food eating — to see which produced better outcomes for microbiome health and systemic inflammation.
 
 The high-fiber strategy was the expected winner. Decades of research had established that dietary fiber feeds the gut microbiome. More fiber, more microbial food, healthier microbiome.
@@ -83,6 +95,23 @@ Based on the Stanford study's findings and the broader microbiome literature, a 
 Start with fermented foods to establish and diversify the microbial community. Then increase fiber diversity to feed and sustain the richer ecosystem that fermented foods help build. Someone with very low fiber intake and very low fermented food intake might find that increasing fiber first produces limited microbiome response — because there aren't enough diverse microbial species to ferment it effectively. The reverse sequence — fermented foods first, then fiber — may be more effective for people starting from a depleted baseline.
 
 In practice, doing both simultaneously is fine and probably optimal. The research framing was experimental; in daily life, eating a diverse plant-based diet with multiple fermented foods each day is the practical target, not a carefully sequenced protocol.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Add fermented foods first:</strong> prioritize 6 servings daily of yogurt, kefir, kimchi, or sauerkraut before focusing on fiber alone.</li>
+    <li>→ <strong>Choose whole fermented foods:</strong> eat naturally fermented options with multiple live species over single-strain probiotic supplements when possible.</li>
+    <li>→ <strong>Layer both strategies:</strong> establish microbiome diversity with fermented foods, then increase fiber variety to feed your expanded microbial community.</li>
+    <li>→ <strong>Track fermentation sources:</strong> select traditionally made fermented foods with varied ingredients and minimal processing for maximum microbial complexity.</li>
+    <li>→ <strong>Start gradual:</strong> introduce fermented foods slowly if your gut isn't accustomed to them, then increase to target 6 servings daily.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">A Stanford study just flipped the script on gut health. Researchers compared 86 people eating either high-fiber diets or fermented foods (yogurt, kefir, kimchi, kombucha) for 10 weeks. Surprise: fermented foods won. They boosted microbiome diversity and crushed inflammation markers; fiber alone didn't. Why? Fermented foods introduce dozens of new bacterial species directly into your gut—like 30-60 species in one serving of kefir. Fiber just feeds microbes you already have. The takeaway: fermented foods aren't just fancy foods, they're microbial introductions. One serving of real kimchi packs more species than most probiotic pills. Best part? They probably work together. Use fermented foods to diversify your gut ecosystem first, then feed that richer community with fiber. That's the strategy that actually moves the needle.</p>
+</div>
 
 ---
 

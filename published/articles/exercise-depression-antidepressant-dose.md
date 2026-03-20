@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Exercise works as well as antidepressants for depression, sometimes better, based on 218 clinical trials.</li>
+    <li>✓ Walking and jogging produce the strongest mood effects; aerobic exercise outperforms yoga and strength training.</li>
+    <li>✓ Exercise boosts BDNF, a brain chemical that promotes neuron growth and reverses depression-related brain shrinkage.</li>
+    <li>✓ Regular aerobic activity normalizes your stress hormone system, breaking the cortisol-anxiety-depression loop.</li>
+    <li>✓ The antidepressant effect of exercise is real biology, not just feeling better from movement.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Something remarkable happened in early 2024 that barely made it past the health news cycle: a meta-analysis so large it should have changed how every psychiatrist and GP thinks about first-line treatment for depression. It didn't get nearly enough attention. Here's what it found — and what you can do with it.
 
 ---
@@ -99,6 +111,23 @@ If you want to use exercise therapeutically for depression — whether as a stan
 - **Reduce friction:** Supervised exercise outperforms home-based in RCTs. A running group, a coach, or a committed training partner dramatically improves adherence — and the social component may carry its own therapeutic benefit.
 
 If you are currently taking antidepressants, do not alter your medication without consulting your prescriber. Exercise as an adjunct is supported by evidence; unilateral medication changes are not.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize aerobic exercise:</strong> choose walking, jogging, or running over yoga or strength training for mood benefits.</li>
+    <li>→ <strong>Commit to consistency:</strong> aim for moderate-to-high intensity aerobic activity regularly to boost BDNF and stabilize cortisol.</li>
+    <li>→ <strong>Consider as first-line:</strong> if you have depression, discuss exercise with your doctor as an alternative or complement to medication.</li>
+    <li>→ <strong>Target the hippocampus:</strong> sustained aerobic exercise literally grows new neurons in the brain region responsible for emotion regulation.</li>
+    <li>→ <strong>Reset your stress axis:</strong> regular activity rewires your body's cortisol response, breaking cycles of anxiety and low mood.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">A massive review of 218 studies just proved what scientists have quietly known: exercise works as well as antidepressants for depression. We're not talking about a small mood boost—walking and jogging produce medium-to-large effects that actually beat medication in some head-to-head comparisons. Here's the biology: when you exercise, your brain floods itself with BDNF, a growth factor that's essentially fertilizer for neurons. Depression literally shrinks your hippocampus (your mood control center), but exercise regrows it. Plus, aerobic activity normalizes cortisol, your stress hormone, which means you're not just feeling better—you're rewiring your brain. This isn't pseudoscience. It's solid neurobiology with decades of evidence behind it.</p>
+</div>
 
 ---
 

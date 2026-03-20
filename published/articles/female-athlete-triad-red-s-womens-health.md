@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ RED-S affects recreational athletes, not just elite competitors training for marathons and races.</li>
+    <li>✓ Energy deficiency below 30 kcal per kg of fat-free mass triggers harmful body-wide effects.</li>
+    <li>✓ Missed periods are an early warning sign, but damage to bones and immunity happens first.</li>
+    <li>✓ Low energy availability impairs immune function, mood, cognition, and cardiovascular health simultaneously.</li>
+    <li>✓ Bone damage from energy deficiency can persist even after you fix your eating and training.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most active women have never heard of relative energy deficiency in sport. Many are living with it right now — and mistaking it for normal training fatigue.
 
 Here's the problem: the original framework for understanding this condition, the **female athlete triad**, focused narrowly on three linked issues in competitive athletes: disordered eating, menstrual dysfunction, and low bone density. That framing, while useful, missed the full picture. A 2014 consensus statement by the International Olympic Committee introduced the term **RED-S** — relative energy deficiency in sport — and the shift was more than semantic. RED-S recognized that low energy availability doesn't just damage bones and disrupt periods. It suppresses immune function, impairs cognition, destabilizes mood, compromises cardiovascular health, and slows recovery. And crucially, it doesn't only affect elite athletes. It affects the recreational runner training for a half-marathon, the CrossFit regular who cleans up her diet before summer, the cyclist who extends her rides without eating more. The threshold for harm is lower than most people assume.
@@ -64,6 +76,23 @@ Recovery from RED-S is not as simple as eating at maintenance. A 2021 paper by *
 ### Reduce load if necessary — temporarily
 
 Reducing training volume by 10–20% while increasing intake is often more effective than dietary change alone in the short term. This is not a permanent prescription, but it creates the energy surplus needed to restart hormonal signaling. Resumption of spontaneous menstruation is the most clinically meaningful marker of recovery.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track your fuel intake:</strong> calculate daily energy needs relative to exercise volume and eat enough to match.</li>
+    <li>→ <strong>Notice period changes:</strong> irregular or missing periods signal energy deficiency—don't dismiss as normal training stress.</li>
+    <li>→ <strong>Monitor bone health:</strong> get baseline bone density scans if you have history of low energy availability.</li>
+    <li>→ <strong>Prioritize recovery nutrition:</strong> eat within 30 minutes post-workout with protein and carbs to support adaptation.</li>
+    <li>→ <strong>Watch for subclinical signs:</strong> fatigue, mood dips, frequent infections, or slow healing suggest energy deficit.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You don't have to be an Olympic athlete to develop RED-S (relative energy deficiency in sport). If you're running, cycling, or doing CrossFit while eating too little for the work you're doing, your body starts shutting down non-essential systems—starting with your period, then immune function, bone health, mood, and brain performance. The dangerous part? You might not feel sick until damage is already done. Researchers found that eating fewer than 30 calories per kilogram of fat-free body mass daily triggers this cascade. The fix isn't complicated: eat enough to fuel your training. But the earlier you catch it, the better your chance of full recovery.</p>
+</div>
 
 ---
 

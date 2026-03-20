@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Emotions are data, not noise—they tell you something important about what matters to you.</li>
+    <li>✓ Emotional regulation means feeling fully without being overwhelmed or controlled by feelings.</li>
+    <li>✓ Suppression and avoidance backfire; they maintain stress and worsen anxiety over time.</li>
+    <li>✓ Your prefrontal cortex can learn to modulate amygdala reactivity through deliberate practice.</li>
+    <li>✓ Sleep, mindfulness, exercise, and stress reduction directly improve your emotional regulation capacity.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The word "emotional" is often used as a synonym for irrational — as if having strong feelings is the opposite of thinking clearly. This framing is not only inaccurate; it is actively misleading about how emotions work and what good emotional functioning looks like.
 
 Emotions are not noise in the system. They are information — fast, body-mediated appraisals of situations relevant to your wellbeing and goals. Fear signals threat. Anger signals a violation of norms or rights. Sadness signals loss. Guilt signals a transgression against your own values. These signals are functional; they evolved because they directed adaptive behavior. The problem is not that we have emotions — the problem is when the emotional appraisal system is poorly calibrated, when emotions are inappropriately intense for the situation, when they persist past their usefulness, or when we lack the skills to work with them effectively.
@@ -80,6 +92,23 @@ Granularity matters: the more precisely you can identify what you're feeling (no
 Emotional regulation is not an innate talent — it is a skill with a learnable toolkit. The evidence-based starting points: sleep adequately (the floor, not optional), label your emotions with precision when they arise, use cognitive reappraisal as the primary strategy for intense emotional states (ask "what else might this mean?" rather than "how do I stop feeling this?"), practice allowing difficult emotions through without fighting them, and avoid the suppression habit that feels immediately helpful and causes long-term accumulation.
 
 The goal is not a less emotional life. It is an emotionally intelligent one — where feelings are neither suppressed nor overwhelming, where they inform rather than control behavior, and where the gap between what you feel and what you choose to do is wide enough to contain wisdom.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Reframe, don't suppress:</strong> When emotions arise, acknowledge them and ask what they're signaling instead of pushing them down.</li>
+    <li>→ <strong>Face discomfort gradually:</strong> Avoid avoidance patterns; small, repeated exposure to triggers builds regulation capacity over time.</li>
+    <li>→ <strong>Prioritize sleep:</strong> Poor sleep weakens prefrontal cortex function; aim for 7–9 hours to strengthen emotional control.</li>
+    <li>→ <strong>Practice mindfulness daily:</strong> Even 10 minutes of meditation strengthens prefrontal-amygdala connectivity and reduces reactivity.</li>
+    <li>→ <strong>Move your body regularly:</strong> Exercise restores prefrontal function and directly improves your ability to regulate intense emotions.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Stop thinking emotions are the enemy. Fear, anger, sadness—they're all useful signals telling you something matters. The real skill isn't eliminating feelings; it's feeling them fully without being hijacked by them. That's emotional regulation. Your brain has two systems competing: your amygdala (instant threat detector) and your prefrontal cortex (the rational thinker). When you're stressed, sleep-deprived, or traumatized, the amygdala wins and you react. When you're rested and calm, your prefrontal cortex can actually talk it down. Suppressing emotions or avoiding situations? Both backfire. What actually works: sleep, exercise, mindfulness, and practice tolerating discomfort. Train your brain, not your feelings.</p>
+</div>
 
 ---
 

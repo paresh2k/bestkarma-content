@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Gum disease bacteria have been found in Alzheimer's brains, suggesting a possible link to neurodegeneration.</li>
+    <li>✓ Periodontal disease significantly increases heart attack and stroke risk through bacteria in arteries and chronic inflammation.</li>
+    <li>✓ Gum disease and diabetes create a vicious cycle: each condition makes the other worse.</li>
+    <li>✓ Bacteria from your mouth regularly enter your bloodstream during normal activities like chewing and brushing.</li>
+    <li>✓ Treating gum disease can actually improve blood sugar control in diabetic patients.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In 2019, a research team at Cortexyme published a paper in *Science Advances* with a finding that, if it holds up to continued scrutiny, will fundamentally change how we understand Alzheimer's disease. The team examined post-mortem brain tissue from Alzheimer's patients and age-matched controls and looked for evidence of *Porphyromonas gingivalis* — the primary bacterial pathogen in chronic gum disease.
 
 They found it in 96% of the Alzheimer's cases — the bacteria itself and, specifically, its toxic enzymes called gingipains, which were associated with tau pathology (a hallmark of Alzheimer's) and found at higher levels in patients with more severe disease. In mouse models, oral infection with P. gingivalis produced neurodegeneration, and gingipain inhibitors blocked the neurodegeneration.
@@ -76,6 +88,23 @@ Standard dental advice (brush twice, floss daily, see your dentist) is correct b
 **Blood sugar management.** For the sizable population with pre-diabetes or type 2 diabetes, tightly managed glucose is a direct oral health intervention — it removes the favorable environment that elevated blood glucose provides for periodontal pathogens.
 
 The systemic stakes of oral health — rarely discussed in this framing by dentists or physicians — make the case for treating dental care as preventive medicine rather than cosmetic maintenance. The $150 dental cleaning and the 5 minutes of daily oral hygiene are, mechanistically, cardiovascular risk reduction and potential dementia prevention. The ROI, viewed from that angle, is exceptional.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize gum health:</strong> treat gum disease promptly since it directly impacts heart health and cardiovascular risk.</li>
+    <li>→ <strong>Brush and floss daily:</strong> reduce bacterial load in your mouth to minimize bacteria entering your bloodstream.</li>
+    <li>→ <strong>Get regular dental checkups:</strong> catch periodontal disease early before it triggers systemic inflammation and damage.</li>
+    <li>→ <strong>Monitor if diabetic:</strong> manage gum disease aggressively, as treating it measurably improves blood sugar control.</li>
+    <li>→ <strong>See a dentist before cardiology visits:</strong> provide dental history to cardiologists since gum disease is a cardiac risk factor.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your dentist isn't just checking for cavities—they're protecting your whole body. Bacteria from gum disease don't stay isolated; they regularly enter your bloodstream and can end up in your heart, arteries, and even your brain. Scientists found this gum bacteria in 96% of Alzheimer's patients and linked it to neurodegeneration in studies. The cardiovascular connection is even stronger: gum disease increases heart attack risk by 20-50%, both through direct bacterial invasion of plaques and chronic inflammation that damages arteries. If you have diabetes, it gets worse—gum disease makes blood sugar control harder, while high blood sugar feeds the bacteria. The good news? Treating gum disease actually improves diabetes outcomes. Your mouth health is your whole-body health.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Estrogen protects the brain from Alzheimer's through three mechanisms: boosting glucose metabolism, clearing amyloid buildup, and supporting memory neurons.</li>
+    <li>✓ Women develop Alzheimer's twice as often as men, and estrogen loss during menopause appears to be a major factor.</li>
+    <li>✓ There may be a critical window—likely around menopause—when hormone therapy offers protection; missing it could limit benefits.</li>
+    <li>✓ The 2003 WHIMS study scared doctors away from hormone therapy, but recent research suggests timing and dosage matter enormously.</li>
+    <li>✓ Estrogen receptors are concentrated in brain regions most damaged by Alzheimer's, not by accident.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There is a window. Miss it, and the protective effect of estrogen on your brain may be substantially diminished — possibly gone. This is not a fringe hypothesis. It is increasingly the consensus position among neuroscientists studying Alzheimer's disease, and it reframes the entire conversation about hormone therapy after menopause. For decades, that conversation was dominated by fear. It is time for a more precise one.
 
 Women develop Alzheimer's disease at nearly twice the rate of men, and the disparity is not fully explained by the fact that women live longer. Something specific is happening at the intersection of female biology and brain aging — and estrogen sits at the center of it.
@@ -79,6 +91,23 @@ For women navigating this evidence with their own healthcare decisions, several 
 
 **For everyone:**
 - The lifestyle factors that support cerebral glucose metabolism — aerobic exercise, sleep quality, and glycemic control — reinforce the same pathways that estrogen protects. VO2 max is among the strongest predictors of cognitive trajectory in aging. These are not alternatives to addressing hormonal health; they are complements.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Discuss timing with your doctor:</strong> Ask about starting hormone therapy near menopause onset, not years later, to potentially capture protective effects.</li>
+    <li>→ <strong>Learn the mechanisms:</strong> Understanding how estrogen protects glucose metabolism and clears amyloid helps you evaluate new research as it emerges.</li>
+    <li>→ <strong>Track cognitive baseline:</strong> Get a memory assessment before major life transitions to establish your personal baseline for future comparison.</li>
+    <li>→ <strong>Revisit old fears:</strong> If you dismissed hormone therapy because of WHIMS, ask your doctor about newer evidence on dosage and timing.</li>
+    <li>→ <strong>Monitor Alzheimer's risk factors:</strong> Know your family history and discuss preventive strategies—lifestyle and medical—with your healthcare provider.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your brain needs estrogen. It's not just about hot flashes—estrogen keeps neurons energized, clears out Alzheimer's-linked protein buildup, and protects memory circuits. Women get Alzheimer's twice as often as men, and menopause appears to be a tipping point. Here's the thing: a landmark 2003 study scared doctors away from hormone therapy for decades. But newer research suggests that *when* and *how much* matter hugely. There's a critical window—probably around menopause—when hormone therapy might actually protect your brain. Miss it, and the benefits fade. This isn't about hormones being universally 'good' or 'bad.' It's about precise timing. Talk to your doctor about your individual risk, your family history, and whether starting therapy early makes sense for you.</p>
+</div>
 
 ---
 

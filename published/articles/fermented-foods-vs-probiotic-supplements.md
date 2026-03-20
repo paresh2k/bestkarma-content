@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Fermented foods beat fiber and supplements for increasing gut diversity in Stanford research.</li>
+    <li>✓ Fermented foods contain dozens of species plus metabolic byproducts supplements can't match.</li>
+    <li>✓ Probiotic pills standardize strains and doses, missing the beneficial compounds fermentation creates.</li>
+    <li>✓ Gut diversity acts like ecosystem resilience, protecting against disease and inflammation.</li>
+    <li>✓ Kimchi and kefir outperformed expensive probiotic supplements in the landmark clinical trial.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 If you walked into any pharmacy or grocery store today, you'd face a choice that seems simple but isn't: a $12 jar of kimchi or a $45 bottle of 50-billion-CFU probiotics. Both promise a healthier gut. One of them has substantially better evidence behind it — and it's probably not the one with the health claims printed on the label.
 
 The gap between these two products isn't just price. It's mechanism, microbial diversity, and what "gut health" actually means at a biological level. A landmark 2021 clinical trial from the Sonnenburg lab at Stanford put these questions to a rigorous test — and the results reframed how researchers think about fermented foods entirely.
@@ -94,6 +106,23 @@ Based on the current evidence, here's how to think about this practically:
 - Strain specificity matters enormously. VSL#3 for pouchitis is not interchangeable with a generic "50 billion CFU" blend. Work with a gastroenterologist to match strain to indication.
 
 The bottom line isn't that supplements are a scam or that fermented foods are a panacea. It's that the evidence supports **food first, supplements for specific indications** — and that understanding the difference between colonization, immune modulation, and postbiotic activity helps you make a more informed call than the label ever will.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Eat fermented foods:</strong> add kimchi, kefir, kombucha, or fermented yogurt to meals instead of relying on probiotic pills.</li>
+    <li>→ <strong>Choose variety:</strong> rotate different fermented foods to get diverse microbial species, not just one or two strains.</li>
+    <li>→ <strong>Skip high-dose supplements:</strong> save money on expensive probiotic bottles; they lack the bioactive compounds fermentation provides.</li>
+    <li>→ <strong>Start gradually:</strong> increase fermented food servings slowly to let your gut adapt without discomfort.</li>
+    <li>→ <strong>Combine with fiber:</strong> pair fermented foods with whole grains and vegetables for synergistic gut health benefits.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your $45 probiotic bottle might be losing to a $12 jar of kimchi. A Stanford study found fermented foods beat both fiber and supplements at boosting gut diversity and reducing inflammation. Here's why: fermented foods like kimchi, kefir, and kombucha contain dozens of microbial species plus beneficial compounds created during fermentation—organic acids, GABA, and immune-priming molecules. Probiotic supplements? Usually just one to thirty fixed strains in a capsule, no fermentation magic included. Your gut is an ecosystem, and diversity is resilience. It protects you against pathogens, antibiotics, and inflammation. The takeaway: skip the expensive supplements and eat real fermented foods instead. Cheaper, more effective, and your taste buds will thank you.</p>
+</div>
 
 ---
 

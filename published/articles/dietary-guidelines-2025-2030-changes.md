@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ The 2025–2030 Dietary Guidelines haven't been released yet, so this article explains the science behind the update instead.</li>
+    <li>✓ Protein recommendations are likely too low; research shows muscle benefits continue well above current RDA levels.</li>
+    <li>✓ Ultra-processed food emerged as a major research concern that the guidelines committee had to address.</li>
+    <li>✓ The saturated fat consensus is being reappraised based on new evidence accumulated over the past five years.</li>
+    <li>✓ Federal dietary guidelines shape school lunches, hospital meals, and medical education for hundreds of millions of Americans.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a problem worth naming directly before this article goes any further: **the 2025–2030 Dietary Guidelines for Americans have not been released as of this writing.** The brief that generated this assignment anticipated a January 2026 publication, but the guidelines' actual content — the specific shifts on protein, ultra-processed foods, saturated fat, and sugar — cannot be accurately reported here, because the document itself isn't available for review.
 
 Publishing invented policy changes as official USDA guidance would violate BestKarma's core editorial standard. A scientist — or a careful reader — could not read that article without cringing. So instead of fabricating specifics, this piece does something that may actually be more useful: it explains the scientific debates that *shaped* this update cycle, using the real research that the advisory committee was almost certainly wrestling with. When the guidelines are formally released, a brief addendum can anchor these findings to the official document.
@@ -72,6 +84,23 @@ You don't need to wait for federal guidance to act on what the science already s
 - **Fats:** Move toward the PREDIMED pattern — extra virgin olive oil as the primary fat, regular consumption of nuts, fatty fish two or more times per week. Don't replace saturated fat with refined carbohydrates.
 
 When the 2025–2030 guidelines are published, this article will be updated with the specific language changes and their policy implications. Until then, the evidence above represents the honest state of the science.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Reassess protein intake:</strong> aim for 1.2–1.6 grams per kilogram of body weight daily, especially if over 50, rather than the minimal RDA.</li>
+    <li>→ <strong>Audit ultra-processed foods:</strong> identify which packaged foods dominate your diet and gradually swap for whole-food alternatives.</li>
+    <li>→ <strong>Wait for official guidance:</strong> when the 2025–2030 guidelines drop, cross-reference them with this article's scientific foundations.</li>
+    <li>→ <strong>Track muscle preservation:</strong> monitor strength and lean mass trends if you're older, since new evidence prioritizes this over previous recommendations.</li>
+    <li>→ <strong>Question old advice:</strong> saturated fat guidance is shifting—stay skeptical of nutrition dogma that hasn't been updated in 10+ years.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">The 2025–2030 Dietary Guidelines for Americans haven't been officially released yet, but here's what's important: the research that shaped this update is genuinely disruptive. New studies show the current protein recommendations are too low, especially for muscle preservation in people over 50. Ultra-processed foods emerged as a major concern the committee had to grapple with. And the old consensus on saturated fat is being reappraised. These aren't minor tweaks—they reflect a real shift in what the science actually supports. When the guidelines officially drop, they'll influence school lunches, hospital meals, and medical education nationwide. This article breaks down the research the committee wrestled with, so you understand *why* things are changing.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 9
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Eating less extends lifespan by 30-50% in animals; humans need smarter molecular strategies.</li>
+    <li>✓ mTOR drives growth mode; turning it off activates cellular cleanup and repair.</li>
+    <li>✓ AMPK is your energy sensor that activates when you fast or exercise.</li>
+    <li>✓ Autophagy is cellular recycling—it clears damaged parts and declines with age.</li>
+    <li>✓ Fasting engages three interconnected pathways that shift cells from growth to maintenance.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The oldest longevity intervention in biology is also one of the most studied: eat less.
 
 Caloric restriction — reducing food intake by 25-40% without malnutrition — extends lifespan in yeast, worms, flies, mice, and rats with remarkable consistency. Median lifespan extensions of 30-50% in rodent models have been replicated across hundreds of experiments. The intervention is more reliably life-extending in model organisms than any drug discovered so far.
@@ -109,6 +121,23 @@ Beyond timing: the composition of the feeding window matters. High protein intak
 Extended fasting (24-72 hours, done periodically) engages the autophagy pathways more deeply. The Valter Longo "fasting mimicking diet" — a 5-day protocol of 700-1000 calories designed to maintain fasting-like metabolic signaling while providing some nutrition — has been tested in multiple human studies with promising biomarker results. Some people implement this quarterly.
 
 The goal is rhythmic engagement with the feast-fast cycle — not chronic restriction, not continuous overfeeding, but the oscillation that the longevity machinery appears built for.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Include fasting windows:</strong> Build regular eating breaks into your week to activate AMPK and autophagy without extreme restriction.</li>
+    <li>→ <strong>Pair fasting with exercise:</strong> Both activate the same longevity pathways, making them synergistic for cellular health.</li>
+    <li>→ <strong>Understand mTOR balance:</strong> Growth is necessary, but constant feeding suppresses cellular cleanup—avoid chronically overeating.</li>
+    <li>→ <strong>Skip rapamycin experiments:</strong> The drug extends life in mice, but focus on proven behavioral activators like fasting first.</li>
+    <li>→ <strong>Prioritize autophagy:</strong> As you age, cellular recycling declines; fasting is one of the most direct ways to restore it.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your cells have a built-in aging clock, and it's controlled by three molecular switches: mTOR (growth mode), AMPK (efficiency mode), and autophagy (cellular cleanup). When you're always eating, mTOR stays on and autophagy stays off—like leaving your house in construction mode forever. Fasting flips the switch: AMPK wakes up, mTOR quiets down, and your cells start recycling damaged parts instead of just building new stuff. In animals, this dramatically extends lifespan. Humans can't do 70-year fasting studies, but we can activate these same pathways through smart eating patterns and exercise. The science is solid: your longevity isn't just about what you eat—it's about when you eat, and giving your cells regular breaks to clean house.</p>
+</div>
 
 ---
 

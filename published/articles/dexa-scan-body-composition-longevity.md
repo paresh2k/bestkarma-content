@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ BMI misses 35-39% of unhealthy body compositions and ignores muscle mass entirely.</li>
+    <li>✓ Normal-weight obesity (normal BMI, high fat, low muscle) quadruples metabolic syndrome risk.</li>
+    <li>✓ DEXA scans map lean mass, fat distribution, and bone density in 10 minutes for $50-150.</li>
+    <li>✓ Each unit increase in muscle mass cuts all-cause mortality risk by 20%.</li>
+    <li>✓ Visceral fat and muscle matter far more than total weight for longevity.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Here's something that should bother you: a person can have a completely "normal" BMI — say, 23 — while carrying enough visceral fat to meaningfully shorten their life, and not a single clinician would flag it from a routine physical. Meanwhile, a 58-year-old woman with a BMI of 27 might be quietly losing the skeletal muscle that is one of the strongest predictors of whether she'll be alive and functional at 80. BMI, the single most commonly used measure of body composition in clinical medicine, tells you your weight relative to your height. That's it. It says nothing about what your body is actually made of — and it turns out, that distinction is almost everything when it comes to longevity.
 
 DEXA scans — dual-energy X-ray absorptiometry — have been the gold standard for body composition research for decades, but they're increasingly accessible to anyone willing to seek them out. A 10-minute scan costing roughly $50–$150 at a sports medicine clinic, university lab, or longevity center gives you a map of your body that BMI cannot approach: lean mass by region, fat mass by region, visceral adipose tissue (VAT), and bone mineral density. Each of those numbers connects, independently, to how long you live and how well you function doing it.
@@ -89,6 +101,23 @@ Visceral fat estimates from DEXA also carry more measurement variability than th
 Scan frequency: annually is reasonable for tracking trends. More frequent than every six months is unlikely to reveal meaningful change in lean mass or bone density.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Get a DEXA scan:</strong> Book one at a sports medicine clinic or longevity center to see your actual body composition instead of relying on BMI alone.</li>
+    <li>→ <strong>Prioritize muscle building:</strong> Focus on resistance training and adequate protein—each kilogram of lean mass significantly extends lifespan and healthspan.</li>
+    <li>→ <strong>Ignore BMI if muscular:</strong> Don't pursue weight loss if you're muscular with low visceral fat; focus on body composition metrics instead.</li>
+    <li>→ <strong>Check visceral fat levels:</strong> Request visceral adipose tissue measurements on your DEXA to catch hidden internal fat that BMI completely misses.</li>
+    <li>→ <strong>Reframe health goals:</strong> Shift from "weight loss" to "body composition optimization"—preserve muscle while reducing harmful fat.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your BMI might say you're fine while your body composition is silently aging you. BMI literally just compares weight to height—it can't tell the difference between muscle and fat. A landmark study found BMI misclassifies nearly 40% of people. You could look "normal" on the scale while carrying dangerous visceral fat, or be muscular and penalized for it. DEXA scans fix this problem in 10 minutes for $50-150. They show your actual lean mass, fat distribution, and bone density. Here's what matters: more muscle = 20% lower mortality risk. Less visceral fat = way lower disease risk. Your body composition—not your weight—predicts whether you'll be healthy and strong at 80. Skip the BMI guilt. Get the real picture.</p>
+</div>
 
 ---
 
