@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ ApoB measures dangerous particle count in blood; LDL only measures cholesterol concentration inside those particles.</li>
+    <li>✓ High ApoB with normal LDL is a cardiovascular risk your doctor's standard cholesterol panel completely misses.</li>
+    <li>✓ Large studies show ApoB predicts heart attacks better than LDL cholesterol across all age groups and sexes.</li>
+    <li>✓ One ApoB protein sits on every artery-damaging particle; more particles means more atherosclerosis risk regardless of cholesterol load.</li>
+    <li>✓ Statins lower LDL numbers but often leave ApoB elevated—the real danger marker most doctors ignore.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a number on your standard cholesterol panel that your doctor watches closely — LDL cholesterol — and there's a number that's almost certainly not on your panel that predicts cardiovascular events more accurately. That number is **apolipoprotein B**, or **ApoB**. In large-scale studies, people with high LDL but low ApoB have substantially lower cardiovascular risk than their LDL alone would suggest. The reverse is also true: near-normal LDL with elevated ApoB is a warning sign that a standard lipid panel will miss entirely. If you've ever been told your cholesterol looks "fine" but you're still worried about your heart, this is the article to read.
 
 ## What ApoB Actually Measures
@@ -80,6 +92,23 @@ The good news is that most interventions that lower LDL-C also lower ApoB — of
 ApoB is one of the most cost-effective tests you can add to your next annual bloodwork. For roughly the price of a restaurant meal, you get a more complete picture of cardiovascular risk than most people ever see. If the number is elevated, you have specific, proven levers to pull. If it's optimal, you have genuine reassurance — not just a cholesterol number that might be hiding the real story.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, including any decision to start or stop medications.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Ask your doctor** about ApoB testing if standard cholesterol results say you're fine but heart disease runs in your family.</li>
+    <li>→ **Don't assume** normal LDL means low cardiovascular risk; request ApoB to get the complete particle-count picture.</li>
+    <li>→ **Track ApoB trends** over time, especially if you're on statins, since it better reflects actual atherosclerosis progression.</li>
+    <li>→ **Discuss ApoB results** with your doctor to guide treatment decisions beyond standard LDL targets.</li>
+    <li>→ **Prioritize particle reduction** through diet, exercise, and medication based on ApoB rather than cholesterol numbers alone.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your cholesterol panel is lying to you. Not intentionally, but LDL only tells half the story. ApoB tells you how many dangerous particles are actually floating in your bloodstream—and that's what actually clogs your arteries. Think of it like cars on a highway: LDL measures how full each car is, ApoB counts how many cars exist. You can have 'normal' LDL and dangerous ApoB levels. Major studies with hundreds of thousands of people prove ApoB predicts heart attacks better than standard cholesterol tests. The crazy part? Most doctors still aren't testing it. If you've been told your cholesterol is fine but you're still worried about your heart, ask for an ApoB test. It might change everything about how you manage your health.</p>
+</div>
 
 ---
 

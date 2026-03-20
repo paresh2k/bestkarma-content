@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Alcohol makes you fall asleep faster but destroys sleep quality in the second half of the night.</li>
+    <li>✓ Even one drink suppresses REM sleep and causes fragmented, lighter sleep with more nighttime awakenings.</li>
+    <li>✓ Your brain experiences a mild withdrawal state as alcohol metabolizes, triggering a rebound effect.</li>
+    <li>✓ Alcohol-induced deep sleep looks good on EEG but lacks the restorative function of natural deep sleep.</li>
+    <li>✓ There is no safe amount of alcohol before bed—the damage to sleep architecture is dose-dependent and linear.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a widespread belief that a glass of wine before bed helps you sleep. It does — for about the first ninety minutes. What happens after that is a different story, and it's one that most people who drink never see because they're unconscious for it.
 
 Alcohol is the most widely used sleep aid on the planet, and also one of the most effective destroyers of the sleep it appears to induce. The sedation is real. The sleep quality is not.
@@ -87,6 +99,23 @@ If you drink and care about sleep quality, the evidence points to a few specific
 **Consider the cumulative pattern, not just the single night.** The Traylor 2020 Oura analysis found that the HRV suppression following drinking persisted into the following day. One disrupted night is recoverable; a regular pattern of Friday and Saturday drinking with the cumulative architectural effects is a different proposition for long-term recovery and health.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you are concerned about alcohol use or sleep disorders.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Skip alcohol** 3-4 hours before bed to preserve REM sleep and sleep stage cycling.</li>
+    <li>→ **Don't use** wine or nightcaps as a sleep aid, even occasionally—one drink measurably harms architecture.</li>
+    <li>→ **Track your sleep** with wearables to see how even light drinking affects your actual sleep quality.</li>
+    <li>→ **Accept the tradeoff:** faster sleep onset isn't worth fragmented, shallow sleep in the second half.</li>
+    <li>→ **Choose alternatives** like cool rooms, magnesium, or meditation to fall asleep without compromising sleep stages.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">That nightcap might knock you out, but here's what's really happening: alcohol sedates you for the first half of the night, but as it metabolizes, your brain rebounds hard. REM sleep floods back in fragments, you wake constantly, and your sleep quality tanks. The studies are clear—even one drink suppresses REM sleep and messes with deep sleep quality. Your brain needs uninterrupted cycling through all sleep stages for actual restoration. The damage is dose-dependent, meaning there's no safe threshold. So while alcohol technically helps you fall asleep faster, you're trading real sleep for interrupted, poor-quality rest. Not worth it.</p>
+</div>
 
 ---
 

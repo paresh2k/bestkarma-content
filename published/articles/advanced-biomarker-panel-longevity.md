@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Standard blood work misses slow metabolic decline that predicts disease decades early.</li>
+    <li>✓ ApoB, Lp(a), and hsCRP reveal cardiovascular risk better than traditional cholesterol tests.</li>
+    <li>✓ Fasting insulin signals metabolic trouble years before blood sugar problems show up.</li>
+    <li>✓ A 20-marker panel acts like a health dashboard, not just a sick/healthy label.</li>
+    <li>✓ Longevity medicine catches aging patterns your regular doctor's lab work completely ignores.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people leave their annual physical with a clean bill of health — and a lab report that says almost nothing useful about their future. The standard panel your doctor orders covers roughly six to eight markers: a basic metabolic panel, a complete blood count, maybe a lipid panel. It will catch acute problems and some chronic disease. What it won't catch is the slow metabolic unraveling that predicts cardiovascular disease, cancer, cognitive decline, and premature death decades before symptoms arrive. Longevity medicine has spent the last fifteen years building a different approach — a broader panel of twenty or so biomarkers that, together, describe not just whether you're sick today but how fast you're aging and what's likely to kill you.
 
 What follows is a map of that panel: what each marker measures, what it predicts, and what a meaningful result looks like. Think of it less as a checklist and more as a dashboard — each gauge tells you something different about the engine.
@@ -114,6 +126,23 @@ This isn't a shopping list for your next physical — it's a strategic framework
 - Establish a baseline now, so you have trend data in ten years when it matters most
 
 The goal of this panel is not to find disease — it's to intercept it. Most of what kills us in middle age was predictable twenty years earlier by the right markers. The standard panel just wasn't looking.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Ask your doctor** for ApoB, Lp(a), and hsCRP at your next physical—they're not standard but matter.</li>
+    <li>→ **Get fasting insulin tested** even if glucose looks normal; it detects metabolic dysfunction early.</li>
+    <li>→ **Request the expanded panel** of 20 biomarkers instead of the basic 6-8 marker workup.</li>
+    <li>→ **Track these annually** as a dashboard of aging speed, not just disease presence or absence.</li>
+    <li>→ **Combine results with lifestyle** changes—some markers like Lp(a) are genetic, but most respond to intervention.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your annual physical probably gives you a vague 'you're fine' when really, your body might be slowly breaking down. Standard blood tests catch obvious disease but miss the early warning signs of heart disease, cancer, and cognitive decline happening decades ahead of symptoms. Longevity medicine uses a smarter 20-marker panel that reads like a dashboard: ApoB counts arterial-damaging particles, Lp(a) reveals genetic heart risk, hsCRP shows hidden inflammation, and fasting insulin exposes metabolic dysfunction before blood sugar spikes. Think of it this way—you wouldn't ignore your car's oil pressure or fuel gauge. Your body deserves the same attention. Most of these markers aren't expensive or invasive; your doctor just doesn't order them routinely. Asking for them is the difference between knowing you're not sick today and actually understanding how fast you're aging.</p>
+</div>
 
 ---
 

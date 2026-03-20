@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your insula brain region constantly processes internal body signals and can be trained to work better.</li>
+    <li>✓ Interoception—sensing your body from inside—predicts health outcomes like stress resilience and emotional regulation.</li>
+    <li>✓ Body scan meditation systematically trains attention through your body, strengthening interoceptive accuracy over time.</li>
+    <li>✓ Eight weeks of MBSR practice increases gray matter in the insula, a measurable physical change.</li>
+    <li>✓ Better body awareness isn't automatic—it requires deliberate practice through focused attention techniques.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a part of your brain — a crescent-shaped strip of cortex buried deep in the lateral sulcus — that is constantly receiving signals from your heart, lungs, gut, skin, and muscles, and assembling them into something we might loosely call "how you feel right now." This region, the **insula**, is less famous than the prefrontal cortex or amygdala, but neuroscientists increasingly regard it as one of the most important structures for understanding human health. What's surprising is that its function — interoception, the perception of your body's internal state — isn't fixed. You can train it. And one of the most effective tools for doing so turns out to be something that looks, on the surface, like lying still and paying attention to your feet.
 
 Body scan meditation is the practice of systematically directing attention through the body, region by region, noticing sensation without trying to change it. It sounds simple to the point of being unimpressive. The neuroscience underneath it is anything but.
@@ -78,6 +90,23 @@ For most people, a modified version is a reasonable entry point:
 The goal is not relaxation, though relaxation may occur. The goal is **attention literacy** — learning to read the signals your body is already sending, with more accuracy and less interference.
 
 *This article is for informational purposes. Body scan meditation is generally safe for most adults, but individuals with trauma histories, dissociative disorders, or chronic pain conditions should consult a qualified healthcare provider or MBSR-trained clinician before beginning.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Start a body scan:** Practice 10 minutes daily, moving attention slowly from toes to head without judgment.</li>
+    <li>→ **Notice the difference:** Track how your emotional responses change as you improve internal body awareness.</li>
+    <li>→ **Use MBSR programs:** Follow structured 8-week mindfulness courses for evidence-backed interoception training.</li>
+    <li>→ **Distinguish awareness types:** Understand that feeling confident and being accurate are different—both matter for health.</li>
+    <li>→ **Make it routine:** Consistency matters more than duration; daily practice rewires your insula more effectively.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your brain has a region called the insula that's basically your internal body's command center. It's constantly picking up signals from your heart, gut, lungs—everything—and creating your sense of 'how you feel right now.' The wild part? You can train it. Body scan meditation, where you lie down and mentally scan through your body noticing sensations, actually rewires this region. Studies show that eight weeks of practice increases gray matter in your insula and improves how accurately you sense what's happening inside. Better body awareness = better emotional regulation, less stress, and improved health outcomes. It's not mystical; it's neuroscience.</p>
+</div>
 
 ---
 

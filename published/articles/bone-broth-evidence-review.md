@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Bone broth contains collagen-derived amino acids, but composition varies wildly between batches.</li>
+    <li>✓ Marketing claims about gut healing and joint rebuilding outpace the actual evidence.</li>
+    <li>✓ Hydrolyzed collagen supplements show real benefits; bone broth is not the same thing.</li>
+    <li>✓ Your body doesn't automatically route broth's amino acids to your skin or joints.</li>
+    <li>✓ Bone broth isn't harmful, but it's a food, not a therapeutic supplement.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a version of bone broth that exists in marketing copy — a golden elixir that heals your gut, rebuilds your joints, tightens your skin, and adds years to your life. And then there's the version that exists in your pot: a liquid made from simmered animal bones that contains some genuinely interesting compounds, considerable variability, and a body of evidence that is real but far more modest than the labels suggest. The gap between those two versions is worth understanding, because bone broth isn't a scam — but it isn't a supplement either.
 
 ---
@@ -80,6 +92,23 @@ If you want to get the most out of bone broth without overpaying for mythology:
 Bone broth is real food with real compounds and a reasonable — if modest — evidence base. It is not a functional medicine intervention. Treat it like a nutritious addition to your diet rather than a cure, and you'll be appropriately positioned to benefit from what it actually offers.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Don't expect** bone broth to work like a collagen supplement — the science supporting each is different.</li>
+    <li>→ **Check labels** for actual protein content; commercial broths range from 2.5g to 8.4g per cup.</li>
+    <li>→ **Combine broth** with vitamin C and exercise if joint health is your goal; broth alone won't do it.</li>
+    <li>→ **Make or buy** broth for flavor and minerals, not as a medical intervention.</li>
+    <li>→ **Consider hydrolyzed** collagen (2.5–10g daily) if you want clinically-backed joint or skin support.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Bone broth is having a moment, but the hype outpaces reality. Yes, simmering bones releases collagen amino acids like glycine and proline — compounds your body needs. But here's the catch: composition varies wildly (protein ranges from 2.5g to 8.4g per cup), your body doesn't automatically route these amino acids to your joints or skin, and broth isn't the same as hydrolyzed collagen supplements, which actually have solid research behind them. Bottom line? Bone broth is a nutrient-dense food, not a medical treatment. Enjoy it for taste and minerals, but don't expect it to heal your gut or rebuild cartilage. If joint support is your goal, the evidence favors hydrolyzed collagen with vitamin C and exercise.</p>
+</div>
 
 ---
 

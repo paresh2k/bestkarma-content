@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Standing on one leg for 10 seconds predicts mortality risk better than most health metrics.</li>
+    <li>✓ Those who fail the test have 84% higher risk of death over 7 years.</li>
+    <li>✓ Balance measures your brain's sensorimotor integration, not just leg strength or fitness.</li>
+    <li>✓ Balance decline signals aging in the cerebellum, vestibular system, and proprioceptive pathways.</li>
+    <li>✓ These same neural systems control heart rate, cognition, and emotional regulation.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Here is something almost no one knows about the simple act of standing on one foot: it may be one of the most accurate predictors of whether you'll be alive in a decade.
 
 In 2022, a research team led by **Claudio Gil Araújo** published a study in the *British Journal of Sports Medicine* that stopped a lot of physicians in their tracks. They tested 1,702 adults between the ages of 51 and 75 on a single task — standing on one leg for ten seconds without support — then tracked them for a median of seven years. The result was blunt: those who failed the test had an **84% higher risk of dying from any cause** during the follow-up period, independent of age, sex, BMI, and existing health conditions. Not a modest association. Not a trend. Eighty-four percent.
@@ -93,6 +105,23 @@ Stand on one leg while brushing your teeth. Balance on one foot while waiting fo
 Progress is measurable. Retest monthly. Most adults who train consistently will see significant improvement in 4–8 weeks, and the biological system you're training responds to challenge at any age.
 
 One foot on the floor. It turns out that's where a surprising amount of your future is decided.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Test your balance:** Stand on one leg for 10 seconds daily to gauge your biological health.</li>
+    <li>→ **Train your cerebellum:** Do balance exercises like single-leg stands, tai chi, or yoga regularly.</li>
+    <li>→ **See a doctor if:** You can't balance on one leg for more than 5 seconds.</li>
+    <li>→ **Start small:** Even 20 seconds daily of balance work can improve sensorimotor integration.</li>
+    <li>→ **Track trends:** Declining balance over months may signal neurological changes worth investigating.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Here's a wild fact: your ability to stand on one leg might be the best predictor of how long you'll live. A major 2022 study tested 1,702 people on this simple task and followed them for years. Those who failed had an 84% higher risk of dying. Why? Because balance isn't just about legs—it's a window into your brain's health. Your vestibular system (inner ear), proprioception (body awareness), and cerebellum all have to work together perfectly. These same systems control your heart rate, cognitive function, and emotional regulation. So when balance declines, it signals deeper aging. The good news: you can train it. Daily single-leg stands, yoga, or tai chi keep your sensorimotor system sharp and literally could add years to your life.</p>
+</div>
 
 ---
 

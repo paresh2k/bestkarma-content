@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Awe reduces inflammation more than any other positive emotion, lowering IL-6 and chronic disease risk.</li>
+    <li>✓ Awe happens when you encounter something vast that your brain can't immediately process or understand.</li>
+    <li>✓ Days with awe experiences show 20% lower stress, fewer physical complaints, and better wellbeing.</li>
+    <li>✓ Online awe interventions reduced depression in long COVID patients—no medication or equipment needed.</li>
+    <li>✓ Awe triggers include nature, live music, art, human achievement, and witnessing courage or skill.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In 2015, Dacher Keltner's lab at UC Berkeley published findings from a study that asked a simple question: among all positive emotions — joy, amusement, love, contentment, awe, pride — which one was most associated with reduced levels of IL-6, a key inflammatory cytokine linked to chronic disease?
 
 The answer was awe. Not by a small margin.
@@ -68,6 +80,23 @@ Awe is not the same as relaxation, entertainment, or distraction, and it doesn't
 This is why the 2025 diary research found that passive content consumption (television, social media) did not produce the same wellbeing benefits as active awe experiences. The quality of attention matters: awe requires engagement, not just exposure.
 
 For most people in routine modern life, the most reliable underutilized source of awe is the natural world — and the most common barrier is not access but habit. Looking at a screen while walking through a park is qualitatively different from setting the screen aside and looking at the park. The research on awe suggests this distinction is not trivial.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Seek expansive nature:** Visit mountains, oceans, or night skies to trigger awe's anti-inflammatory effects.</li>
+    <li>→ **Experience live performance:** Attend concerts, theater, or live art to activate parasympathetic nervous system benefits.</li>
+    <li>→ **Watch awe content:** Use online videos of nature and human achievement three times weekly for measurable mood improvement.</li>
+    <li>→ **Find vastness daily:** Seek experiences that stretch your understanding—deep history, cosmology, or moral courage moments.</li>
+    <li>→ **Notice the disruption:** Awe requires cognitive effort. Sit with experiences that don't fit your usual mental frameworks.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Awe isn't just feeling nice—it's a specific emotion that actually changes your biology. When you encounter something vast and hard to wrap your head around (a mountain, live music, an act of courage), your brain activates your parasympathetic nervous system and lowers stress hormones. The result: reduced inflammation, lower daily stress, and better mental health. In one study, people who experienced awe on a given day reported 20% less stress and more wellbeing than their average. Even more striking, an online intervention showing awe-inspiring videos helped long COVID patients significantly reduce depression symptoms. The takeaway: awe isn't a luxury—it's a measurable health tool.</p>
+</div>
 
 ---
 

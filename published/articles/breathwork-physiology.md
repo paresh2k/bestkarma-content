@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Breathing is the only automatic body function you can consciously control to shift your nervous system.</li>
+    <li>✓ Slow breathing activates the vagus nerve, lowering heart rate, blood pressure, and stress hormones like cortisol.</li>
+    <li>✓ Breathing rate controls CO2 levels in your blood, directly affecting anxiety and neural calm.</li>
+    <li>✓ Cyclic sighing beats meditation and other breathing techniques for reducing anxiety in research studies.</li>
+    <li>✓ You need just 2-4 minutes of breathwork daily to see measurable improvements in stress and sleep.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Your heart rate, digestion, blood pressure, and hormone release all operate automatically — managed by the autonomic nervous system, beyond conscious control. You can't decide to lower your heart rate the way you decide to raise your hand.
 
 Breathing is the exception. It is the only autonomic function with a significant voluntary override. You can hold your breath, slow it down, speed it up, change its depth and pattern — and in doing so, you directly alter the signaling that drives the rest of the autonomic system.
@@ -72,6 +84,23 @@ The clinical applications here are for stress, anxiety, and autonomic regulation
 The mechanisms are real, the evidence is adequate to act on, and the practices are free and available. The limitation is that breathwork addresses the physiological expression of stress, not its source. Someone under genuinely unsustainable workload, in an abusive relationship, or experiencing financial crisis needs structural change in their life, not a better breathing protocol. Breathwork is a tool for physiological regulation within difficult circumstances — not a substitute for addressing those circumstances.
 
 Within that scope, it remains one of the most evidence-supported, immediately available, and zero-cost interventions in the mind-body toolkit.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Try cyclic sighing:** Double inhale through nose, then slow exhale through mouth, 5-10 times daily.</li>
+    <li>→ **Use breathing as medicine:** It's the fastest way to activate your parasympathetic (calming) nervous system without drugs.</li>
+    <li>→ **Slow down during panic:** Hyperventilation worsens anxiety; slower breathing restores CO2 balance and calm.</li>
+    <li>→ **Practice coherent breathing:** Aim for 5-6 breaths per minute to maximize heart rate variability and stress relief.</li>
+    <li>→ **Make it a habit:** Just 2-4 minutes daily produces measurable drops in anxiety, cortisol, and improves sleep quality.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your nervous system runs on autopilot — except for one thing: your breath. Slow, intentional breathing directly signals your vagus nerve to activate your parasympathetic (chill-out) system, lowering heart rate, blood pressure, and cortisol. It's not meditation magic; it's neurobiology. Research shows cyclic sighing — a double inhale followed by a long exhale — beats even mindfulness for anxiety relief. The best part? It takes 2-4 minutes. Your body can't argue with physiology, and your physiology can't argue with slower breathing. No app, no subscription, no equipment. Just breathe better, feel calmer, sleep deeper.</p>
+</div>
 
 ---
 

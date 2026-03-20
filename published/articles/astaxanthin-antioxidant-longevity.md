@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Astaxanthin is a pigment in salmon with unusual chemistry that lets it cross cell membranes completely.</li>
+    <li>✓ It can reach your brain and eyes better than most antioxidants, which matters for these high-stress tissues.</li>
+    <li>✓ Human trials show real improvements in skin elasticity, moisture, and fine lines after 8 weeks.</li>
+    <li>✓ Unlike beta-carotene, astaxanthin doesn't convert to vitamin A and carries no cancer risk concerns.</li>
+    <li>✓ Evidence is strongest for skin aging; other benefits are promising but need more human research.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Here's something worth sitting with: salmon flesh is pink because the fish accumulate a pigment so chemically stable that it doesn't degrade under the oxidative stress of sustained aerobic swimming. That pigment — **astaxanthin** — has demonstrated antioxidant activity up to 6,000 times stronger than vitamin C and 550 times stronger than vitamin E in certain in vitro assays. Those numbers circulate widely in wellness spaces, usually without context. What's more interesting is what happens when you actually give astaxanthin to humans — and where the evidence gets genuinely compelling versus where it falls short.
 
 The story of astaxanthin isn't a simple "this supplement will fix you" narrative. It's a more nuanced case study in how a molecule's unusual chemistry can translate — partially, provisionally — into measurable human benefit.
@@ -92,6 +104,23 @@ If you're considering astaxanthin supplementation with a specific goal in mind:
 If you are an athlete considering astaxanthin for recovery, be aware of the theoretical concern about blunting hormetic adaptation. The evidence base here is not settled; erring toward the lower end of the dosing range (4–6 mg) during heavy training blocks seems reasonable.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Try 6 mg daily** if you're concerned about skin aging from sun exposure—the most proven benefit.</li>
+    <li>→ **Combine oral plus topical** astaxanthin for better results than either approach alone.</li>
+    <li>→ **Source from salmon** or quality supplements; it's fat-soluble, so take with food for absorption.</li>
+    <li>→ **Don't expect miracles** for exercise recovery—promising data exists but isn't yet conclusive in humans.</li>
+    <li>→ **Consult your doctor** before supplementing, especially if you take blood thinners or have bleeding disorders.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Salmon's pink color comes from astaxanthin, a molecule so chemically stable it survives intense swimming. What makes it special? Unlike most antioxidants, it can cross cell membranes completely and penetrate your blood-brain and blood-retinal barriers—meaning it can actually reach your eyes and brain. In human trials, 6 mg daily improved skin elasticity, moisture, and fine lines after just eight weeks. The results were strongest in sun-damaged areas, which tracks with how the molecule works. It's also safer than beta-carotene supplements. Bottom line: solid evidence for skin. Sports recovery and other benefits? Promising, but we need more human research before claiming victory.</p>
+</div>
 
 ---
 

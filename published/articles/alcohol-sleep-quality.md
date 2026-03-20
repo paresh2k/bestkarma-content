@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Alcohol makes you fall asleep faster but destroys sleep quality by disrupting REM sleep cycles.</li>
+    <li>✓ Your heart rate stays elevated 10-20+ beats per minute all night after drinking alcohol.</li>
+    <li>✓ REM sleep handles emotional processing, creativity, and memory — alcohol blocks this critical stage.</li>
+    <li>✓ You feel less rested after drinking even when total sleep hours stay the same.</li>
+    <li>✓ Regular alcohol use compounds sleep damage, affecting mood, learning, and stress resilience over time.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The nightcap is one of the oldest sleep remedies in human culture. A glass of wine, a small whiskey, a beer with dinner — to take the edge off, to relax, to make sleep come more easily.
 
 It works, in the narrowest sense. Alcohol does reduce the time it takes to fall asleep. That part is real. What follows is the problem.
@@ -74,6 +86,23 @@ In other words: the part of alcohol's effect that feels good (faster sleep onset
 **Don't use it as a sleep tool.** The cultural norm of the nightcap as a sleep aid is behaviorally counterproductive: it builds a conditioned association between alcohol and sleep onset that strengthens dependence and worsens outcomes over time. If sleep onset is difficult without alcohol, CBT-I addresses the underlying mechanisms far more safely.
 
 The biology here is not ambiguous. Alcohol accelerates the beginning of sleep and impairs the quality of the rest of it. The sleep you get after drinking is not the same as the sleep you'd have gotten without it — and the difference is in exactly the stages that matter most.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Skip the nightcap** — the faster sleep onset isn't worth the fragmented, low-quality sleep that follows.</li>
+    <li>→ **Check your wearable data** after drinking to see your own heart rate elevation and reduced sleep scores.</li>
+    <li>→ **Protect REM sleep** by avoiding alcohol 3-4 hours before bed to preserve emotional and creative recovery.</li>
+    <li>→ **Count the real cost** — you're not just losing sleep quality, you're losing emotional processing and memory consolidation.</li>
+    <li>→ **Notice the cumulative effect** — even moderate drinking several nights weekly compounds sleep damage over weeks and months.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">That nightcap helps you fall asleep faster, but it's actually wrecking your sleep quality. Alcohol suppresses REM sleep (the stage that processes emotions and consolidates memories), then triggers a chaotic rebound in the second half of the night. Your heart rate stays elevated 10-20+ beats per minute all night. The result: you wake up feeling unrested even though you slept the same number of hours. Wearable data shows sleep scores drop 10-20% on drinking nights. Chronically disrupted REM sleep affects mood, creativity, social cognition, and stress resilience. The bottom line? That glass of wine isn't a sleep aid — it's a sleep saboteur.</p>
+</div>
 
 ---
 

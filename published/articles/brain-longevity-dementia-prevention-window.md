@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Alzheimer's damage starts 15-20 years before symptoms appear, often in your forties.</li>
+    <li>✓ Nearly half of dementia cases are preventable through lifestyle changes made in midlife.</li>
+    <li>✓ Your forties and fifties are the critical window—the brain is still responsive to change.</li>
+    <li>✓ Even high genetic risk can be reduced by 32% with good lifestyle habits.</li>
+    <li>✓ Vascular health, sleep quality, and stress management matter most during this decade.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people think of dementia as something that happens in your seventies — a late-life disease you either get or you don't, driven mostly by genetics. That framing is wrong, and it's costing people the most valuable years they have to do something about it. The amyloid plaques and tau tangles that define Alzheimer's disease begin accumulating **fifteen to twenty years before a single symptom appears**. Which means that by the time someone forgets where they put their keys or struggles to find a word, the biological damage is already deep. Prevention — real prevention — doesn't happen in the memory clinic. It happens in your forties.
 
 ---
@@ -78,6 +90,23 @@ These recommendations are grounded in the specific doses and targets that emerge
 The brain you have at 75 is being built, or eroded, right now. The good news — and it is genuinely good news — is that roughly half the risk is modifiable, and the decade you're in may be the one where the modifications matter most.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly regarding blood pressure management, hormone therapy, or sleep disorder evaluation.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Control blood pressure** now: midlife hypertension doubles dementia risk decades later.</li>
+    <li>→ **Prioritize sleep quality**, especially deep sleep, to activate your brain's waste-clearing system.</li>
+    <li>→ **Build cognitive reserve** through exercise, social engagement, and learning new skills regularly.</li>
+    <li>→ **Manage cholesterol and diet** to protect blood vessel health in your brain.</li>
+    <li>→ **Act in your forties**, not seventies—the window for prevention is happening right now.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your forties might be the most important decade of your life for brain health. Alzheimer's damage starts 15-20 years before you notice anything wrong, which means it's building right now for many of us. The good news? Nearly half of dementia cases are preventable. A massive 2024 study found that even people with high genetic risk can cut their dementia risk by 32% through lifestyle alone: managing blood pressure, sleeping well, staying active, and eating right. The brain's ability to clear out toxic proteins peaks during midlife—making this your real window to act. Don't wait for symptoms. Start now.</p>
+</div>
 
 ---
 

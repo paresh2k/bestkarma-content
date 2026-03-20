@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Bone loss accelerates during perimenopause, not after—losing 10-20% of bone mass in 5-7 years.</li>
+    <li>✓ Estrogen controls bone-building cells; when it drops, bone breakdown outpaces rebuilding rapidly.</li>
+    <li>✓ Heavy resistance training and impact exercise can reverse bone loss even in women with low density.</li>
+    <li>✓ The window to prevent osteoporosis is perimenopause—waiting until menopause is confirmed may be too late.</li>
+    <li>✓ High-intensity deadlifts and squats are safe and effective for building bone, not risky.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most women know that menopause affects their bones. Far fewer know that the most dangerous period isn't after menopause — it's during the transition, in the five to seven years when estrogen begins its erratic decline but hasn't yet bottomed out. By the time a woman reaches her late fifties and her doctor orders a DEXA scan, she may have already lost the bone density that would have been worth fighting to keep. The prevention window doesn't wait.
 
 The numbers are stark: the **Study of Women's Health Across the Nation (SWAN)**, a landmark longitudinal study that followed more than 2,000 women through the menopausal transition, found that lumbar spine bone density declined at roughly **2–3% per year** during the late perimenopause and early postmenopause — a rate that dwarfs the 0.5–1% annual loss typical of a woman's thirties and forties. Across the full transition window, cumulative losses of **10–20% of total bone mass** are well-documented. That is the kind of loss that moves a woman from normal bone density to osteopenia — or from osteopenia to osteoporosis — without a single symptom.
@@ -85,6 +97,23 @@ The evidence converges on a manageable set of actions:
 | DEXA screening | Baseline if risk factors present before 65 | Discuss with physician at perimenopause onset |
 
 The most important thing to understand is that the five to seven years around menopause are not a period to wait out — they are the period to act. Bone loss in this window outpaces anything that follows. The interventions that work best (heavy resistance training, adequate protein and micronutrients, and where appropriate, HRT) require a lead time to be effective. Starting at 60 is not the same as starting at 48. The window is real, and it is open right now for millions of women who don't know they should be walking through it.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Start strength training now** if you're in perimenopause; deadlifts, squats, and presses rebuild bone fastest.</li>
+    <li>→ **Don't wait for menopause** to act on bone health—perimenopause is when prevention matters most.</li>
+    <li>→ **Add impact exercise** like jumping or plyometrics alongside heavy lifting for maximum bone density gains.</li>
+    <li>→ **Discuss DEXA screening** with your doctor in your late forties if you have risk factors.</li>
+    <li>→ **Intensity matters more** than gentleness—heavy weights work better than resistance bands for bone protection.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your bones are most vulnerable during perimenopause, not after menopause happens. In just 5-7 years, women can lose 10-20% of their bone mass as estrogen drops. Here's the good news: heavy resistance training actually works. Studies show women doing deadlifts, squats, and overhead presses twice a week gained bone density—even those already diagnosed with low bone mass. Don't wait until your fifties for a DEXA scan. If you're in your forties and approaching menopause, now's the time to start heavy lifting. Forget gentle workouts; intensity is what protects your skeleton long-term.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Epigenetic clocks measure methylation patterns that predict age and health, but not all clocks are equally reliable.</li>
+    <li>✓ First-generation clocks (Horvath, Hannum) estimate chronological age; second-gen (GrimAge) predicts mortality risk more accurately.</li>
+    <li>✓ GrimAge shows strong link to lifespan: each extra year of acceleration increases mortality risk by about 16%.</li>
+    <li>✓ DunedinPACE measures aging *speed*, not age itself—better for tracking whether your interventions are actually working.</li>
+    <li>✓ A high score doesn't mean you're doomed; it's a wake-up call to assess lifestyle and get medical input.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 You sent in a saliva sample six weeks ago. The results came back with a number that wasn't your age — it was five years older. What does that actually mean? Should you be alarmed? And more importantly, is there anything you can do about it?
 
 Epigenetic clocks have moved from academic curiosity to consumer product in under a decade, and the science behind them is genuinely remarkable. But the gap between what these tests *can* tell you and what the companies selling them *imply* they tell you is wide enough to drive a longevity supplement startup through. Here's what your score actually means — and what it doesn't.
@@ -96,6 +108,23 @@ If you're going to invest in epigenetic age testing, here's how to do it in a wa
 Per the available intervention literature — including a 2021 study by Fitzgerald and colleagues in *Aging* (n=43, randomized controlled) — a combination of high-quality sleep, regular vigorous exercise (150+ minutes per week of Zone 2 plus 2x strength training), Mediterranean-style diet, and stress reduction reduced DNAmAge by an average of 3.23 years versus controls over eight weeks. These aren't surprising interventions — but having a measurable number attached to them changes the psychology of adherence for many people.
 
 The value of epigenetic testing isn't that it tells you something your doctor couldn't otherwise detect. It's that it can make the invisible consequences of daily habits visible — and for the right person, that visibility is genuinely motivating.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ **Check which clock** your test uses—GrimAge and DunedinPACE are far more predictive than first-generation versions.</li>
+    <li>→ **Don't panic** if your score is high; it's a risk signal, not a diagnosis or guarantee.</li>
+    <li>→ **Use it as baseline** data to track progress over time, especially if you change diet, exercise, or sleep habits.</li>
+    <li>→ **Combine with other markers**—blood work, fitness tests, and medical history matter more than any single epigenetic score.</li>
+    <li>→ **Discuss results** with a doctor who understands epigenetic clocks; some practitioners oversell their implications.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your epigenetic clock measures chemical tags on your DNA that change predictably with age. Some tests tell you your "biological age"—and if it's higher than your actual age, yeah, that's worth paying attention to. But here's the thing: not all clocks are created equal. First-generation ones (Horvath, Hannum) just estimate chronological age—meh for health prediction. GrimAge is the real deal: it predicts how long you'll live, and every extra "aging year" bumps mortality risk by ~16%. DunedinPACE is different—it measures how *fast* you're aging, not your age itself, which is perfect for seeing if your lifestyle changes actually work. Bottom line? A high score is a wake-up call, not a death sentence. Use it alongside your doctor, not instead of them.</p>
+</div>
 
 ---
 
