@@ -1,0 +1,71 @@
+name: Add Readability Blocks
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Specific article slug (leave empty to process next batch)'
+        required: false
+        default: ''
+      max_articles:
+        description: 'Max articles to process in this run (default 15)'
+        required: false
+        default: '15'
+
+concurrency:
+  group: add-readability-blocks
+  cancel-in-progress: false
+
+jobs:
+  add-blocks:
+    name: Add TL;DR, Key Takeaways, Quick Read via Claude Haiku
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+
+      - name: Add readability blocks
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MAX_ARTICLES: ${{ github.event.inputs.max_articles || '15' }}
+        run: |
+          if [ -n "${{ github.event.inputs.slug }}" ]; then
+            node pipelines/add-readability-blocks.mjs "${{ github.event.inputs.slug }}"
+          else
+            node pipelines/add-readability-blocks.mjs
+          fi
+
+      - name: Commit updated articles
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git config user.name "BestKarma Editorial Bot"
+          git config user.email "editorial@bestkarma.com"
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
+          git add published/articles/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git stash
+            git pull --rebase
+            git stash pop
+            git add published/articles/
+            git commit -m "Add readability blocks (TL;DR, Key Takeaways, Quick Read) to batch of articles"
+            git push
+          fi
+
+      - name: Trigger Vercel deploy
+        run: curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}"
