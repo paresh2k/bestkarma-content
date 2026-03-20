@@ -13,6 +13,17 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Adenosine is the molecule that makes you feel tired — it builds up every hour you're awake, creating "sleep pressure"</li>
+    <li>✓ Caffeine doesn't give you energy — it just blocks adenosine from reaching its receptors. The pressure is still building underneath</li>
+    <li>✓ When caffeine wears off, all that pent-up adenosine hits at once — that's the crash</li>
+    <li>✓ The ideal nap is 20–25 minutes before 3pm. Longer = sleep inertia + worse night sleep</li>
+    <li>✓ A "nappuccino" (coffee immediately before a nap) beats either alone for post-nap alertness</li>
+  </ul>
+</div>
+
 There is a molecule building up in your brain right now. Every hour you stay awake, it accumulates — quietly, steadily, in the basal forebrain and throughout the cortex — until the pressure becomes impossible to ignore. That molecule is adenosine, and it is the closest thing neuroscience has found to a physical record of wakefulness. It is not a metaphor. Sleep pressure is not just feeling tired. It is a measurable neurochemical state, and understanding how it works explains nearly everything confusing about sleep: why naps help but sometimes backfire, why caffeine eventually fails you, and why sleeping in on weekends doesn't actually fix a week of short nights.
 
 This is the biology behind one of the most important — and most misunderstood — drives in the human body.
@@ -82,6 +93,22 @@ Given what we know about adenosine kinetics and the two-process model, several c
 **On sleep debt:**
 - Recognize that chronic partial sleep deprivation creates a **sustained elevation of baseline adenosine** that cannot be addressed with caffeine. **Van Dongen and colleagues' 2003 study in Sleep**, tracking neurobehavioral function across two weeks of 6-hour nights, found cumulative impairment that subjects themselves did not perceive — they adapted to feeling moderately impaired. The adenosine debt was real; their ability to detect it was not.
 - Recovery requires actual sleep — ideally two to three nights of full-duration, uninterrupted sleep. Weekend sleep-ins help but are insufficient to fully clear accumulated adenosine debt if sleep restriction has been ongoing for weeks.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Cut caffeine 10–12 hours before bed</strong> — for a 10:30pm bedtime, that's no coffee after 10:30am</li>
+    <li>→ <strong>Don't caffeinate first thing</strong> — wait 90 minutes after waking. Cortisol is already doing the alerting job</li>
+    <li>→ <strong>Nap between 1–3pm, max 25 minutes</strong> — set an alarm, no exceptions. After 3pm it costs you that night's sleep</li>
+    <li>→ <strong>Try a nappuccino</strong> — drink coffee, nap immediately. Caffeine kicks in just as you wake up</li>
+    <li>→ <strong>Caffeine can't repay sleep debt</strong> — it only delays the accounting. Real recovery takes 2–3 nights of full sleep</li>
+  </ul>
+</div>
+
+<div class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-gold mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">There's a molecule called adenosine that builds up in your brain every hour you're awake. The more it accumulates, the sleepier you feel — that's sleep pressure. Caffeine doesn't give you energy. It just blocks adenosine from reaching its receptors, so you can't feel the pressure. But adenosine keeps building. When caffeine wears off, that backlog floods in — that's the crash. The practical rules: stop caffeine 10–12 hours before bed, don't caffeinate within 90 minutes of waking, and nap only between 1–3pm for max 25 minutes. If you want an upgrade, try a nappuccino — drink coffee then nap immediately. Caffeine takes 20–30 minutes to kick in, which means it hits right when you wake up. And remember: no amount of caffeine clears sleep debt. Only sleep does.</p>
+</div>
 
 ---
 

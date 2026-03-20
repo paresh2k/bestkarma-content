@@ -13,6 +13,17 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Burnout is a measurable physiological state — not a mindset problem or a productivity issue</li>
+    <li>✓ It shrinks your hippocampus, weakens prefrontal control over your emotions, and raises your heart attack risk by 23%</li>
+    <li>✓ Ironically, established burnout often shows LOW cortisol — the stress system has exhausted itself and stopped responding</li>
+    <li>✓ This is why burnout people can't sleep even when exhausted: the nervous system is stuck in vigilance mode</li>
+    <li>✓ Recovery takes months, not a weekend. Exercise + social connection + structured sleep are the evidence-based levers</li>
+  </ul>
+</div>
+
 Something quietly breaks in the brain before burnout becomes obvious. Long before you're staring at your inbox without comprehension, or canceling plans because you have nothing left to give, your prefrontal cortex is already losing the argument with your amygdala — and your HPA axis has quietly begun to malfunction. Burnout is not a personality flaw, a productivity problem, or even a synonym for exhaustion. It is a measurable physiological state, with traceable effects on your immune system, your cardiovascular health, your hormones, and the literal volume of structures in your brain. The science has been building for decades. It is now unambiguous enough that the World Health Organization added burnout to the International Classification of Diseases in 2019 — not as a medical condition exactly, but as an "occupational phenomenon" that generates them.
 
 What makes burnout insidious is that it is slow, self-concealing, and often mistaken for laziness or weakness until the body provides a more dramatic signal: a cardiac event, a breakdown, a depressive episode that won't lift. Understanding what is actually happening at a biological level is not academic. It is the difference between treating the symptom and addressing the cause.
@@ -73,6 +84,22 @@ Recovery from burnout is not a weekend. Research on HPA axis normalization and h
 - **If symptoms persist beyond 4–6 weeks of intentional recovery, seek clinical evaluation.** The burnout-to-depression pathway is real, and Cognitive Behavioral Therapy adapted for burnout (CBT-B) has demonstrated efficacy in multiple RCTs.
 
 What broke slowly can heal slowly. But only if you understand what broke, and why.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Exercise is the #1 recovery tool</strong> — moderate aerobic exercise (30–45 min, 4–5x/week) directly rebuilds hippocampal volume</li>
+    <li>→ <strong>Social connection is not optional</strong> — schedule it like a meeting. Perceived support measurably lowers IL-6 and cortisol</li>
+    <li>→ <strong>Consistent sleep timing matters more than duration</strong> — the cortisol awakening response is highly sensitive to irregular schedules</li>
+    <li>→ <strong>Write about feelings, not solutions</strong> — expressive journaling (not problem-solving) reduces rumination and inflammation</li>
+    <li>→ <strong>If symptoms persist beyond 4–6 weeks of intentional recovery, get clinical support</strong> — burnout has a documented pathway to depression</li>
+  </ul>
+</div>
+
+<div class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-gold mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Burnout isn't just being really tired. It's a physiological state with measurable brain changes: a more reactive amygdala (your threat alarm gets louder), a weakened prefrontal cortex (your ability to calm down gets worse), and a shrinking hippocampus from cortisol damage. Weirdly, people with established burnout often have LOW cortisol — the stress system ran so hot for so long, it stopped responding. That's why you can be exhausted and still unable to sleep — your nervous system is stuck in vigilance mode. Recovery takes months. The evidence-backed path: moderate aerobic exercise most days (this literally regrows hippocampal tissue), consistent sleep timing, scheduled social time, and journaling about feelings rather than trying to solve problems. If you've been intentionally recovering for 4–6 weeks and still can't function, get professional support. The burnout-to-depression pipeline is real.</p>
+</div>
 
 ---
 

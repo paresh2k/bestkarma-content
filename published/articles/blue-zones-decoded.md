@@ -13,6 +13,17 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Five places on Earth — Okinawa, Sardinia, Nicoya, Ikaria, Loma Linda — produce far more centenarians than anywhere else</li>
+    <li>✓ It's mostly lifestyle, not genetics — and the patterns are strikingly consistent across totally different cultures</li>
+    <li>✓ No gym memberships. No fad diets. Just daily movement, plant-heavy food, strong community, and a reason to get up each morning</li>
+    <li>✓ The biggest insight: longevity isn't an achievement. It's what happens when healthy choices are the easy, default ones</li>
+    <li>✓ You can adopt the core principles today — without moving to Okinawa</li>
+  </ul>
+</div>
+
 There are five places on Earth where people forget to die.
 
 Okinawa, Japan. Sardinia, Italy. Nicoya, Costa Rica. Ikaria, Greece. Loma Linda, California. Demographer Michel Poulain and longevity researcher Dan Buettner spent years identifying these regions — drawing literal blue circles on maps where the data showed extraordinary concentrations of centenarians and unusually low rates of chronic disease. They called them Blue Zones.
@@ -90,6 +101,22 @@ But you can act on the distilled principles:
 None of this requires a radical life reinvention. The most striking thing about Blue Zone centenarians isn't that they tried exceptionally hard. It's that they lived in environments where the healthy choice was the easy choice — and then they did it, every day, for a very long time.
 
 That's the real insight. Longevity isn't an achievement. It's an accumulation.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Move naturally every day</strong> — walk, garden, cook from scratch. No gym required</li>
+    <li>→ <strong>Eat plants most of the time</strong> — beans at every meal, meat occasionally, stop eating when 80% full</li>
+    <li>→ <strong>Find your people</strong> — commit to 3–5 people you see weekly. Consistency matters more than depth</li>
+    <li>→ <strong>Know your reason to get up</strong> — write down your purpose. It's worth 7 years of life expectancy</li>
+    <li>→ <strong>Downshift daily</strong> — protect a daily stress-shedding ritual: walk, meditate, cook, pray. It doesn't matter which</li>
+  </ul>
+</div>
+
+<div class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-gold mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Five places on Earth — Okinawa, Sardinia, Nicoya, Ikaria, Loma Linda — produce unusually high numbers of people who live past 100 in good health. Researchers spent decades figuring out why. The answer isn't genetics or supplements. It's nine lifestyle patterns that emerged independently across totally different cultures: daily natural movement, plant-heavy eating, stopping before fullness, a clear life purpose, daily stress rituals, moderate alcohol with food, community belonging, close family ties, and social circles where healthy behavior is the norm. You can't move to Okinawa. But you can eat beans three times a week, find three people to see regularly, write down your reason to get up, and take a walk every day. The science says that's most of it.</p>
+</div>
 
 ---
 

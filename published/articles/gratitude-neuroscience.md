@@ -12,6 +12,17 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Gratitude isn't just a mood — it activates real reward circuits, lowers cortisol, and can physically change your brain within 3 weeks</li>
+    <li>✓ The fastest effect is on sleep: writing 3 specific things you're grateful for before bed leads to faster sleep onset</li>
+    <li>✓ Generic gratitude ("I'm grateful for my family") barely works — the brain needs specific, concrete events to engage fully</li>
+    <li>✓ The protocol: 3 specific things before bed + why each matters. Takes 3–5 minutes. Effects measurable in 3–4 weeks</li>
+    <li>✓ The practice you'll actually do consistently beats the one you abandon</li>
+  </ul>
+</div>
+
 Gratitude has a reputation problem. It lives in the territory of motivational posters and morning affirmations — sincere enough, but hardly rigorous. The neuroscience tells a different story. In the past decade, researchers have used fMRI, salivary cortisol measurement, MRI volumetrics, and longitudinal health data to map what gratitude does to the brain and body. The results are specific enough to warrant taking seriously.
 
 ## What Happens in the Brain During Gratitude
@@ -67,6 +78,22 @@ The evidence converges on a protocol that is modest in time demand and substanti
 **On medium:** Both handwriting and typing work. Handwriting produces slightly slower, more deliberate engagement with each entry; digital is more sustainable as a long-term habit for many people. The practice you will do consistently outperforms the theoretically superior practice you will abandon.
 
 What the research recommends against: treating gratitude journaling as a checklist exercise — scanning rapidly for three things to write and moving on without actually attending to them. The benefit is in the attention, not the words.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Be specific, not generic</strong> — "my friend called to check on me without being asked" beats "I'm grateful for my friends"</li>
+    <li>→ <strong>Do it before bed</strong> — displaces anxious thoughts with a physiological state incompatible with stress</li>
+    <li>→ <strong>Three things + why each matters</strong> — the "why" is what activates the reward circuits</li>
+    <li>→ <strong>Handwriting or typing both work</strong> — choose whichever you'll actually sustain</li>
+    <li>→ <strong>Give it 3–4 weeks</strong> — structural brain changes and measurable cortisol reduction take consistent daily practice to emerge</li>
+  </ul>
+</div>
+
+<div class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-gold mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Gratitude isn't soft — it's neuroscience. When you practice it deliberately, your brain releases dopamine in the reward circuit, cortisol drops, and within 3 weeks, brain scans show structural changes. The fastest effect is on sleep: writing down what you're grateful for before bed makes you fall asleep faster because the brain literally can't ruminate and feel grateful at the same time. The key: be specific. "I'm grateful for my family" does almost nothing neurologically. "My sister texted me a meme at exactly the moment I needed to laugh" engages memory, social brain circuits, and emotion together — which is what creates the benefit. The practice: 3 specific things before bed, plus why each one matters. Five minutes. Give it 4 weeks.</p>
+</div>
 
 ---
 

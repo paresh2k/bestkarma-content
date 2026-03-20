@@ -13,6 +13,17 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Chronic inflammation silently drives heart disease, diabetes, and cognitive decline — food is one of the most powerful dials to turn it down</li>
+    <li>✓ Top anti-inflammatory foods: fatty fish (2–3x/week), extra-virgin olive oil (daily), berries, leafy greens, walnuts, turmeric + black pepper</li>
+    <li>✓ Top inflammation drivers: sugary drinks, processed meat, refined carbs, excess seed oils</li>
+    <li>✓ No single meal moves the needle — consistent patterns over months are what the research is measuring</li>
+    <li>✓ This isn't a diet — it's a scoring system. Most meals trending anti-inflammatory is the goal</li>
+  </ul>
+</div>
+
 Chronic inflammation doesn't announce itself. There's no fever, no swelling you can see — just a slow, systemic burn that quietly accelerates cardiovascular disease, type 2 diabetes, cognitive decline, and several cancers over decades. The good news: food is one of the most powerful dials you have to turn it down. Not supplements. Not cleanses. Actual food, eaten in specific combinations, with a measurable effect on the biomarkers that matter.
 
 The question isn't whether diet affects inflammation — that's settled. The question is which foods, in what amounts, and by how much. Here's what the evidence actually says.
@@ -110,6 +121,22 @@ The goal is not a rigid meal plan. It's hitting specific food categories with ev
 - Refined grain products as staples: replace with whole grains, legumes, or root vegetables
 
 No single meal will move your CRP meaningfully. The mechanism is cumulative — the DII works because it captures dietary *patterns* over time. A useful framing: if your average meal is scored, does it trend anti-inflammatory? That consistency, over months and years, is what the mortality data is measuring.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Daily:</strong> 2–4 tbsp extra-virgin olive oil, 1–2 cups leafy greens, ½ cup berries, 1–2 tbsp ground flaxseed</li>
+    <li>→ <strong>Several times a week:</strong> fatty fish (salmon, sardines, mackerel), a small handful of walnuts, turmeric + black pepper in cooking</li>
+    <li>→ <strong>Minimize:</strong> sugary drinks, processed meat, white bread and refined cereals as staples</li>
+    <li>→ <strong>Turmeric tip:</strong> always pair with black pepper — it increases absorption by ~2,000%</li>
+    <li>→ <strong>The mindset shift:</strong> don't grade individual meals, grade your weekly pattern. Consistent anti-inflammatory eating over months is what shows up in your bloodwork</li>
+  </ul>
+</div>
+
+<div class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-gold mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Chronic inflammation is the slow burn behind heart disease, diabetes, and brain decline. You can't feel it — but you can measure it, and food is one of your biggest levers. The anti-inflammatory shopping list: fatty fish twice a week, olive oil daily, berries every day, leafy greens, walnuts, and turmeric with black pepper (that combination boosts absorption by 2,000%). What to cut back: sugary drinks, processed meats, white bread as a staple. The key insight — no single meal matters. What matters is whether most of your meals trend the right way, consistently, for months. Think of it as a pattern, not a diet. Your CRP level is averaging your last 90 days of eating.</p>
+</div>
 
 ---
 
