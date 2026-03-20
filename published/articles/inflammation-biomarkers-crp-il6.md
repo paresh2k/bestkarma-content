@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Low-grade chronic inflammation (inflammaging) drives heart disease, cancer, and faster aging without obvious symptoms.</li>
+    <li>✓ High-sensitivity CRP and IL-6 blood tests predict disease risk even when cholesterol appears normal.</li>
+    <li>✓ Elevated IL-6 in midlife associates with nearly double the mortality risk over 20 years.</li>
+    <li>✓ Aging immune cells leak inflammatory chemicals; senescent cells accumulate and trigger systemic inflammation.</li>
+    <li>✓ Measuring inflammation biomarkers may be one of the highest-impact steps for long-term health.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Your cardiologist might call your bloodwork "normal." But if they didn't run a high-sensitivity CRP test, they may have missed the most predictive marker of your future heart attack — and of how fast you're biologically aging.
 
 This isn't a fringe idea. Over the past two decades, a convergence of epidemiological, mechanistic, and interventional research has established that **low-grade chronic inflammation** — the kind that produces no obvious symptoms, that doesn't spike your temperature or swell your joints — is a primary driver of cardiovascular disease, neurodegeneration, cancer, and accelerated biological aging. Geroscientists have given it a name: **inflammaging**. Understanding it, and measuring it, may be one of the highest-leverage things you can do for your long-term health.
@@ -89,6 +101,23 @@ For patients with persistently elevated hsCRP (>3.0 mg/L) despite lifestyle opti
 The goal isn't perfect numbers. It's a trend in the right direction, sustained over years. Run the panel, know your baseline, and use it to track what's actually working.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly regarding pharmaceutical interventions or interpreting clinical biomarkers.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Request hsCRP testing:</strong> ask your doctor for high-sensitivity CRP and IL-6 blood work, especially if cholesterol is normal.</li>
+    <li>→ <strong>Track inflammation markers:</strong> get baseline inflammatory biomarker levels now to monitor aging trajectory over time.</li>
+    <li>→ <strong>Focus on senescent cells:</strong> pursue interventions (exercise, diet, sleep) proven to reduce accumulation of dysfunctional aging cells.</li>
+    <li>→ <strong>Protect gut health:</strong> maintain barrier integrity through fiber, fermented foods, and avoiding chronic stress to reduce inflammatory triggers.</li>
+    <li>→ <strong>Treat inflammation seriously:</strong> don't dismiss low-grade inflammation as harmless—it's a primary aging driver requiring proactive management.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your doctor says your bloodwork is fine. But they might have missed something critical: silent inflammation aging you faster than time itself. It's called inflammaging, and it's quietly driving heart disease, cancer, and neurodegeneration without any obvious symptoms. Two blood tests—hsCRP and IL-6—can reveal it. Studies show elevated inflammation predicts heart attacks better than cholesterol alone, and high IL-6 in midlife doubles your mortality risk. The mechanism is straightforward: your aging immune system misfires, old cells leak inflammatory chemicals, and gut barriers weaken, triggering low-grade chronic inflammation. The good news? You can measure it, monitor it, and reverse it with the right interventions. Getting these biomarkers tested might be one of the smartest longevity moves you can make.</p>
+</div>
 
 ---
 

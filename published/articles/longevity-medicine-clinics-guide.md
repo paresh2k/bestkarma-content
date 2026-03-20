@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Standard annual blood work is designed to catch disease, not prevent it.</li>
+    <li>✓ Legitimate longevity clinics focus on ApoB, Lp(a), insulin resistance, and body composition.</li>
+    <li>✓ Advanced lipid tests predict heart disease better than standard cholesterol panels.</li>
+    <li>✓ Only pay for tests that will actually change what you do.</li>
+    <li>✓ Many expensive tests offer wellness theatre, not genuine clinical value.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The blood panel your GP orders once a year was designed to catch disease, not prevent it. A standard lipid panel, a fasting glucose, a TSH — these are tools built around a 1970s model of medicine, one that intervenes when you're already sick. A growing number of clinics are now selling something different: a comprehensive, proactive, data-rich picture of your biology, years or decades before conventional medicine would notice a problem. Some of them are delivering exactly that. Others are selling expensive anxiety dressed up as prevention.
 
 The longevity clinic industry has grown fast enough to outpace its own evidence base. Knowing how to distinguish genuine clinical value from wellness theatre — and which specific tests and interventions are worth your money — is not optional if you're going to engage with this space seriously.
@@ -110,6 +122,23 @@ If you're going to engage with longevity medicine, here's a defensible starting 
 - Repeat DEXA every 1–2 years to track muscle mass, especially if you've changed your training
 
 The goal is a small number of high-signal tests, reviewed by someone qualified to interpret them, linked to interventions you're actually going to make. More data is not the same as better health. What matters is whether the information changes what you do — and whether what you do changes the biology.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Request advanced lipids:</strong> Ask for ApoB and Lp(a) testing instead of standard LDL-only panels—they're better predictors of heart disease risk.</li>
+    <li>→ <strong>Check insulin resistance:</strong> Get fasting insulin or HOMA-IR calculated to catch metabolic dysfunction years before glucose rises.</li>
+    <li>→ <strong>Get a DEXA scan:</strong> Use it to measure body composition accurately and track visceral fat linked to inflammation.</li>
+    <li>→ <strong>Test VO2 max:</strong> One of the strongest predictors of overall lifespan; worth measuring at a longevity clinic.</li>
+    <li>→ <strong>Skip unproven tests:</strong> Avoid expensive full-body MRIs and other scans unless your doctor explains how results change your treatment plan.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your annual doctor's visit catches diseases you already have—not problems brewing silently. Longevity clinics do something different: they dig deeper into your biology to spot risk years earlier. But not all of them deliver real value. The legitimate ones focus on advanced lipid tests (ApoB, Lp(a)) that predict heart disease better than standard cholesterol, insulin resistance markers that catch metabolic trouble early, body composition scans, and fitness testing. These actually change what you do. Everything else—fancy full-body MRIs, unproven biomarkers—is just expensive anxiety. The key: only pay for tests your doctor will act on.</p>
+</div>
 
 ---
 

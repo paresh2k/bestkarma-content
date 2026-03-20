@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Having a clear life purpose reduces Alzheimer's risk by 2.4x and overall mortality risk significantly.</li>
+    <li>✓ Purpose works through biology: better cortisol patterns, lower inflammation, longer telomeres, and improved sleep.</li>
+    <li>✓ Okinawans live past 100 because they never retire—they keep doing what gives life meaning.</li>
+    <li>✓ Finding purpose late in life still delivers longevity benefits; age doesn't diminish the effect.</li>
+    <li>✓ Purpose-driven people make better health choices and stay invested in their own wellbeing long-term.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In Okinawa, Japan — one of the original Blue Zones where people routinely live past 100 — there is no word for retirement. The concept doesn't translate, because the concept doesn't quite exist. Okinawans don't stop; they simply keep doing what gives their life meaning. They call it **ikigai**: the reason you get up in the morning.
 
 This isn't poetry. It's biology.
@@ -96,3 +108,19 @@ The research is unambiguous: knowing why you get out of bed doesn't just improve
 [^5]: Fredrickson BL, et al. (2013). A functional genomic perspective on human well-being. *PNAS*, 110(33), 13684–13689.
 
 [^6]: Buettner D & Skemp S (2016). Blue Zones: Lessons from the world's longest lived. *American Journal of Lifestyle Medicine*, 10(5), 318–321.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Name your ikigai:</strong> Write down what makes you get out of bed. Specificity matters—vague purpose won't trigger the biological benefits.</li>
+    <li>→ <strong>Don't retire from meaning:</strong> Plan your next chapter around contribution or creativity, not absence of work.</li>
+    <li>→ <strong>Start now, any age:</strong> Purpose found at 50, 60, or 70 still reduces mortality risk—it's never too late.</li>
+    <li>→ <strong>Link purpose to health:</strong> Explicitly connect your ikigai to why preventive care, exercise, and sleep matter for achieving it.</li>
+    <li>→ <strong>Track the stress drop:</strong> Notice improved sleep, lower anxiety, and better focus as your sense of purpose solidifies.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">In Okinawa, people don't retire—they keep doing what matters to them. It's called ikigai, and it's not just philosophical; it's backed by hard biology. Research shows people with strong purpose are 2.4x less likely to develop Alzheimer's and have significantly lower mortality risk across the board. The mechanism? Purpose regulates your stress hormones, cuts inflammation, protects your telomeres (the caps on your DNA that shorten with age), and improves sleep. Even better: you can find it at any age and still get the longevity boost. The secret isn't complicated—it's having a reason to show up. That reason literally keeps you alive.</p>
+</div>

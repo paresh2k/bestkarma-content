@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Loneliness increases death risk by 26-29%, equivalent to smoking 15 cigarettes daily.</li>
+    <li>✓ Loneliness is subjective—it's about feeling disconnected, not about being physically alone.</li>
+    <li>✓ Your brain treats social isolation as a life-threatening emergency, activating chronic stress.</li>
+    <li>✓ Isolation causes elevated cortisol, hypervigilance, inflammation, and sleep problems at the cellular level.</li>
+    <li>✓ WHO now classifies loneliness as a major public health risk alongside smoking and obesity.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In 2015, Brigham Young University psychologist Julianne Holt-Lunstad published a meta-analysis covering 148 studies and 300,000 participants that produced a finding striking enough to enter public health discourse at the highest levels: social isolation and loneliness were associated with a 26-29% increase in mortality risk. The effect size was comparable to smoking 15 cigarettes per day.
 
 Not as bad as smoking. Equivalent to it.
@@ -91,6 +103,23 @@ Individual interventions help individual people. But the scale of the loneliness
 The WHO's 2025 declaration, and the US Surgeon General's earlier advisory, explicitly call for structural responses: urban redesign, workplace policy reform, healthcare screening protocols, and investment in community infrastructure.
 
 For individuals operating within current structures: the evidence points toward intentional, consistent, in-person contact with specific people around shared activities. Not trying harder to feel connected — building the structural conditions under which connection happens naturally, the way it did in the villages and neighborhoods and tribes where human social neuroscience was formed.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Distinguish loneliness:</strong> Recognize the difference between being alone (circumstance) and feeling lonely (perception)—either can happen independently.</li>
+    <li>→ <strong>Prioritize real connection:</strong> Invest time in relationships where you feel genuinely understood, not just physically present with others.</li>
+    <li>→ <strong>Monitor stress signals:</strong> Pay attention when you feel socially isolated—it's your brain's alarm, not a character flaw requiring shame.</li>
+    <li>→ <strong>Protect your sleep:</strong> Since loneliness disrupts sleep quality, consistent sleep routines become extra important for managing isolation's effects.</li>
+    <li>→ <strong>Seek community intentionally:</strong> Join groups or activities aligned with your values to build sustainable social connection beyond surface interaction.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Here's the hard truth: loneliness kills about as effectively as smoking a pack a day. The WHO just declared it a major public health crisis. But here's what's wild—it's not about being alone. You can feel lonely surrounded by people, or genuinely connected living solo. Your brain treats social isolation as a predator attack, triggering chronic stress hormones, hypervigilance, and inflammation. Evolution wired us for groups; disconnection activates survival mode 24/7, wearing down your immune system and heart. The biology is real and measurable. The fix? It's not complicated: genuine connection. Quality relationships that make you feel understood. Small groups, shared interests, real vulnerability. Your cells are literally listening to how connected you feel.</p>
+</div>
 
 ---
 

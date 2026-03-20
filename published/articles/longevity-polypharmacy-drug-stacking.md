@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Combining rapamycin and acarbose extended mouse lifespan by 28-34%, beating either drug alone.</li>
+    <li>✓ The ITP is the most credible longevity research program; most compounds fail their tests.</li>
+    <li>✓ Rapamycin inhibits mTOR to boost cellular cleanup; acarbose slows carb digestion via different mechanism.</li>
+    <li>✓ Metformin didn't extend lifespan in rigorous ITP testing, despite earlier promising results in lab mice.</li>
+    <li>✓ Taking multiple longevity drugs off-label without medical supervision crosses from optimization into potential danger.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Three drugs, combined. A 30% extension in mouse lifespan. The researchers running the experiment hadn't expected the result to be that clean.
 
 The **Interventions Testing Program (ITP)** — a rigorous, multi-site NIA-funded initiative that tests longevity compounds in genetically heterogeneous mice — has spent nearly two decades producing some of the most credible lifespan data in aging biology. Most interventions fail. Resveratrol failed. Most antioxidants failed. But rapamycin worked, repeatedly, even when started late in life. And when the ITP began stacking drugs with complementary mechanisms, something interesting happened: the effects didn't just add — in some combinations, they appeared to multiply.
@@ -85,6 +97,23 @@ If you're an evidence-literate adult considering any of these compounds, here's 
 The ITP data is genuinely exciting — not because it tells us what to do, but because it gives us the most rigorous mammalian framework we have for thinking about combination longevity pharmacology. The honest version of the headline is: *it worked in mice, the mechanisms make sense in humans, and we are years away from knowing whether the bet pays off.*
 
 That's where the evidence lives. Everything beyond it is a calculated wager.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Demand ITP data:</strong> Before taking any longevity drug, verify it passed the Interventions Testing Program's rigorous multi-site trials.</li>
+    <li>→ <strong>Consult before stacking:</strong> Never combine prescription drugs for life extension without explicit medical supervision and monitoring.</li>
+    <li>→ <strong>Verify the mechanism:</strong> Understand why drugs are being combined—complementary pathways matter more than stacking randomly.</li>
+    <li>→ <strong>Question metformin claims:</strong> It failed rigorous ITP testing in diverse mice; off-label use lacks strong evidence.</li>
+    <li>→ <strong>Accept uncertainty:</strong> Mouse lifespan gains don't guarantee human benefits; longevity protocols remain experimental at human scale.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Researchers at the Interventions Testing Program found something wild: combining rapamycin and acarbose extended mouse lifespan by up to 34%—way more than either drug alone. Rapamycin works by boosting cellular cleanup; acarbose slows carb digestion. Together, they hit aging from multiple angles. Here's the catch: this is mouse data. The logic makes sense biologically, but we don't know if it translates to humans. And metformin, often hyped in longevity circles, actually *failed* in their rigorous testing. The real takeaway? If you're considering stacking longevity drugs, don't do it without a doctor. The gap between "sounds promising" and "actually safe for you" is still enormous.</p>
+</div>
 
 ---
 

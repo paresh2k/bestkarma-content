@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Valter Longo's approach uses two strategies: a baseline plant-based, low-protein diet plus periodic fasting cycles.</li>
+    <li>✓ Adults under 65 may benefit from lower protein intake to suppress IGF-1, but this flips after 65.</li>
+    <li>✓ The fasting-mimicking diet is five days monthly at 800–1,100 calories, not complete starvation.</li>
+    <li>✓ Clinical trials show FMD reduces body fat, blood pressure, and metabolic markers without muscle loss.</li>
+    <li>✓ Benefits are strongest in people with existing metabolic risk, not those already in good health.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most longevity researchers study aging. Valter Longo is trying to reverse it. The USC gerontologist and director of the Longevity Institute has spent three decades arguing that the body already knows how to repair itself — it just needs the right metabolic signal to start. That signal, his research suggests, is periodic near-starvation. Not chronic caloric restriction, which tends to make people miserable and immunocompromised, but brief, strategic drops in energy intake that trick the body into a cellular housecleaning mode. The clinical data behind this idea is more compelling than most longevity nutrition research — and more complicated.
 
 ---
@@ -82,6 +94,23 @@ If you're considering integrating this framework, here is what the evidence supp
 The evidence for benefit is strongest in people with elevated metabolic risk markers (high fasting glucose, elevated IGF-1, excess trunk fat). If your biomarkers are already optimal, the marginal benefit is less clear.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly regarding fasting protocols or cancer-related dietary strategies.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Adjust protein by age:</strong> consume 0.7–0.8g per kilogram under 65, then increase after 65 to prevent muscle loss.</li>
+    <li>→ <strong>Try monthly FMD cycles:</strong> five days at 800–1,100 calories monthly, emphasizing healthy fats and complex carbs.</li>
+    <li>→ <strong>Prioritize plant-based protein:</strong> choose legumes and fish over red meat as your main protein sources.</li>
+    <li>→ <strong>Check your baseline first:</strong> FMD works best if you already have elevated blood pressure or glucose; normal markers may see minimal benefit.</li>
+    <li>→ <strong>Don't confuse strategies:</strong> the baseline longevity diet and fasting-mimicking diet are separate tools, not one approach.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Valter Longo isn't saying starve yourself. His research points to two separate strategies for living longer: eat mostly plants with moderate protein (especially before 65), and once a month, do a five-day "fasting-mimicking" cycle where you drop to 800–1,100 calories. It's not zero food—just a metabolic reset. The science is solid: studies show it drops blood pressure, reduces body fat, and improves metabolic markers without destroying muscle. The catch? It works best if you're already at metabolic risk. If your numbers are already healthy, you might not see much change. And heads up: after 65, Longo says flip it—eat *more* protein to fight muscle loss. The research here is among the strongest in longevity nutrition.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Chronic, low-grade inflammation is a primary driver of aging and major diseases.</li>
+    <li>✓ Unlike acute inflammation (good), chronic inflammation persists for years without obvious symptoms.</li>
+    <li>✓ Inflammation underlies cardiovascular disease, Alzheimer's, diabetes, cancer, and muscle loss simultaneously.</li>
+    <li>✓ Blood tests can measure inflammation markers that most people don't know about.</li>
+    <li>✓ Anti-inflammatory effects of treatments matter as much as their primary mechanisms.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In 2000, Italian gerontologist Claudio Franceschi published a paper in the *Annals of the New York Academy of Sciences* that introduced a word that would reshape how geroscientists — researchers who study the biology of aging — think about disease.[^1]
 
 **Inflammaging**: a portmanteau of inflammation and aging. The concept: chronic, low-grade, systemic inflammation is not merely a consequence of aging, but one of its primary *drivers* — and the common upstream cause of most major age-related diseases.
@@ -108,3 +120,19 @@ Your inflammation level is not destiny. It responds to what you do.
 [^5]: Calder PC (2017). Omega-3 fatty acids and inflammatory processes: from molecules to man. *Biochemical Society Transactions*, 45(5), 1105–1115.
 
 [^6]: Manson JE, et al. (2019). Marine n-3 fatty acids and prevention of cardiovascular disease and cancer. *New England Journal of Medicine*, 380(1), 23–32.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Get inflammation markers tested:</strong> Ask your doctor for hsCRP, IL-6, TNF-α, and fibrinogen baseline levels during next checkup.</li>
+    <li>→ <strong>Monitor cholesterol holistically:</strong> Don't focus only on LDL; ask about inflammation markers that independently predict heart disease.</li>
+    <li>→ <strong>Reduce visceral fat:</strong> Abdominal fat drives systemic inflammation, so prioritize core strength and cardio exercise.</li>
+    <li>→ <strong>Understand statin trade-offs:</strong> If prescribed statins, recognize their anti-inflammatory benefits go beyond cholesterol reduction alone.</li>
+    <li>→ <strong>Screen for chronic inflammation:</strong> Treat elevated inflammatory markers as a longevity risk factor worthy of intervention, not just symptom absence.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">There's a slow-burning fire inside your body right now—and it might be quietly driving your risk of heart disease, Alzheimer's, diabetes, and cancer all at once. It's called inflammaging: chronic, low-grade inflammation that persists for years without obvious symptoms. Unlike the good inflammation that heals a cut, chronic inflammation is system-wide, persistent, and self-reinforcing. The scary part? Most people have no idea their inflammation levels are elevated because there are no obvious symptoms. The good news: you can measure it with standard blood tests (hsCRP, IL-6, TNF-α) and take steps to lower it. Scientists now view inflammation markers as essential screening tools for aging well—just as important as cholesterol. The research is clear: controlling chronic inflammation might be one of the most powerful levers for preventing the diseases we fear most.</p>
+</div>

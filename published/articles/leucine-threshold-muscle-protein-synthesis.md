@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your muscles need 2.5–3g of leucine per meal to trigger growth, not just daily protein totals.</li>
+    <li>✓ Leucine activates mTORC1, the master switch that tells muscle cells to build protein.</li>
+    <li>✓ A 3-egg breakfast likely misses the threshold; you need ~25g whey or 120g chicken breast.</li>
+    <li>✓ Protein sources vary widely in leucine density—total grams of protein doesn't tell the whole story.</li>
+    <li>✓ Older adults are more sensitive to this threshold and need to hit it consistently.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There is a threshold your muscle cells are waiting for — and most people, most meals, never reach it.
 
 It's not about total daily protein, though that matters too. It's about whether a single meal delivers enough of one specific amino acid to flip a molecular switch that controls whether your body builds muscle or doesn't. That amino acid is leucine. And the minimum dose required — roughly **2.5 to 3 grams per meal** — is what researchers now call the leucine threshold. Fall short of it, and the anabolic signal barely registers, no matter how much protein you consumed in aggregate that day.
@@ -94,6 +106,23 @@ The goal is not complicated: construct each main meal to deliver at least 2.5–
 **Timing note:** The leucine spike matters — absorption rate affects how quickly blood leucine rises. This is why liquid proteins (whey, protein shakes) produce a sharper and more robust mTORC1 activation than slower-digesting whole food sources of equivalent leucine content, per **Pennings et al. (2011, American Journal of Clinical Nutrition)**. For older adults with anabolic resistance, faster-absorbing sources at breakfast and post-exercise may provide a modest additional advantage.
 
 The leucine threshold concept doesn't require obsessive gram-counting. What it requires is understanding that muscle protein synthesis is binary at the meal level — you either cross the threshold or you don't — and designing your plate accordingly.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Aim for 25–40g per meal:</strong> Choose protein sources that deliver 2.5–3g leucine—whey isolate, chicken, or fish work best.</li>
+    <li>→ <strong>Check your breakfast:</strong> Three eggs fall short; add a fourth egg, Greek yogurt, or cottage cheese to reach threshold.</li>
+    <li>→ <strong>Don't trust protein grams alone:</strong> Lentils and tofu are lower in leucine density than meat and dairy—portion accordingly.</li>
+    <li>→ <strong>Space protein throughout the day:</strong> Hit the leucine threshold at lunch and dinner, not just once daily.</li>
+    <li>→ <strong>Prioritize this after 40:</strong> Muscle sensitivity to leucine drops with age, making threshold meals even more critical for maintaining strength.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your muscles have a secret requirement: 2.5–3 grams of the amino acid leucine per meal. Below that, your body barely signals muscle growth—no matter how much protein you ate all day. That 3-egg breakfast? Probably doesn't cut it. A 4-ounce chicken breast does. The mechanism is real science: leucine flips a molecular switch called mTORC1 that controls whether your cells build muscle or don't. The catch—and it's a big one—is that protein sources vary wildly in leucine content. Whey and chicken are dense; lentils and tofu are not. For most people, hitting 25–40g of the right protein per meal gets you there. After 40, your muscles become less sensitive to this signal, which is why older adults need to be even more deliberate about hitting the threshold.</p>
+</div>
 
 ---
 

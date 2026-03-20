@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Jet lag is a circadian rhythm problem, not just tiredness—it's fixable with the right protocol.</li>
+    <li>✓ Eastward travel is harder than westward because your body naturally wants to delay, not advance.</li>
+    <li>✓ Melatonin works, but dose and timing matter: 0.5–1 mg at destination bedtime for eastward trips.</li>
+    <li>✓ Your circadian clock shifts about 1–2 hours per day with strategic intervention; recovery takes 3–6 days.</li>
+    <li>✓ Light exposure and melatonin timing must align with your travel direction to actually work.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people treat jet lag like a hangover — something to push through with coffee and willpower. That framing costs you days. Jet lag isn't tiredness; it's a biological timing disaster. Your circadian clock — the roughly 24-hour oscillator that governs sleep, hormone release, digestion, immune function, and cognitive performance — has been violently displaced from local time. The good news is that this clock is not fixed. It is exquisitely responsive to a small set of environmental signals, and if you know what those signals are and when to deploy them, you can compress a week of misery into 48 hours of manageable adjustment.
 
 The difference between people who recover fast and people who don't is rarely willpower. It's protocol.
@@ -100,6 +112,23 @@ For shorter westward trips, focus on staying up to local bedtime with afternoon/
 The research on jet lag interventions — while robust in aggregate — has real limitations. Most studies are small, involve healthy young adults, and measure self-reported symptoms rather than objective circadian markers. Individual variation in circadian chronotype (owls vs. larks) significantly affects phase-shifting rates, and the optimal protocol likely differs between chronotypes. The interaction effects between melatonin, light, and meal timing are not fully characterized. And almost nothing has been published on jet lag interventions in people over 60, who may have attenuated circadian amplitude and different melatonin kinetics.
 
 The honest summary: the tools above are the best we have, and they are genuinely effective. But they are not perfectly optimized for everyone, and some experimentation — particularly around melatonin dose — is warranted.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Know your direction:</strong> Eastward travel requires more aggressive intervention because your body naturally resists advancing sleep earlier.</li>
+    <li>→ <strong>Low-dose melatonin:</strong> Take 0.5–1 mg at destination bedtime for eastward flights; higher doses don't shift your clock better.</li>
+    <li>→ <strong>Time it right:</strong> For eastward travel, take melatonin at destination bedtime; for westward, take it in the morning.</li>
+    <li>→ <strong>Use light strategically:</strong> Combine melatonin with light exposure at the right circadian time to push recovery toward 2 hours per day.</li>
+    <li>→ <strong>Plan for duration:</strong> Expect 3–6 days of adjustment depending on direction; this timeline helps set realistic recovery expectations.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Jet lag isn't about willpower—it's about resetting your circadian clock, the internal timer controlling sleep, hormones, and energy. Your body clock naturally runs 24.2 hours, making it easier to stay up (westward travel) than sleep early (eastward travel). That's why flying east kills you harder. The fix: melatonin at low doses (0.5–1 mg) taken at the right time, combined with strategic light exposure. Research shows this cuts recovery from a week down to 2–3 days. The key is timing—take melatonin at your destination's bedtime for eastward flights, morning for westward. Dose matters too: more isn't better. Match the protocol to your direction and you'll reset your clock, not just survive it.</p>
+</div>
 
 ---
 

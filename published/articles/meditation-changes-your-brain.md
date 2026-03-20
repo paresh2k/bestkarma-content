@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Eight weeks of meditation measurably thickens brain regions tied to memory, learning, and emotional control.</li>
+    <li>✓ Meditation shrinks the amygdala, your brain's alarm system, reducing chronic stress and anxiety.</li>
+    <li>✓ Long-term meditators show brain structure of people 25 years younger in key aging areas.</li>
+    <li>✓ The effect is causal: controlled studies prove meditation causes these changes, not vice versa.</li>
+    <li>✓ Meditation strengthens the connection between your rational brain and emotional brain for better control.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Until the early 2000s, the prevailing view in neuroscience was that the adult brain was largely fixed — its structure determined by genetics and early development, its decline thereafter inevitable. Meditation was considered a spiritual practice, not a medical one.
 
 Then Sara Lazar walked into an fMRI machine, and everything changed.
@@ -110,3 +122,19 @@ This is not metaphor. It's now well-established neuroscience.
 [^6]: Davidson RJ, et al. (2003). Alterations in brain and immune function produced by mindfulness meditation. *Psychosomatic Medicine*, 65(4), 564–570.
 
 [^7]: Epel E, et al. (2009). Can meditation slow rate of cellular aging? Cognitive stress, mindfulness, and telomeres. *Annals of the New York Academy of Sciences*, 1172, 34–53.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Start MBSR now:</strong> commit to an 8-week Mindfulness-Based Stress Reduction program to trigger measurable brain changes.</li>
+    <li>→ <strong>Build daily practice:</strong> aim for consistent meditation to maintain amygdala shrinkage and stress resilience long-term.</li>
+    <li>→ <strong>Track emotional shifts:</strong> notice improvements in stress response and emotional reactivity as signs your brain is rewiring.</li>
+    <li>→ <strong>Prioritize executive function:</strong> meditation strengthens prefrontal-amygdala connections, giving your rational mind more control over fear.</li>
+    <li>→ <strong>Treat as brain medicine:</strong> view meditation like physical exercise—it's structural maintenance for your aging brain.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your brain isn't stuck. Eight weeks of meditation literally reshapes it. Harvard researchers proved that beginners doing a standard mindfulness program grew gray matter in memory, learning, and emotional centers—while shrinking their amygdala, the brain's stress alarm. The kicker? Long-term meditators have brain structure of people 25 years younger. It's not about becoming spiritual or zen; it's neuroscience. Meditation strengthens the connection between your rational brain and your emotional brain, giving you actual control over anxiety and stress. No drugs, no surgery. Just attention training. If you've been skeptical, the evidence is now structural.</p>
+</div>

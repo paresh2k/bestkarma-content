@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Lion's mane contains compounds that boost nerve growth factor, which supports brain infrastructure rather than quick performance gains.</li>
+    <li>✓ Human trials show modest benefits for people over 50 with mild cognitive decline, not healthy younger people.</li>
+    <li>✓ The strongest study involved only 50 people; benefits disappeared 8 weeks after stopping the supplement.</li>
+    <li>✓ Marketing claims of 'natural Adderall' vastly overstate what the actual science demonstrates.</li>
+    <li>✓ Lion's mane appears to require ongoing use to maintain any cognitive benefits observed.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There is a moment in most wellness trends when the marketing outruns the science by several years. Lion's mane mushroom — the shaggy white fungus that looks more like a sea anemone than a superfood — is currently living in that gap. Supplement brands describe it as a "natural Adderall." Biohackers stack it with other nootropics and credit it with memory recall that would impress a chess grandmaster. The actual human trial data tells a more modest, though still genuinely interesting, story.
 
 Here is what we know, what we don't, and what that means for whether this mushroom belongs in your cabinet.
@@ -83,6 +95,23 @@ Based on the Mori 2009 withdrawal data, any benefit likely requires **ongoing su
 **Quality filter:** Purchase from brands that provide third-party COAs verifying beta-glucan content, heavy metal testing, and substrate purity.
 
 The story here is not a revolution — it is a genuinely interesting signal in a small-but-credible literature, one that warrants attention but not hype. That is rarer in this space than it should be.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Manage expectations:</strong> Lion's mane supports gradual brain health, not instant mental clarity or focus boosts.</li>
+    <li>→ <strong>Consider your age:</strong> Evidence is strongest for people 50+ with existing mild cognitive concerns, not young healthy adults.</li>
+    <li>→ <strong>Commit long-term:</strong> Benefits require consistent daily use; stopping it reverses gains within weeks.</li>
+    <li>→ <strong>Verify the extract:</strong> Look for supplements containing fruiting body and mycelium for hericenones and erinacines.</li>
+    <li>→ <strong>Scrutinize claims:</strong> Dismiss 'natural Adderall' marketing as unproven hype unsupported by current human trials.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Lion's mane mushroom is getting hyped as a brain-boosting superfood, but the actual human research tells a quieter story. The mushroom does contain real compounds that support nerve growth factor — basically brain infrastructure maintenance, not a performance drug. The best evidence comes from a small 2009 study of 50 older adults with mild cognitive issues, which showed modest improvements. Here's the catch: benefits fade when you stop taking it, and we don't have solid data proving it works for young, healthy brains. Bottom line? It's not 'natural Adderall,' and it probably won't make you smarter. It might modestly support aging brains if you're consistent — but manage your expectations.</p>
+</div>
 
 ---
 

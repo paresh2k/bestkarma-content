@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Writing about difficult experiences for 15-20 minutes reduces stress and boosts immune function for months.</li>
+    <li>✓ The magic happens when your brain turns chaotic emotions into a coherent narrative you understand.</li>
+    <li>✓ Gratitude journaling before bed helps you fall asleep faster by redirecting your attention.</li>
+    <li>✓ Journaling works through the same mechanism as therapy: making sense of what happened.</li>
+    <li>✓ Free, no equipment needed, and backed by 40 years of scientific research.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In the late 1980s, James Pennebaker ran an experiment that should not have worked. He recruited healthy college students and randomly assigned them to one of two conditions: write for 15-20 minutes per day about the most traumatic or upsetting experiences of their lives, or write about trivial topics (what they had for lunch, their shoes, the furniture in their room). The expressive writing group was told to write continuously, without editing or concern for grammar, about what happened and how they felt about it.
 
 The writing group showed more upset immediately after each session. But at six months, they had significantly fewer physician visits, better immune function (measured by T-lymphocyte counts), and better mood than the control group.
@@ -66,6 +78,23 @@ Digital and AI-assisted journaling platforms — which provide prompts, reflecti
 ## On Medium: Digital vs. Handwriting
 
 Both modalities produce the journaling benefits — the mechanism is cognitive, not physical. Handwriting is slower, which has some evidence suggesting it promotes deeper processing (the slower pace forces more conscious engagement with each word). Digital journaling is more accessible, more easily maintained as a habit, more searchable over time, and more compatible with modern workflow. Choose the format you will actually use — a digital journal you maintain beats a beautiful paper journal you opened twice.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Try expressive writing:</strong> Write continuously for 15-20 minutes about a difficult experience for 3-4 consecutive days, skipping grammar and editing.</li>
+    <li>→ <strong>Journal before bed:</strong> Write about things you're grateful for right before sleep to fall asleep faster and improve sleep quality.</li>
+    <li>→ <strong>Don't edit yourself:</strong> Raw, unfiltered writing works better than polished prose—grammar and structure don't matter.</li>
+    <li>→ <strong>Include the full story:</strong> Write what happened, how you felt, and what meaning you've made since for maximum benefit.</li>
+    <li>→ <strong>Keep it private:</strong> Journaling works whether anyone reads it or not—the cognitive reappraisal happens in your own mind.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Writing about your problems actually works—and science proves it. A researcher named Pennebaker discovered that when college students spent 15 minutes writing about traumatic experiences, they had fewer doctor visits and better immune function within six months. Here's why: your brain struggles with raw, messy emotions. Writing forces you to turn chaos into a story with a beginning, middle, and end. That narrative act literally changes how your brain processes the experience, so you stop ruminating at night and getting triggered randomly. Different types work for different things: expressive writing for health and stress recovery, gratitude journaling specifically for sleep. The best part? It's free and requires zero equipment. Just write, don't edit, and let your brain do the work.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ HRV measures time gaps between heartbeats, not heart speed itself.</li>
+    <li>✓ High HRV signals parasympathetic dominance — your body's recovery mode is active.</li>
+    <li>✓ Sleep is when HRV peaks because stress hormones drop and vagus nerve takes over.</li>
+    <li>✓ Low HRV flags real problems: alcohol, illness, stress, overtraining all suppress it.</li>
+    <li>✓ Your vagus nerve uses HRV to control inflammation throughout your entire body.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people glance at their HRV score the way they check the weather — a number that vaguely shapes their mood before they've had coffee. A "64" feels reassuring. A "41" triggers a low-grade anxiety that follows them into their morning. But almost nobody can answer a basic question about it: *what is that number actually measuring?*
 
 The answer matters more than you might expect. HRV is not a direct measurement of your heart. It's a window into a much deeper system — one that governs how well your body recovers, adapts to stress, and fights disease. Understanding what's behind the number doesn't just make you a more sophisticated wearable user. It tells you something real about your biology.
@@ -92,6 +104,23 @@ The good news: HRV responds to intervention faster than almost any other biomark
 - **Eliminate or minimize alcohol**, especially within 3 hours of sleep
 - **Finish eating 2–3 hours before bed**
 - **Treat a single low score as noise** — act only on trends (3+ consecutive low readings)
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track nocturnal HRV:</strong> measure during sleep for cleaner data free from daytime stress and movement noise.</li>
+    <li>→ <strong>Limit alcohol intake:</strong> even two drinks reduce nighttime HRV by 22%, signaling impaired recovery.</li>
+    <li>→ <strong>Monitor trends, not daily:</strong> single HRV numbers fluctuate; look at weekly patterns to spot real recovery issues.</li>
+    <li>→ <strong>Use HRV as a warning system:</strong> sudden drops signal overtraining, illness, or poor sleep quality worth investigating.</li>
+    <li>→ <strong>Strengthen vagal tone:</strong> prioritize sleep, stress management, and moderate exercise to boost parasympathetic function.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your wearable's HRV number isn't measuring your heart speed—it's measuring the gaps between beats and what that reveals about your nervous system. High HRV means your parasympathetic (chill) system is winning; low HRV means stress and fight-or-flight dominance. Sleep is when HRV peaks because your body finally relaxes and recovery actually happens. Things that trash your HRV? Alcohol, stress, illness, overtraining. Why care? Your vagus nerve uses HRV to control inflammation throughout your body. So that number isn't just recovery data—it's a window into whether your nervous system is actually healing or burning out.</p>
+</div>
 
 ---
 

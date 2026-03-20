@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Most people aren't getting enough magnesium due to processed foods and soil depletion.</li>
+    <li>✓ Magnesium has real science behind it, unlike many other sleep supplements.</li>
+    <li>✓ It works through five separate pathways: calming brain activity, reducing stress hormone, and relaxing muscles.</li>
+    <li>✓ Stress, alcohol, and certain medications make magnesium deficiency worse.</li>
+    <li>✓ Even mild magnesium insufficiency can disrupt sleep without causing obvious symptoms.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most sleep supplements don't work. Melatonin, sold in doses 10-100x physiologically appropriate, mostly just shifts your sleep timing rather than improving its quality. Valerian root has nearly no clinical evidence. "Sleep support" blends often contain ingredients at doses too low to be meaningful.
 
 Magnesium is different — not because it's a silver bullet, but because its mechanism is real, the deficiency is widespread, and the clinical evidence, while modest, is consistent. If there is one supplement with a legitimate, mechanistically grounded case for sleep support, magnesium is it.
@@ -90,6 +102,23 @@ The safety profile of magnesium supplementation is excellent. Excess magnesium i
 Magnesium is not a sleep medication. It doesn't produce sedation or reliably knock you out the way benzodiazepines do. Its mechanism is nutritional support for systems that regulate sleep — restoring function that's impaired by widespread deficiency, not overriding sleep architecture through pharmacological force.
 
 That's actually the point. For the large proportion of adults with subclinical magnesium insufficiency, addressing that insufficiency through food and supplementation removes a genuine impediment to sleep quality. It's not a treatment for insomnia. It's nutritional groundwork — the kind that makes CBT-I work better, that makes good sleep habits more effective, that removes a factor making sleep harder than it needs to be.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Eat magnesium-rich foods:</strong> prioritize leafy greens, legumes, nuts, seeds, and whole grains instead of processed alternatives.</li>
+    <li>→ <strong>Limit magnesium depletes:</strong> reduce sugar and alcohol intake, which increase magnesium loss through urine.</li>
+    <li>→ <strong>Check your medications:</strong> proton pump inhibitors for acid reflux impair magnesium absorption—discuss alternatives with your doctor.</li>
+    <li>→ <strong>Consider supplementation:</strong> if dietary sources are insufficient, magnesium glycinate or threonate are well-absorbed forms.</li>
+    <li>→ <strong>Manage stress levels:</strong> chronic stress increases magnesium excretion, creating a cycle that worsens sleep quality.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Most Western diets don't provide enough magnesium because refined foods strip it out, and soil depletion means crops contain less than they used to. Stress, alcohol, and certain medications make it worse. Unlike melatonin or valerian root, magnesium actually has solid science: it calms your racing mind, reduces stress hormones, relaxes muscles, and supports the chemistry needed for sleep. You don't need a massive dose—just adequate amounts from food or a modest supplement. If you're struggling with sleep onset or racing thoughts, magnesium deficiency might be the overlooked culprit.</p>
+</div>
 
 ---
 
