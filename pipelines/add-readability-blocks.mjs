@@ -91,7 +91,7 @@ ${articleText.slice(0, 4000)}
 
 Generate:
 1. "tldr": Array of exactly 5 short bullet points. Plain English, no jargon. Max 20 words each. Start each with "✓ ". Capture the most important things someone learns from this article.
-2. "keyTakeaways": Array of exactly 5 actionable takeaways. Max 25 words each. Start each with "→ ". Bold the first 2-4 words using **bold**: format. Focus on what the reader can DO.
+2. "keyTakeaways": Array of exactly 5 actionable takeaways. Max 25 words each. Start each with "→ **Action label:**" where the bold label is a short (2-5 word) standalone phrase that names the action — like a mini headline — followed by a colon, then the detail. Example format: "→ **Cut caffeine early:** stop consuming it 10-12 hours before bed to protect deep sleep." The bold label must make sense on its own. Focus on what the reader can DO.
 3. "quickRead": A single paragraph, 150-180 words. Plain English. Written for someone scrolling Instagram who won't read the full article. No jargon. Conversational but accurate. Shareable.
 
 Return ONLY this JSON structure:
