@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Psilocybin shows rapid antidepressant effects in trials, but long-term durability remains unclear.</li>
+    <li>✓ MDMA-assisted therapy for PTSD had strong Phase 2 results but FDA rejected approval in 2024.</li>
+    <li>✓ These treatments require 6-8 hour monitored sessions with trained therapists, not casual use.</li>
+    <li>✓ Clinical evidence is real and compelling, but compounds remain federally illegal without trial access.</li>
+    <li>✓ Headlines often oversell results; limitations and relapse rates are important parts of the story.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Three decades after the War on Drugs effectively ended psychedelic research, psychiatry finds itself in an unusual position: some of the most promising results in treatment-resistant mental illness are coming from compounds that remain federally illegal, administered in carefully monitored clinical sessions lasting six to eight hours, with therapists sitting quietly in the room while patients wear eye shades and listen to curated playlists. The science is real. The results, in some cases, are striking. But the path from compelling trial data to something you can actually access is bumpier than the headlines suggest — and the evidence has meaningful limits that are easy to miss.
 
 Here is an honest account of where things stand.
@@ -87,6 +99,23 @@ The evidence does not support **microdosing as a validated therapy**. The clinic
 If you or someone you know is considering any of these treatments, **ClinicalTrials.gov** lists all active studies recruiting participants. For psilocybin, the **Oregon Psilocybin Services program** began licensing facilitators in 2023 and provides a legal, regulated access pathway for adults without a medical diagnosis requirement. Colorado's program is in development. Ketamine clinics vary enormously in quality — look for board-certified psychiatrists who integrate psychotherapy, not just infusion centers focused on volume.
 
 The science here is young, fast-moving, and genuinely exciting. It also requires more intellectual honesty than it usually gets.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Understand limitations:</strong> Don't assume single-dose psilocybin provides lasting remission; maintenance protocols are still being studied.</li>
+    <li>→ <strong>Know the process:</strong> Psychedelic therapy requires professional clinical settings, preparatory sessions, and integration support—not self-administration.</li>
+    <li>→ <strong>Track regulatory status:</strong> MDMA approval was rejected in 2024; check official FDA guidance before believing approval claims.</li>
+    <li>→ <strong>Evaluate your options:</strong> Ask your doctor about access through registered clinical trials if interested in these treatments.</li>
+    <li>→ <strong>Separate hype from data:</strong> Read the actual studies, not just headlines; effect sizes and relapse rates matter.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Psychedelics are generating real clinical buzz for depression and PTSD, and the research is legitimate. Psilocybin showed 71% response rates in one study—crazy good. But here's the catch: effects might not last without boosters, approval timelines are murky, and these aren't party drugs. They require 6-8 hour sessions with trained therapists in clinical settings. MDMA-assisted therapy for PTSD looked amazing in Phase 2, then the FDA actually rejected it in 2024 over concerns about study design. The science is genuinely promising, but it's messier and slower than headlines suggest. Most people still can't access these treatments legally—clinical trials are your main option right now.</p>
+</div>
 
 ---
 

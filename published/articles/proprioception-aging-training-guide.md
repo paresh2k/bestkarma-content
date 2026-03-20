@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Proprioception is your body's hidden sense of where it is in space—and it starts declining at 40.</li>
+    <li>✓ Falls are the leading cause of injury death in seniors, often due to proprioception loss, not weakness.</li>
+    <li>✓ Your brain relies on sensors in muscles, tendons, and joints to stay balanced and move smoothly.</li>
+    <li>✓ Age shrinks the number of these sensors and slows the signals traveling to your brain.</li>
+    <li>✓ This system can be preserved and improved with the right training before decline becomes dangerous.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a sense you use thousands of times a day that you've probably never thought about. It has no obvious organ — no eyes, no ears, no taste buds — yet without it, you couldn't walk across a room in the dark, catch yourself on a slippery step, or stand still with your eyes closed. It's proprioception: your nervous system's continuous, largely unconscious awareness of where your body is in space. And starting around age 40, it begins to quietly erode.
 
 That erosion has consequences that dwarf most of what the wellness world spends its time talking about. Falls are the leading cause of injury-related death in adults over 65 in the United States. They kill more older Americans than car accidents. A significant fraction of those falls trace back not to muscle weakness or poor vision, but to a degraded proprioceptive system that could, with the right training, have been preserved.
@@ -84,6 +96,23 @@ Progress the difficulty by reducing the base of support, adding arm movement, in
 Start with the single-leg stance work — it costs nothing, can be done in your kitchen, and builds the baseline proprioceptive awareness that makes every other intervention more effective. If you can't hold a single-leg stance for 10 seconds with your eyes closed, that's diagnostic information. It's also where the work begins.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have a history of falls, joint injury, or vestibular disorders.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Test your balance:</strong> Stand on one leg with eyes closed for 30 seconds daily to assess proprioception early.</li>
+    <li>→ <strong>Start strength training:</strong> Resistance exercises rebuild muscle spindle density and slow proprioceptive decline with age.</li>
+    <li>→ <strong>Practice balance work:</strong> Add single-leg stands, heel-to-toe walks, or tai chi to maintain spatial awareness.</li>
+    <li>→ <strong>Train on unstable surfaces:</strong> Use balance boards or BOSU balls 2–3 times weekly to challenge your system.</li>
+    <li>→ <strong>Screen early:</strong> If you're over 40, assess proprioception now rather than waiting until falls become a problem.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">There's a sense you barely notice but rely on constantly: proprioception, your body's awareness of its position in space. It's why you can walk in the dark or catch yourself on a slippery step. The problem? It starts fading around 40, and by 65, a weak proprioceptive system becomes the silent culprit behind falls—the leading cause of injury death in older adults. Your brain relies on tiny sensors in muscles, tendons, and joints to stay balanced. Age shrinks these sensors and slows the signals reaching your brain. The good news: this isn't inevitable. Strength training, balance work, and challenging your stability now can preserve or rebuild this system before it becomes dangerous. Start before you need it.</p>
+</div>
 
 ---
 

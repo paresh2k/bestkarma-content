@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ The government's protein recommendation is a bare minimum, not optimal for aging adults.</li>
+    <li>✓ Muscle loss accelerates after 60, causing falls, weakness, metabolic problems, and poor health outcomes.</li>
+    <li>✓ Older bodies need more protein to build muscle because they're less responsive to it.</li>
+    <li>✓ Adults over 65 should aim for 1.2-1.6g protein per kilogram of body weight daily.</li>
+    <li>✓ Protein plus resistance exercise is the proven combination to preserve muscle and prevent decline.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The US recommended daily allowance for protein is 0.8 grams per kilogram of body weight. For a 70-kilogram adult, that's 56 grams per day — a number set by the Institute of Medicine to prevent deficiency in a sedentary adult. It is explicitly not an optimal intake for health. It is a floor.
 
 For adults over 40, particularly those trying to maintain muscle mass, exercise capacity, and metabolic health into their later decades, the RDA for protein is inadequate. The gap between the minimum-to-not-be-deficient and the optimum-for-healthy-aging is large, consequential, and not well communicated.
@@ -98,6 +110,23 @@ The exception: anyone with existing kidney disease should follow their physician
 **Protein first, then fill the plate.** Planning meals with protein as the anchor — and adding vegetables, whole grains, and healthy fats around it — is more reliable than trying to add protein to a carbohydrate-centric meal plan.
 
 Muscle is not a cosmetic concern. It is the metabolic and structural foundation of functional aging. Protecting it with adequate protein is one of the clearest, most evidence-supported nutritional investments available.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Calculate your target:</strong> Multiply your weight in kilograms by 1.2-1.6g if over 65 to find your daily protein goal.</li>
+    <li>→ <strong>Distribute across meals:</strong> Spread protein evenly throughout the day rather than loading dinner; your body responds better.</li>
+    <li>→ <strong>Pair with strength training:</strong> Resistance exercise makes your muscles respond better to protein, doubling the benefit.</li>
+    <li>→ <strong>Track for two weeks:</strong> Log your actual protein intake to see the gap between what you eat and what you need.</li>
+    <li>→ <strong>Prioritize protein first:</strong> Make protein the anchor of each meal before adding carbs and fats.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Here's the thing: the protein amount your doctor quotes? It's just the minimum to not get sick. For anyone over 40—especially after 60—you actually need way more to keep your muscle. Your muscles shrink naturally with age, and that causes falls, makes recovery from illness harder, tanks your metabolism, and raises your risk of pretty much everything bad. The problem gets worse because older bodies respond less efficiently to protein, so you can't just eat the same amount as a 25-year-old. The fix is straightforward: eat 1.2-1.6 grams per kilogram of body weight daily (much more than the standard recommendation), lift heavy things regularly, and your body will actually preserve the muscle that keeps you independent.</p>
+</div>
 
 ---
 

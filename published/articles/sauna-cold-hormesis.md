@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Finnish study: sauna 4-7 times weekly cuts mortality risk by 40% and Alzheimer's risk by 65%</li>
+    <li>✓ Heat stress triggers cardiovascular adaptations similar to moderate exercise training</li>
+    <li>✓ Sauna activates heat shock proteins that protect cells against damage and disease</li>
+    <li>✓ Regular heat exposure reduces inflammation markers linked to major diseases</li>
+    <li>✓ Benefits emerge at 2-3 sessions per week; 15-30 minutes at 70-90°C is the effective dose</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In Finland, sauna isn't a luxury. It's infrastructure. There are roughly 3.3 million saunas in a country of 5.5 million people — more saunas than cars. Finnish families have used them for thousands of years, not as a wellness trend but as a regular part of life, several times a week, regardless of age.
 
 This cultural habit turned out to be one of the most important longitudinal natural experiments in cardiovascular medicine.
@@ -94,6 +106,23 @@ The same heat that kills cells at extreme temperatures activates heat shock prot
 The biology that makes exercise protective is the same biology engaged by temperature stressors. They're different inputs to overlapping adaptive machinery.
 
 What 20 years of Finnish data and a growing body of cold immersion research suggest is that deliberately exposing your body to controlled, manageable discomfort — regularly, with adequate recovery — is one of the clearest paths through which voluntary stress becomes involuntary protection.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Start sauna routine:</strong> aim for 2-3 sessions weekly at 70-90°C for 15-30 minutes to see cardiovascular benefits</li>
+    <li>→ <strong>Add cool-down:</strong> end sessions with cold water or fresh air exposure to enhance adaptations</li>
+    <li>→ <strong>Treat as exercise:</strong> regular sauna provides cardiovascular stress benefits similar to moderate aerobic training</li>
+    <li>→ <strong>Prioritize consistency:</strong> dose-response data shows 4-7 weekly sessions yield significantly greater protection than occasional use</li>
+    <li>→ <strong>Track inflammation:</strong> sauna's anti-inflammatory effects may be the primary mechanism behind longevity benefits</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Finland's natural experiment reveals something surprising: regular sauna use cuts your mortality risk by 40% and Alzheimer's risk by 65%. A 20-year study of 2,315 men found the sweet spot is 4-7 sessions weekly. Why? Heat stress works like exercise — it strengthens your cardiovascular system, activates protective heat shock proteins, and reduces inflammation. You get similar benefits to aerobic training without running. The protocol: 15-30 minutes at 70-90°C with a cool-down afterward. Even 2-3 times weekly shows real benefits. It's not about luxury—it's legitimate biology. Your blood vessels adapt, your cells protect themselves better, and chronic disease risk drops. This is one of the cleanest dose-response relationships in longevity science.</p>
+</div>
 
 ---
 

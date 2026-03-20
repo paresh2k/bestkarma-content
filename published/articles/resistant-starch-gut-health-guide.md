@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Resistant starch is a special fiber that reaches your colon intact, feeding beneficial bacteria most people are starving.</li>
+    <li>✓ Americans eat less than 5 grams daily; our ancestors ate 30–40 grams. This gap may drive modern health problems.</li>
+    <li>✓ Four types exist, but RS2 (raw potatoes, green bananas) and RS3 (cooled cooked starch) are what you can actually use.</li>
+    <li>✓ Studies show resistant starch improves insulin sensitivity by 33%, increases satiety, and influences metabolism for hours after eating.</li>
+    <li>✓ Cooking pasta or potatoes, then cooling them before eating meaningfully increases resistant starch — one of nutrition's few proven hacks.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people eating a "high-fiber" diet are still starving a critical portion of their gut microbiome. That's not an exaggeration — it's a structural problem with how we think about fiber. The vast majority of dietary fiber advice conflates fermentable and non-fermentable fibers, soluble and insoluble, and misses a category that behaves differently from all of them: **resistant starch**. Unlike the fiber in a bran muffin or a psyllium supplement, resistant starch arrives in your colon largely intact, where it becomes a selective feast for the specific bacterial species most associated with metabolic health, inflammation control, and colon protection. A 2020 review by Baxter and colleagues in *Cell Host & Microbe* described resistant starch as one of the most potent dietary modulators of the gut microbiome tested to date — and yet the average American consumes less than 5 grams per day, against an estimated ancestral intake of 30–40 grams.
 
 The gap between what our microbiome evolved to expect and what it actually receives may be one of the more consequential, and reversible, mismatches in modern nutrition.
@@ -79,6 +91,23 @@ You don't need a supplement to meaningfully increase your resistant starch intak
 **Supplement option:** If you're using potato starch (RS2), **start with 1 teaspoon (approximately 8g) in cold water or a smoothie** and increase by 1 teaspoon every few days. Do not cook it — heat destroys RS2 structure.
 
 The goal is not optimization theater. It's feeding the bacteria that, left unfed, quietly stop doing their jobs.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Cool your starches:</strong> Cook rice, pasta, or potatoes, refrigerate overnight, then eat cold or reheated to boost resistant starch content.</li>
+    <li>→ <strong>Add green bananas:</strong> Eat unripe bananas as snacks or blend into smoothies for raw resistant starch without cooking.</li>
+    <li>→ <strong>Prioritize whole grains:</strong> Choose intact whole grains over refined to preserve RS1, the physically protected starch inside cell walls.</li>
+    <li>→ <strong>Test your response:</strong> Start with 15 grams daily from cooled starches and monitor hunger, energy, and digestion over two weeks.</li>
+    <li>→ <strong>Skip RS4 supplements:</strong> Avoid chemically modified resistant starch in processed foods; focus on whole-food RS2 and RS3 sources instead.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your gut bacteria are probably starving. Most fiber advice ignores resistant starch — a unique carb that reaches your colon intact and feeds the specific bacteria linked to metabolism, inflammation control, and gut health. Americans eat less than 5 grams daily; our ancestors ate 30–40 grams. The fix? It's surprisingly simple. Cook starchy foods like pasta or potatoes, cool them in the fridge, then eat them cold or reheated. This creates RS3, a resistant starch form that improves insulin sensitivity by 33% and keeps you fuller longer. Uncooked potatoes and green bananas work too. Studies show these foods influence your metabolism for hours after eating — even affecting your next meal. It's one of the few nutrition hacks backed by solid science. Start small, around 15 grams daily, and adjust based on how you feel.</p>
+</div>
 
 ---
 

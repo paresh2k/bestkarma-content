@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ People with strong life purpose have 15-20% lower mortality risk across all demographics.</li>
+    <li>✓ Purpose predicts lower risk of cardiovascular disease, stroke, dementia, and depression.</li>
+    <li>✓ Purpose works by motivating better health habits, buffering stress, and strengthening social bonds.</li>
+    <li>✓ High purpose correlates with longer telomeres, lower inflammation, and stronger immune function.</li>
+    <li>✓ Purpose isn't luxury—it's measurable biological protection equivalent to a medical intervention.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In the JAMA Network Open in 2019, researchers published a prospective cohort study of 31,551 adults from the Understanding America Study. Participants were measured on a validated life purpose scale and followed for an average of 3.7 years. After controlling for depression, health behaviors, and sociodemographic factors, those with higher purpose scores had a 15-20% lower risk of all-cause mortality — a hazard ratio of 0.83. The finding held across age groups, sexes, and races.
 
 This is a large study with a sobering finding: having a reason to get up in the morning is not a nice-to-have feature of a good life. It is a measurable health intervention, predictive of whether you will be alive in four years.
@@ -62,6 +74,23 @@ This period is often misread as crisis — a pathology to be resolved — when i
 **Service as a starting point.** Volunteering — contributing time and skill to something outside of personal interest — is the fastest evidence-based pathway to experiencing meaningfulness. Studies on volunteering find that it reduces mortality risk independently of other factors, likely through the combination of purpose, social connection, and health behavior effects that purposeful activity generates. If you are uncertain what your purpose is, finding something to contribute to while you figure it out is both empirically supported and practically useful.
 
 **Mentoring and teaching.** Sharing hard-won expertise with others who need it generates purpose through the concrete experience of mattering: you have something valuable that someone else lacks, and your presence makes a specific difference. This is available across almost every domain of experience and requires no institutional role.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Define your ikigai:</strong> Identify what makes your life feel worth living, not just what pays bills.</li>
+    <li>→ <strong>Link purpose to habits:</strong> Connect daily health choices (exercise, eating, sleep) to people or goals you care about.</li>
+    <li>→ <strong>Build community involvement:</strong> Join groups or activities aligned with your purpose to strengthen social bonds.</li>
+    <li>→ <strong>Reframe hardship:</strong> When facing adversity, connect it to your larger life narrative to reduce psychological damage.</li>
+    <li>→ <strong>Assess your direction:</strong> Reflect on whether your daily activities align with what feels meaningful—adjust if they don't.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Having a reason to get up matters more than you think. A study of 31,000+ people found that those with strong life purpose had 15-20% lower death risk over four years. The benefit showed up across ages, genders, and races. Purpose isn't just feel-good stuff—it's biology. When you have something that matters, you naturally exercise more, eat better, handle stress differently, and stay more connected to people. Your body responds too: better immune function, lower inflammation, even longer telomeres. Blue Zones centenarians in Okinawa and Costa Rica don't just live longer—they live *for* something. Your 'why' literally extends your life.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Processed meat shows stronger cancer links than unprocessed red meat in major studies.</li>
+    <li>✓ The absolute risk increase from red meat is modest and often overstated in headlines.</li>
+    <li>✓ Cooking method and food pairing matter more than meat consumption alone.</li>
+    <li>✓ Recent dietary guidelines shifted toward protein adequacy rather than strict meat limits.</li>
+    <li>✓ The evidence is real but complicated — not a reason to panic or ignore it.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Few nutrition debates generate more heat and less light than the one about red meat. In the span of a single decade, red meat has been declared a probable carcinogen by the World Health Organization, championed as an ancestral superfood by carnivore diet evangelists, and now — in a pivot that surprised many dietitians — given a more permissive reading in the 2025 U.S. Dietary Guidelines, which shifted emphasis toward adequate protein intake rather than specific limits on meat consumption. If you're a reasonably health-conscious person trying to make sense of all this, you're not confused because you haven't been paying attention. You're confused because the evidence is genuinely complicated.
 
 Here's what a careful reading of the full body of evidence actually shows: the risk signals are real but modest, concentrated in specific foods and cooking methods, substantially weakened by confounding, and largely absent for unprocessed red meat at moderate intakes. That's not a vindication of the ribeye-for-every-meal crowd. It's also not a reason to treat a grass-fed burger like a cigarette.
@@ -72,6 +84,23 @@ The evidence supports a differentiated approach, not an all-or-nothing rule.
 - **If you're over 50 or have low protein intake,** the 2025 Dietary Guidelines' emphasis on protein adequacy is relevant. Muscle mass preservation is strongly linked to healthspan. For some individuals, lean red meat contributes meaningfully to meeting protein needs that matter for long-term physical function.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have a personal or family history of colorectal cancer or cardiovascular disease.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize unprocessed:</strong> Choose fresh beef, lamb, or pork over processed meats like deli sausages and cured charcuterie.</li>
+    <li>→ <strong>Watch cooking heat:</strong> Avoid charring meat at very high temperatures; moderate heat reduces harmful compound formation.</li>
+    <li>→ <strong>Pair thoughtfully:</strong> Eat red meat with vegetables and fiber-rich foods to reduce associated health risks.</li>
+    <li>→ <strong>Moderate portions:</strong> Aim for adequate protein without excessive daily red meat consumption—balance is key.</li>
+    <li>→ <strong>Read past headlines:</strong> Understand that 'carcinogen classification' ≠ 'causes cancer'—magnitude and context matter enormously.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Red meat gets a bad rap, but the full story is nuanced. Big studies show processed meats (bacon, deli ham, sausage) carry real cancer risks, while fresh red meat at moderate amounts shows much weaker signals. The WHO classified it as 'probably carcinogenic'—but that's different from saying it causes cancer like smoking does. The actual risk bump is small. What matters more: how you cook it (avoid charring), what you eat it with (pair with veggies), and how much you eat. The 2025 dietary guidelines got less dogmatic about meat limits and more focused on getting enough protein. Bottom line: a grass-fed burger isn't a health food, but it's not a health threat either.</p>
+</div>
 
 ---
 

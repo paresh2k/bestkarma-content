@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Self-compassion isn't weakness — it's scientifically linked to better mental health and performance.</li>
+    <li>✓ Three components: self-kindness, recognizing shared human struggle, and balanced emotional awareness.</li>
+    <li>✓ Self-criticism backfires by triggering fear and avoidance rather than motivation.</li>
+    <li>✓ Meta-analyses show self-compassion reduces anxiety and depression across diverse populations.</li>
+    <li>✓ Treating yourself like a good friend actually drives accountability and improvement.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There is a widely held belief that the path to high performance runs through self-criticism — that holding yourself to demanding standards requires a harsh internal voice that catalogs every failure, amplifies every shortcoming, and refuses to accept less than the best. On this view, self-compassion is the soft alternative: what you do instead of trying hard.
 
 The research says otherwise. And it says so clearly enough that it has prompted a fundamental rethinking of what drives sustained motivation, resilience, and psychological health.
@@ -74,6 +86,23 @@ Laboratory studies find that people trained to use this practice show reduced co
 The research does not suggest that ambition, standards, or effort are in tension with self-compassion. They are not. The driver of quality work is not self-punishment for falling short — it is genuine care about the work and about one's own growth. Self-criticism feels like caring but often operates as avoidance, as shame, and as the kind of threat-based motivation that eventually exhausts itself.
 
 Self-compassion supports the motivation that is more durable: motivation from values rather than fear, from genuine investment in growth rather than protection from shame. The high achiever who can treat failure with the equanimity of a good friend is more likely to sustain effort, learn from mistakes, and maintain wellbeing across the inevitable variability of a challenging life.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Respond with warmth:</strong> When you fail or struggle, pause and ask how you'd support a close friend in that situation.</li>
+    <li>→ <strong>Normalize struggle:</strong> Remind yourself that failure, imperfection, and difficulty are universal—not signs you're uniquely flawed.</li>
+    <li>→ <strong>Feel without spiraling:</strong> Acknowledge difficult emotions without denying them or letting them define your entire worth.</li>
+    <li>→ <strong>Replace self-criticism:</strong> Notice when your internal voice turns harsh and consciously shift toward encouragement instead.</li>
+    <li>→ <strong>Test the approach:</strong> Try an 8-week self-compassion practice to experience firsthand how it shifts motivation and resilience.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You've probably heard that self-criticism is the secret to high performance—that you need a harsh internal voice to stay accountable. Science says that's backwards. Research shows self-compassion—treating yourself with the same warmth you'd offer a struggling friend—actually drives better mental health, less anxiety, and stronger motivation. It works through three practices: self-kindness (ditching self-punishment), recognizing that everyone struggles (you're not uniquely flawed), and balanced awareness (feeling your emotions without spiraling). The counterintuitive part? Self-criticism backfires by triggering fear and avoidance. Self-compassion removes the threat, letting you engage honestly with mistakes and improve. Large-scale studies confirm it works across ages and cultures. Bottom line: being kind to yourself isn't soft—it's the most effective path to the accountability and resilience you actually want.</p>
+</div>
 
 ---
 

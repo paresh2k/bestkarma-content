@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Seed oils contain linoleic acid, which can theoretically increase inflammation through metabolic pathways.</li>
+    <li>✓ American linoleic acid intake has tripled since 1960 due to processed foods and industrial oils.</li>
+    <li>✓ Large studies show higher linoleic acid intake linked to lower heart disease risk, contradicting inflammation theory.</li>
+    <li>✓ Heating seed oils produces oxidation byproducts, but typical dietary amounts' harm remains unclear.</li>
+    <li>✓ Strong mechanistic arguments exist, but real-world clinical evidence doesn't yet support the anti-seed-oil narrative.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Few nutrition debates generate more heat and less light than the one about seed oils. On one side, a growing coalition of carnivore advocates, ancestral health influencers, and some serious researchers argue that linoleic acid — the primary omega-6 fatty acid in oils like soybean, corn, sunflower, and canola — is quietly driving chronic inflammation and metabolic disease. On the other side, most mainstream nutrition scientists and major health organizations insist the evidence shows seed oils are neutral or even beneficial. Both camps are more confident than the data warrants. Here is what the evidence actually says.
 
 ---
@@ -80,6 +92,23 @@ Given genuine uncertainty, the most defensible position is to neither fear seed 
 The seed oil debate reveals something important about how nutrition science works: mechanistically plausible hypotheses, strong ideological investment on both sides, and outcome data that refuses to be clean. The right response is not to pick a team — it is to make decisions calibrated to the actual weight of evidence, hold them lightly, and update when better data arrives.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making significant changes to your diet or health routine.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Monitor heating:</strong> Avoid cooking seed oils at high temperatures; use them for low-heat cooking or dressings.</li>
+    <li>→ <strong>Balance omega ratios:</strong> Increase omega-3 sources like fish to balance against high omega-6 intake.</li>
+    <li>→ <strong>Reduce processed foods:</strong> Cut back on processed foods where seed oils concentrate, not just cooking oils.</li>
+    <li>→ <strong>Don't overcorrect:</strong> Evidence doesn't warrant eliminating seed oils entirely; moderation is currently most defensible.</li>
+    <li>→ <strong>Watch individual response:</strong> Track your own inflammation markers and metabolic health rather than following ideology.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">The seed oil debate has real science behind it. Linoleic acid (found in corn, soy, sunflower oils) can theoretically trigger inflammation through body chemistry, and we're eating way more of it than our ancestors did. Plus, heating these oils creates sketchy compounds. Sounds bad, right? Here's the plot twist: large studies of hundreds of thousands of people show that more linoleic acid actually correlates with *lower* heart disease risk. The mechanism makes sense on paper, but reality hasn't caught up. Smart move? Don't go full carnivore, but don't deep-fry everything in seed oil either. Moderate your intake, balance omega-3s, and avoid charring oils at high heat.</p>
+</div>
 
 ---
 

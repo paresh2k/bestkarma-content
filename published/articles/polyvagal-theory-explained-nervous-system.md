@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your nervous system scans for safety 200ms faster than your conscious brain can process it.</li>
+    <li>✓ Three neural circuits control your stress response: social connection, fight-or-flight, then shutdown/freeze.</li>
+    <li>✓ Neuroception means your body detects threat subconsciously—before you're aware anything is wrong.</li>
+    <li>✓ Feeling truly safe requires more than absence of danger; it needs signals of social connection.</li>
+    <li>✓ Trauma can lock your nervous system into freeze mode long after the actual threat ends.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a moment most of us recognize: you walk into a room full of strangers and your chest tightens before you've consciously registered anything threatening. Or you hear a particular tone of voice — not angry, exactly, but cold — and something in your body shifts before your brain has finished parsing the words. This isn't anxiety or irrationality. It's your nervous system doing exactly what it was designed to do, running a continuous security scan that operates roughly 200 milliseconds faster than conscious awareness. Stephen Porges, a neuroscientist at Indiana University, spent decades mapping the biological architecture behind this phenomenon. What he found reshaped how clinicians understand trauma, connection, and healing.
 
 His framework — **polyvagal theory** — is now embedded in trauma therapy, somatic practice, and psychiatric research. It has also been simplified, distorted, and turned into wellness shorthand by people who have never read the original papers. This article is an attempt to give you the real version: mechanistically accurate, honestly caveated, and practically useful.
@@ -78,6 +90,23 @@ If neuroception runs below conscious awareness, you cannot simply decide to feel
 **Gentle movement and yoga.** A **2017 RCT by van der Kolk and colleagues** in the *Journal of Clinical Psychiatry*, involving 64 women with treatment-resistant PTSD, found that a 10-week yoga intervention produced significantly greater reductions in PTSD symptoms than a control condition, with effect sizes comparable to established pharmacological treatments. The mechanism is thought to involve improved interoception — the ability to sense internal bodily states — which allows the nervous system to recalibrate its threat baseline.
 
 **Co-regulation through safe relationships.** Perhaps the most powerful ventral vagal activator is the physiological presence of another regulated nervous system. Research by **Feldman (2007)** in *Developmental Science* showed that synchrony between caregiver and infant autonomic states is foundational to regulatory capacity — and that adults retain this capacity throughout life. If you want to regulate your nervous system, one of the most effective things you can do is spend time with people who are themselves regulated.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Notice your body first:</strong> Pay attention to physical sensations (chest tightness, tone shifts) before analyzing why—your body knows threats faster than your mind.</li>
+    <li>→ <strong>Seek vocal warmth:</strong> Listen for prosody and expressiveness in others' voices as a real safety signal; flat tone activates threat detection.</li>
+    <li>→ <strong>Create connection rituals:</strong> Engage in activities that activate your social nervous system—face-to-face conversation, expressive communication—to build genuine safety.</li>
+    <li>→ <strong>Recognize freeze responses:</strong> If you feel numb, foggy, or immobilized after stress, name it as a nervous system state, not a character flaw.</li>
+    <li>→ <strong>Reset through presence:</strong> When stuck in fight-or-flight or shutdown, grounding techniques that signal safety to your body (safe people, calm voices) can reset your hierarchy.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your nervous system is constantly scanning for danger—and it's faster than your conscious mind. Neuroscientist Stephen Porges mapped how this works: first, your body tries the 'social safety' response (connection, calm). If that fails, it switches to fight-or-flight. As a last resort, it collapses into freeze mode. The catch? Your body makes these calls subconsciously through something called neuroception. A cold tone of voice, a stranger's face, or a particular vibe triggers your system before you've consciously registered anything. This is why trauma survivors often feel frozen or unsafe even in objectively safe situations—their nervous system got stuck in shutdown mode. Understanding this isn't just fascinating neuroscience; it's the key to understanding why you feel what you feel and how healing actually works.</p>
+</div>
 
 ---
 

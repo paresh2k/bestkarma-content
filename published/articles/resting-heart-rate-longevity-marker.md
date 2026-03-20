@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Resting heart rate predicts lifespan risk as strongly as smoking status or cholesterol levels.</li>
+    <li>✓ Men with resting heart rate above 90 bpm face triple the cardiovascular death risk.</li>
+    <li>✓ Every 10 bpm increase in resting heart rate raises all-cause mortality risk by 9%.</li>
+    <li>✓ Low resting heart rate signals cardiac efficiency and strong parasympathetic nervous system balance.</li>
+    <li>✓ Even small increases in resting heart rate over time predict worse health outcomes.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Your resting heart rate might be the single most underrated number in medicine. It costs nothing to measure, requires no lab, and carries predictive power that rivals expensive biomarkers. And yet most people who own a smartwatch glance at it once, shrug, and forget it exists.
 
 Here's why that's a mistake: in a landmark 2006 analysis of the **Copenhagen City Heart Study** — a prospective cohort that followed 29,325 men and women over decades — researchers found that men with a resting heart rate above 90 beats per minute faced nearly triple the risk of dying from cardiovascular disease compared to men whose resting heart rate sat below 50 bpm. That's not a marginal difference. That's the kind of hazard ratio you'd expect from comparing smokers to non-smokers.
@@ -89,6 +101,23 @@ If your resting heart rate is above 70 bpm and you're not already training consi
 Recheck your resting heart rate at 12 weeks. If you've been consistent, expect a drop of 4–8 bpm. That may sound small. In the Jouven data, it could move you from one mortality risk category to another.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have a diagnosed cardiovascular condition or are taking medications that affect heart rate.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track your baseline:</strong> Measure resting heart rate first thing in the morning for your true baseline before activity or caffeine.</li>
+    <li>→ <strong>Aim for below 60 bpm:</strong> Target a resting heart rate under 60 beats per minute as a longevity benchmark.</li>
+    <li>→ <strong>Monitor the trend:</strong> Watch for increases of 5+ bpm over months or years—changes matter as much as absolute values.</li>
+    <li>→ <strong>Build aerobic capacity:</strong> Consistent endurance exercise (running, cycling, swimming) lowers resting heart rate by improving cardiac efficiency.</li>
+    <li>→ <strong>Manage stress daily:</strong> Practice meditation, deep breathing, or yoga to strengthen parasympathetic tone and reduce sympathetic dominance.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your resting heart rate might be the most underrated health number you're not paying attention to. Large studies tracking thousands of people over decades show that every 10 bpm increase in resting heart rate raises your all-cause mortality risk by 9%—independent of exercise, cholesterol, or blood pressure. Men with resting rates above 90 bpm face triple the cardiovascular death risk compared to those under 50. Why? A low resting heart rate means your heart pumps efficiently and your nervous system stays calm. High resting rate signals chronic stress, inflammation, and sympathetic dominance. The fix: endurance training and stress management. Check yours tomorrow morning before getting out of bed.</p>
+</div>
 
 ---
 

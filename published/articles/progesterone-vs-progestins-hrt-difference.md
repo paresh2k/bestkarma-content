@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ The famous 2002 WHI study tested synthetic progestin, not natural progesterone.</li>
+    <li>✓ Synthetic progestins and natural progesterone behave very differently in your body.</li>
+    <li>✓ E3N study found synthetic progestins raised breast cancer risk; progesterone did not.</li>
+    <li>✓ The type of progestin in HRT matters as much as whether you take it.</li>
+    <li>✓ Many doctors still don't distinguish between these hormones when prescribing HRT.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most women who've heard that hormone replacement therapy raises breast cancer risk are picturing a specific study: the **Women's Health Initiative (WHI)**, published in *JAMA* in 2002, which triggered a global retreat from HRT and left a generation of women undertreated for menopausal symptoms. What most of those women — and many of their doctors — don't know is that the WHI didn't test progesterone. It tested a synthetic compound called **medroxyprogesterone acetate (MPA)**, a progestin that behaves quite differently in the body. The distinction matters enormously, and the evidence has been accumulating for two decades that the type of progestogen in your HRT is not a footnote — it's potentially one of the most consequential variables in the entire risk-benefit calculation.
 
 This is not a fringe position. It's reflected in the guidance of the UK's Medicines and Healthcare products Regulatory Agency (MHRA), in peer-reviewed cohort studies involving hundreds of thousands of women, and in a growing clinical consensus that the original WHI findings were misapplied to an entire class of hormone therapies that wasn't actually studied.
@@ -76,6 +88,23 @@ If you are postmenopausal or perimenopausal and considering HRT, here is what th
 - **Don't conflate the WHI findings with all HRT.** The WHI studied oral CEE plus MPA in women who were, on average, 63 years old at enrolment — a population and formulation meaningfully different from a 50-year-old starting body-identical HRT close to menopause onset.
 
 The science here has moved substantially since 2002. The clinical conversation should too.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Ask your doctor:</strong> Confirm whether your HRT contains synthetic progestin or micronised progesterone.</li>
+    <li>→ <strong>Research your specific hormone:</strong> Look up the exact compound in your prescription, not just the generic category.</li>
+    <li>→ <strong>Revisit old fears:</strong> If you avoided HRT due to 2002 WHI findings, discuss updated evidence with your provider.</li>
+    <li>→ <strong>Find an informed prescriber:</strong> Seek doctors who understand the progesterone-progestin distinction when considering HRT.</li>
+    <li>→ <strong>Track your formula:</strong> Keep records of which HRT type you use; switching compounds changes your risk profile.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You've probably heard that HRT causes breast cancer, right? Here's what most people miss: the big 2002 study that scared everyone tested a synthetic fake hormone called MPA, not actual progesterone. Turns out they act completely differently in your body. A massive French study of 80,000+ women found that synthetic progestins did increase breast cancer risk, but natural micronised progesterone? Basically neutral. Same estrogen, totally different outcome depending on which progestin you pair it with. So if your doctor prescribed HRT without specifying which type, you're missing crucial information. The hormone matters. A lot.</p>
+</div>
 
 ---
 

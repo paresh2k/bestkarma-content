@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Leucine, a specific amino acid, acts as the 'on switch' for muscle growth, not just a building block.</li>
+    <li>✓ You need about 2.5–3g of leucine per meal to trigger muscle protein synthesis—roughly 30–40g total protein.</li>
+    <li>✓ Spreading protein evenly across meals builds more muscle than eating the same total amount in one or two sittings.</li>
+    <li>✓ Three meals hitting the threshold beats two large meals, even if the daily total is identical.</li>
+    <li>✓ Older adults need even more protein per meal to cross the leucine threshold and maintain muscle.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people optimizing their protein intake are asking only half the right question. They're tracking grams — hitting 1.6g per kilogram of bodyweight, distributing carefully across the day — and feeling good about it. What they're often missing is that the *same* total protein, eaten at the *same* times, can produce meaningfully different amounts of muscle protein synthesis depending on whether each individual meal crosses a critical biological threshold. You can hit your daily target and still be leaving significant anabolic stimulus on the table.
 
 The threshold in question is for **leucine** — the branched-chain amino acid that acts less like a building block and more like a molecular ignition key for muscle growth. Get enough of it at each sitting, and you trigger the machinery. Fall short, and the machinery largely stays dormant, regardless of how much protein arrives later.
@@ -92,6 +104,23 @@ Getting this right doesn't require a spreadsheet. It requires shifting one quest
 If you're plant-based, these numbers suggest that hitting the leucine threshold requires either larger serving sizes or deliberate leucine supplementation — especially at breakfast, and especially after 55.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Aim for 30–40g per meal:</strong> hit the leucine threshold at breakfast, lunch, and dinner to maximize muscle growth.</li>
+    <li>→ <strong>Spread protein evenly:</strong> replace one large dinner with balanced meals throughout the day for better daily synthesis.</li>
+    <li>→ <strong>Prioritize breakfast protein:</strong> many people front-load protein at night; shifting some to morning multiplies growth signals.</li>
+    <li>→ <strong>Adjust for age:</strong> if over 60, aim for the upper range (35–40g) or slightly higher to meet rising thresholds.</li>
+    <li>→ <strong>Choose complete proteins:</strong> eggs, Greek yogurt, chicken, and cottage cheese reliably deliver the 2.5–3g leucine you need per meal.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You probably track total daily protein, but timing matters just as much. Your muscles don't care if you eat 100g in one dinner or spread across three meals—except they actually do. There's a specific amino acid called leucine that flips the switch for muscle growth. You need about 2.5–3g of it per meal (roughly 30–40g of total protein) to activate this switch. Fall short at any meal, and you're missing growth. Studies show eating 30–40g three times daily builds more muscle than eating 120g at night, even with the same total. The takeaway: stop thinking daily totals and start thinking per-meal minimums.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Rapamycin didn't hit its primary longevity endpoint in the first major human trial, but secondary markers looked promising.</li>
+    <li>✓ The drug works by quieting mTOR, a cellular growth switch, mimicking benefits of fasting without the hunger.</li>
+    <li>✓ It extended lifespan 9-14% in mice, even when started late in life, but human results remain uncertain.</li>
+    <li>✓ Safety profile was better than expected with 10mg weekly doses in healthy middle-aged and older adults.</li>
+    <li>✓ We know more than before, but need longer studies to know if rapamycin actually extends human lifespan.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 For a drug that's never been approved for healthy humans, rapamycin has accumulated a remarkable following among longevity physicians and researchers who take it themselves. Matt Kaeberlein, one of the field's most rigorous scientists, has been taking it. Peter Attia has discussed taking it publicly for years. The PEARL trial — the first randomized, placebo-controlled study of rapamycin in healthy, middle-aged adults — was supposed to answer the question everyone had been circling. What it actually showed is more interesting, and more honest, than either the enthusiasts or the skeptics wanted.
 
 The short version: the trial did not produce a statistically significant primary endpoint. The longer version is that several secondary biomarkers moved in directions that matter, the safety profile was cleaner than many expected, and the honest read of the data is that we know more than we did — and still far less than we need to.
@@ -72,6 +84,23 @@ If you are a healthy adult weighing this question, the protocol most commonly us
 What the PEARL trial gave us is not a green light. It is the beginning of a conversation that the field has needed to have out loud, in controlled conditions, for a long time. That is worth something.
 
 *This article is for informational purposes only. Rapamycin is a prescription drug with meaningful pharmacological effects. Consult a qualified healthcare provider before making any changes to your health routine, particularly regarding prescription interventions.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Understand the mechanism:</strong> Rapamycin slows cellular growth to boost repair processes like autophagy, mimicking fasting's anti-aging effects.</li>
+    <li>→ <strong>Wait for Phase 2 data:</strong> First human trial showed mixed results; longer studies are needed before considering use.</li>
+    <li>→ <strong>Don't extrapolate from mice:</strong> 14% lifespan extension in rodents doesn't guarantee human benefits; translation often fails.</li>
+    <li>→ <strong>Monitor secondary markers:</strong> Watch for upcoming data on immune function and biological aging clocks, not just lifespan.</li>
+    <li>→ <strong>Discuss with physicians:</strong> If considering rapamycin off-label, only pursue with doctors familiar with longevity research and dosing.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Rapamycin—a drug that extends mouse lifespan by up to 14%—just failed its primary human test. The PEARL trial, the first rigorous study in healthy adults, didn't show the composite biological age improvement researchers hoped for. But here's the plot twist: secondary markers moved in promising directions, and the safety profile was cleaner than expected. The honest takeaway? We learned something real, but not the definitive answer everyone wanted. The drug works by quieting mTOR, a cellular "growth switch" that shifts cells toward repair mode. Whether that actually extends human life remains unknown—and it might take decades to find out. For now: don't rush into it, but keep watching the data.</p>
+</div>
 
 ---
 
