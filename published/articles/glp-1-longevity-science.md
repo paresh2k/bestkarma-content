@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ GLP-1 drugs like semaglutide show benefits beyond weight loss in rigorous clinical trials.</li>
+    <li>✓ These drugs reduce heart attacks, strokes, and early death even in non-diabetic patients.</li>
+    <li>✓ GLP-1 receptors work throughout the body—heart, brain, immune cells—not just the gut.</li>
+    <li>✓ The drugs appear to fight chronic inflammation, a root cause of aging and disease.</li>
+    <li>✓ Evidence suggests they may compress late-life disease, not just treat individual conditions.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 When researchers at the Buck Institute and elsewhere began calling semaglutide a "longevity drug" in early 2025, the wellness internet predictably lost its mind. But the claim didn't come from a supplement company or a biohacker's Substack. It came from a peer-reviewed paper in *Nature Biotechnology* — and the argument it makes is more careful, and more provocative, than the headlines suggested.
 
 The case isn't primarily about weight loss. It's about what GLP-1 receptor agonists appear to do to the fundamental biology of aging: chronic inflammation, cardiovascular deterioration, neurodegeneration, and metabolic dysfunction. If the emerging data holds, these drugs may represent the first therapeutic class to meaningfully compress the period of late-life disease — not just treat individual conditions, but alter the trajectory underneath them.
@@ -80,6 +92,23 @@ What the evidence does support is the following:
 - **If you're in your 40s or 50s and interested in longevity biology:** The inflammaging mechanism suggests that lifestyle interventions targeting chronic low-grade inflammation — consistent exercise, a Mediterranean-pattern diet, adequate sleep, minimizing visceral adiposity — are operating on the same biology these drugs appear to modulate. The PREDIMED trial (Estruch et al., 2013, *NEJM*) demonstrated that a Mediterranean dietary pattern reduced cardiovascular events by 30% in high-risk adults — a magnitude comparable to the GLP-1 trials, without a prescription. This is not a reason to dismiss GLP-1 data. It's a reason to take inflammaging seriously by every available means.
 
 The 2025 *Nature Biotechnology* paper may mark a turning point in how we think about pharmaceutical longevity interventions. But the most important implication of the GLP-1 story is perhaps simpler: the biology these drugs are targeting — chronic inflammation, metabolic dysregulation, vascular deterioration — is addressable. Drugs may one day be part of that picture. The rest of the picture is already available.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Talk to your doctor:</strong> discuss whether GLP-1 trials or treatments apply to your cardiovascular risk profile.</li>
+    <li>→ <strong>Track inflammation markers:</strong> ask about testing CRP and other inflammatory markers as a baseline.</li>
+    <li>→ <strong>Don't skip other basics:</strong> weight loss drugs work best alongside exercise, diet, and stress management.</li>
+    <li>→ <strong>Stay informed on trials:</strong> follow emerging research from peer-reviewed sources, not wellness influencers.</li>
+    <li>→ <strong>Monitor long-term data:</strong> these are newer as longevity drugs; ask your doctor about follow-up studies.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Semaglutide (Ozempic/Wegovy) is getting called a "longevity drug"—and it's not hype. Recent clinical trials show these GLP-1 drugs cut heart attacks and strokes by 20% in non-diabetic people with cardiovascular risk. The benefit isn't just about weight loss. These drugs have receptors all over your body—in your heart, brain, immune cells—and they seem to fight chronic inflammation, which is a major driver of aging itself. Studies show they reduce inflammatory markers independent of weight change. The big idea: instead of treating one disease at a time, they might actually slow down the aging process underneath. Still early, but the science is real.</p>
+</div>
 
 ---
 

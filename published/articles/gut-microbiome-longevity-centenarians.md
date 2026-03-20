@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Centenarians' gut bacteria stay diverse and young-looking, unlike most people's after age 60.</li>
+    <li>✓ A healthy microbiome reduces inflammation, strengthens immunity, and supports brain chemistry.</li>
+    <li>✓ Three bacteria species—Akkermansia, Bifidobacterium, Christensenella—appear consistently in 100-year-olds.</li>
+    <li>✓ Living independently at home preserves microbiome health better than institutional settings.</li>
+    <li>✓ Diet variety, mobility, and social contact matter more than age alone for gut health.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Researchers studying centenarians have found the expected things: good genes in some, active lifestyles, plant-heavy diets, close social networks. They've also found something unexpected: the oldest people alive tend to have gut microbiomes that look younger than their age.
 
 While most people's gut bacterial diversity declines steadily after age 60, dropping toward a less diverse and more pro-inflammatory community, many centenarians maintain the microbial diversity typical of people decades younger. They also harbor specific bacterial species consistently associated with metabolic health, immune function, and longevity — species increasingly rare in the modern Western gut.
@@ -100,6 +112,23 @@ The lifestyle patterns of the longest-lived populations — plant-forward diets,
 The centenarian gut is not an accident. It is the predictable outcome of decades of dietary diversity, physical activity, and the fermented foods that most traditional food cultures developed before anyone understood the gut microbiome. The biology caught up to the behavior.
 
 The implication for everyone else: the microbiome is not fixed. It responds to dietary change within weeks. The centenarian microbiome is not a lucky accident of genetics — it is an ecosystem that can, to a significant degree, be cultivated.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Eat more fiber:</strong> Feed beneficial bacteria by consuming diverse plant foods daily to maintain microbial diversity.</li>
+    <li>→ <strong>Stay socially active:</strong> Maintain regular community engagement and independent living; isolation damages microbiome health.</li>
+    <li>→ <strong>Vary your diet:</strong> Rotate different plant sources across weeks to support multiple beneficial bacterial species.</li>
+    <li>→ <strong>Minimize antibiotics:</strong> Use them only when medically necessary; they deplete the diverse bacteria that protect you.</li>
+    <li>→ <strong>Move regularly:</strong> Physical activity supports both microbiome diversity and the barrier function that prevents inflammation.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Want to live to 100? Start with your gut bacteria. Centenarians have something most of us lose: microbial diversity. While most people's gut bacteria decline after 60, becoming less diverse and more inflammatory, the world's oldest people maintain bacteria profiles that look decades younger. Your microbiome isn't just digestion—it's producing 95% of your serotonin, training your immune system, and controlling inflammation throughout your body. The secret? Fiber-rich plants, social engagement, and staying active. Living independently at home with dietary variety preserves microbiome health far better than institutional settings. Three bacterial species keep showing up in centenarians: Akkermansia (maintains gut barrier), Bifidobacterium (anti-inflammatory), and Christensenella (linked to healthy weight). The microbiome responds to your choices—diet, movement, social contact—more than to age itself. Diversity is resilience.</p>
+</div>
 
 ---
 

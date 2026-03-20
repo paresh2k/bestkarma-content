@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Willpower isn't a muscle that runs out—that theory didn't replicate in large studies.</li>
+    <li>✓ The real problem: relying on willpower creates fragile systems that fail over time.</li>
+    <li>✓ Lasting change happens when health behaviours meet three needs: autonomy, competence, relatedness.</li>
+    <li>✓ Intrinsic motivation (your own reasons) sticks far longer than external pressure or shame.</li>
+    <li>✓ Design your life so healthy choices feel natural, not like daily battles with yourself.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people trying to get healthier don't have an information problem. They know vegetables are better than chips. They know they should exercise. They know sleep matters. And yet, come Tuesday evening, they're on the couch eating chips and doom-scrolling instead of at the gym. The conventional explanation — that they simply lack willpower — isn't just unhelpful. According to decades of psychological research, it's wrong.
 
 The gap between knowing and doing is not a character flaw. It's a design flaw. And design flaws can be fixed.
@@ -92,6 +104,23 @@ You don't need to overhaul your life. You need to redesign a few choice points.
 - **Build identity evidence.** After any small healthy behaviour, note it explicitly: *"That's something a person who looks after themselves does."* Repetition builds belief.
 
 The science is clear on one thing above all: sustainable health behaviour is not a discipline story. It is a design story. The environment you build, the identity you claim, and the plans you make in advance will outlast any motivational spike — every time.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Choose your own reasons:</strong> Pick health behaviours aligned with your personal values, not external demands, for genuine lasting motivation.</li>
+    <li>→ <strong>Build competence gradually:</strong> Start small and celebrate progress to feel effective and capable, not overwhelmed or defeated.</li>
+    <li>→ <strong>Connect to your community:</strong> Share your goals with people who matter—relatedness dramatically strengthens commitment and follow-through.</li>
+    <li>→ <strong>Eliminate willpower dependency:</strong> Redesign your environment and routines so healthy choices require no daily battle or self-control.</li>
+    <li>→ <strong>Adopt an identity shift:</strong> Think 'I'm someone who moves their body' rather than 'I must exercise,' embedding change into who you are.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You don't lack willpower—you're using the wrong strategy. Science shows that treating willpower like a muscle that depletes is outdated. The real secret? Stop relying on willpower at all. Instead, build health habits that satisfy three core needs: autonomy (your choice, your reasons), competence (you feel capable doing it), and relatedness (it connects you to people who matter). When these are met, motivation comes from within and actually sticks. The person who runs because *they* decided they want to feel strong outlasts someone doing it from shame or external pressure. Stop designing your life around winning daily battles with yourself. Design it so the healthy choice feels natural.</p>
+</div>
 
 ---
 

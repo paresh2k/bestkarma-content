@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your brain has a waste-clearing system that's 10x more active during sleep than awake.</li>
+    <li>✓ One night of poor sleep measurably increases Alzheimer's-linked proteins in your brain.</li>
+    <li>✓ Deep, slow-wave sleep specifically drives the brain's garbage disposal — light sleep doesn't.</li>
+    <li>✓ Chronic sleep deprivation lets toxic proteins accumulate over decades before symptoms appear.</li>
+    <li>✓ Sleep quality matters more than duration; 7 hours of deep sleep beats 8 fragmented ones.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Every organ in your body has a waste management system. The lymphatic network runs alongside your blood vessels, collecting cellular waste, immune byproducts, and metabolic debris — draining it away to be processed and cleared.
 
 The brain was thought to be the exception. It sits behind the blood-brain barrier, largely isolated from the rest of the body's drainage infrastructure. For a long time, neuroscientists weren't entirely sure how it cleaned itself at all.
@@ -86,3 +98,19 @@ Every night of sleep is your brain's most powerful dementia prevention tool. The
 ---
 
 *Primary sources: Nedergaard et al. Science 2013 (glymphatic system discovery); Shokri-Kojori et al. PNAS 2018 (amyloid accumulation with sleep deprivation, PubMed 33004510); Alzheimer's Association Report 2025; Nature Communications 2026 (glymphatic dysfunction and Alzheimer's progression).*
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize deep sleep:</strong> Focus on sleep architecture and consolidation, not just hitting 8 hours total.</li>
+    <li>→ <strong>Skip alcohol before bed:</strong> It fragments sleep and blocks deep stages, undermining brain cleanup.</li>
+    <li>→ <strong>Address sleep apnea:</strong> Get screened and treated — it's one of the most disruptive sleep disorders.</li>
+    <li>→ <strong>Avoid sleep-disrupting drugs:</strong> Benzodiazepines and certain medications suppress deep sleep; discuss alternatives with your doctor.</li>
+    <li>→ <strong>Protect your sleep window:</strong> Maintain consistent bedtimes and wake times to maximize consolidated deep sleep stages.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your brain has a housekeeping system that only really works when you're sleeping — and it's roughly 10 times more efficient at night. The cleanup crew targets amyloid-beta and tau, the toxic proteins that pile up in Alzheimer's disease. Here's the kicker: even one night of bad sleep lets these proteins accumulate measurably in your brain. Stretched across decades, poor sleep becomes a silent risk factor for dementia. But not all sleep is created equal. Deep sleep — that profound, slow-wave stage — is where the real magic happens. Seven hours of quality, consolidated sleep beats eight hours of fragmented tossing and turning. Alcohol, sleep apnea, and certain medications wreck deep sleep specifically, so if you're serious about brain health for the long haul, sleep isn't optional. It's prevention.</p>
+</div>

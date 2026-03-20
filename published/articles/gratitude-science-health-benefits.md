@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Gratitude isn't just a feeling—it's a measurable practice backed by decades of replicated research.</li>
+    <li>✓ Writing about five things you're grateful for weekly improves sleep, exercise habits, and physical health.</li>
+    <li>✓ Gratitude activates brain regions linked to social bonding, reward, and emotional regulation.</li>
+    <li>✓ Gratitude practice replaces pre-sleep worry cycles with positive thinking, improving sleep quality.</li>
+    <li>✓ Higher gratitude correlates with lower inflammation markers, benefiting cardiovascular and immune health.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Gratitude has a credibility problem. Wrapped in inspirational-poster aesthetics and self-help rhetoric, it sounds like wishful thinking dressed in pseudoscience.
 
 It isn't. The research on gratitude is among the most replicated in all of positive psychology, and its biological mechanisms are increasingly well-characterized.
@@ -121,3 +133,19 @@ Gratitude is not a feeling you wait for. It's a skill you build.
 [^10]: Lyubomirsky S (2008). *The How of Happiness*. Penguin Press.
 
 [^11]: Seligman MEP, et al. (2005). Positive psychology progress: Empirical validation of interventions. *American Psychologist*, 60(5), 410–421.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Weekly gratitude writing:</strong> Spend 10 minutes once a week listing five things you're grateful for to build measurable health improvements.</li>
+    <li>→ <strong>Bedtime gratitude ritual:</strong> Write in a gratitude journal 15 minutes before bed to replace worry-cycles and fall asleep faster.</li>
+    <li>→ <strong>Start small, be consistent:</strong> Even brief weekly practice produces behavioral changes in exercise and doctor visits within 10 weeks.</li>
+    <li>→ <strong>Focus on specificity:</strong> Write about actual things you're grateful for rather than generic positivity to activate reward and bonding pathways.</li>
+    <li>→ <strong>Track sleep and mood:</strong> Monitor changes in sleep quality and energy levels after starting gratitude practice to measure your own results.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Gratitude isn't just motivational fluff—it's neuroscience. When you practice gratitude regularly, your brain actually changes. Studies show writing about five things you're grateful for weekly improves sleep, increases exercise, and reduces physical complaints. Your brain's reward center lights up, stress pathways calm down, and inflammation drops. The magic? It's not about feeling instantly happy. It's about replacing the worry-spiral that keeps you awake with genuine positive engagement. Fifteen minutes before bed or once a week can measurably shift your health. It's simple, free, and scientifically proven to work.</p>
+</div>

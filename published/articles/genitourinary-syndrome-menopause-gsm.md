@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ GSM affects 50% of postmenopausal women and worsens over time, unlike hot flashes which fade.</li>
+    <li>✓ Fewer than 25% of affected women seek treatment due to embarrassment and thinking it's normal aging.</li>
+    <li>✓ GSM causes vaginal thinning, dryness, painful sex, discharge, and recurrent UTIs that progressively worsen.</li>
+    <li>✓ 73% of women with GSM report it negatively affected their sex lives and intimacy with partners.</li>
+    <li>✓ Estrogen loss breaks down vaginal tissue architecture and protective bacteria, creating a cascade of problems.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Here's something that will strike most people as backward: the most distressing long-term symptom of menopause isn't the one everyone talks about.
 
 Hot flashes get the headlines, the sympathy, and the treatment conversations. But hot flashes, for the majority of women, eventually ease. The symptom that quietly intensifies for the rest of a woman's life — affecting her comfort, her sexuality, her bladder, and her sense of self — is one that fewer than a quarter of affected women ever discuss with a doctor. It doesn't have a catchy name. Until recently, it barely had a name at all.
@@ -81,6 +93,23 @@ GSM is progressive. Earlier treatment is more effective and easier. If you recog
 If your doctor dismisses your symptoms as "normal aging," they are half right — GSM is common — and entirely wrong in the conclusion that follows. Common is not the same as untreatable. **The Menopause Society's provider locator (menopause.org) and the British Menopause Society's accredited specialist directory are useful starting points for finding a clinician with genuine expertise.**
 
 One more thing worth saying plainly: the embarrassment that keeps women from raising these symptoms is not weakness. It is the entirely predictable product of a medical culture that spent decades treating women's genitourinary health as too awkward to discuss at length. That culture is changing. The conversation can start with you.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Talk to your doctor:</strong> If you experience vaginal dryness, painful sex, or frequent UTIs after menopause, seek medical evaluation rather than assuming it's normal.</li>
+    <li>→ <strong>Recognize it's treatable:</strong> GSM is a real condition with evidence-based treatments; silence and shame are not required responses.</li>
+    <li>→ <strong>Communicate with partners:</strong> Discuss symptoms and impacts on intimacy so partners understand it's a medical issue, not rejection.</li>
+    <li>→ <strong>Start early intervention:</strong> Don't wait for symptoms to worsen; earlier treatment prevents progressive tissue damage and maintains quality of life.</li>
+    <li>→ <strong>Know the progression:</strong> Understand that unlike hot flashes, GSM gets worse without treatment, making early action crucial for long-term health.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Here's something nobody tells you: the worst part of menopause isn't hot flashes. It's genitourinary syndrome of menopause (GSM)—a progressive condition affecting at least half of postmenopausal women that gets worse, not better, over time. When estrogen drops, vaginal tissue thins, dries out, and loses elasticity. This leads to painful sex, chronic discharge, recurrent UTIs, and loss of intimacy. Yet fewer than 25% of affected women ever talk to a doctor about it. Why? Embarrassment and the false belief that it's just normal aging. But it's not inevitable—it's treatable. The real damage happens in silence: 73% of women with GSM say it wrecked their sex lives. If you're experiencing vaginal dryness, pain during sex, or frequent infections after menopause, this is worth a conversation with your doctor. Your intimate life depends on it.</p>
+</div>
 
 ---
 

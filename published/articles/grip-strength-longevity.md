@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ A 3-second grip strength test predicts cardiovascular death better than blood pressure measurement.</li>
+    <li>✓ Grip strength reflects overall neuromuscular health, metabolic reserve, inflammation levels, and brain function.</li>
+    <li>✓ Each 5-kg drop in grip strength increases cardiovascular mortality risk by 17%.</li>
+    <li>✓ The PURE study tracked 140,000 people across 17 countries and found grip strength was the stronger predictor.</li>
+    <li>✓ Low grip strength signals declining muscle mass, poor metabolic health, and increased disease risk.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 At every doctor's visit, your blood pressure gets measured. The cuff inflates, deflates, and produces two numbers that have shaped cardiology practice for decades. High blood pressure is a proven cardiovascular risk factor, and lowering it saves lives.
 
 But the PURE study — one of the largest cardiovascular research projects ever conducted — followed 139,691 adults across 17 countries and found something that made cardiologists look twice: grip strength was a more powerful predictor of cardiovascular death than systolic blood pressure.
@@ -89,3 +101,19 @@ That's worth correcting.
 ---
 
 *Primary sources: Leong et al. Lancet 2015 (PURE study), DOI: 10.1016/S0140-6736(14)62000-6; Celis-Morales et al. BMJ 2018 (UK Biobank), DOI: 10.1136/bmj.k1651; Rantanen et al. Age 2012; García-Hermoso et al. BJSM 2018.*
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Get tested:</strong> ask your doctor for a grip strength test using a hand dynamometer at your next checkup.</li>
+    <li>→ <strong>Build muscle:</strong> prioritize strength training 2-3 times weekly to maintain lean mass and metabolic health.</li>
+    <li>→ <strong>Track trends:</strong> monitor your grip strength yearly as an early warning system for metabolic decline.</li>
+    <li>→ <strong>Don't ignore signals:</strong> if grip strength drops noticeably, investigate underlying inflammation or neurological changes with your doctor.</li>
+    <li>→ <strong>Move daily:</strong> combine resistance training with regular activity to preserve neuromuscular function and longevity.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your grip strength might be a better predictor of how long you'll live than your blood pressure. A massive study of 140,000 people across 17 countries found that grip strength beats blood pressure at predicting heart disease death. Why? Your hands reveal the true state of your muscles, metabolism, inflammation, and even brain health. Weak grip doesn't just mean weak hands—it signals declining muscle mass, poor metabolic reserve, and systemic inflammation. A 5-kilogram drop in grip strength bumps your cardiovascular mortality risk up 17%. The good news: this is testable, measurable, and changeable. Ask your doctor for a grip test, then hit the weights. Your future self will thank you.</p>
+</div>

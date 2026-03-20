@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ A 30-second test predicting your next decade's health involves standing, walking, and sitting down.</li>
+    <li>✓ Grip strength, walking speed, and ability to stand from floor are stronger death predictors than blood pressure.</li>
+    <li>✓ Functional fitness trains real-life movement patterns, not isolated muscles like gym machines do.</li>
+    <li>✓ Multi-joint coordinated movements transfer to actual longevity better than isolated strength training.</li>
+    <li>✓ The fitness industry is finally catching up to what mortality data has shown for years.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There is a test your doctor can perform in about thirty seconds that predicts your risk of dying in the next decade with unsettling accuracy. It involves no blood draw, no imaging, no expensive equipment. You simply stand up from a chair, walk ten feet, turn around, walk back, and sit down again. The **Timed Up and Go test** — developed by Podsiadlo and Richardson and published in the *Journal of the American Geriatrics Society* in 1991 — measures something deceptively simple: how well your body coordinates the movements of daily life. It turns out that coordination is one of the most powerful signals of longevity we have. And the fitness industry, after decades of optimizing for aesthetics and isolated strength, is finally catching up to what the data has been saying for years.
 
 Functional fitness — training movement patterns rather than isolated muscles — was named the **#1 global fitness trend for 2026** by the American College of Sports Medicine's annual survey. But this isn't a wellness trend in the pejorative sense. The evidence base for pattern-based training is deep, specific, and increasingly hard to ignore if you care about how well you move at 70, not just how much you can bench press at 40.
@@ -80,6 +92,23 @@ Add grip-specific training two days per week: dead hangs (30–60 seconds), farm
 Finally, **walk**. Studenski's data suggests that maintaining gait speed above 1.0 m/s is associated with better survival. A brisk 20–30 minute walk five days per week, carried out with intention and pace, is not a consolation prize for people who can't do "real" training — it is real training, with mortality-level evidence behind it.
 
 Start with the chair stand. If you can't rise from the floor without using your hands, that's not a personality quirk — it's a signal worth addressing now, when the trajectory is still easy to change.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Test your function:</strong> perform Timed Up and Go (stand, walk 10 feet, return, sit) monthly to track longevity markers.</li>
+    <li>→ <strong>Prioritize walking speed:</strong> aim for sustained walks at 1+ meter per second to strengthen your survival baseline.</li>
+    <li>→ <strong>Train floor movements:</strong> practice getting up from low seats and floors weekly to maintain independence and reduce fall risk.</li>
+    <li>→ <strong>Ditch isolation machines:</strong> replace leg extensions and similar equipment with squats, lunges, and multi-joint compound exercises.</li>
+    <li>→ <strong>Build grip strength:</strong> incorporate farmer carries, deadlifts, and grip-focused work into weekly routine for cardiovascular health signal.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your doctor can predict how long you'll live in 30 seconds—just by watching you stand up, walk, and sit down. It sounds too simple, but the data is overwhelming: how well you move matters more than we thought. Grip strength, walking speed, and the ability to stand from a chair are stronger predictors of longevity than cholesterol or blood pressure. The problem? Most gyms train isolated muscles (hello, leg extension machines) instead of real-life movement patterns. Functional fitness—training how your body actually moves—is now the #1 global fitness trend. It's not trendy because it's Instagram-friendly. It's trending because people are finally realizing that strength for strength's sake won't keep you independent at 70. Move like you live.</p>
+</div>
 
 ---
 

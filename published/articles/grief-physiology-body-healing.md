@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Grief causes real physical changes: heart shape distortion, immune suppression, and chronic inflammation.</li>
+    <li>✓ Heart attack risk doubles in the 30 days after losing a partner, independent of age or health history.</li>
+    <li>✓ Grief triggers massive stress hormone release that your body treats like physical danger.</li>
+    <li>✓ Immune cells become less responsive and inflammation markers spike during bereavement.</li>
+    <li>✓ Sleep disruption during grief prevents the deep, restorative rest your body needs to heal.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The week after his wife died, a 61-year-old man was admitted to a Johns Hopkins hospital with chest pain and shortness of breath that looked, on every available test, like a heart attack. His arteries were clear. What had happened instead was that his heart — under the sudden, massive load of grief — had changed shape. The left ventricle had ballooned outward, losing its ability to pump efficiently. The cardiologists called it takotsubo cardiomyopathy, after the Japanese octopus trap the distorted heart resembles on imaging. The rest of us might call it a broken heart, and we would not be wrong.
 
 Grief is not a metaphor for physical suffering. It *is* physical suffering — measurable in cardiac tissue, immune cells, cortisol curves, and inflammatory markers. Understanding the biology of loss doesn't diminish its meaning. It does something more useful: it tells us what the body needs to heal, and when to be alarmed.
@@ -70,6 +82,23 @@ These are not cures for grief. They are supports for the body while grief does i
 - **Screen for PGD:** If grief remains functionally impairing beyond 12 months, consider evaluation for prolonged grief disorder. Complicated grief treatment (CGT), as validated by Shear et al., is effective and distinct from standard grief counseling.
 
 Grief is not a problem to be solved. But the body it inhabits deserves the same care and attention we would give any other organ under sustained stress. The science says clearly: movement, sleep, and human contact are not optional comforts. In bereavement, they are medicine.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Monitor cardiac symptoms:</strong> Seek immediate medical attention for chest pain or shortness of breath in the first month after major loss, even if tests seem normal.</li>
+    <li>→ <strong>Prioritize sleep support:</strong> Work with a doctor on sleep hygiene or temporary aids to protect deep sleep, which is critical for immune recovery.</li>
+    <li>→ <strong>Move your body daily:</strong> Regular gentle exercise lowers cortisol and inflammation while supporting immune function during acute grief.</li>
+    <li>→ <strong>Get professional support early:</strong> Talk to a therapist or counselor within weeks of loss to address prolonged grief symptoms before they become chronic.</li>
+    <li>→ <strong>Track inflammation markers:</strong> Ask your doctor about blood tests for cortisol, C-reactive protein, and interleukin-6 if grief symptoms persist beyond a month.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your body doesn't know the difference between a charging predator and losing someone you love. Grief literally reshapes your heart, floods it with stress hormones, and can trigger a heart attack within 24 hours of loss. The risk stays elevated for a month. But that's not all—your immune system crashes, inflammation spikes, and sleep falls apart, leaving you vulnerable to serious illness. The good news? Understanding what's happening helps you protect yourself. Get sleep support, move gently, seek professional help early, and monitor your heart. Grief is real physical suffering, but it's also something your body can recover from with the right support.</p>
+</div>
 
 ---
 

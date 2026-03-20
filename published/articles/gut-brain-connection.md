@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your gut has 500 million neurons and produces most of your serotonin — it's literally a second brain.</li>
+    <li>✓ 80-90% of gut-brain communication flows upward, from your gut reporting to your brain.</li>
+    <li>✓ Your 38 trillion gut bacteria regulate mood, inflammation, immunity, metabolism, and sleep quality.</li>
+    <li>✓ Dysbiosis (bad gut bacteria balance) is linked to depression, anxiety, and chronic disease.</li>
+    <li>✓ What you eat shapes your microbiome, which directly shapes your mental and physical health.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's an organ you probably don't think of as a brain — but it has more neurons than your spinal cord, produces most of your serotonin, and sends more signals to your brain than your brain sends to it.
 
 The gut. Specifically, the **enteric nervous system (ENS)** — a network of approximately 500 million neurons embedded in the gastrointestinal tract.[^1] Scientists call it the "second brain," and that's not metaphor. It's architecture.
@@ -125,3 +137,19 @@ The gut-brain axis is one of the most exciting frontiers in medicine. But the pr
 [^11]: Wastyk HC, et al. (2021). Gut-microbiota-targeted diets modulate human immune status. *Cell*, 184(16), 4137–4153.
 
 [^12]: Schnabel L, et al. (2019). Association between ultraprocessed food consumption and functional gastrointestinal disorders: results from the French NutriNet-Santé cohort. *American Journal of Gastroenterology*, 113(8), 1217–1228. See also: Kim H et al. (2019) ultraprocessed food intake and mortality in JAMA Internal Medicine.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize fiber intake:</strong> feed beneficial bacteria with diverse plant foods — vegetables, fruits, whole grains, legumes daily.</li>
+    <li>→ <strong>Limit processed foods:</strong> reduce ultra-processed items that kill beneficial bacteria and promote dysbiosis.</li>
+    <li>→ <strong>Consider fermented foods:</strong> add yogurt, kefir, sauerkraut, or kimchi to naturally boost probiotic diversity.</li>
+    <li>→ <strong>Manage stress actively:</strong> chronic stress damages gut barrier function; use meditation, exercise, or breathing work.</li>
+    <li>→ <strong>Track mood patterns:</strong> notice how specific foods affect your energy and mood to identify personal triggers.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your gut isn't just digesting food — it's basically a second brain with 500 million neurons. The bacteria living in your gut (38 trillion of them) produce most of your serotonin, regulate your immune system, control inflammation, and influence your mood and sleep. Communication between gut and brain flows mostly one direction: your gut constantly reports to your brain through the vagus nerve. Bad bacteria balance (dysbiosis) is linked to depression, anxiety, and chronic disease. The good news? You control your microbiome through food. Fiber feeds good bacteria. Processed foods kill them. What you eat literally shapes your mental health.</p>
+</div>

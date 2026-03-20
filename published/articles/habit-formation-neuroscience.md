@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ The 21-day rule is a myth from a plastic surgeon's observation, not actual science.</li>
+    <li>✓ Real research shows habits take 18-254 days to form, with 66 days as the median.</li>
+    <li>✓ A habit is automatic behavior controlled by your basal ganglia, not just consistent repetition.</li>
+    <li>✓ Dopamine shifts from rewarding the action to craving the cue that predicts the reward.</li>
+    <li>✓ Changing habits requires breaking the cue-reward link, not just willpower alone.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The 21-day rule — the widely repeated claim that it takes three weeks to form a new habit — originated from a 1960 book by a plastic surgeon named Maxwell Maltz, who observed that it took patients approximately 21 days to adjust to their new appearance after surgery. This was a clinical observation about psychological adjustment, not a habit formation study. It entered popular culture as a precise scientific fact that it never was.
 
 The first actual empirical investigation of habit formation timelines, published in the *European Journal of Social Psychology* in 2010 by Phillippa Lally and colleagues at University College London, followed 96 participants for 84 days as they attempted to form simple habits (eating fruit with lunch, drinking water with dinner, running before dinner). The result: habits took between 18 and 254 days to form, with a median of approximately 66 days. Simple behaviors formed faster; complex behaviors took longer; individual variation was large.
@@ -92,6 +104,23 @@ The research suggests approximate timelines by behavior complexity:
 **Complex habits** (30-minute gym workout, 20-minute meditation, extended dietary changes): 80-150+ days.
 
 The Lally study also produced a finding that many self-improvement programs misrepresent: missing a day during habit formation does not derail the process. Successful habit formers in the study missed days occasionally; the habit still formed. The basal ganglia is encoding a statistical pattern of context-response association, not counting perfect repetitions. Consistency over weeks matters more than perfection on any given day.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Ditch the 21-day myth:</strong> Expect 2-8 months for real habit formation depending on complexity and consistency.</li>
+    <li>→ <strong>Identify your cues:</strong> Find what triggers the habit—location, time, emotion—then address that first.</li>
+    <li>→ <strong>Change the reward path:</strong> Replace the automatic reward with a different one linked to the same cue.</li>
+    <li>→ <strong>Build consistency:</strong> Simple habits form faster; practice in the same context repeatedly to speed automaticity.</li>
+    <li>→ <strong>Remove the cue:</strong> When possible, eliminate the environmental trigger entirely rather than relying on willpower.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Forget the 21-day rule—it came from a plastic surgeon's observation about recovery, not actual science. Real research shows habits take anywhere from 18 to 254 days to form, with most landing around 66 days. The key difference? A true habit isn't something you do consistently; it's behavior your brain has automated, shifting from your conscious prefrontal cortex to your automatic basal ganglia. That's why brushing your teeth feels effortless but trying to quit your coffee habit feels impossible—your dopamine system has learned to crave the cue (your desk, the morning ritual) not just the reward. To actually change a habit, you need to break that cue-reward link, not just rely on willpower.</p>
+</div>
 
 ---
 

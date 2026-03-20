@@ -13,6 +13,18 @@ readTime: 9
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Good stress at low doses triggers your body's protective defense systems and builds resilience.</li>
+    <li>✓ Exercise, fasting, cold exposure, and heat activate the same pathways that protect against disease.</li>
+    <li>✓ Your cells become stronger by responding to manageable challenges, not by avoiding all stress.</li>
+    <li>✓ Three key proteins (Nrf2, HSPs, BDNF) repair damage and strengthen brain and body.</li>
+    <li>✓ Ten years of avoiding discomfort produces weaker biology than deliberately seeking controlled stress.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Consider two people over a ten-year period. The first arranges their life to minimize discomfort: temperature is always comfortable, meals are never skipped, exercise is optional and rarely chosen, challenges are avoided when possible. The second deliberately seeks out controlled stress: they exercise regularly, occasionally fast, take cold showers, and periodically put themselves in situations that demand more than is comfortable.
 
 At the end of ten years, the biology of these two people will differ in measurable ways. Not just in fitness, but in cellular resilience, inflammatory status, stress response speed and recovery, mitochondrial density, and neurological adaptation. The biology of hormesis explains why.
@@ -78,6 +90,23 @@ All hormetic practices share a requirement: adequate recovery between exposures.
 The practical implication: more is not always better. A hormetic practice is by definition one that includes rest. Two high-intensity exercise sessions per week with four days of lighter activity produces more adaptation than five high-intensity sessions with inadequate recovery. Sauna three to four times weekly produces more cardiovascular benefit (per the Kuopio data) than daily saunas that prevent full thermal recovery. Fasting protocols that allow adequate refeeding days produce better metabolic outcomes than continuous severe restriction.
 
 The design principle: stress, then recover, then stress again. The recovery is not the absence of the practice — it is an essential component of it.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Exercise regularly:</strong> activates protective enzymes and heat shock proteins that guard against aging and disease.</li>
+    <li>→ <strong>Add cold exposure:</strong> take cold showers or ice baths to trigger cellular defense mechanisms.</li>
+    <li>→ <strong>Try intermittent fasting:</strong> periodic fasting activates Nrf2 and boosts cellular repair pathways.</li>
+    <li>→ <strong>Eat protective foods:</strong> consume broccoli, leafy greens, and other phytochemicals that activate antioxidant genes.</li>
+    <li>→ <strong>Embrace discomfort:</strong> seek manageable challenges regularly instead of optimizing comfort in every moment.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your body gets stronger by handling stress, not avoiding it. This is hormesis — the science of beneficial stress. When you exercise, fast, take cold showers, or face challenges, your cells activate defense systems that protect against aging, disease, and damage. Three key proteins do the heavy lifting: Nrf2 boosts antioxidants, heat shock proteins repair misfolded proteins linked to Alzheimer's and Parkinson's, and BDNF grows new brain cells. The trick isn't the stressor itself — it's the dose. Too much stress harms you; no stress leaves you fragile. But regular, manageable challenges create resilient biology. A person who optimizes comfort for ten years will have measurably weaker cells, inflammation, and stress recovery than someone who deliberately seeks controlled discomfort. Evolution built us to adapt to challenges. Use it.</p>
+</div>
 
 ---
 

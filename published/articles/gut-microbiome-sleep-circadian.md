@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ 90% of your serotonin is made in your gut, not your brain, directly affecting sleep.</li>
+    <li>✓ Your gut bacteria have their own 24-hour clock that syncs with your circadian rhythm.</li>
+    <li>✓ Disrupted sleep and circadian rhythms quickly damage your microbiome within 48 hours.</li>
+    <li>✓ Gut bacteria produce serotonin and GABA, the molecules that regulate sleep and relaxation.</li>
+    <li>✓ Your sleep and gut health form a two-way loop — each affects the other.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 About 90% of your body's serotonin is manufactured not in your brain, but in your gut. That fact alone should reframe how you think about sleep — because serotonin is the molecular precursor to melatonin, the hormone that governs your entire sleep-wake cycle. Which means that what's happening in your intestinal tract, among trillions of bacteria most people never think about, has a direct line to whether you lie awake at 2 a.m. staring at the ceiling. The gut-sleep connection isn't a wellness abstraction. It's a biological feedback loop, and the science of how it works has advanced considerably in the last five years.
 
 Here's what makes it genuinely surprising: your gut microbiome doesn't just respond to your circadian rhythm — it has one of its own.
@@ -81,6 +93,23 @@ The strongest evidence-based levers for improving both microbiome health and sle
 If you're considering a probiotic supplement, the strains with the most sleep-relevant evidence are *Lactobacillus rhamnosus* (GABA modulation) and *Bifidobacterium longum* (stress and sleep quality). Look for products that have been independently tested for viability and match the specific strains used in published trials.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you are managing a diagnosed sleep disorder or gastrointestinal condition.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Protect your sleep schedule:</strong> maintain consistent sleep and wake times to keep your microbiome's circadian rhythm stable and functioning optimally.</li>
+    <li>→ <strong>Avoid shift work when possible:</strong> irregular schedules disrupt gut bacteria balance and reduce beneficial species like Lactobacillus within days.</li>
+    <li>→ <strong>Feed beneficial bacteria:</strong> eat fiber-rich foods to support butyrate-producing bacteria that stimulate serotonin and melatonin production.</li>
+    <li>→ <strong>Limit sleep restriction:</strong> even two nights of four-hour sleep damages microbiome composition; prioritize seven to nine hours nightly.</li>
+    <li>→ <strong>Consider circadian alignment:</strong> time meals and light exposure consistently to synchronize your gut bacteria with your body's natural clock.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your gut bacteria literally control your sleep. Ninety percent of the serotonin your body uses comes from your intestines, not your brain — and serotonin is how your body makes melatonin, the hormone telling you to sleep. Even crazier: your gut bacteria have their own 24-hour clock. When your sleep schedule gets messy — hello, jet lag or night shifts — your microbiome loses its rhythm within days. The bacteria that normally help you sleep and stay calm start disappearing, replaced by harmful species. It's a two-way street: bad sleep tanks your gut health, which tanks your sleep even worse. The good news? Consistent sleep schedules, fiber-rich foods, and stable meal times keep your gut bacteria happy and your sleep solid.</p>
+</div>
 
 ---
 

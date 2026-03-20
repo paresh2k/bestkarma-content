@@ -13,6 +13,18 @@ readTime: 10
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Aging follows predictable biological patterns driven by twelve identifiable mechanisms, not random decline.</li>
+    <li>✓ DNA damage, telomere shortening, and protein misfolding are core processes that accelerate aging.</li>
+    <li>✓ Epigenetic patterns that control gene expression can be modified through lifestyle choices.</li>
+    <li>✓ Sleep, exercise, diet, and stress management directly influence multiple aging hallmarks.</li>
+    <li>✓ Understanding these hallmarks opens the door to interventions that slow biological aging.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 For most of human history, aging was treated as a fact of life rather than a problem to understand. The body declined, systems failed, and we attributed the whole process to the passage of time — as if time itself were the causative agent.
 
 The biology of the last three decades has replaced that vague notion with something far more specific. Aging is not random deterioration. It follows predictable patterns, driven by identifiable mechanisms, in ways that are increasingly understood at the molecular level.
@@ -118,3 +130,19 @@ For now: the hallmarks tell you that aging follows rules. Rules can be understoo
 ---
 
 *Primary sources: López-Otín et al. Cell 2013 (foundational 9 hallmarks); López-Otín et al. Cell 2023 (updated 12 hallmarks); Frontiers in Cardiovascular Medicine 2025 (therapeutic targets); MDPI 2025 (pharmacological strategies); Frontiers in Aging 2025 (precision longevity approaches).*
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize sleep quality:</strong> Glymphatic clearance during sleep removes toxic misfolded proteins from your brain and activates cellular recycling.</li>
+    <li>→ <strong>Exercise regularly:</strong> Aerobic fitness is the most proven lifestyle factor for maintaining longer telomeres and protecting DNA.</li>
+    <li>→ <strong>Eat methyl-rich foods:</strong> Leafy greens and B vitamins modify epigenetic patterns and slow biological aging at the gene level.</li>
+    <li>→ <strong>Manage chronic stress:</strong> Psychological stress accelerates telomere shortening and disrupts epigenetic regulation faster than most other factors.</li>
+    <li>→ <strong>Include fasting periods:</strong> Activating autophagy through intermittent fasting or exercise helps your cells clear out damaged components and dysfunction.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your body isn't just randomly falling apart with age—there's actual science behind it. Scientists have identified twelve specific biological processes that drive aging, from DNA damage and telomere shortening to protein misfolding. The good news? Most of these aren't locked in. Sleep, exercise, diet, and stress management directly influence these aging mechanisms. A good night's sleep clears toxic proteins from your brain. Regular aerobic exercise protects your telomeres. Leafy greens and B vitamins actually modify how your genes are expressed. Understanding these hallmarks means you're not just hoping to age well—you're targeting the actual mechanisms that control it.</p>
+</div>
