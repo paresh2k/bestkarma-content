@@ -101,7 +101,7 @@ Blood sugar stability isn't the most glamorous topic in health optimization. But
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your annual fasting glucose test is basically useless for predicting your metabolic health. By the time it shows a problem, you've already spent 10-15 years silently damaging your arteries, eyes, kidneys, and brain with post-meal blood sugar spikes. Even people with "normal" fasting glucose can be spiking to pre-diabetic levels after meals. The scary part? The exact same meal causes completely different glucose responses in different people — so universal diet advice is a myth. Those spikes above 140 mg/dL trigger protein damage, inflammation, fat storage, and arterial stiffening. Then your blood sugar crashes, triggering hunger and cravings that fuel overeating and metabolic breakdown. The fix isn't waiting for your next blood test. It's tracking your actual glucose response to real foods and learning what works for your individual body.</p>
 </div>

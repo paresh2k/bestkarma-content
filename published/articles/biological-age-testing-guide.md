@@ -121,7 +121,7 @@ The value of epigenetic testing isn't that it tells you something your doctor co
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your epigenetic clock measures chemical tags on your DNA that change predictably with age. Some tests tell you your "biological age"—and if it's higher than your actual age, yeah, that's worth paying attention to. But here's the thing: not all clocks are created equal. First-generation ones (Horvath, Hannum) just estimate chronological age—meh for health prediction. GrimAge is the real deal: it predicts how long you'll live, and every extra "aging year" bumps mortality risk by ~16%. DunedinPACE is different—it measures how *fast* you're aging, not your age itself, which is perfect for seeing if your lifestyle changes actually work. Bottom line? A high score is a wake-up call, not a death sentence. Use it alongside your doctor, not instead of them.</p>
 </div>

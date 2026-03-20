@@ -114,7 +114,7 @@ That's the real insight. Longevity isn't an achievement. It's an accumulation.
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Five places on Earth — Okinawa, Sardinia, Nicoya, Ikaria, Loma Linda — produce unusually high numbers of people who live past 100 in good health. Researchers spent decades figuring out why. The answer isn't genetics or supplements. It's nine lifestyle patterns that emerged independently across totally different cultures: daily natural movement, plant-heavy eating, stopping before fullness, a clear life purpose, daily stress rituals, moderate alcohol with food, community belonging, close family ties, and social circles where healthy behavior is the norm. You can't move to Okinawa. But you can eat beans three times a week, find three people to see regularly, write down your reason to get up, and take a walk every day. The science says that's most of it.</p>
 </div>

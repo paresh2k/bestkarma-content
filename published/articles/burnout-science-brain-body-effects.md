@@ -97,7 +97,7 @@ What broke slowly can heal slowly. But only if you understand what broke, and wh
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Burnout isn't just being really tired. It's a physiological state with measurable brain changes: a more reactive amygdala (your threat alarm gets louder), a weakened prefrontal cortex (your ability to calm down gets worse), and a shrinking hippocampus from cortisol damage. Weirdly, people with established burnout often have LOW cortisol — the stress system ran so hot for so long, it stopped responding. That's why you can be exhausted and still unable to sleep — your nervous system is stuck in vigilance mode. Recovery takes months. The evidence-backed path: moderate aerobic exercise most days (this literally regrows hippocampal tissue), consistent sleep timing, scheduled social time, and journaling about feelings rather than trying to solve problems. If you've been intentionally recovering for 4–6 weeks and still can't function, get professional support. The burnout-to-depression pipeline is real.</p>
 </div>

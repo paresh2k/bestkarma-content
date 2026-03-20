@@ -118,7 +118,7 @@ One foot on the floor. It turns out that's where a surprising amount of your fut
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Here's a wild fact: your ability to stand on one leg might be the best predictor of how long you'll live. A major 2022 study tested 1,702 people on this simple task and followed them for years. Those who failed had an 84% higher risk of dying. Why? Because balance isn't just about legs—it's a window into your brain's health. Your vestibular system (inner ear), proprioception (body awareness), and cerebellum all have to work together perfectly. These same systems control your heart rate, cognitive function, and emotional regulation. So when balance declines, it signals deeper aging. The good news: you can train it. Daily single-leg stands, yoga, or tai chi keep your sensorimotor system sharp and literally could add years to your life.</p>
 </div>

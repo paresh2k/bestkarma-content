@@ -99,7 +99,7 @@ The biology here is not ambiguous. Alcohol accelerates the beginning of sleep an
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">That nightcap helps you fall asleep faster, but it's actually wrecking your sleep quality. Alcohol suppresses REM sleep (the stage that processes emotions and consolidates memories), then triggers a chaotic rebound in the second half of the night. Your heart rate stays elevated 10-20+ beats per minute all night. The result: you wake up feeling unrested even though you slept the same number of hours. Wearable data shows sleep scores drop 10-20% on drinking nights. Chronically disrupted REM sleep affects mood, creativity, social cognition, and stress resilience. The bottom line? That glass of wine isn't a sleep aid — it's a sleep saboteur.</p>
 </div>

@@ -110,7 +110,7 @@ The most important thing to understand is that the five to seven years around me
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your bones are most vulnerable during perimenopause, not after menopause happens. In just 5-7 years, women can lose 10-20% of their bone mass as estrogen drops. Here's the good news: heavy resistance training actually works. Studies show women doing deadlifts, squats, and overhead presses twice a week gained bone density—even those already diagnosed with low bone mass. Don't wait until your fifties for a DEXA scan. If you're in your forties and approaching menopause, now's the time to start heavy lifting. Forget gentle workouts; intensity is what protects your skeleton long-term.</p>
 </div>

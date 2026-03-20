@@ -70,7 +70,7 @@ ${items}
 
 // Build the Quick Read HTML block
 function buildQuickReadBlock(paragraph) {
-  return `<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+  return `<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">${paragraph}</p>
 </div>`;

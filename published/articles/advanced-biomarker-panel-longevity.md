@@ -139,7 +139,7 @@ The goal of this panel is not to find disease — it's to intercept it. Most of 
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your annual physical probably gives you a vague 'you're fine' when really, your body might be slowly breaking down. Standard blood tests catch obvious disease but miss the early warning signs of heart disease, cancer, and cognitive decline happening decades ahead of symptoms. Longevity medicine uses a smarter 20-marker panel that reads like a dashboard: ApoB counts arterial-damaging particles, Lp(a) reveals genetic heart risk, hsCRP shows hidden inflammation, and fasting insulin exposes metabolic dysfunction before blood sugar spikes. Think of it this way—you wouldn't ignore your car's oil pressure or fuel gauge. Your body deserves the same attention. Most of these markers aren't expensive or invasive; your doctor just doesn't order them routinely. Asking for them is the difference between knowing you're not sick today and actually understanding how fast you're aging.</p>
 </div>

@@ -117,7 +117,7 @@ If you are an athlete considering astaxanthin for recovery, be aware of the theo
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Salmon's pink color comes from astaxanthin, a molecule so chemically stable it survives intense swimming. What makes it special? Unlike most antioxidants, it can cross cell membranes completely and penetrate your blood-brain and blood-retinal barriers—meaning it can actually reach your eyes and brain. In human trials, 6 mg daily improved skin elasticity, moisture, and fine lines after just eight weeks. The results were strongest in sun-damaged areas, which tracks with how the molecule works. It's also safer than beta-carotene supplements. Bottom line: solid evidence for skin. Sports recovery and other benefits? Promising, but we need more human research before claiming victory.</p>
 </div>

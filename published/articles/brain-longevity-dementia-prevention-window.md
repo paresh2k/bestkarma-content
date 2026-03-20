@@ -103,7 +103,7 @@ The brain you have at 75 is being built, or eroded, right now. The good news —
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your forties might be the most important decade of your life for brain health. Alzheimer's damage starts 15-20 years before you notice anything wrong, which means it's building right now for many of us. The good news? Nearly half of dementia cases are preventable. A massive 2024 study found that even people with high genetic risk can cut their dementia risk by 32% through lifestyle alone: managing blood pressure, sleeping well, staying active, and eating right. The brain's ability to clear out toxic proteins peaks during midlife—making this your real window to act. Don't wait for symptoms. Start now.</p>
 </div>

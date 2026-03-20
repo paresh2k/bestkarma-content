@@ -112,7 +112,7 @@ If you drink and care about sleep quality, the evidence points to a few specific
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">That nightcap might knock you out, but here's what's really happening: alcohol sedates you for the first half of the night, but as it metabolizes, your brain rebounds hard. REM sleep floods back in fragments, you wake constantly, and your sleep quality tanks. The studies are clear—even one drink suppresses REM sleep and messes with deep sleep quality. Your brain needs uninterrupted cycling through all sleep stages for actual restoration. The damage is dose-dependent, meaning there's no safe threshold. So while alcohol technically helps you fall asleep faster, you're trading real sleep for interrupted, poor-quality rest. Not worth it.</p>
 </div>

@@ -97,7 +97,7 @@ The uncomfortable truth is that most of us are very good at leisure, moderately 
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You probably haven't truly played since childhood. And that's a problem. Play isn't exercise or relaxation—it's purposeless, absorbing activity you do purely for itself. Psychiatrist Stuart Brown's research shows play deprivation predicts poor mental health as strongly as almost anything else. The good news: you can reclaim it. Unstructured play boosts creativity, wellbeing, and psychological health more than structured recreation. The catch: productivity culture has convinced most adults that play is wasteful. It isn't. Play is a biological drive, like sleep. Identify your play type (joker, explorer, creator, etc.), block time for it, and let yourself get absorbed. Your brain needs it.</p>
 </div>

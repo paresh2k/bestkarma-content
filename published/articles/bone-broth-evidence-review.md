@@ -105,7 +105,7 @@ Bone broth is real food with real compounds and a reasonable — if modest — e
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Bone broth is having a moment, but the hype outpaces reality. Yes, simmering bones releases collagen amino acids like glycine and proline — compounds your body needs. But here's the catch: composition varies wildly (protein ranges from 2.5g to 8.4g per cup), your body doesn't automatically route these amino acids to your joints or skin, and broth isn't the same as hydrolyzed collagen supplements, which actually have solid research behind them. Bottom line? Bone broth is a nutrient-dense food, not a medical treatment. Enjoy it for taste and minerals, but don't expect it to heal your gut or rebuild cartilage. If joint support is your goal, the evidence favors hydrolyzed collagen with vitamin C and exercise.</p>
 </div>

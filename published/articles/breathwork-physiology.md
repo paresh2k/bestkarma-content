@@ -97,7 +97,7 @@ Within that scope, it remains one of the most evidence-supported, immediately av
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your nervous system runs on autopilot — except for one thing: your breath. Slow, intentional breathing directly signals your vagus nerve to activate your parasympathetic (chill-out) system, lowering heart rate, blood pressure, and cortisol. It's not meditation magic; it's neurobiology. Research shows cyclic sighing — a double inhale followed by a long exhale — beats even mindfulness for anxiety relief. The best part? It takes 2-4 minutes. Your body can't argue with physiology, and your physiology can't argue with slower breathing. No app, no subscription, no equipment. Just breathe better, feel calmer, sleep deeper.</p>
 </div>

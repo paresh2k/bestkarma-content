@@ -103,7 +103,7 @@ The goal is not relaxation, though relaxation may occur. The goal is **attention
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your brain has a region called the insula that's basically your internal body's command center. It's constantly picking up signals from your heart, gut, lungs—everything—and creating your sense of 'how you feel right now.' The wild part? You can train it. Body scan meditation, where you lie down and mentally scan through your body noticing sensations, actually rewires this region. Studies show that eight weeks of practice increases gray matter in your insula and improves how accurately you sense what's happening inside. Better body awareness = better emotional regulation, less stress, and improved health outcomes. It's not mystical; it's neuroscience.</p>
 </div>

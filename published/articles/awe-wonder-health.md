@@ -93,7 +93,7 @@ For most people in routine modern life, the most reliable underutilized source o
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Awe isn't just feeling nice—it's a specific emotion that actually changes your biology. When you encounter something vast and hard to wrap your head around (a mountain, live music, an act of courage), your brain activates your parasympathetic nervous system and lowers stress hormones. The result: reduced inflammation, lower daily stress, and better mental health. In one study, people who experienced awe on a given day reported 20% less stress and more wellbeing than their average. Even more striking, an online intervention showing awe-inspiring videos helped long COVID patients significantly reduce depression symptoms. The takeaway: awe isn't a luxury—it's a measurable health tool.</p>
 </div>

@@ -105,7 +105,7 @@ ApoB is one of the most cost-effective tests you can add to your next annual blo
   </ul>
 </div>
 
-<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your cholesterol panel is lying to you. Not intentionally, but LDL only tells half the story. ApoB tells you how many dangerous particles are actually floating in your bloodstream—and that's what actually clogs your arteries. Think of it like cars on a highway: LDL measures how full each car is, ApoB counts how many cars exist. You can have 'normal' LDL and dangerous ApoB levels. Major studies with hundreds of thousands of people prove ApoB predicts heart attacks better than standard cholesterol tests. The crazy part? Most doctors still aren't testing it. If you've been told your cholesterol is fine but you're still worried about your heart, ask for an ApoB test. It might change everything about how you manage your health.</p>
 </div>
