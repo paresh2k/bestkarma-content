@@ -1,0 +1,68 @@
+name: Regenerate Hero Images
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Specific article slug to regenerate (leave empty for all default images)'
+        required: false
+        default: ''
+
+concurrency:
+  group: regenerate-images
+  cancel-in-progress: false
+
+jobs:
+  regenerate:
+    name: Generate DALL-E 3 images and upload to R2
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+
+      - name: Regenerate images
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.slug }}" ]; then
+            node pipelines/regenerate-images.mjs "${{ github.event.inputs.slug }}"
+          else
+            node pipelines/regenerate-images.mjs
+          fi
+
+      - name: Commit updated images
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git config user.name "BestKarma Image Bot"
+          git config user.email "images@bestkarma.com"
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
+          git add drafts/ validated/ published/
+          git stash
+          git pull --rebase
+          git stash pop
+          git add drafts/ validated/ published/
+          if git diff --staged --quiet; then
+            echo "No image changes to commit."
+          else
+            git commit -m "Auto-regenerate hero images with DALL-E 3"
+            git push
+          fi
+
+      - name: Trigger Vercel deploy
+        run: curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}"
