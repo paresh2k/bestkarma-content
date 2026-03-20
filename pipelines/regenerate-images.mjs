@@ -88,7 +88,7 @@ function sanitizePrompt(text) {
 // Generate a DALL-E 3 image and return the temporary URL
 async function generateImage(frontmatter) {
   const category = frontmatter.category || 'wellness';
-  const prompt = `A serene, photorealistic editorial hero image for a ${category} and longevity article about ${sanitizePrompt(frontmatter.description)}. Earthy, warm tones: sage greens, terracotta, cream, and natural wood. Soft natural lighting. Wide landscape format. No text, no logos, no faces. Sophisticated, calming, and science-forward aesthetic.`;
+  const prompt = `A serene, photorealistic editorial hero image for a ${category} and longevity article about ${sanitizePrompt(frontmatter.description)}. Earthy, warm tones: sage greens, terracotta, cream, and natural wood. Soft natural lighting. Wide landscape format. Absolutely no text, no words, no letters, no writing, no labels, no numbers, no signage of any kind. No logos, no faces. Sophisticated, calming, and science-forward aesthetic.`;
 
   const response = await openai.images.generate({
     model: 'dall-e-3',
