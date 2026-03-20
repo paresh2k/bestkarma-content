@@ -53,10 +53,14 @@ jobs:
           git config user.email "images@bestkarma.com"
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
           git add drafts/ validated/ published/
-          git stash
-          git pull --rebase
-          git stash pop
-          git add drafts/ validated/ published/
+          if git diff --staged --quiet; then
+            git pull --rebase
+          else
+            git stash
+            git pull --rebase
+            git stash pop
+            git add drafts/ validated/ published/
+          fi
           if git diff --staged --quiet; then
             echo "No image changes to commit."
           else

@@ -79,10 +79,16 @@ async function findArticlesWithDefaultImages() {
   return results;
 }
 
+// Sanitize text for DALL-E prompt — remove words that trigger safety filters
+function sanitizePrompt(text) {
+  const blocked = /psychedelic|psilocybin|mdma|ketamine|cannabis|drug|narcotic|suicide|overdose|abuse/gi;
+  return text.replace(blocked, 'wellness');
+}
+
 // Generate a DALL-E 3 image and return the temporary URL
 async function generateImage(frontmatter) {
-  const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags.slice(0, 3).join(', ') : '';
-  const prompt = `A beautiful, photorealistic hero image for a health and wellness article titled "${frontmatter.title}". Earthy, warm tones with sage greens, terracotta, and cream. Natural lighting. Topic: ${frontmatter.description}. Keywords: ${tags}. Style: Editorial photography, wide landscape format, no text, no people's faces, sophisticated and calming.`;
+  const category = frontmatter.category || 'wellness';
+  const prompt = `A serene, photorealistic editorial hero image for a ${category} and longevity article about ${sanitizePrompt(frontmatter.description)}. Earthy, warm tones: sage greens, terracotta, cream, and natural wood. Soft natural lighting. Wide landscape format. No text, no logos, no faces. Sophisticated, calming, and science-forward aesthetic.`;
 
   const response = await openai.images.generate({
     model: 'dall-e-3',
