@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Muscle loss accelerates after 40, but it's reversible at any age through strength training.</li>
+    <li>✓ Grip strength predicts mortality better than blood pressure in large population studies.</li>
+    <li>✓ Muscle is a metabolic organ that controls blood sugar, metabolism, and immune function.</li>
+    <li>✓ Frail 90-year-olds doubled leg strength in 10 weeks with resistance training.</li>
+    <li>✓ Decisions about muscle mass in midlife determine disability and longevity decades later.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The human body begins losing muscle mass in the mid-thirties, accelerating after 40. By 80, the average sedentary adult has lost **30–40% of their peak muscle mass** — a condition called **sarcopenia** — along with proportional losses in strength, bone density, metabolic rate, and functional independence.
 
 This is not an inevitable feature of aging. It is a consequence of disuse, and it is highly reversible at virtually any age.
@@ -114,3 +126,19 @@ Your muscle mass is a health asset. It depreciates passively and appreciates onl
 [^7]: Zhao R, et al. (2015). Effects of differing intensities of resistance training on bone mineral density in women: a systematic review and meta-analysis. *Osteoporosis International*, 26(11), 2507–2518.
 
 [^8]: Cruz-Jentoft AJ, et al. (2019). Sarcopenia: revised European consensus on definition and diagnosis. *Age and Ageing*, 48(1), 16–31.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Start strength training now:</strong> don't wait for 40 or 50—muscle decisions made in midlife predict health outcomes in old age.</li>
+    <li>→ <strong>Prioritize resistance work:</strong> combine it with aerobic exercise for better longevity outcomes than either alone.</li>
+    <li>→ <strong>Increase protein intake:</strong> older bodies need higher protein doses to build muscle, so eat more than younger people.</li>
+    <li>→ <strong>Test grip strength:</strong> use it as a simple self-check for overall muscle health and mortality risk.</li>
+    <li>→ <strong>Expect dramatic changes:</strong> even frail seniors gained 113% leg strength in 10 weeks—it's never too late to reverse loss.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your muscles are literally keeping you alive. After 40, you naturally lose muscle mass—but here's the kicker: it's almost entirely preventable. Grip strength alone predicts your risk of heart disease and death better than blood pressure. Muscle isn't just about looking fit; it's your metabolic engine, controlling blood sugar, immune function, and how long you actually live. The insane part? Studies show 90-year-olds in nursing homes doubled their leg strength in just 10 weeks of resistance training. Your body can adapt at any age. The decisions you make about muscle in your 40s and 50s literally determine whether you're independent or disabled at 80. Start now.</p>
+</div>

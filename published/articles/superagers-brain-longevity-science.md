@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ SuperAgers are people 80+ with brains performing like healthy 50-year-olds on memory tests.</li>
+    <li>✓ Their brains show thicker cortexes and larger neurons than typical older adults.</li>
+    <li>✓ SuperAger brain tissue degrades three times slower than average aging brains.</li>
+    <li>✓ Northwestern researchers have studied 100+ SuperAgers to understand cognitive resilience.</li>
+    <li>✓ Brain structure differences suggest decline isn't inevitable — some people resist it.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people treat cognitive decline as inevitable — a slow, predictable erosion that comes with gray hair and reading glasses. But a small group of octogenarians is quietly upending that assumption. They're in their 80s and 90s, and when researchers at Northwestern University put them through rigorous memory tests, they scored as well as healthy adults thirty years younger. Not approximately as well. Not "pretty good for their age." Equivalently. These people — now called **SuperAgers** — don't just have sharper minds than their peers. They appear to have fundamentally different brains.
 
 Understanding why isn't just an academic exercise. If some people can sustain 50-year-old cognitive performance into their ninth decade, the question stops being "is decline inevitable?" and becomes "what are they doing that we're not?"
@@ -84,6 +96,23 @@ You are probably not 80. But the behaviors associated with SuperAger status appe
 | **Sleep** | 7–9 hours; prioritize slow-wave sleep for memory consolidation | Glymphatic clearance of amyloid and tau |
 
 The SuperAger research doesn't promise immortality of the mind. What it does offer is something arguably more useful: evidence that the ceiling for cognitive aging is far higher than most of us assume, and a set of consistent patterns in the people who reach it. The brain you have at 80 is not a fixed destiny. It is, in large part, the accumulated consequence of choices made across a lifetime — starting with the ones you make today.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Study SuperAger habits:</strong> Research what these cognitively sharp 80-year-olds eat, exercise, and do socially.</li>
+    <li>→ <strong>Protect your cortex:</strong> Prioritize activities that strengthen memory and executive function early in life.</li>
+    <li>→ <strong>Join cognitive research:</strong> Participate in studies tracking brain health to help identify protective factors.</li>
+    <li>→ <strong>Assume decline isn't fixed:</strong> If some people maintain 50-year-old brains at 80, aging isn't destiny.</li>
+    <li>→ <strong>Monitor brain markers:</strong> Get imaging or cognitive testing to establish your baseline before age 60.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Most people assume their brains will decline with age. But some 80-year-olds — called SuperAgers — score as well as 50-year-olds on memory tests. Here's the wild part: their actual brain tissue looks younger too. Brain scans show their cortex (the thinking part) is thicker and less worn down. Their neurons are also bigger. And it's not just that they started with advantage — their brains degrade three times slower than normal aging. Northwestern researchers have been studying these outliers for over a decade and found this isn't random luck. Something about their lifestyle or biology is protecting their brains. The question isn't anymore whether decline is inevitable. It's: what are SuperAgers doing differently?</p>
+</div>
 
 ---
 

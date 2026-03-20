@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your body must actively cool down to fall asleep—it's not optional, it's biology.</li>
+    <li>✓ Most bedrooms are 5–7°C too warm for quality sleep and deep rest.</li>
+    <li>✓ Core body temperature must drop 1–2°C to trigger sleep onset reliably.</li>
+    <li>✓ Warm hands and feet before sleep indicate efficient heat loss and faster sleep.</li>
+    <li>✓ Optimal bedroom temperature is 16–19°C (60–66°F) for most people.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a counterintuitive truth buried in the physiology of sleep that most people never learn: to fall asleep, your body must actively *shed* heat. Not passively cool down — actively dump warmth from your core to your periphery in a process as deliberate as a furnace venting exhaust. If that process is blocked — by a room that's too warm, a mattress that traps heat, or clothing that insulates when it shouldn't — your brain simply won't drop into the deep, restorative sleep stages that repair tissue, consolidate memory, and regulate metabolism. The problem is that most bedrooms in the developed world sit at temperatures between 20–23°C. That's somewhere between five and seven degrees too warm for optimal sleep. The consequence, repeated night after night, isn't trivial.
 
 ## Why Your Brain Needs to Cool Down to Switch Off
@@ -60,6 +72,23 @@ The evidence converges on a set of specific, achievable interventions. Here's wh
 **Active mattress cooling:** If room cooling is insufficient (e.g., hot climates, shared spaces), a thermostatically controlled mattress pad set to **18–20°C** has documented slow-wave sleep benefits. The investment is significant; the evidence, while not yet from large RCTs, is directionally consistent and mechanistically sound.
 
 **Feet:** If you struggle to fall asleep, consider wearing light socks to bed. This sounds contradictory — adding warmth — but socks accelerate peripheral vasodilation in the feet, actively moving heat from core to extremity. **Kräuchi et al. (2000, Journal of Sleep Research)** confirmed this in a small but well-designed crossover study. The effect is modest but real.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Lower your bedroom:</strong> Aim for 16–19°C (60–66°F) to match your body's cooling needs.</li>
+    <li>→ <strong>Check mattress heat:</strong> Swap heat-trapping beds for breathable materials that allow heat escape.</li>
+    <li>→ <strong>Adjust bedding layers:</strong> Use lighter covers and breathable fabrics so your body can shed warmth.</li>
+    <li>→ <strong>Bare extremities:</strong> Let hands and feet stay exposed or lightly covered to radiate heat efficiently.</li>
+    <li>→ <strong>Monitor sleep quality:</strong> Track sleep depth for 2–3 weeks after temperature changes to measure impact.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your body can't fall asleep unless it gets actively cooler. Here's the issue: your brain needs your core temperature to drop about 1–2°C to trigger sleep, and most bedrooms are way too warm for that to happen efficiently. Research shows the sweet spot is around 60–66°F (16–19°C)—about 5–7 degrees cooler than most people keep their rooms. When your bedroom is too hot, your body can't dump heat through your skin and extremities, which directly suppresses deep sleep and REM. The good news? It's a simple fix. Lower the thermostat, swap heavy blankets for breathable ones, and let your hands and feet breathe. Your sleep will measurably improve.</p>
+</div>
 
 ---
 

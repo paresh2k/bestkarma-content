@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Spermidine is a compound in foods like wheat germ and aged cheese that may extend lifespan.</li>
+    <li>✓ A 20-year study showed 40% lower mortality risk in people eating the most spermidine.</li>
+    <li>✓ It works by triggering autophagy, your cells' natural cleanup system that weakens with age.</li>
+    <li>✓ Animal studies show spermidine extends lifespan even when started in middle age, not just youth.</li>
+    <li>✓ The effect is consistent across yeast, worms, flies, and mice, suggesting real biological mechanism.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a molecule in your sourdough bread and aged Parmesan that may be doing something remarkable inside your cells: triggering a cleanup process that your body performs less and less efficiently as you age. Spermidine — a name that tends to raise eyebrows before it raises interest — is a naturally occurring polyamine found in nearly every living cell. And over the past decade, a growing body of research has positioned it as one of the more compelling longevity compounds in the field, not because it adds years in isolation, but because of *how* it works: by reactivating autophagy, the cellular recycling system that degrades with age and, when it does, takes a great deal of our resilience with it.
 
 The striking finding isn't that spermidine exists in food. It's that people who eat more of it appear to live longer — and the mechanism researchers have uncovered helps explain why.
@@ -75,6 +87,23 @@ The good news is that meaningful amounts of spermidine are available from foods 
 Spermidine won't single-handedly stop aging. But it may be one of a small number of dietary compounds where the mechanism is real, the observational signal is meaningful, and the intervention — eating more wheat germ and natto — is genuinely low-risk. In a field full of supplements with compelling theory and disappointing evidence, that combination is worth paying attention to.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you are managing an existing medical condition or taking medications.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Eat fermented foods:</strong> include aged cheeses, sourdough bread, and fermented vegetables regularly in your diet.</li>
+    <li>→ <strong>Add wheat germ:</strong> sprinkle raw wheat germ on yogurt or oatmeal for concentrated spermidine.</li>
+    <li>→ <strong>Start now:</strong> spermidine benefits appear regardless of age, so begin increasing intake today.</li>
+    <li>→ <strong>Track dietary sources:</strong> identify and log spermidine-rich foods to ensure consistent intake over time.</li>
+    <li>→ <strong>Combine with basics:</strong> pair spermidine foods with exercise and sleep to maximize cellular autophagy.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">There's a compound hiding in your sourdough and Parmesan that might actually help you live longer. It's called spermidine, and researchers have been tracking it for 20 years. People who ate the most of it had a 40% lower risk of dying from any cause compared to those eating the least. The secret? Spermidine flips a switch inside your cells that activates autophagy — basically your body's cleanup crew that removes damaged proteins and dead organelles. As we age, this cleanup system gets lazy, but spermidine wakes it back up. Animal studies show it extends lifespan even when you start in middle age. Bottom line: wheat germ, aged cheese, and fermented foods aren't just tasty — they might be longevity tools.</p>
+</div>
 
 ---
 

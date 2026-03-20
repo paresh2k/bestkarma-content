@@ -13,6 +13,18 @@ readTime: 9
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Talk therapy alone doesn't work for everyone—trauma lives in the body, not just the mind.</li>
+    <li>✓ Your nervous system can stay stuck in threat mode long after danger actually passes.</li>
+    <li>✓ Animals naturally shake off stress; humans suppress it, trapping activation energy in the body.</li>
+    <li>✓ Somatic Experiencing helps complete interrupted stress responses through gentle, body-focused techniques.</li>
+    <li>✓ Trauma stored as sensory fragments requires nervous system work, not just cognitive reframing.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Traditional trauma therapy works primarily with the mind: it invites people to talk about what happened, understand it, reframe it, and find meaning in it. For many people, this works. For others — particularly those with severe, prolonged, or developmental trauma — talk alone misses something important. They understand intellectually that the war is over, or that the abuser is gone, or that they are safe now. The body doesn't seem to have gotten the message.
 
 This gap between cognitive understanding and physiological response is what the somatic therapy frameworks have been built to address. The premise, increasingly supported by neuroscience, is that trauma isn't only stored as narrative memory — it is stored in the body as unresolved survival responses, as altered nervous system basity, as patterns of tension, collapse, hypervigilance, and freeze that persist long after the original threat has passed.
@@ -70,6 +82,23 @@ For people with clear PTSD and access to an EMDR-trained therapist, the evidence
 The self-practices — breathwork, TRE, body-scan meditation, yoga — can serve as meaningful complements to professional trauma care but are not replacements for it in cases of clinical PTSD. They support the general capacity for nervous system regulation and interoceptive awareness that makes trauma therapy more effective. They are also, for many people living with subclinical stress, dysregulation, and the ordinary physical holding patterns that contemporary life produces, genuinely useful practices in their own right.
 
 The central insight of the somatic framework — that the body holds what the mind has survived — is not a metaphor. It is a neurobiological description of what trauma is and where it lives. How we work with it follows from that.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Notice body signals:</strong> Pay attention to physical sensations during stress to understand what your nervous system is holding onto.</li>
+    <li>→ <strong>Allow natural discharge:</strong> Give yourself permission to shake, tremble, or move when activated—don't suppress these urges.</li>
+    <li>→ <strong>Seek somatic practitioners:</strong> Consider therapy that addresses the body directly, especially if talk therapy hasn't fully resolved trauma.</li>
+    <li>→ <strong>Practice pendulation:</strong> Alternate attention between discomfort and safety within your body to build resilience gradually.</li>
+    <li>→ <strong>Work in small doses:</strong> Approach difficult material slowly and carefully rather than intense reliving to avoid retraumatization.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your body might be stuck in survival mode even though your mind knows you're safe. Unlike animals that shake off stress naturally, humans suppress these responses—and that trapped energy stays locked in the nervous system. Talk therapy helps, but for deep trauma, you need to work with the body itself. Somatic Experiencing does this by letting your nervous system finally complete the stress cycle it got interrupted. Think: gentle attention to what you feel, slow exposure to difficult material, and allowing natural movements like shaking to discharge. It's not about reliving trauma or intense processing—it's about letting your body finish what it started. Science increasingly backs this approach.</p>
+</div>
 
 ---
 

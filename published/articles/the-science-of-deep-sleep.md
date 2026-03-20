@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Sleep structure matters more than hitting 7-9 hours. Deep sleep and REM sleep serve different critical functions.</li>
+    <li>✓ Deep sleep clears brain waste linked to Alzheimer's and triggers muscle repair, immunity, and hormone production.</li>
+    <li>✓ Just one week of 4.5-hour nights reduces immune defense. Chronic short sleep increases heart disease and early death risk.</li>
+    <li>✓ Cutting sleep short sacrifices REM sleep disproportionately, harming memory, mood, and mental clarity the most.</li>
+    <li>✓ Weekend catch-up sleep doesn't fix metabolic damage. Your circadian system needs consistent nightly rest, not weekend deposits.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 You've probably heard the advice: get 7–9 hours of sleep. And while that's a reasonable guideline, it misses something critical. **Sleep is not a uniform block of time.** It's a complex architectural process — and the *structure* of your sleep matters as much as the duration.
 
 ## The Sleep Architecture You're Probably Ignoring
@@ -106,3 +118,19 @@ Sleep is not downtime. It's the most productive thing your body does every 24 ho
 [^12]: Cajochen C, et al. (2011). Evening exposure to a light-emitting diodes (LED)-backlit computer screen affects circadian physiology and cognitive performance. *Journal of Applied Physiology*, 110(5), 1432–1438.
 
 [^13]: Ebrahim IO, et al. (2013). Alcohol and sleep I: effects on normal sleep. *Alcoholism: Clinical and Experimental Research*, 37(4), 539–549.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize 7-9 hours consistently:</strong> aim for the same bedtime and wake time daily to protect deep sleep cycles and circadian health.</li>
+    <li>→ <strong>Protect the first half:</strong> avoid cutting sleep short since deep sleep is front-loaded; losing even 90 minutes loses most REM benefits.</li>
+    <li>→ <strong>Skip the weekend recovery myth:</strong> one week of inconsistent sleep damages metabolism in ways weekend rest can't repair.</li>
+    <li>→ <strong>Track sleep quality, not just hours:</strong> monitor how rested you feel and cognitive sharpness; poor structure wastes time in bed.</li>
+    <li>→ <strong>Watch for sleep debt warning signs:</strong> reduced focus, mood dips, and cravings signal your brain needs consistent deep sleep restoration.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You've heard get 7-9 hours, but here's what nobody tells you: *how* you sleep matters as much as *how long*. Every night, your brain cycles through deep sleep and REM sleep—each doing totally different jobs. Deep sleep clears toxic protein buildup linked to Alzheimer's and triggers muscle repair, immune boosting, and growth hormone release. REM sleep (back-loaded in the night) handles memory and mood. Cut your sleep short by even 90 minutes? You lose mostly REM, tanking your memory and mental clarity. Worse: one week of 4.5-hour nights crashes your immune system. Weekend catch-up sleep feels good but doesn't fix metabolic damage—your body needs consistency, not deposits. The bottom line: stop thinking of sleep like a bank account. Your circadian system is a biological clock that needs the same rhythm every single night.</p>
+</div>

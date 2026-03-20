@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Somatic yoga focuses on what you feel inside, not how the pose looks from outside.</li>
+    <li>✓ Chronic pain often has neurological roots, not structural ones — somatic movement retrains the brain.</li>
+    <li>✓ Your nervous system can forget how to release tight muscles; somatic techniques help it remember.</li>
+    <li>✓ Interoception and proprioception are trainable neural pathways linked to pain, stress, and trauma recovery.</li>
+    <li>✓ Research is early but growing, especially for chronic pain and nervous system regulation.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a common assumption in yoga culture that doing the pose correctly — hips square, spine neutral, gaze fixed — is where the value lives. Somatic yoga inverts this entirely. In a somatic practice, the external shape of the movement is almost irrelevant. What matters is what you can feel from the inside. And this shift in attention, from performance to perception, turns out to have surprisingly deep roots in neuroscience — and growing relevance for people dealing with chronic pain, nervous system dysregulation, and trauma.
 
 If that sounds like a subtle distinction, consider this: most people living with chronic lower back pain have structurally normal spines on imaging. The pain is real, but its origin is neurological, not architectural. Somatic movement practices — which train the brain's ability to sense and voluntarily control muscle tissue — may address this in ways that shape-based exercise simply doesn't.
@@ -76,6 +88,23 @@ You don't need to find a certified Hanna Somatic Education practitioner to begin
 The research on somatic yoga is young. But the neuroscience of interoception, chronic pain, and autonomic regulation gives it a credible theoretical foundation. And the practice itself asks almost nothing of you in terms of fitness, flexibility, or performance — which, for people whose relationship with their body has been difficult, may be the most important quality of all.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you are managing chronic pain, PTSD, or other trauma-related conditions.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Notice internal sensation:</strong> during movement, focus on what you feel rather than achieving the 'correct' shape.</li>
+    <li>→ <strong>Try pandiculation:</strong> intentionally contract a tight muscle, then release slowly to reset nervous system baseline tone.</li>
+    <li>→ <strong>Explore slow, attentive movement:</strong> practice deliberate, exploratory motion to rebuild body awareness and voluntary control.</li>
+    <li>→ <strong>Reconsider stretching alone:</strong> passive stretching may lengthen tissue temporarily but doesn't reprogram nervous system holding patterns.</li>
+    <li>→ <strong>Seek interoception-focused instruction:</strong> look for teachers trained in somatic or body-awareness practices, not just postural alignment.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You've probably heard yoga is about nailing the pose. Somatic yoga flips that script entirely. Instead of chasing the perfect downward dog, you're tuning into what's actually happening inside your body. Sounds subtle? It's not. Your nervous system can get stuck in protective patterns—tight shoulders, tense jaw, lower back pain—even when nothing's structurally broken. Somatic practices use slow, intentional movement to help your brain remember how to release these patterns. It's neuroscience-backed and showing real promise for chronic pain and stress. The research is still early, but if traditional yoga leaves you frustrated or injured, this approach might be worth exploring.</p>
+</div>
 
 ---
 

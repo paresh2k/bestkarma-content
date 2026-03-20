@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Women's testosterone peaks in their twenties, then declines for four decades with real health consequences.</li>
+    <li>✓ Testosterone drives libido, muscle strength, bone density, motivation, mood, and cognitive function in women.</li>
+    <li>✓ Testosterone therapy significantly improves sexual desire and function, backed by rigorous clinical trial evidence.</li>
+    <li>✓ FDA approval barriers and cultural discomfort, not lack of evidence, limit testosterone therapy access for women.</li>
+    <li>✓ Fatigue, low libido, and weak muscles in women are rarely traced to testosterone deficiency.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most women are never told that their testosterone levels peak in their early twenties and then spend the next four decades declining — quietly, continuously, and with real consequences. By the time a woman reaches menopause, her testosterone is roughly half what it was at its peak. By her late fifties, it may be a quarter. And yet testosterone barely registers in routine women's healthcare. It isn't screened. It isn't discussed. When women bring up fatigue, low libido, or difficulty building muscle, the conversation rarely goes there. That silence has a cost.
 
 The evidence is clear enough that in 2019, an international panel of endocrinologists, gynecologists, and sexual medicine specialists published the **Global Consensus Statement on the Use of Testosterone Therapy for Women** in four major journals simultaneously — *The Journal of Clinical Endocrinology & Metabolism*, *Climacteric*, *Maturitas*, and the *Journal of Sexual Medicine*. The statement was unambiguous: testosterone therapy has a proven role in treating certain conditions in women, and the primary barrier to wider use is not evidence, but regulatory inertia and cultural discomfort.
@@ -78,6 +90,23 @@ Because no FDA-approved female testosterone product exists in the United States,
 | How long will we trial this before reassessing? | 3–6 months is a reasonable window |
 
 If you are premenopausal and experiencing symptoms — fatigue, low libido, mood changes — the path is less clear. Those symptoms warrant investigation, but the evidence for testosterone therapy in that population is insufficient to make a general recommendation. Work with a clinician to explore the full picture before narrowing to any single intervention.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track your symptoms:</strong> Notice patterns in fatigue, low libido, or difficulty building muscle to discuss with your doctor.</li>
+    <li>→ <strong>Ask about testosterone:</strong> Bring up testosterone levels during routine exams instead of waiting for your doctor to mention it.</li>
+    <li>→ <strong>Understand your baseline:</strong> Know your testosterone levels in your twenties as a reference point for future decline.</li>
+    <li>→ <strong>Research HSDD treatment:</strong> If low sexual desire causes distress, learn about testosterone therapy options and clinical trial data.</li>
+    <li>→ <strong>Seek informed providers:</strong> Find healthcare professionals familiar with the Global Consensus Statement on testosterone therapy for women.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your testosterone doesn't stop mattering after age 20—it keeps declining through your fifties and affects way more than just sex drive. We're talking muscle strength, bone health, energy, focus, and mood. Yet most doctors never check it or mention it. The science is solid: testosterone therapy works for low libido and sexual dysfunction, backed by massive clinical trials. An international panel of experts published a consensus in 2019 saying the evidence is there, but FDA rules and cultural squeamishness keep it off limits. If you're experiencing fatigue, weak muscles, or low desire, your testosterone might be the missing piece nobody's discussing with you.</p>
+</div>
 
 ---
 

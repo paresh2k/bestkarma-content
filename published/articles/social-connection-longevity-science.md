@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Loneliness is as deadly as smoking 15 cigarettes daily, according to US Surgeon General.</li>
+    <li>✓ 3.7 million person study found socially connected people 50% more likely to survive.</li>
+    <li>✓ Harvard's 85-year study proves relationship quality matters more than quantity for health.</li>
+    <li>✓ Loneliness triggers chronic stress, inflammation, and sleep disruption at the biological level.</li>
+    <li>✓ Deep, trusted relationships protect health better than cholesterol levels or genetics.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In 2023, the United States Surgeon General Dr. Vivek Murthy declared loneliness a public health epidemic. Not a social problem, not a cultural malaise — a **medical emergency**. The advisory cited sobering data: approximately half of American adults report measurable loneliness, and the health consequences rival those of smoking, obesity, and physical inactivity.
 
 This is not hyperbole. The science behind it is among the most replicated in all of behavioral medicine.
@@ -116,3 +128,19 @@ Your social health is as manageable as your physical health. It just requires th
 [^7]: Akhter-Khan SC, et al. (2022). Associations of loneliness with risk of Alzheimer's disease dementia in the UK Biobank. *International Journal of Geriatric Psychiatry*, 36(12), 1–9.
 
 [^8]: Husk K, et al. (2020). Social prescribing: where is the evidence? *British Journal of General Practice*, 70(690), 64–65.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize quality time:</strong> invest in 1-2 deeply trusted relationships over maintaining many shallow connections.</li>
+    <li>→ <strong>Combat isolation actively:</strong> loneliness triggers your body's threat response, so schedule regular meaningful contact.</li>
+    <li>→ <strong>Track relationship health:</strong> check relationship satisfaction as seriously as you track fitness or diet.</li>
+    <li>→ <strong>Address loneliness early:</strong> chronic loneliness elevates inflammatory markers linked to heart disease and diabetes.</li>
+    <li>→ <strong>Build community slowly:</strong> start by deepening one existing relationship rather than expanding your social circle.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Feeling lonely? Your body knows it. The US Surgeon General just declared loneliness a public health crisis — and science backs it up. A study of 3.7 million people found that isolation kills as effectively as smoking 15 cigarettes daily. The Harvard Study of Adult Development tracked 724 men for 85 years and discovered that relationship quality predicted health at 80 better than genetics, cholesterol, or IQ. Here's why: loneliness keeps your brain in constant threat mode, flooding your body with stress hormones, triggering inflammation, and destroying your sleep. The fix isn't complicated — you need 1-2 genuinely close relationships, not a packed social calendar. That deep connection is literally medicine for your body.</p>
+</div>

@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Telomeres are protective DNA caps that shorten each time a cell divides, acting as a biological aging clock.</li>
+    <li>✓ Shorter telomeres are linked to heart disease, cancer, diabetes, Alzheimer's, and early death in population studies.</li>
+    <li>✓ Chronic inflammation is the strongest driver of telomere shortening, more powerful than diet or exercise alone.</li>
+    <li>✓ Psychological stress ages cells faster: caregivers of sick children showed 10 years of accelerated biological aging.</li>
+    <li>✓ Reducing inflammation through stress management, sleep, and diet protects telomeres better than targeting them directly.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 At the end of every chromosome in every cell of your body, there is a repetitive DNA sequence: TTAGGG, repeated hundreds to thousands of times. This sequence does not code for any protein. It serves a protective function — like the plastic cap at the end of a shoelace, it prevents the chromosome from fraying and fusing with other chromosomes.
 
 These structures are called telomeres. And they are running out.
@@ -97,6 +109,23 @@ Telomeres matter not because shortening is the sole cause of aging — it isn't 
 The most important finding from a decade of intensive telomere research is the one that's easiest to overlook: the lifestyle factors most powerfully associated with telomere preservation are the same ones associated with every other longevity metric. There is no exotic telomere-specific intervention. There is a coherent picture of cellular health, maintained through consistent, non-glamorous behavior over time.
 
 The countdown timer runs. The question is the rate.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize stress reduction:</strong> chronic psychological stress is the most powerful driver of cellular aging through telomere shortening.</li>
+    <li>→ <strong>Measure inflammation markers:</strong> ask your doctor about CRP and inflammatory markers as early warning signs of aging acceleration.</li>
+    <li>→ <strong>Improve sleep quality:</strong> poor sleep fuels inflammation; consistent, restorative sleep protects telomere length across the lifespan.</li>
+    <li>→ <strong>Eliminate ultra-processed foods:</strong> these trigger inflammatory responses that shorten telomeres; whole foods work through inflammation reduction.</li>
+    <li>→ <strong>Build social connection:</strong> chronic isolation accelerates telomere shortening; prioritize meaningful relationships as a longevity practice.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your cells have protective caps called telomeres that shorten every time they divide—think of them as a biological countdown timer. The shorter they get, the higher your risk of disease and early death. Here's the game-changer: inflammation is the main culprit behind rapid telomere shortening. Yes, diet and exercise matter, but they work *through* reducing inflammation. The biggest telomere killers? Chronic stress, poor sleep, obesity, smoking, and loneliness. One wild finding: mothers caring for chronically ill children showed 10 years of accelerated cellular aging. The takeaway: stop asking "how do I protect my telomeres?" Instead ask "what's causing inflammation in my life?" Fix that, and your cells take care of themselves.</p>
+</div>
 
 ---
 

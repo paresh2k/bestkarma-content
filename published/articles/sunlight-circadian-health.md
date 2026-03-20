@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Avoiding sun entirely carries mortality risks comparable to smoking, according to major research</li>
+    <li>✓ Morning sunlight sets your circadian clock, controlling sleep, energy, metabolism, and immunity timing</li>
+    <li>✓ 10-30 minutes of outdoor light within 2 hours of waking optimizes your body's daily rhythms</li>
+    <li>✓ Sunlight affects heart health through pathways beyond vitamin D that science is still uncovering</li>
+    <li>✓ Sunglasses block the circadian signal; brief morning light exposure without them is both safe and necessary</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The cultural message about sunlight has been increasingly simplified over the past four decades: cover up, apply sunscreen, and minimize UV exposure to reduce skin cancer risk. This message has done measurable good for melanoma prevention. It has also produced, in some people, an overcorrection that carries its own health costs.
 
 A 2016 Swedish cohort study published in the *Journal of Internal Medicine* followed 29,518 women over 20 years and classified them by sun exposure habits. The findings were uncomfortable for the sun-avoidance narrative: women who actively avoided sun exposure had approximately twice the all-cause mortality risk of those with the highest sun exposure. The mortality risk of avoiding the sun, the researchers concluded, was comparable to the mortality risk of smoking. Non-smokers who avoided the sun had roughly the same life expectancy as smokers who sunbathed regularly.
@@ -70,6 +82,23 @@ Reconciling the sun-avoidance message with the sunlight-benefit evidence require
 **Skin type matters.** People with lighter skin have lower melanin protection and burn more quickly at equivalent UV intensities. Intelligent sun exposure means shorter exposures, avoiding midday peak UV hours in summer, and protecting fair skin during extended outdoor time — not avoiding outdoor light entirely.
 
 The principle the Swedish mortality data supports is not "sun exposure is always good." It is "avoiding sunlight entirely carries real health costs that most people are unaware of, and the full spectrum of benefits — circadian, cardiovascular, mood, and vitamin D — requires deliberate, regular outdoor light exposure rather than minimization."
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Morning light exposure:</strong> Get 10-30 minutes of unfiltered outdoor light within 1-2 hours of waking to set your circadian clock properly.</li>
+    <li>→ <strong>Skip sunglasses early:</strong> Avoid tinted lenses during morning walks when UV intensity is low to let your eyes receive the full circadian signal.</li>
+    <li>→ <strong>Seek outdoor light:</strong> Go outside even on cloudy days—outdoor light provides 10,000-20,000 lux versus 300-500 indoors, far exceeding what windows provide.</li>
+    <li>→ <strong>Balance sun protection:</strong> Use sunscreen for prolonged afternoon exposure, but don't over-correct by avoiding sun entirely, which carries real health costs.</li>
+    <li>→ <strong>Understand circadian stakes:</strong> Recognize that irregular or inadequate morning light disrupts metabolism, immunity, sleep, and mood—not just vitamin D production.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">We've overcorrected on sun avoidance. A major Swedish study found that women who actively avoided sun had twice the all-cause mortality risk of those with highest exposure—comparable to smoking. The real story isn't just about skin cancer prevention; it's about what sunlight does to your entire body. Morning light hits specialized cells in your eyes that set your master circadian clock, which then syncs every system in your body: sleep, energy, metabolism, immunity. Just 10-30 minutes of outdoor light within 2 hours of waking is transformative. Even better: ditch the sunglasses for that brief window when UV is low. Sunlight also affects heart health through pathways scientists are still discovering. The takeaway: sun avoidance carries genuine health costs. Smart sun exposure—not avoidance—is the evidence-based approach to longevity.</p>
+</div>
 
 ---
 

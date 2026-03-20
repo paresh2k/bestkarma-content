@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Social jetlag is the weekly time zone shift your body experiences from changing sleep schedules between work and free days.</li>
+    <li>✓ Up to 70% of working adults experience social jetlag, even when getting enough total sleep hours.</li>
+    <li>✓ Just 30 minutes of social jetlag affects metabolism; depression risk jumps significantly above 1.2 hours.</li>
+    <li>✓ Social jetlag harms mental health, metabolism, cognitive performance, and cardiovascular fitness independent of total sleep time.</li>
+    <li>✓ The timing of sleep matters as much as the amount — your body needs consistency to function optimally.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 You fly from New York to London. For the next few days, you're groggy at noon, alert at 2am, hungry at strange hours. Your internal clock says one time; the external world demands another. This is biological jetlag — a mismatch between your circadian system and your environment, produced by rapid time zone crossing.
 
 Now consider what happens every single week for the majority of the working population.
@@ -72,6 +84,23 @@ Social jetlag reveals something important about the relationship between modern 
 The consequences — measurable metabolic dysfunction, elevated depression risk, impaired cognition, reduced exercise benefit — are being borne primarily by the 70% of people whose biological clocks conflict daily with their social clocks. This is not inevitable. It is a design choice that can be changed.
 
 For individuals, the anchoring strategies above are the available tools. For society, the evidence for circadian-informed scheduling of schools and workplaces is compelling and growing.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track your sleep midpoint:</strong> calculate the middle of your sleep window on weekdays vs. weekends; a 2+ hour difference signals social jetlag.</li>
+    <li>→ <strong>Stabilize weekend sleep:</strong> keep Saturday and Sunday wake times within 1 hour of your weekday schedule to reduce circadian disruption.</li>
+    <li>→ <strong>Align meal timing:</strong> eat main meals at consistent times relative to your wake time, especially on weekends when schedules shift.</li>
+    <li>→ <strong>Prioritize gradual adjustment:</strong> if changing sleep schedules, shift bedtime by 15-30 minutes per day rather than making drastic weekend changes.</li>
+    <li>→ <strong>Exercise at consistent times:</strong> workouts benefit your cardiovascular system more when done at the same circadian phase each day.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Ever notice how Mondays feel brutal even after a full night's sleep? That's social jetlag — your body's internal clock clashing with your weekend sleep schedule. Most working adults shift their sleep by 1-2 hours between weekdays and weekends, which is like flying across time zones every Friday. The problem: your metabolism, mood, brain, and heart all depend on consistent timing, not just sleep quantity. Studies show even modest shifts (30+ minutes) affect your metabolism, and beyond 1.2 hours, depression risk climbs steeply. The fix is simple: keep weekend sleep times close to your weekday schedule. Your future self will thank you.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Resistance training improves sleep quality as much as clinical insomnia therapy.</li>
+    <li>✓ Lifting increases deep sleep (slow-wave sleep) where most recovery happens.</li>
+    <li>✓ Hard workouts build adenosine, the brain's natural sleep pressure signal.</li>
+    <li>✓ Resistance training works better than cardio for sleep in adults over 40.</li>
+    <li>✓ Strength training boosts growth hormone during your deepest sleep cycles.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a quiet irony in the gym: the activity most associated with being wide awake — grunting, straining, heart pounding — turns out to be one of the most powerful tools we have for falling deeper into sleep. Not walking. Not yoga. Not a bath. Resistance training, specifically, produces some of the most consistent improvements in sleep quality of any lifestyle intervention studied. And the magnitude of that effect may surprise you.
 
 A **2017 meta-analysis by Kovacevic et al.** published in *Sleep Medicine Reviews*, pooling data from 23 randomized controlled trials, found that resistance training significantly improved **sleep quality, sleep duration, sleep efficiency, and daytime sleepiness** — with effect sizes comparable to cognitive behavioral therapy for insomnia (CBT-I), the current gold-standard clinical treatment. Not a supplement. Not a drug. Progressive overload.
@@ -74,6 +86,23 @@ Based on the evidence, here is a defensible framework for using resistance train
 - **What to track:** If you use a wearable, monitor PSQI-equivalent scores, HRV the morning after, and deep sleep percentage over 4–6 weeks. Individual response varies enough that your own data should guide adjustments.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have cardiovascular conditions or a diagnosed sleep disorder.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize resistance training:</strong> Make lifting a core part of your sleep strategy, not just fitness routine.</li>
+    <li>→ <strong>Work hard enough:</strong> Light workouts don't cut it—push intensity to build sleep-driving adenosine.</li>
+    <li>→ <strong>Track sleep quality:</strong> Use apps or wearables to measure improvements in deep sleep and efficiency.</li>
+    <li>→ <strong>Be consistent long-term:</strong> Stick with progressive resistance for 12+ weeks to see measurable sleep gains.</li>
+    <li>→ <strong>Combine with other tools:</strong> Layer lifting with sleep hygiene and timing strategies for maximum benefit.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Here's something most people get wrong: hitting the gym doesn't just make you stronger—it makes you sleep *better*. Research shows resistance training improves sleep quality as much as clinical therapy for insomnia. The magic? Lifting drives adenosine buildup in your brain (the same stuff that makes you tired), and it amplifies growth hormone release during deep sleep—the restorative phase where actual healing happens. Unlike cardio, which has modest sleep benefits, resistance training consistently produces noticeable improvements. Older adults saw 35% better sleep quality after just 12 weeks. The catch: it has to be *hard*. Light workouts don't trigger the same sleep benefits. Bottom line: if you're struggling to sleep, stop just trying melatonin and start squatting.</p>
+</div>
 
 ---
 
