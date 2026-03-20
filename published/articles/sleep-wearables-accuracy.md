@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Sleep trackers infer sleep stages from movement and heart rate, not brain activity like lab tests do.</li>
+    <li>✓ Oura Ring leads in accuracy; Apple Watch and Fitbit are moderate; all miss 30-70% of wake periods.</li>
+    <li>✓ Total sleep duration estimates are reasonably accurate within 15-20 minutes for most devices.</li>
+    <li>✓ None can detect sleep disorders like apnea; they're tools for trends, not medical diagnosis.</li>
+    <li>✓ Make lifestyle changes based on patterns over weeks, not single-night scores.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Millions of people now wake up to a sleep score. Oura Ring users check their "readiness" before getting out of bed. WHOOP subscribers watch their HRV trend over morning coffee. Apple Watch owners see a breakdown of light, deep, and REM sleep with a confidence that the technology's underlying accuracy may not fully justify.
 
 Sleep wearables have become the dominant consumer health technology of the 2020s. The question that matters is not whether they're popular — it's whether they're accurate. And for the subset of users making meaningful lifestyle decisions based on the data, the distinction between what wearables measure well and what they get wrong is worth understanding carefully.
@@ -88,6 +100,23 @@ The mitigation is simple: track trends over time, not individual nights. A 30-da
 **Best validated ($300-400 + subscription):** Oura Ring Gen4 or WHOOP 4.0. Both have the strongest independent validation evidence. Oura Ring's finger-based sensor gives it an accuracy advantage; WHOOP's subscription model focuses on recovery and strain metrics with a specific athletic use case. The Oura Ring is the better choice for sleep-focused tracking; WHOOP is competitive for users who also want exercise load monitoring.
 
 Use the data to identify behavioral patterns — not to achieve a nightly score. If your HRV is consistently higher after alcohol-free nights, that's actionable. If sleep score drops when you eat late, that's worth knowing. The value is in the behavioral feedback loop, not in optimizing a metric.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Understand the limits:</strong> Your wearable infers sleep stages from heart rate and movement, not actual brain data like clinical tests.</li>
+    <li>→ <strong>Trust duration over stages:</strong> Use total sleep time as your primary metric; deep/REM estimates are less reliable.</li>
+    <li>→ <strong>Watch trends, not nights:</strong> Make decisions based on 2-4 week patterns, not individual night scores or readiness alerts.</li>
+    <li>→ <strong>Choose Oura for accuracy:</strong> If sleep data drives decisions, Oura Ring consistently validates best in independent studies.</li>
+    <li>→ <strong>Skip medical claims:</strong> Wearables can't diagnose sleep disorders; if you suspect apnea or other issues, see a doctor.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your sleep tracker is basically making educated guesses. It sees your heart rate and movement patterns, then uses AI to guess what sleep stage you're in — but it can't actually measure your brain waves like a sleep lab can. The good news: total sleep duration is pretty accurate (give or take 15-20 minutes). The catch: most devices miss 30-70% of the times you actually wake up at night, which makes your sleep scores look better than reality. Oura Ring performs best in independent studies, while Apple Watch and Fitbit are moderate. Bottom line: use these for spotting patterns over weeks, not for medical decisions. One rough night doesn't mean anything. And if you think you have a real sleep disorder, no wearable replaces a real sleep test.</p>
+</div>
 
 ---
 

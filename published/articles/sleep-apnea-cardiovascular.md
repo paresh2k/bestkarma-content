@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ 80% of the 1 billion people with sleep apnea worldwide remain undiagnosed despite clear warning signs.</li>
+    <li>✓ During sleep apnea, your airway collapses repeatedly, stopping breathing and triggering emergency stress responses all night.</li>
+    <li>✓ Untreated sleep apnea causes high blood pressure, irregular heartbeat, heart disease, and stroke through chronic oxygen deprivation.</li>
+    <li>✓ Repeated nighttime oxygen drops shrink brain regions responsible for memory and cause lasting cognitive damage.</li>
+    <li>✓ Sleep apnea is now standard screening for treatment-resistant high blood pressure and atrial fibrillation in medical practice.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 You've probably heard the statistic about common diseases going undiagnosed. But the numbers for obstructive sleep apnea are striking enough to warrant their own category: approximately 1 billion people worldwide have OSA, with an estimated 80% undiagnosed. In the United States, roughly 30 million people have been diagnosed — against an estimated 50+ million who have it.
 
 This gap is not explained by lack of symptoms. The symptoms of sleep apnea are prominent: loud snoring, daytime fatigue, morning headaches, waking unrefreshed, witnessed breathing pauses, difficulty concentrating. But they are also symptoms that people normalize, attribute to stress, aging, or busy schedules, or conceal from partners and doctors.
@@ -96,6 +108,23 @@ The diagnostic tools are accessible, the treatments are effective, and the evide
 If you snore habitually, feel unrefreshed after adequate sleep, or experience excessive daytime fatigue — ask specifically about a sleep apnea evaluation. If you have treatment-resistant hypertension or AF, it belongs on your diagnostic checklist. The recording feature on a smartphone left by the bed while you sleep can capture snoring and gasping patterns that make a compelling case for testing before a clinical visit.
 
 The disease is common. The consequences are serious. The gap between those two facts is bridgeable — but only if people know to look.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Get screened if symptomatic:</strong> Talk to your doctor if you snore loudly, wake unrefreshed, or have morning headaches—these warrant sleep apnea evaluation.</li>
+    <li>→ <strong>Monitor partner feedback:</strong> Take reports of breathing pauses or gasping seriously; they're often the first sign others notice.</li>
+    <li>→ <strong>Check medication response:</strong> If blood pressure medication isn't working, ask your doctor about sleep apnea testing before adding more drugs.</li>
+    <li>→ <strong>Know the risk markers:</strong> Untreated moderate-to-severe apnea increases heart attack and stroke risk by 50-300%—diagnosis matters.</li>
+    <li>→ <strong>Treat early for brain health:</strong> OSA causes measurable brain shrinkage; treatment prevents cognitive decline and memory loss.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You stop breathing hundreds of times a night—and you might not even know it. Sleep apnea affects over a billion people globally, but 80% go undiagnosed. Here's why that's dangerous: every time your airway collapses during sleep, your body panics. Adrenaline spikes, your heart races, blood pressure climbs. Repeat this 30+ times per hour for years, and your cardiovascular system pays the price. Untreated sleep apnea dramatically increases your risk of heart attack, stroke, irregular heartbeat, and even shrinks the brain regions responsible for memory. The warning signs are real—loud snoring, daytime exhaustion, morning headaches—but people normalize them. If you're tired no matter how much you sleep, that's a red flag. Talk to your doctor about screening.</p>
+</div>
 
 ---
 

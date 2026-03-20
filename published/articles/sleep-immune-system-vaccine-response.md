@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ People sleeping under 6 hours before vaccination are 4x less likely to build immunity.</li>
+    <li>✓ Poor sleep suppresses natural killer cells and T-lymphocytes, weakening immune response.</li>
+    <li>✓ Sleep debt doesn't disappear after one good night—effects persist days later.</li>
+    <li>✓ Less than 7 hours of sleep nearly triples your risk of catching a cold.</li>
+    <li>✓ Deep sleep is when your immune system rehearses and repairs itself most effectively.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The night before your flu shot, most people are thinking about whether they'll feel a sore arm the next day. Almost nobody is thinking about whether they slept enough the week before. They should be. A landmark study led by **Aric Prather** at the University of California San Francisco found that people who slept fewer than six hours per night in the days before receiving the hepatitis B vaccine were **more than four times less likely** to achieve full seroprotection — the antibody threshold required for the vaccine to actually protect you — compared to those sleeping seven hours or more. The vaccine didn't fail. Their sleep did.
 
 This is not a marginal finding. It reframes sleep as an active component of immune function, not its passive backdrop. What happens in your body during those hours of darkness is, among other things, the immune system doing its most important maintenance work — and when you cut that time short, you pay a price that no booster dose can fully reverse.
@@ -70,6 +82,23 @@ If you have a vaccine scheduled — flu, COVID booster, shingles, anything — t
 Beyond vaccination, the implications for general immune resilience are direct: if you are chronically sleeping under six hours, you are operating with measurably impaired immune surveillance regardless of how good your diet or supplement stack looks. Sleep is not one factor among many. In the hierarchy of immune-supporting behaviours, it may be the load-bearing wall.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly regarding vaccination schedules or sleep disorders.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize sleep before vaccines:</strong> Get 7+ hours nightly for 1-2 weeks before any vaccination to maximize antibody protection.</li>
+    <li>→ <strong>Treat sleep like medicine:</strong> View adequate sleep as a required dose, not optional, especially during flu season or before medical procedures.</li>
+    <li>→ <strong>Protect deep sleep:</strong> Avoid alcohol and late-night screens, which fragment the restorative slow-wave sleep your immune system needs.</li>
+    <li>→ <strong>Plan vaccination timing:</strong> Schedule shots after a period when you can reliably sleep 7+ hours, not after work weeks of sleep debt.</li>
+    <li>→ <strong>Monitor your baseline:</strong> Track sleep duration with a simple diary—if you're averaging under 7 hours, immune vulnerability is your baseline.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your vaccine won't fail—your sleep might. Studies show people sleeping under 6 hours before getting vaccinated are 4 times less likely to actually build immunity. One study even found sleep-deprived people were nearly 3 times more likely to catch colds after direct virus exposure. Here's why: deep sleep isn't rest—it's when your immune system rehearses and repairs itself. Poor sleep suppresses natural killer cells, weakens T-lymphocytes, and triggers inflammation that lasts days after you finally catch up. The takeaway? Before your flu shot or any vaccine, make 7+ hours non-negotiable for at least a week beforehand. Your vaccine's effectiveness depends on it.</p>
+</div>
 
 ---
 

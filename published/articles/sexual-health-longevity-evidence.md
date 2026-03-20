@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Men with frequent sexual activity had 50% lower mortality risk in major studies.</li>
+    <li>✓ Sexual health predicts cardiovascular function, immune strength, and psychological resilience.</li>
+    <li>✓ Intimacy releases oxytocin, which lowers stress hormones and blood pressure.</li>
+    <li>✓ Doctors rarely ask about sexual health despite its measurable biological impact.</li>
+    <li>✓ The relationship between sexual activity and health appears bidirectional — each supports the other.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Few things get dropped from the standard preventive care checklist as quickly as sexual health. Your doctor asks about sleep, exercise, alcohol, and stress. Sexual activity — how often, whether it's satisfying, whether anything has changed — rarely comes up. That omission may have real consequences. A growing body of epidemiological and mechanistic research suggests that a satisfying sex life isn't just a quality-of-life bonus: it appears to be a meaningful signal of, and contributor to, cardiovascular health, immune function, psychological resilience, and all-cause mortality risk.
 
 This isn't about performance optimization or wellness maximalism. It's about a dimension of health that most people care about, that has measurable biological effects, and that the healthcare system largely ignores.
@@ -74,6 +86,23 @@ Sexual health deserves a place in preventive care conversations — and patients
 - **Don't conflate sexual health with sexual performance.** The research supports intimacy — physical closeness, partner connection, and physiological arousal — not any specific act or metric.
 
 There is something almost subversive about treating sexual health as a serious medical topic, given how thoroughly it's been sidelined by mainstream preventive medicine. But the biology doesn't care about discomfort. Oxytocin doesn't know it's a taboo subject. The evidence is clear enough to take seriously — and specific enough to act on.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize sexual health:</strong> Discuss frequency, satisfaction, and changes with your doctor at checkups.</li>
+    <li>→ <strong>Track relationship quality:</strong> Focus on emotional connection and intimacy, not just frequency alone.</li>
+    <li>→ <strong>Understand the biology:</strong> Know that regular sexual activity actively lowers stress hormones and blood pressure.</li>
+    <li>→ <strong>Address dysfunction early:</strong> Sexual problems often signal or predict broader health decline — treat them seriously.</li>
+    <li>→ <strong>Build intimacy rituals:</strong> Even non-sexual physical contact like hugging activates protective stress-reduction pathways.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your sex life isn't just about pleasure — it's a health metric. Studies tracking thousands of people show that regular sexual activity is linked to 50% lower mortality risk, better heart health, and sharper minds in older age. The mechanism? Intimacy triggers oxytocin release, which calms your nervous system, lowers cortisol (your stress hormone), and reduces blood pressure. Yet most doctors never ask about it. The relationship goes both ways: good sexual health signals overall wellness, but sexual problems can also predict future health decline. This isn't about performance or frequency obsession — it's about recognizing that intimacy is a real, measurable component of longevity. If something's changed or isn't working, talk to your doctor.</p>
+</div>
 
 ---
 

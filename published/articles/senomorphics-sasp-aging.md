@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Senescent cells stop dividing but refuse to die, releasing toxic inflammatory signals that damage surrounding tissue.</li>
+    <li>✓ Senomorphics suppresses the harmful signals from zombie cells rather than killing them outright.</li>
+    <li>✓ SASP—the inflammatory output of senescent cells—drives age-related diseases like heart disease and muscle loss.</li>
+    <li>✓ Simply eliminating all senescent cells may backfire by removing cells that protect against cancer.</li>
+    <li>✓ Suppressing signals offers a more nuanced approach than blanket removal of senescent cells.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There is a version of cellular aging that looks less like a quiet shutdown and more like a slow riot. Senescent cells — damaged, dysfunctional cells that have stopped dividing but refuse to die — don't just sit inertly in aging tissue. They broadcast. They release a continuous stream of inflammatory proteins, proteases, and signaling molecules that corrode the surrounding tissue, recruit immune dysfunction, and accelerate the aging of neighboring healthy cells. Researchers have taken to calling them zombie cells, and the metaphor is apt: they're not dead, but they're making everything around them worse.
 
 Most of the public conversation around zombie cells has focused on **senolytics** — drugs that kill senescent cells outright. But a quieter, arguably more nuanced approach is gaining traction in the geroscience community: **senomorphics**. Rather than eliminating the cells, senomorphics suppress the toxic signals they emit. Think of it less as pest control and more as noise-canceling headphones for a cell that won't stop screaming.
@@ -88,6 +100,23 @@ For most healthy adults, the honest answer is that the clinical translation of s
 **Lifestyle interventions** that independently suppress mTOR and reduce systemic inflammation remain the accessible foundation: **caloric restriction or time-restricted eating** (which activates autophagy through overlapping pathways), **zone 2 aerobic exercise** (which reduces circulating inflammatory markers and supports mitochondrial health), and **resistance training** (which mitigates sarcopenia, one of SASP's clinical consequences). These are not substitutes for pharmacological senomorphics — but they operate on adjacent mechanisms and carry no meaningful downside.
 
 The zombie cells are real. The science of quieting them is maturing fast. Watch this space.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Monitor inflammaging markers:</strong> Ask your doctor about measuring chronic inflammatory biomarkers like IL-6 to track aging-related inflammation.</li>
+    <li>→ <strong>Research senomorphic therapies:</strong> Stay informed about emerging drugs that target SASP signals rather than killing senescent cells.</li>
+    <li>→ <strong>Support wound healing naturally:</strong> Optimize recovery after injury through adequate protein, sleep, and anti-inflammatory nutrition to limit excessive senescent cell accumulation.</li>
+    <li>→ <strong>Avoid blanket senolytic use:</strong> Be cautious with senescent cell-killing drugs until research clarifies their long-term safety and cancer implications.</li>
+    <li>→ <strong>Reduce oxidative stress:</strong> Manage exercise, stress, and antioxidant intake to lower the rate at which new senescent cells form.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your body accumulates "zombie cells" as you age—damaged cells that stop dividing but refuse to die. The real problem? They constantly leak inflammatory chemicals that corrode healthy tissue and accelerate aging. Scientists used to focus on killing these cells outright, but a smarter approach is emerging: senomorphics. Instead of eliminating zombie cells, senomorphics silences the toxic signals they broadcast. This matters because some senescent cells actually protect against cancer, so nuking them all could backfire. The takeaway: inflammation from aging cells drives disease, but the solution isn't necessarily destruction—it's quieting the noise. This shift represents how aging research is getting more sophisticated, moving from crude elimination to precision suppression.</p>
+</div>
 
 ---
 

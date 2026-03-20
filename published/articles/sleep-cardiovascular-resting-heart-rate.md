@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your sleep heart rate reveals cardiovascular health better than daytime measurements or blood pressure.</li>
+    <li>✓ Each 10-beat increase in resting heart rate links to 9% higher mortality risk.</li>
+    <li>✓ Healthy sleep heart rate for adults 30-60 is typically 50-70 bpm; fitness matters more than age.</li>
+    <li>✓ Sleep HR measures autonomic nervous system balance—parasympathetic 'rest' dominance indicates a stronger heart.</li>
+    <li>✓ Wearables track this nightly, giving you real-time data on stress, fitness, and cardiovascular efficiency.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The number on your wrist when you wake up may be more useful than your doctor's blood pressure cuff. A growing body of evidence suggests that your resting heart rate during sleep — not your daytime resting HR, not your blood pressure at a clinic visit, but the beats your heart takes while you're unconscious and your body is doing nothing but keeping you alive — is one of the most sensitive, real-time indicators of cardiovascular health we have. And thanks to the proliferation of consumer wearables, most of us are now collecting this data every night without knowing what to do with it.
 
 Here's what the research says it means, and why it matters more than most people realize.
@@ -89,6 +101,23 @@ If you want to improve your overnight heart rate and the cardiovascular health i
 Track your baseline. Give interventions 6–8 weeks. Look for a downward trend in your 7-day rolling average. That downward trend isn't just a number — it's your cardiovascular system becoming more resilient, one night at a time.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have a known cardiac condition or take medications affecting heart rate.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Monitor your pattern:</strong> Check your wearable's sleep heart rate weekly to establish your personal baseline and spot upward trends.</li>
+    <li>→ <strong>Prioritize deep sleep:</strong> Aim for 7-9 hours nightly—deeper sleep strengthens parasympathetic tone and lowers overnight HR.</li>
+    <li>→ <strong>Build cardiovascular fitness:</strong> Regular endurance training (running, cycling, swimming) directly lowers sleep heart rate independent of age.</li>
+    <li>→ <strong>Track lifestyle stressors:</strong> Rising sleep HR signals poor recovery from alcohol, stress, or illness—use it as an early warning.</li>
+    <li>→ <strong>Compare sleep to daytime:</strong> Your sleep HR matters more than daytime resting HR; focus on what happens when your body fully relaxes.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">The number your smartwatch reads while you sleep might be the single best health metric you're ignoring. Your sleep heart rate—those beats per minute when you're completely at rest—reveals something your doctor's office visit can't: real cardiovascular efficiency. Research shows each 10-beat increase in resting heart rate bumps mortality risk by 9%, and sleep HR is cleaner data than daytime measurements because stress and caffeine don't muddy it. Healthy is typically 50-70 bpm for adults 30-60, though fit people sit lower. Your sleep HR reflects whether your parasympathetic nervous system (the "rest" mode) is actually dominating. If it's creeping up, it's telling you something: poor recovery, stress, alcohol, or declining fitness. Start watching it. Your wearable is collecting gold; you just need to know what it means.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ One week of poor sleep shifts your body toward storing fat, even without dietary changes.</li>
+    <li>✓ Sleep deprivation raises hunger hormone ghrelin and lowers fullness hormone leptin simultaneously.</li>
+    <li>✓ Bad sleep elevates cortisol, which preferentially stores fat in your belly and organs.</li>
+    <li>✓ Two weeks of short sleep reduces insulin sensitivity by 25%, approaching pre-diabetes levels.</li>
+    <li>✓ Weight loss efforts fail when sleep is inadequate—your metabolism works against you.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Weight management advice focuses relentlessly on two variables: what you eat and how much you move. Billions of dollars and decades of public health messaging have been directed at calories in and calories out.
 
 The third variable — how you sleep — barely registers in mainstream weight management conversations, despite the fact that its metabolic effects are rapid, measurable, and in some ways more powerful than modest dietary changes.
@@ -86,6 +98,23 @@ Weight regulation is not simply a story of willpower applied to eating and exerc
 The person who sleeps 5 hours and struggles with weight is not failing at discipline. They are functioning in a hormonal environment that strongly promotes weight gain, food reward hijacking, and metabolic inefficiency. Their situation is analogous to someone trying to maintain blood pressure control while chronically stressed — the physiology is working against them in ways that willpower cannot overcome.
 
 Sleep is the metabolic regulator that the weight management field has undervalued. It is not an add-on to diet and exercise. It is the foundation that makes both of them work.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize 8+ hours:</strong> aim for consistent nightly sleep duration to prevent hormonal hunger shifts that add 300-500 daily calories.</li>
+    <li>→ <strong>Track sleep quality:</strong> monitor your sleep patterns for two weeks to establish baseline and identify when cravings spike.</li>
+    <li>→ <strong>Fix sleep first:</strong> address sleep problems before restricting calories—better rest optimizes insulin and fat storage independent of diet.</li>
+    <li>→ <strong>Establish bedtime routine:</strong> create consistent sleep-wake times to stabilize cortisol and prevent visceral fat accumulation.</li>
+    <li>→ <strong>Evaluate sleep environment:</strong> ensure dark, cool, quiet bedroom conditions that support 7-9 hours of uninterrupted sleep nightly.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You probably know weight loss is about calories and exercise. But there's a third factor that changes everything: sleep. Just one week of sleeping 5-6 hours rewires your hunger hormones, making you crave 300-500 extra calories daily without even trying. Your body pumps out more ghrelin (hunger) and suppresses leptin (fullness). Meanwhile, poor sleep spikes cortisol, which tells your body to store fat in your belly specifically. Worst part? Two weeks of short sleep reduces insulin sensitivity by 25%—basically pre-diabetes territory. This means the same calorie deficit works differently depending on sleep. The math is simple: fix your sleep first, then diet works better. Your weight loss efforts are fighting your own biology if you're not rested.</p>
+</div>
 
 ---
 

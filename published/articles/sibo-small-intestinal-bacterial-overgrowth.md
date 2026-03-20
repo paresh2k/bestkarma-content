@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ SIBO is bacterial overgrowth in the small intestine, affecting 36% of IBS patients versus 10% of healthy people.</li>
+    <li>✓ Low stomach acid, poor gut motility, and past infections can all trigger SIBO development.</li>
+    <li>✓ Bloating that worsens after meals, gas, and alternating constipation/diarrhea are common warning signs.</li>
+    <li>✓ Untreated SIBO can cause deficiencies in vitamins A, D, E, K, B12, and iron.</li>
+    <li>✓ Two types exist: hydrogen-dominant (causes diarrhea) and methane-dominant (causes constipation).</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 You can eat a perfectly clean diet — no gluten, no dairy, no processed food — and still spend every afternoon looking six months pregnant. The bloating is real, the discomfort is real, and the standard reassurance ("it's probably just IBS") is, for a significant subset of sufferers, wrong. What's actually happening is a bacterial problem in a place bacteria aren't supposed to thrive in large numbers: the small intestine.
 
 Small intestinal bacterial overgrowth — SIBO — is increasingly recognized as one of the most underdiagnosed conditions in gastroenterology. A 2020 meta-analysis by **Ghoshal et al.** in the *Journal of Gastroenterology and Hepatology*, pooling data from 11 studies and over 1,200 patients with IBS, found that roughly **36% of IBS patients tested positive for SIBO** using breath testing — compared to 10% of healthy controls. That gap is striking. It suggests that for millions of people cycling through elimination diets and digestive enzymes, the root cause hasn't been addressed at all.
@@ -86,6 +98,23 @@ If the symptom pattern above sounds familiar, the logical next step is a breath 
 This is one of the few areas of gut health where a specific, testable, treatable cause underlies what often gets labeled "functional." That framing matters — not because the diagnosis is a magic fix, but because it points toward mechanisms rather than permanent dietary restriction.
 
 *This article is for informational purposes only. Consult a qualified gastroenterologist or healthcare provider before pursuing testing or treatment for SIBO.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Get tested for SIBO:</strong> Ask your doctor for breath testing if bloating persists despite clean eating and standard IBS treatments.</li>
+    <li>→ <strong>Review acid-blocking drugs:</strong> Talk to your doctor about whether long-term proton pump inhibitor use might be contributing.</li>
+    <li>→ <strong>Check vitamin levels:</strong> Request bloodwork for B12, iron, and fat-soluble vitamins if you have chronic bloating and digestive issues.</li>
+    <li>→ <strong>Identify your SIBO type:</strong> Determine whether you have hydrogen or methane-dominant SIBO to guide dietary and treatment decisions.</li>
+    <li>→ <strong>Investigate root causes:</strong> Explore whether low stomach acid, poor motility, or past infections triggered your symptoms.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You eat clean, avoid gluten and dairy, yet you're still bloated every afternoon. Welcome to SIBO—small intestinal bacterial overgrowth. Your small intestine isn't supposed to host massive bacterial colonies (that's the colon's job), but when your stomach acid drops, gut muscles slow down, or you've had food poisoning, bacteria multiply where they shouldn't. The result? Bloating after meals, gas, alternating constipation and diarrhea, and sometimes brain fog. Here's the kicker: 36% of IBS patients actually have SIBO, not just sensitivity. Chronic SIBO also steals nutrients before you absorb them, leading to deficiencies in vitamins A, D, E, K, B12, and iron. The good news? It's testable and treatable—but only if your doctor looks for it.</p>
+</div>
 
 ---
 

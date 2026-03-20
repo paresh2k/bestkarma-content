@@ -13,6 +13,18 @@ readTime: 9
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Zombie cells are damaged cells that stop dividing but refuse to die, lingering in your body indefinitely.</li>
+    <li>✓ They leak inflammatory chemicals that damage nearby healthy cells and accelerate aging throughout your body.</li>
+    <li>✓ Your immune system clears them well in youth, but surveillance declines with age, allowing accumulation.</li>
+    <li>✓ They accumulate in joints, arteries, organs—tracking with every major age-related disease we know.</li>
+    <li>✓ Animal studies show clearing these cells extends lifespan and improves physical function significantly.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In a healthy body, damaged cells have two appropriate responses to irreparable harm: repair themselves or self-destruct. The first keeps the cell functional. The second removes a potential threat before it can become cancerous or disruptive.
 
 There is a third response, and it is neither appropriate nor clean. Some cells, when faced with damage they cannot fix, enter a state called senescence. They stop dividing. They refuse to die. They linger in tissue indefinitely — and they make their neighbors miserable.
@@ -93,6 +105,23 @@ The FDA approved Unity Biotechnology's IND for their senolytic program. Multiple
 For now, the evidence supports prioritizing the lifestyle factors that reduce senescent cell accumulation in the first place: reducing chronic inflammation, maintaining metabolic health, exercising regularly (which appears to slow senescence accumulation in muscle tissue), and minimizing the oxidative stressors that trigger senescence pathways.
 
 The pharmacological era of senescent cell clearance is approaching. The groundwork you lay in tissue health before it arrives will determine how much there is to clear.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Manage metabolic health:</strong> maintain healthy weight and metabolic function to reduce senescent cell accumulation in fat tissue.</li>
+    <li>→ <strong>Monitor inflammation markers:</strong> work with your doctor to track inflammatory markers that may indicate zombie cell burden.</li>
+    <li>→ <strong>Support immune function:</strong> prioritize sleep, exercise, and stress management to help your immune system clear senescent cells.</li>
+    <li>→ <strong>Avoid DNA damage:</strong> limit unnecessary radiation exposure, manage oxidative stress, and avoid smoking to prevent cell senescence.</li>
+    <li>→ <strong>Watch emerging research:</strong> senolytics are in clinical trials—stay informed about potential treatments targeting these cells.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your body has cells that get damaged and refuse to die—researchers call them zombie cells. Instead of self-destructing like they should, they stick around leaking inflammatory chemicals that damage healthy neighbors and speed up aging. When you're young, your immune system cleans them up easily. But as you age, immune surveillance drops and these cells accumulate in your joints, arteries, organs—basically everywhere aging happens. The wild part? Animal studies show that when scientists remove these cells, mice live longer with better physical function. The takeaway: keep your immune system strong, manage inflammation, avoid metabolic stress, and stay tuned for emerging senolytic drugs designed to clear these cellular troublemakers.</p>
+</div>
 
 ---
 

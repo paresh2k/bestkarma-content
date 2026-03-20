@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ After 17 hours awake, your brain functions like you've had 2-3 drinks — but you won't realize it.</li>
+    <li>✓ One bad night cuts your memory formation ability by up to 40% the next day.</li>
+    <li>✓ Sleep loss makes you emotionally reactive and irritable while destroying your ability to recognize how impaired you are.</li>
+    <li>✓ Just 4 hours of sleep drops your immune system's virus-fighting cells by 70%.</li>
+    <li>✓ You're the worst judge of your own sleep deprivation — the more tired you are, the less you know it.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Imagine driving after three drinks. The impaired reaction time, reduced judgment, false confidence that everything is fine. Now consider this: after 17 hours of continuous wakefulness — a completely normal day for many people — cognitive performance is equivalent to a blood alcohol concentration of 0.05%, approaching the legal driving limit in most countries.
 
 At 24 hours awake, the equivalence reaches 0.10% — legally drunk in every jurisdiction.
@@ -76,6 +88,23 @@ The research is clearest at the extremes: fewer than 6 hours is clearly harmful;
 Seven hours appears to be the minimum for most people to maintain full cognitive, immune, and metabolic function. Eight hours is the target for most adults. Genetic short sleepers — who genuinely function optimally on 5-6 hours — are extraordinarily rare (estimated at less than 3% of the population). Most people who believe they function fine on 6 hours are experiencing the same subjective-objective disconnect documented in the restriction studies. They feel fine. They are not.
 
 Sleep is not a lifestyle choice. It is a biological requirement — as non-negotiable as water or food, and only somewhat more negotiable than air. Treating it accordingly is not a luxury. It is the foundation that every other health intervention depends on.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Protect sleep before high-stakes days:</strong> avoid nights with only 4-6 hours before exams, important meetings, or driving long distances.</li>
+    <li>→ <strong>Take drowsiness seriously:</strong> if you feel sleepy, you're already impaired; don't rely on self-assessment to gauge fitness.</li>
+    <li>→ <strong>Prioritize 7+ hours:</strong> sleeping fewer than 6 hours increases cold infection risk by over 4 times.</li>
+    <li>→ <strong>Monitor your mood:</strong> if you're unusually irritable or catastrophizing, check your sleep first — poor sleep is likely the culprit.</li>
+    <li>→ <strong>Plan recovery time:</strong> after sleep deprivation, assume you're more impaired than you feel; avoid critical decisions until normal sleep resumes.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">One night of bad sleep isn't just annoying — it's dangerous. After staying awake for 17 hours (a normal day for many), your brain performs like you've had 2-3 drinks. But here's the scary part: you won't feel that impaired. Your memory formation drops 40%, your temper spikes, and your immune system weakens dramatically — your virus-fighting cells plummet by 70%. The worst part? Sleep deprivation destroys your ability to notice you're impaired. Research shows that after 10 nights of only 6 hours, people were as cognitively damaged as someone awake 24 hours straight, yet they rated themselves as only mildly tired. You can't trust your own judgment when you're sleep-deprived. The fix is simple: prioritize 7+ hours. Your brain, mood, and health depend on it.</p>
+</div>
 
 ---
 

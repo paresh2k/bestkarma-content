@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Working 55+ hours weekly increases stroke risk by 33% and heart disease risk by 13%.</li>
+    <li>✓ Always being 'on' keeps your nervous system in fight-or-flight mode, blocking recovery.</li>
+    <li>✓ Sleep deprivation from hustle culture actually worsens the creative thinking it claims to boost.</li>
+    <li>✓ Passive rest like TV isn't restorative; engaged leisure with social connection works better.</li>
+    <li>✓ Deliberate slowness and comfort aren't laziness—they're what your biology needs to function.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There is a quiet rebellion underway in wellness culture, and it is characterised by doing less. Not less junk food, less screen time, or less stress — though those too — but a more fundamental kind of less: fewer goals, fewer optimised routines, fewer morning stacks. The people leading it are not burning out and retreating. They are, increasingly, making a deliberate philosophical choice. And the biology, it turns out, backs them up.
 
 The science of deceleration is more robust than the wellness industry's obsession with optimisation would suggest. Unstructured time, genuine leisure, and what the internet has recently taken to calling "cozymaxxing" — the cultivation of deliberate comfort and slowness — are not laziness dressed up in aesthetics. They are, mechanistically, what your nervous system was built for.
@@ -78,6 +90,23 @@ The evidence converges on a few specific, achievable practices — none of which
 The counterintuitive case for slow living is not that doing less makes you more productive — though it often does. It is that your nervous system requires deactivation the same way your muscles require sleep. This is not an aesthetic preference. It is physiology.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track your work hours:</strong> Monitor weekly hours above 55 to assess cardiovascular risk and adjust if needed.</li>
+    <li>→ <strong>Schedule true downtime:</strong> Block calendar time for activities without performance pressure or productivity goals.</li>
+    <li>→ <strong>Prioritize engaged leisure:</strong> Choose hobbies, social time, or creative pursuits over passive screen time.</li>
+    <li>→ <strong>Protect sleep quality:</strong> Treat sleep as non-negotiable recovery, not a productivity compromise.</li>
+    <li>→ <strong>Practice parasympathetic activation:</strong> Use vagus nerve techniques—deep breathing, time in nature—to counter chronic stress.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Hustle culture is literally killing us. Working 55+ hours weekly increases stroke risk by a third, and constantly being 'on' keeps your nervous system locked in fight-or-flight mode, blocking the recovery your body needs. The kicker? Sleep deprivation—a side effect of relentless productivity—actually destroys the creative thinking you're trying to protect. Not all rest is equal though. Binge-watching Netflix won't cut it. Real recovery comes from *engaged* leisure: hobbies, genuine time with people you like, activities where there's no performance pressure. The science is clear: slowness isn't laziness. It's biology. Your parasympathetic nervous system—the branch responsible for repair and digestion—only activates when you genuinely disengage. The quiet rebellion of doing less? It's backed by decades of research.</p>
+</div>
 
 ---
 

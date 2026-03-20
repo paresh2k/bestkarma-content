@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Sleep debt is real and accumulates like credit card interest in your brain.</li>
+    <li>✓ You can't feel how impaired you are—your brain loses the ability to notice.</li>
+    <li>✓ Six hours nightly causes cognitive deficits equivalent to legal intoxication after two weeks.</li>
+    <li>✓ Adenosine buildup clears your brain's waste slowly, raising long-term disease risk.</li>
+    <li>✓ Weekend sleep helps somewhat, but doesn't fully erase the damage done.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people treat sleep like a credit card: run a deficit during the week, pay it off on Saturday. It's an appealing idea. It's also mostly wrong — and the part that's right is more complicated than you'd think. A growing body of research shows that sleep debt is neurologically real, accumulates in ways that feel invisible, and leaves marks on your body that a long weekend in bed cannot fully erase.
 
 The uncomfortable part? You probably don't know how impaired you are right now.
@@ -94,6 +106,23 @@ The most practical single intervention: **set a consistent wake time, seven days
 You cannot fully repay years of sleep debt in a single weekend. But you can stop adding to it, starting tonight.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, especially if you are experiencing symptoms of a sleep disorder.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize consistent sleep:</strong> aim for 7-9 hours every night rather than banking hours on weekends.</li>
+    <li>→ <strong>Don't trust your instincts:</strong> feeling fine doesn't mean you're performing fine under sleep debt.</li>
+    <li>→ <strong>Understand the stakes:</strong> chronic short sleep impairs memory and reaction time like alcohol, plus increases Alzheimer's risk.</li>
+    <li>→ <strong>Limit caffeine timing:</strong> stop consuming it by early afternoon to avoid blocking adenosine signals that build sleep pressure.</li>
+    <li>→ <strong>Plan recovery strategically:</strong> occasional weekend sleep-in helps, but can't reverse accumulated adenosine and metabolic damage.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You think you function fine on six hours? Your brain disagrees. Sleep science shows that sleep debt accumulates like credit card interest, and the worst part is you won't notice the damage. In a landmark study, people sleeping six hours showed cognitive impairment equivalent to being legally drunk after two weeks—yet they felt fine by day four. This happens because sleep debt impairs the very part of your brain that detects impairment. Adenosine (a brain byproduct) builds up when you sleep too little, and incomplete clearance cascades into real problems: your brain can't flush toxic proteins linked to Alzheimer's, your hormones dysregulate, and your metabolism suffers. Can you recover on weekends? Partially—but you can't erase the damage. Consistency matters more than catching up.</p>
+</div>
 
 ---
 

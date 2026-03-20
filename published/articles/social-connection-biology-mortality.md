@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Loneliness increases mortality risk more than obesity or smoking — backed by massive studies.</li>
+    <li>✓ Poor social connection raises heart disease and stroke risk by 29-32% independently.</li>
+    <li>✓ Loneliness and isolation are distinct: one is feeling alone, the other is actually alone.</li>
+    <li>✓ Social connection buffers stress hormones, strengthens immunity, and slows cellular aging.</li>
+    <li>✓ The effect is real biology, not just correlation — it's as powerful as quitting smoking.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Loneliness kills faster than obesity. That sentence is not a metaphor or a wellness-industry exaggeration — it is the conclusion of a landmark analysis that, if it described a pharmaceutical compound, would have reshaped medicine overnight. Yet somehow we absorbed the finding and largely moved on. We built apps, optimized our sleep stacks, and kept measuring our steps. The social fabric frayed, and we called it modern life.
 
 The finding in question came from **Julianne Holt-Lunstad** and colleagues in a 2010 meta-analysis published in *PLOS Medicine* — 148 studies, 308,849 participants, followed for an average of 7.5 years. People with adequate social relationships had a **50% greater likelihood of survival** compared to those with poor or insufficient social connections. The effect size was larger than not smoking, larger than avoiding obesity, comparable to quitting smoking entirely. This was not a soft finding from a small study. It was one of the largest epidemiological summaries on a behavioral risk factor ever conducted. And it has since been replicated, extended, and mechanistically explained.
@@ -78,6 +90,23 @@ The evidence suggests that depth and perceived quality of connection matter more
 - **Audit your digital social diet.** If most of your social contact is passive consumption (scrolling, watching) rather than active exchange, the health literature suggests you are not getting the biological benefits. Move toward synchronous, reciprocal interaction even if digitally mediated — phone calls over text, video over phone.
 - **Treat loneliness as a health metric.** The same way you might track sleep quality or resting heart rate, periodically ask honestly whether you feel known and supported. Holt-Lunstad has advocated publicly for loneliness to be treated as a clinical risk factor, and the evidence base supports that framing.
 - **Reduce relationship conflict as a health intervention.** Hostile relationships may actively increase inflammatory burden. Couples therapy, conflict resolution, or in some cases, deliberate distance from chronically hostile relationships, is not merely a quality-of-life choice — it has physiological stakes.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize regular contact:</strong> schedule weekly calls, meals, or activities with friends and family to maintain consistent connection.</li>
+    <li>→ <strong>Join a community:</strong> find a group aligned with your interests—fitness, hobbies, faith, or volunteer work—for consistent social engagement.</li>
+    <li>→ <strong>Address loneliness first:</strong> recognize feeling isolated is different from being alone; address the feeling itself, not just circumstances.</li>
+    <li>→ <strong>Quality over quantity:</strong> focus on deeper relationships rather than accumulating contacts; meaningful connection matters most.</li>
+    <li>→ <strong>Build routine social time:</strong> treat social connection like exercise—schedule it regularly rather than waiting for spontaneous opportunities.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Loneliness is literally killing us faster than smoking or obesity. A massive study of over 300,000 people found that strong social connections reduce mortality risk by 50%—that's the same impact as quitting smoking. But here's the kicker: it's not just about having people around. Feeling isolated matters even if you're not physically alone. And feeling connected matters even if you live solo. The science is clear: your body responds to loneliness with elevated stress hormones, weakened immunity, and accelerated aging. Social connection isn't a nice-to-have wellness trend—it's hardcore biology. The prescription? Regular, meaningful contact with people who matter. Make it a priority.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Skin is a metabolic organ, not just a surface — it regulates immunity, hormones, and inflammation.</li>
+    <li>✓ A failing skin barrier leaks inflammatory chemicals that age your heart, brain, and immune system.</li>
+    <li>✓ UV radiation causes 80–90% of visible skin aging by damaging collagen and creating precancerous changes.</li>
+    <li>✓ Air pollution independently accelerates skin aging through mechanisms separate from sun exposure.</li>
+    <li>✓ Senescent cells accumulate in aged skin and actively harm surrounding tissue — a major aging driver.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people think about skin the way they think about paint on a house — aesthetic, surface-level, replaceable. But in the last decade, a quieter revolution has been happening in dermatology research, and it has reframed skin as something far more consequential: a metabolic organ, an immune hub, an endocrine gland, and increasingly, a window into how fast the rest of you is aging. The wrinkles and sunspots matter less than what's driving them — because those same drivers are also accelerating aging in your heart, your brain, and your immune system.
 
 This is not a skincare article. It's an article about longevity that happens to start at the surface.
@@ -91,6 +103,23 @@ The evidence supports a surprisingly simple core stack:
 Nothing on this list is exotic. No peptide serums with celebrity endorsements, no $400 moisturizers. The gap between what the evidence supports and what the skincare industry sells is immense — and the gap between knowing what works and actually doing it consistently is where all the leverage lives.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly regarding prescription retinoids or any underlying skin conditions.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Protect from UV:</strong> wear broad-spectrum SPF daily as a systemic anti-aging strategy, not just cosmetic defense.</li>
+    <li>→ <strong>Monitor air quality:</strong> check PM2.5 levels in your area and use air filtration on high-pollution days.</li>
+    <li>→ <strong>Support skin barrier:</strong> use moisturizers with ceramides and fatty acids to prevent inflammatory leakage.</li>
+    <li>→ <strong>Track skin changes:</strong> document pigment spots and texture shifts as early markers of accelerated aging.</li>
+    <li>→ <strong>Prioritize vitamin D:</strong> ensure adequate intake or sun exposure (safely) since skin synthesizes this critical hormone.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your skin isn't just about looks — it's your largest organ and a major player in how fast you age overall. When your skin's protective barrier breaks down, inflammatory chemicals leak into your bloodstream, aging your heart, brain, and immune system. UV radiation causes up to 90% of visible aging by destroying collagen, while air pollution adds damage independently. Even more important: senescent cells pile up in aged skin and actively poison the healthy cells around them. The wrinkles and spots you see are symptoms of deeper biological processes. Protect your skin barrier, limit UV exposure, and monitor air quality — you're not just preserving your appearance, you're slowing whole-body aging.</p>
+</div>
 
 ---
 
