@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ The afternoon energy dip is biological, not a personal failing—all humans experience it between 1-3pm.</li>
+    <li>✓ A 20-minute nap clears brain fatigue and restores alertness to near-morning levels without grogginess.</li>
+    <li>✓ Napping 30-60 minutes risks waking during deep sleep, leaving you groggy; aim for 10-20 or full 90 minutes.</li>
+    <li>✓ Drinking coffee before a 20-minute nap creates a double alertness boost as caffeine kicks in post-nap.</li>
+    <li>✓ Modern work culture ignores biology; historical societies built midday rest into daily structure for good reason.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The afternoon energy dip is not a personality defect or the result of eating too many carbs at lunch. It is a biological feature: a hardwired reduction in alertness between approximately 1pm and 3pm driven by a secondary circadian trough in the wake-promoting signal from the suprachiasmatic nucleus. It occurs in all humans, regardless of cultural norms around napping, and it predates the post-lunch carbohydrate meal by millions of years.
 
 Most cultures throughout history recognized this and built a midday rest into social structure. The siesta, the riposo, the midday prayers that punctuate the day in many traditions — all accommodate the biology. The modern industrial and post-industrial world largely doesn't.
@@ -82,6 +94,23 @@ The concern is for people with insomnia. For insomniacs, daytime napping reduces
 **Cognitively intensive work:** Research on learning and memory consolidation shows that a nap between learning sessions enhances retention compared to equivalent awake rest. If your work requires sustained cognitive performance across a long day, a midday nap is a legitimate productivity tool.
 
 The afternoon nap is not a luxury or a cultural affectation. In species where midday rest is possible, it is normal biology being accommodated. In species where it isn't — the modern knowledge worker on a 9-to-5 without a rest break — it is normal biology being suppressed, with performance and health consequences that accumulate over years.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Nap for 20 minutes:</strong> Set a strict alarm for a power nap that restores alertness and processing speed without sleep inertia.</li>
+    <li>→ <strong>Try the nappuccino:</strong> Drink coffee right before your nap so caffeine activates as you wake for combined performance boost.</li>
+    <li>→ <strong>Avoid the 30-60 zone:</strong> Don't nap for 30-60 minutes; you'll wake groggy from deep sleep. Choose 10-20 or go full 90 minutes.</li>
+    <li>→ <strong>Schedule afternoon naps:</strong> Plan naps between 1-3pm when your circadian rhythm naturally dips to align with biology.</li>
+    <li>→ <strong>Pick a 90-minute nap:</strong> If time allows, a full sleep cycle nap provides deep restoration, emotional processing, and memory benefits.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your 3pm crash isn't weakness—it's biology. Every human has a natural energy dip in early afternoon driven by circadian rhythms. A quick 20-minute nap clears the brain chemical (adenosine) that makes you tired and restores alertness to near-morning levels. The trick? Duration matters. Short naps (10-20 min) boost performance without grogginess. But 30-60 minute naps backfire—you wake from deep sleep feeling worse. If you have time, go full 90 minutes for a complete cycle. Pro tip: drink coffee before napping; it kicks in as you wake for a double alertness boost. Cultures throughout history built midday rest into daily life. Modern work ignores this biology at our own cost.</p>
+</div>
 
 ---
 

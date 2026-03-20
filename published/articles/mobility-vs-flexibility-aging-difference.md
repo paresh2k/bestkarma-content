@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Mobility (active control) matters far more for aging than flexibility (passive range).</li>
+    <li>✓ A simple floor sit-stand test predicts mortality risk better than most health markers.</li>
+    <li>✓ Poor mobility forces your body to compensate, accelerating joint and muscle breakdown.</li>
+    <li>✓ You can be flexible but lack the neuromuscular control when it actually counts.</li>
+    <li>✓ Prolonged sitting shrinks your actual joint range, not just muscle tightness.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people who can touch their toes can't squat to the floor and stand back up without holding something. That gap — between what your body will allow passively and what it can actually *do* under its own control — is where a lot of aging happens. And it's almost entirely ignored in conventional fitness culture, which celebrates the split and the backbend while quietly overlooking whether you can get off the ground unassisted, catch yourself mid-stumble, or carry a heavy object overhead without your shoulder quietly falling apart.
 
 The distinction matters more than most people realize. Flexibility — the ability to move a joint through a range of motion when an external force helps it along — is a passive quality. Mobility is something else entirely: it's the active, neuromuscularly controlled command of that same range, often under load. You can have excellent flexibility and poor mobility. The inverse is rarer. And of the two, only one predicts how well your body holds up across the decades.
@@ -76,6 +88,23 @@ The following routine is grounded in the most evidence-supported principles: act
 **PAILs/RAILs** (Progressive and Regressive Angular Isometric Loading), also from Spina's FRC system, involve contracting into a stretch and then contracting out of it — essentially training the muscles at their longest length, which is precisely where most people have no motor control. A 2018 paper by **Weppler and Magnusson** in *Physical Therapy* supported the neurological model of stretching over the structural model, suggesting that gains in range of motion come primarily from increased stretch tolerance via nervous system adaptation rather than permanent tissue lengthening — making active loading, not passive holding, the more durable strategy.
 
 Do this daily. Not three times a week. Joints respond to frequency more than volume.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Test your mobility:</strong> Practice the sitting-rising test weekly to gauge functional decline and catch problems early.</li>
+    <li>→ <strong>Move throughout the day:</strong> Break up sitting sessions every 30 minutes to maintain synovial fluid circulation in joints.</li>
+    <li>→ <strong>Build active control:</strong> Train movements you need (squats, lunges, overhead carries) under load, not just passive stretching.</li>
+    <li>→ <strong>Focus on coordination:</strong> Emphasize balance and coordinated movement patterns more than flexibility alone.</li>
+    <li>→ <strong>Prioritize strength and stability:</strong> Invest in musculoskeletal fitness as your longevity insurance policy.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You can touch your toes but can't squat without holding something? That gap is aging. Most of us confuse flexibility (passive range) with mobility (active control). Here's the problem: flexibility barely predicts how well you'll age. Mobility does—dramatically. A 2012 study found people who couldn't sit on the floor and stand back up were 5-6x more likely to die within 6 years than those who could. Why? When joints lose controlled range, your body compensates. Other joints overwork, your gait changes, falls happen. Prolonged sitting especially shrinks your actual joint range. The fix isn't fancy—it's functional movement under load. Squats, lunges, carries. Movements you actually need. Stop chasing the split. Start owning the range that keeps you independent.</p>
+</div>
 
 ---
 

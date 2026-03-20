@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Mediterranean diet has more consistent scientific evidence than any other eating pattern in nutrition history.</li>
+    <li>✓ PREDIMED trial showed 30% fewer heart attacks and strokes—matching the effect of statin drugs.</li>
+    <li>✓ Pattern emphasizes olive oil, vegetables, fish, legumes, nuts, and whole grains as daily staples.</li>
+    <li>✓ Also linked to 53% lower Alzheimer's risk and 30-40% lower type 2 diabetes risk.</li>
+    <li>✓ Not about calorie counting—it's a communal, home-cooked way of eating whole foods.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Nutrition science is famously contradictory. Eggs are good, then bad, then good again. Saturated fat is the villain, then redeemed in some quarters. Carbohydrates cycle between enemy and staple. The field produces headlines that cancel each other out, leaving most people genuinely uncertain about what to eat.
 
 Against this background of noise, one dietary pattern stands apart: the Mediterranean diet has accumulated more consistent, more replicated, more geographically diverse evidence than any other eating pattern in the history of nutritional epidemiology. It is not without nuance — no dietary research is — but the convergence of evidence pointing in the same direction is remarkable.
@@ -94,6 +106,23 @@ The Mediterranean diet does not require Mediterranean geography or income. Its c
 **Treat red meat as an occasional ingredient.** When it appears, use it as a flavor component in a dish that's primarily vegetables and grains, not as the centerpiece.
 
 No single meal has to be perfect. The evidence operates at the pattern level — what you eat most of the time across months and years.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Make olive oil your primary fat:</strong> Use extra virgin olive oil liberally for cooking, dressing, and dipping instead of other oils.</li>
+    <li>→ <strong>Build meals around plants:</strong> Make vegetables, fruits, legumes, nuts, and whole grains the majority of your plate by volume.</li>
+    <li>→ <strong>Eat fish twice weekly:</strong> Include fatty fish like salmon or sardines at least 2-3 times per week.</li>
+    <li>→ <strong>Limit red meat drastically:</strong> Reduce red meat to once or twice monthly in small portions, not as the main dish.</li>
+    <li>→ <strong>Cook at home from whole ingredients:</strong> Avoid ultra-processed foods, refined grains, added sugars, and processed meats entirely.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Nutrition science is messy—but one diet keeps winning. The Mediterranean diet has more research backing it than anything else, and the results are stunning. A landmark Spanish trial showed it cut heart attacks and strokes by 30%, matching what statins do. It's also linked to 53% lower Alzheimer's risk and way lower diabetes rates. So what is it? Basically: lots of vegetables, fruit, whole grains, and legumes. Olive oil as your main fat. Fish 2-3 times weekly. Red meat barely ever. No processed junk. It's not about counting calories—it's about eating real food, cooked at home, the way people around the Mediterranean actually ate before fast food showed up. Simple pattern, extraordinary results.</p>
+</div>
 
 ---
 

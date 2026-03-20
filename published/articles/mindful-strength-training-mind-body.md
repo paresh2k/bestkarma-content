@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Where you focus your attention during strength training measurably changes muscle activation by up to 35%.</li>
+    <li>✓ Internal focus (thinking about the muscle) boosts hypertrophy; external focus (moving the weight) suits heavy compound lifts.</li>
+    <li>✓ This works because attention recruits more motor units in your target muscle, not just perceived effort.</li>
+    <li>✓ The effect is strongest at moderate loads (40–70% of your max); maximal loads recruit muscles fully regardless.</li>
+    <li>✓ No new equipment or programs needed — just deliberate mental focus during each set.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a version of strength training most people have never tried — and it doesn't require a new program, different equipment, or more time in the gym. It just requires paying attention. Not to your phone, not to the mirror, not to the playlist. To the muscle you're actually trying to train. This sounds almost embarrassingly simple, but the research is unambiguous: *where* you put your attention during a set measurably changes what that set does to your body.
 
 The mechanism has a clinical name — attentional focus — and it's one of the more underappreciated variables in exercise science. Getting it right can increase muscle activation by a third. Getting it wrong, or ignoring it entirely, leaves real gains on the table.
@@ -79,6 +91,23 @@ Integrating attentional focus into training doesn't require a new program. It re
 - Leave the phone in your bag for at least the working sets. The attentional interference is real.
 - Practice treating rest periods as intentional recovery — not distraction windows.
 - Notice sensation during the set as data, not noise. The burn, the tension, the fatigue: these are signals that the system is working. Attending to them, rather than escaping them, is where the mind-body research suggests the compound benefit lives.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Focus internally on isolation:</strong> When doing bicep curls or leg extensions, concentrate on the muscle contracting and lengthening, not the bar path.</li>
+    <li>→ <strong>Use external cues for heavy compounds:</strong> On squats or deadlifts, think "drive the floor" or "move the weight," not muscle sensations.</li>
+    <li>→ <strong>Match intensity to attention:</strong> For moderate weights, internal focus is more effective; save external focus for near-maximal loads.</li>
+    <li>→ <strong>Build mindfulness into warmups:</strong> Practice attentional focus during lighter sets to train the habit before heavier work.</li>
+    <li>→ <strong>Test your own response:</strong> Experiment with internal versus external focus on your main lifts and track which produces better feel and results.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your attention during a set isn't background noise—it literally changes what your muscles do. Research shows that focusing directly on the muscle you're training (internal focus) can boost activation by up to 35%, without adding weight or changing anything else. But here's the twist: this only works best for isolation exercises at moderate loads. For heavy compound lifts like squats, external cues—thinking about driving the floor—actually work better. The science is clear: your brain selectively recruits more motor units based on where you direct your attention. So before you buy new gear or follow a new program, try actually paying attention during your sets. It's free, it works, and almost nobody does it.</p>
+</div>
 
 ---
 

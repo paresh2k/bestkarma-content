@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Mouth taping forces nasal breathing, which filters air and boosts oxygen delivery to your body.</li>
+    <li>✓ New 2025 research shows it reduces snoring and mild sleep apnea symptoms by 30-47%.</li>
+    <li>✓ Benefits are real for mild cases, but it can be dangerous for severe sleep apnea.</li>
+    <li>✓ Nasal breathing produces nitric oxide, a molecule that improves lung function and blood flow.</li>
+    <li>✓ This is not a miracle hack — it works for specific people with specific conditions.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a strip of surgical tape over your mouth. You're asleep. Somehow, this is supposed to make you healthier.
 
 It sounds like a wellness gimmick cooked up by someone with too much time and a TikTok account — and for years, that's more or less what it was. But in early 2025, researchers published the first rigorous systematic review of mouth taping for sleep, and the findings are more interesting than either the evangelists or the skeptics would have you believe. This is not a story about a miracle hack. It's a story about a genuinely useful intervention for a specific group of people — and a potentially dangerous one for another.
@@ -90,6 +102,23 @@ If you're an adult who snores mildly, breathes through your mouth during sleep, 
 The verdict on mouth taping is not "debunked" and not "revolutionary." It's more specific than that: a low-cost, evidence-supported intervention for mild mouth-breathing sleep dysfunction, used cautiously by people who know they don't have serious underlying airway disease. That's a useful thing to know. Just don't get it from TikTok.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have any diagnosed sleep disorder, respiratory condition, or cardiovascular disease.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Check severity first:</strong> Get tested for sleep apnea before trying mouth tape; it helps mild cases but risks severe ones.</li>
+    <li>→ <strong>Nose breathe daily:</strong> Practice nasal breathing while awake to train your body before attempting it during sleep.</li>
+    <li>→ <strong>Start with caution:</strong> Begin with one night per week and increase only if you feel better, never forced.</li>
+    <li>→ <strong>Track your snoring:</strong> Ask your bed partner or use a sleep app to measure improvements objectively over 2-4 weeks.</li>
+    <li>→ <strong>Consult your doctor:</strong> Talk to a sleep specialist before starting, especially if you have any diagnosed breathing condition.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Mouth taping for sleep sounds wild, but there's actual science behind it. Your nose does something your mouth can't: it filters air, warms it, and produces nitric oxide — a molecule that supercharges oxygen delivery to your lungs. A major 2025 review found that mouth taping cuts snoring and mild sleep apnea symptoms by 30-47%. The catch? It only works for mild cases. If you have moderate or severe sleep apnea, taping your mouth can be genuinely dangerous. The takeaway: this isn't a miracle fix, but it's a real tool for the right person — and that person should absolutely check with a doctor first.</p>
+</div>
 
 ---
 

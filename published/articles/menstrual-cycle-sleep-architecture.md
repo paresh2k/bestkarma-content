@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Women's sleep changes predictably across their menstrual cycle due to progesterone shifts.</li>
+    <li>✓ Luteal phase sleep feels worse despite similar total hours — a real biological pattern, not a disorder.</li>
+    <li>✓ REM sleep drops before menstruation, reducing emotional regulation during a vulnerable time.</li>
+    <li>✓ Deep restorative sleep decreases when your body needs it most, around your period.</li>
+    <li>✓ Sleep trackers may incorrectly flag luteal phase sleep as poor when it's actually normal physiology.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most sleep research has been conducted on men, or on mixed-sex samples where female data was folded into aggregate averages and the cycle was never tracked. The result is a body of sleep science that treats the female body as a minor variation on a default — and a generation of women told they have "poor sleep" when, in fact, their sleep is doing exactly what reproductive hormones tell it to do. What looks like a sleep disorder in the luteal phase may be normal physiology. What looks like unusually deep sleep in the follicular phase may be a genuine biological advantage. The difference between the two is about 10 days and a sharp rise in progesterone.
 
 Understanding that difference won't just explain why your sleep tracker seems to gaslight you every month. It might also change what you do about it.
@@ -67,6 +79,23 @@ The goal isn't to fight your hormones. It's to reduce friction in the phases whe
 - **Reduce evening light exposure** more aggressively in the late luteal phase, when sleep pressure is already working against elevated temperature and hormonal arousal. Blue-light blocking after 9 PM is a low-cost intervention with meaningful signal.
 - **Manage expectations of your wearable data.** Luteal-phase nights may show worse scores. This is often hardware limitation meeting normal biology, not a health crisis.
 - **For women with significant luteal-phase sleep disruption:** Magnesium glycinate (200–400 mg before bed) has some RCT support for sleep quality and is generally low-risk; discuss with your provider. The evidence is modest but the safety profile is favorable.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track your cycle:</strong> Log sleep quality alongside cycle phase to see your personal pattern and normalize luteal struggles.</li>
+    <li>→ <strong>Adjust expectations:</strong> Plan demanding work and activities for follicular phase when sleep quality and recovery are naturally higher.</li>
+    <li>→ <strong>Prioritize cooling:</strong> Lower bedroom temperature during luteal phase to counteract progesterone's heat-raising effect and improve sleep onset.</li>
+    <li>→ <strong>Protect REM time:</strong> Maintain consistent sleep schedules in the luteal phase to preserve emotional processing sleep when it's most needed.</li>
+    <li>→ <strong>Ignore misleading metrics:</strong> Don't let sleep trackers shame you in the luteal phase — reduced subjective quality is normal, not failure.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your sleep actually *does* change every month, and it's not in your head. After ovulation, progesterone raises your body temperature, which makes falling asleep harder and keeps you waking up more. Your tracker might show similar total sleep hours, but you'll genuinely feel more exhausted — and that disconnect is totally real. Plus, the stage of sleep that processes emotions (REM) naturally dips right when anxiety and mood swings peak. The takeaway? Your luteal phase sleep isn't broken. It's your body following its hormonal blueprint. Understanding this means you can stop blaming yourself and start planning around it.</p>
+</div>
 
 ---
 

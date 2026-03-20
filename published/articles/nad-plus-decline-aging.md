@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ NAD+ is a cellular energy molecule that declines 50% between ages 40-60.</li>
+    <li>✓ Low NAD+ breaks DNA repair, weakens mitochondria, and accelerates aging.</li>
+    <li>✓ NAD+ powers 500+ enzymatic reactions including those that fight cellular damage.</li>
+    <li>✓ NAD+ supplements (NR, NMN) raise blood NAD+ levels in humans safely.</li>
+    <li>✓ Multiple factors—inflammation, DNA damage, slower biosynthesis—drive NAD+ decline with age.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Inside every cell in your body, a molecule called NAD+ is working without rest. It ferries electrons through the metabolic reactions that convert food into energy. It activates enzymes that repair damaged DNA. It regulates the sirtuins — proteins that govern gene expression in response to stress and nutrient availability. It participates in more than 500 enzymatic reactions.
 
 Without adequate NAD+, these systems degrade. Cells lose repair capacity. Mitochondria become less efficient. Sirtuin activity drops. The downstream effects touch nearly every aspect of cellular aging.
@@ -87,6 +99,23 @@ NMN and NR supplements raise NAD+ in humans. This is established. Whether that b
 For people who want to act on the NAD+ biology now: maximize the lifestyle interventions that raise NAD+ endogenously. Then, if you want to supplement after establishing that baseline, NR or NMN at 250-500 mg/day has a reasonable safety profile and biological plausibility, even if the human outcome evidence is still developing.
 
 The most expensive supplement in the world won't substitute for the metabolic signaling that exercise and fasting produce. Start there.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Understand NAD+ depletion:</strong> Learn how your cells lose this energy molecule after 40 to grasp why aging accelerates.</li>
+    <li>→ <strong>Monitor metabolic health:</strong> Keep insulin sensitivity and inflammation low to reduce NAD+ breakdown from chronic stress.</li>
+    <li>→ <strong>Consider NR or NMN:</strong> If exploring NAD+ boosters, NR has more human trial data; NMN is closer to NAD+ itself.</li>
+    <li>→ <strong>Address root causes first:</strong> Fix obesity and chronic inflammation to slow NAD+ loss before relying on supplements.</li>
+    <li>→ <strong>Track your 40s closely:</strong> NAD+ decline accelerates midlife, making this decade critical for preventive interventions.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Every cell in your body uses a molecule called NAD+ to convert food into energy and fix DNA damage. It's basically cellular fuel and a repair crew combined. The problem? Your NAD+ levels crash by roughly 50% between ages 40 and 60. As it drops, your cells lose their ability to repair themselves, your mitochondria get lazy, and aging accelerates across the board. This is why scientists are obsessed with NAD+, and why supplements claiming to boost it have become a billion-dollar industry. The two most studied supplements are NR and NMN—both can raise NAD+ levels in your blood, and both appear safe. But here's the catch: they work best when you're already healthy. Fix chronic inflammation, maintain insulin sensitivity, and avoid obesity first—that's where real NAD+ protection happens.</p>
+</div>
 
 ---
 

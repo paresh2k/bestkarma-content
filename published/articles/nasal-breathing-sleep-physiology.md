@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your nose produces nitric oxide, a gas that improves oxygen absorption — your mouth cannot.</li>
+    <li>✓ Mouth breathing during sleep is cold, dry, and forces your airways to work harder.</li>
+    <li>✓ Nasal breathing creates back-pressure that keeps your airway open and prevents collapse.</li>
+    <li>✓ Mouth breathers have shallower breaths, more sleep disruptions, and lower blood oxygen levels.</li>
+    <li>✓ This isn't biohacking fringe — sleep medicine and pulmonology now back nasal breathing science.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people assume the mouth and nose are interchangeable air inlets — biological redundancy, like having two kidneys. They are not. Your nose is a precision instrument that does something your mouth cannot: it manufactures a gas that dilates blood vessels, kills pathogens, and dramatically improves how your lungs extract oxygen from every breath. When you breathe through your mouth during sleep, you bypass this system entirely. The downstream effects range from restless nights to measurable drops in blood oxygen saturation — and most people doing it have no idea.
 
 The science of nasal breathing during sleep has moved well beyond fringe biohacking. It now sits at the intersection of pulmonology, sleep medicine, and physiology — and it deserves serious attention.
@@ -83,6 +95,23 @@ The good news: there are several well-tolerated, low-cost approaches with reason
 The nose evolved over millions of years to be the primary breathing route. At night, when the rest of your biology is running its maintenance cycles, giving it the airway it was designed for may be one of the simpler — and more underrated — investments in sleep quality available.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you suspect a sleep disorder.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Breathe through your nose:</strong> Switch to nasal breathing during sleep to activate your body's oxygen-boosting mechanism.</li>
+    <li>→ <strong>Notice your patterns:</strong> Pay attention to whether you wake with a dry mouth — a sign you're mouth breathing.</li>
+    <li>→ <strong>Warm and humidify air:</strong> Your nose naturally preps air for your lungs; mouth breathing skips this critical step.</li>
+    <li>→ <strong>Support airway stability:</strong> Nasal breathing's gentle resistance keeps airways open during deep sleep stages when muscles relax.</li>
+    <li>→ <strong>Track your sleep quality:</strong> Monitor restlessness and morning fatigue; improvements often follow the switch to nasal breathing.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your nose isn't just for smelling. It's a precision air processor that manufactures nitric oxide — a molecule that dilates blood vessels and supercharges how your lungs grab oxygen from every breath. Your mouth can't do this. When you mouth-breathe at night, you're skipping this built-in upgrade, forcing your airways to work harder with cold, dry air. Plus, the slight resistance from nasal breathing actually helps keep your airway from collapsing during deep sleep. The result? Mouth breathers wake more often, get less oxygen, and feel more tired. This isn't wellness folklore — sleep medicine now backs it up. If you wake with a dry mouth or feel restless, your body might be telling you something.</p>
+</div>
 
 ---
 

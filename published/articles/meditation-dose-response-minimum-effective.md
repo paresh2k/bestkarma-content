@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Five minutes of daily meditation reduces anxiety—science backs this, not just wellness culture.</li>
+    <li>✓ Stress relief happens fast; brain structure changes and pain management require 8+ weeks.</li>
+    <li>✓ MBSR (45 min daily) improves attention; brief sessions mostly calm your nervous system.</li>
+    <li>✓ Your prefrontal cortex regulates fear responses through meditation—different doses trigger different brain changes.</li>
+    <li>✓ Cortisol (stress hormone) needs structured, longer programs to drop; quick sessions won't touch it.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The most common question people ask before starting a meditation practice isn't *how* to meditate — it's *how long*. And buried inside that question is a more honest one: *can I get away with five minutes?* The answer, it turns out, depends entirely on what you want meditation to do for you. The dose-response data exists. It just rarely gets communicated with any precision.
 
 Here's the short version: for anxiety reduction and stress relief, the evidence is surprisingly forgiving — even brief daily practice produces measurable effects. For sustained attention, structural brain changes, and chronic pain management, the bar is meaningfully higher. The difference between these outcomes isn't a matter of opinion. It's a matter of biology, and the studies are specific enough to give us real numbers.
@@ -71,6 +83,23 @@ The evidence supports matching your practice length to your goal. Here's what th
 **If 30 minutes isn't realistic**, 10–15 minutes of focused-attention practice (breath focus, body scan) every day still has genuine support for mood and anxiety symptom improvement — provided you're consistent over weeks, not just days. The Headspace trial and the brief-session arms of the Goyal analysis both suggest that *regularity matters more than duration* at the lower end of the dose range.
 
 Don't let the perfect protocol prevent a real practice. But don't let a wellness app convince you that five mindful minutes equals the intervention studied in the research it's citing. Read the fine print. The dose is in the data.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Start with 10–15 minutes:</strong> daily practice at this length produces measurable anxiety and depression reduction, matching antidepressant effectiveness.</li>
+    <li>→ <strong>Expect subjective wins early:</strong> psychological stress improves within days, but physiological markers like cortisol need 8-week commitment.</li>
+    <li>→ <strong>Commit to 8 weeks minimum:</strong> Mindfulness-Based Stress Reduction (MBSR) with 45 minutes daily shows reliable cortisol reduction and attention gains.</li>
+    <li>→ <strong>Match dose to your goal:</strong> anxiety relief needs less time than structural brain change—know what you're optimizing for.</li>
+    <li>→ <strong>Track both markers:</strong> self-reported stress and hormone levels respond differently; don't assume feeling better means cortisol dropped.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Can you meditate for just five minutes? Yes—but what you get depends on how long you actually sit. Anxiety and stress relief show up fast: 10–15 minutes daily works, and even three 25-minute sessions can reduce how stressed you feel. But if you want deeper changes—lower cortisol, improved attention, structural brain rewiring—the research points to 8 weeks of serious commitment, like the classic MBSR program (45 minutes daily). Your brain's prefrontal cortex can start calming your amygdala (fear center) immediately with brief practice, but hormonal shifts and attention improvements need time. The honest answer: match your meditation dose to your actual goal, not your wishful thinking about how little time you can invest.</p>
+</div>
 
 ---
 

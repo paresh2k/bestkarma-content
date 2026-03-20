@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Metformin, a cheap diabetes drug, may slow aging itself — not just manage blood sugar.</li>
+    <li>✓ The TAME trial is the first major study treating aging as a disease to target.</li>
+    <li>✓ Diabetic patients on metformin lived longer than non-diabetic controls in observational studies.</li>
+    <li>✓ Metformin activates AMPK, mimicking beneficial effects of exercise and caloric restriction at cellular level.</li>
+    <li>✓ Results aren't final yet, but the trial is on track with no major safety concerns.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 For decades, metformin was unremarkable — a cheap, generic diabetes drug that kept blood sugar in check and collected little excitement from anyone outside endocrinology. Then researchers started noticing something strange: diabetic patients taking metformin were, in some analyses, living longer than non-diabetic patients who weren't taking it. Not just dying less from diabetes complications — actually outliving people who didn't have diabetes in the first place. That observation launched one of the most consequential experiments in the history of medicine.
 
 The **TAME trial** (Targeting Aging with Metformin) — designed by geroscientist **Nir Barzilai** of the Albert Einstein College of Medicine — is the first randomized controlled trial explicitly designed to treat aging as a disease target, not a background condition. It doesn't aim to cure cancer or prevent heart attacks as its primary endpoint. It aims to slow the biological process that makes all those things more likely. The FDA's willingness to accept "aging" as a trial endpoint was itself a landmark — a signal that the science of geroscience had matured enough to demand serious clinical infrastructure.
@@ -62,6 +74,23 @@ Given the current state of evidence, here is a defensible framework for thinking
 **If you are under 60, metabolically healthy, and exercise regularly**, the calculus is more complex. The exercise-blunting evidence from Konopka et al. should give you pause. Some clinicians in longevity practice — including **Peter Attia**, who has written extensively on this question — have moved away from metformin for this reason, reasoning that the exercise adaptation benefit forgone may exceed the modest longevity signal from AMPK activation alone. If you are in this group and still want to pursue this pathway, monitoring options matter: baseline and annual B12 testing, and honest tracking of whether fitness metrics plateau unusually.
 
 **For everyone:** TAME will report results. This is one of the most important clinical trials in geroscience, and its outcome — positive, null, or mixed — will substantially reshape the evidence base. The honest position right now is that metformin is a fascinating and scientifically credible candidate longevity drug whose case in healthy non-diabetic adults remains unproven. The Bannister data is compelling. The mechanism is compelling. The trial is running. We should wait — intelligently — for what it tells us.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Monitor trial updates:</strong> Follow TAME trial progress and results as they emerge over the next few years.</li>
+    <li>→ <strong>Don't self-prescribe:</strong> Metformin requires a doctor; it's not a supplement you can take without guidance.</li>
+    <li>→ <strong>Understand the gap:</strong> Observational studies show promise, but full RCT evidence is still years away.</li>
+    <li>→ <strong>Focus on proven basics:</strong> Exercise and calorie restriction trigger AMPK naturally — do those first.</li>
+    <li>→ <strong>Ask your doctor:</strong> If you're 65+, discuss whether participating in longevity studies makes sense for you.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Metformin, a $4 generic diabetes drug, might do something wild: slow down aging itself. Researchers noticed diabetic patients on it were outliving people without diabetes. Now, the FDA-approved TAME trial is testing whether it actually works as an anti-aging treatment for 3,000 healthy older adults. The drug triggers AMPK, a cellular energy sensor that activates the same longevity pathways as exercise and fasting. We won't have final answers for years, but early signs look promising with no major safety red flags. Bottom line: exciting science, but don't rush to your doctor demanding a prescription yet.</p>
+</div>
 
 ---
 

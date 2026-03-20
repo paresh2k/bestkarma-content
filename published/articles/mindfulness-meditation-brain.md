@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Mindfulness changes your brain structure, particularly in areas controlling attention and emotion regulation.</li>
+    <li>✓ It calms your amygdala (threat-detection system), reducing stress and anxiety responses over time.</li>
+    <li>✓ The research is real, but most studies use 8-week programs—not 5-minute apps.</li>
+    <li>✓ It quiets mind-wandering and rumination, which are linked to depression and anxiety.</li>
+    <li>✓ Benefits are modest but measurable; mindfulness works better than hype suggests, but less than oversold.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Mindfulness has had a remarkable cultural trajectory. A secular adaptation of Buddhist meditation practice, it entered Western clinical psychology in 1979 when Jon Kabat-Zinn developed Mindfulness-Based Stress Reduction (MBSR) at the University of Massachusetts Medical School. By the 2010s, it had spread into corporate wellness programs, schools, therapy offices, app stores, and magazine covers. By the 2020s, a backlash had developed: critics argued that mindfulness was being oversold, that the research base was weaker than claimed, and that its popularization had diluted both the practice and the science.
 
 Both the enthusiasm and the backlash have been partially right. The honest account of what mindfulness does — and doesn't — is more specific and more interesting than either version.
@@ -66,6 +78,23 @@ For people without the commitment or circumstances for formal MBSR: the evidence
 For specific depression relapse prevention: seek an MBCT program — this is where the evidence is strongest and where guidance from a trained facilitator matters most.
 
 The central skill mindfulness builds — the ability to notice what is happening without being immediately hijacked by it — is genuinely useful. The brain that can observe a thought without immediately reacting to it, that can notice an emotion without being controlled by it, that can return attention to the present moment rather than spinning in past regret or future anxiety — this is a brain better equipped for both wellbeing and considered action. That much the evidence clearly supports.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Commit to structure:</strong> practice 8-week mindfulness programs like MBSR rather than scattered app sessions for actual brain changes.</li>
+    <li>→ <strong>Build daily habit:</strong> combine formal meditation (45 min) with informal mindfulness in everyday activities for cumulative benefits.</li>
+    <li>→ <strong>Manage expectations:</strong> mindfulness helps anxiety and attention, but it's not a cure-all—use alongside other treatments if needed.</li>
+    <li>→ <strong>Track your amygdala:</strong> notice if stressful situations feel less overwhelming after weeks of practice—that's the science working.</li>
+    <li>→ <strong>Skip quick fixes:</strong> five-minute mindfulness moments are fine, but real neurological changes require consistent, deeper practice over weeks.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Mindfulness actually works—but not the way Instagram thinks. Real research shows that consistent practice physically changes your brain: it thickens areas that control attention, shrinks your threat-detection system (the amygdala), and quiets the mental chatter linked to depression. The catch? Most studies used 8-week programs with real commitment, not random 5-minute app sessions. Your brain does adapt, focus improves, and anxiety drops measurably. But mindfulness isn't magic—it's a tool that works best when you actually use it, paired with other wellness practices. The hype was overblown, but the backlash went too far. The truth: modest, real, science-backed benefits if you actually do the work.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Just 4 sessions of 20-minute meditation improved working memory and reduced anxiety in beginners.</li>
+    <li>✓ Two-minute practices reduce mind-wandering and boost focus after a single session.</li>
+    <li>✓ Slow breathing activates your vagus nerve and calms your nervous system in 90 seconds.</li>
+    <li>✓ Multiple short practices throughout the day work better than one long daily meditation.</li>
+    <li>✓ Brief meditations at transition points interrupt the attention-draining distraction cycle.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Four days. That's all it took for Fadel Zeidan and colleagues at the University of North Carolina to measurably improve mood, working memory, and spatial processing in people who had never meditated before. The 2010 study, published in *Consciousness and Cognition*, put participants through just four 20-minute sessions of mindfulness training — brief enough to feel almost trivial. The cognitive gains were not trivial. Working memory capacity improved significantly, and self-reported anxiety dropped. Most wellness culture absorbed this finding and moved on to promoting 20-minute daily sits. But buried in the data was a more interesting question: if four short sessions could do this, what happens when you stop treating meditation as a scheduled event and start treating it as something you do in the cracks of ordinary life?
 
 The answer emerging from a decade of follow-on research is more encouraging than the standard mindfulness narrative suggests — and considerably more accessible.
@@ -79,6 +91,23 @@ Before transitioning from work mode to personal time — not during the commute,
 The goal is not to accumulate minutes. It is to change the texture of the day — to insert enough moments of intentional presence that attention becomes something you actively govern rather than something that happens to you.
 
 Start with one. Pick the Threshold Pause — it's the lowest barrier to entry. Do it every time you enter a room for one week. Notice whether the 23 minutes of reorientation after every interruption starts to compress. That is the experiment worth running.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Meditate between tasks:</strong> Insert 2-minute mindfulness sessions after meetings or before email to reset focus and reduce attention fatigue.</li>
+    <li>→ <strong>Use transition moments:</strong> Practice at natural breaks in your day rather than carving out dedicated time for longer sits.</li>
+    <li>→ <strong>Focus on breathing:</strong> Slow to 5-6 second inhale-exhale cycles to activate your parasympathetic nervous system and lower anxiety in 90 seconds.</li>
+    <li>→ <strong>Distribute not consolidate:</strong> Multiple short practices spread throughout the day build cumulative benefits better than one 20-minute session.</li>
+    <li>→ <strong>Stack micro-meditations:</strong> Pair 2-minute practices with existing habits (after lunch, before starting work) to make them sustainable and automatic.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You don't need a 20-minute meditation cushion to see real results. New research shows that just 2 minutes of focused breathing can sharpen focus, reduce anxiety, and calm your nervous system—measurably. The trick? Stop treating meditation like one big daily event. Instead, drop 2-minute practices into the gaps of your day: between meetings, after finishing a task, before scrolling email. Your brain's attention spans about 47 seconds in modern life before jumping to something new, and refocusing takes 23 minutes. Micro-meditations interrupt that exhausting cycle. Slow breathing activates your vagus nerve in 90 seconds, and even a single mindfulness session improves reading comprehension and reduces mind-wandering. The cumulative effect of brief practices scattered throughout the day beats one long sit. It's not a compromise—it's architecture.</p>
+</div>
 
 ---
 

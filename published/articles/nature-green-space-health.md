@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ 120 minutes per week in nature is the evidence-based minimum for measurable health benefits.</li>
+    <li>✓ Nature walks reduce activity in brain regions linked to rumination and depression.</li>
+    <li>✓ Even small indoor green spaces trigger measurable nervous system calming effects.</li>
+    <li>✓ Two complementary theories explain why: attention restoration and evolved stress recovery.</li>
+    <li>✓ Nature's benefits come from soft fascination and parasympathetic nervous system activation.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 In 2019, a paper published in *Scientific Reports* by Matthew White and colleagues analyzed data from 19,806 UK adults and asked a question with a straightforward structure: does time spent in natural environments predict better health and wellbeing? And if so, is there a dose-response relationship?
 
 The answer to both questions was yes. People who spent at least 120 minutes per week in nature — parks, countryside, forests, coastline — reported significantly better health and higher wellbeing than those who spent no time in natural environments. Below 120 minutes, the benefit was not reliably detected. Above it, the benefit was consistent and did not appear to increase substantially with more time. Two hours per week emerged as the evidence-based threshold: the minimum effective dose of nature for measurable wellbeing benefit.
@@ -64,6 +76,23 @@ The two-hour weekly target is more flexible than it sounds. White's 2019 study f
 What improves the benefit: attention. Looking at the specific textures of bark, listening for distinct bird calls, noticing changes in light — the directed but soft fascination that nature enables — produces more restoration than the same time spent in nature while staring at a phone. The natural environment is the instrument; attention is the practice that plays it.
 
 The additional synergy: combining nature with physical movement. "Green exercise" — any physical activity performed outdoors in natural environments — produces additive mood and stress-reduction benefits compared to the same activity performed indoors. The two interventions are independently beneficial and mutually reinforcing.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Schedule 120 minutes:</strong> block two hours weekly for parks, forests, or natural spaces to hit the minimum effective dose.</li>
+    <li>→ <strong>Start small indoors:</strong> add potted plants and natural elements to your workspace or home if outdoor access is limited.</li>
+    <li>→ <strong>Walk, don't scroll:</strong> replace urban walks with nature walks to measurably lower rumination and negative self-focused thinking.</li>
+    <li>→ <strong>Use soft fascination:</strong> let your attention drift naturally to trees, water, and sky rather than forcing focus outdoors.</li>
+    <li>→ <strong>Accumulate throughout week:</strong> break the 120 minutes into smaller sessions—multiple 20-30 minute walks count toward the total benefit.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your brain literally craves nature. New research shows that spending just 120 minutes per week in parks, forests, or natural spaces measurably improves health and wellbeing. Here's the science: nature walks reduce activity in the brain region responsible for rumination and depression—something urban walks don't do. Even modest indoor plants trigger your parasympathetic nervous system (the calming one). It works because nature gives your overworked attention span a break through what researchers call "soft fascination"—the effortless draw of clouds, water, and trees. You're not forcing focus; you're letting it relax. The best part? Two hours isn't a massive ask. You can break it into small walks throughout the week. Your nervous system responds to natural elements, even modest ones. The dose is clear. The benefit is real.</p>
+</div>
 
 ---
 

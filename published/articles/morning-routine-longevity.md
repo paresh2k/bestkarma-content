@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your first hour after waking shapes hormones that affect your entire day's energy and health.</li>
+    <li>✓ Bright morning light syncs your body clock and triggers serotonin production for better sleep later.</li>
+    <li>✓ Skip coffee for 90 minutes after waking to avoid building caffeine tolerance and afternoon crashes.</li>
+    <li>✓ Cold water exposure spikes norepinephrine and dopamine, improving alertness and metabolic health.</li>
+    <li>✓ Morning routines aren't about productivity — they're about working with your body's natural biology.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a reason so much has been written about morning routines. It's not just productivity mythology — the first hour after waking is when your body makes some of its most consequential hormonal decisions of the day. And those decisions cascade.
 
 Here's what's actually happening in your body when you wake up, and how to work with those systems rather than against them.
@@ -115,3 +127,19 @@ Morning is where you build the habit stack.
 [^11]: Gonzalez JT, et al. (2013). Breakfast and exercise contingently affect postprandial metabolism and energy balance in physically active males. *British Journal of Nutrition*, 110(4), 721–732.
 
 [^12]: Buettner D & Skemp S (2016). Blue Zones: lessons from the world's longest lived. *American Journal of Lifestyle Medicine*, 10(5), 318–321.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Get morning sunlight:</strong> Spend 10–30 minutes outside within an hour of waking to anchor your circadian rhythm and boost serotonin.</li>
+    <li>→ <strong>Delay your coffee:</strong> Wait 90–120 minutes after waking before caffeine to avoid tolerance buildup and afternoon energy crashes.</li>
+    <li>→ <strong>Add cold exposure:</strong> Splash cold water on your face or take a brief cold shower to spike norepinephrine and dopamine for hours.</li>
+    <li>→ <strong>Support cortisol naturally:</strong> Skip your phone, stay in bright light, and move your body to optimize your morning hormonal peak.</li>
+    <li>→ <strong>Prioritize consistency:</strong> These habits work because they sync your body clock — they're most effective when done daily.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your first hour awake isn't just important—it's when your body makes major hormonal decisions that cascade all day. When you wake, cortisol naturally spikes to boost alertness and immunity. To support this, get 10–30 minutes of bright outdoor light within 60 minutes of waking (it syncs your master clock), skip your phone, and wait 90 minutes before coffee (otherwise you build tolerance fast). Bonus: splash cold water on your face to spike dopamine and norepinephrine by up to 250%. These aren't productivity hacks—they're biology hacks. Your morning routine is literally your longevity routine.</p>
+</div>

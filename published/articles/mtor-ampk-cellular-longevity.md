@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ mTOR and AMPK are opposing cellular switches controlling growth vs. survival mode.</li>
+    <li>✓ Chronic mTOR activation from overeating and inactivity accelerates aging and disease.</li>
+    <li>✓ AMPK activates when energy is low, triggering cellular cleanup and repair.</li>
+    <li>✓ Rapamycin and metformin extend lifespan by modulating these pathways in research.</li>
+    <li>✓ Autophagy—cellular recycling—is the key mechanism linking these switches to longevity.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Every cell in your body is making a bet about the future. When resources are abundant, it bets on growth — building new proteins, proliferating, expanding. When resources are scarce, it bets on survival — clearing out damaged components, conserving energy, fortifying its defenses. Two ancient molecular switches govern this decision, and they have been at war inside your cells since before your ancestors were multicellular. How that war ends, day after day, decade after decade, is one of the most important determinants of how you age.
 
 The switches are called **mTOR** (mechanistic target of rapamycin) and **AMPK** (AMP-activated protein kinase). They are not just biological curiosities — they sit at the intersection of nutrition, exercise, fasting, and the major longevity drugs now being studied in humans. Understanding them doesn't require a biochemistry degree. It requires understanding a seesaw.
@@ -83,6 +95,23 @@ Berberine deserves a note: it is a plant-derived AMPK activator with a mechanism
 The practical summary: **eat in a defined window, train with both weights and sustained cardio, and don't eat continuously throughout the day.** These aren't exotic interventions — they are the behavioral analogs of what rapamycin and metformin do pharmacologically. The biology responds to both.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly regarding supplements or fasting protocols if you have an underlying health condition.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Vary your eating patterns:</strong> Alternate between meals and fasting windows to activate AMPK and cellular cleanup cycles.</li>
+    <li>→ <strong>Prioritize resistance training:</strong> Trigger mTOR appropriately through exercise followed by protein intake for growth and repair.</li>
+    <li>→ <strong>Avoid chronic overeating:</strong> Sustained caloric excess keeps mTOR constantly on, preventing the cellular maintenance AMPK provides.</li>
+    <li>→ <strong>Move throughout the day:</strong> Physical activity activates AMPK and naturally opposes mTOR overactivation from sedentary life.</li>
+    <li>→ <strong>Consider metformin consultation:</strong> Talk to your doctor about metformin if you have metabolic concerns—it's the most studied AMPK activator.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your cells are constantly deciding between growth and maintenance. Two molecular switches control this: mTOR pushes growth (building muscle, storing energy), while AMPK triggers cleanup mode (removing damaged parts, saving energy). The problem? Modern life—constant food, sitting around—keeps mTOR stuck in the "on" position. Over years, cells get cluttered with junk, and you age faster. The fix isn't complicated: eat less frequently, move more, and don't stay full all the time. These simple shifts flip the switch back to AMPK, letting your cells do their maintenance work. Studies show drugs like metformin and rapamycin extend lifespan by manipulating these same pathways—but you can influence yours through behavior.</p>
+</div>
 
 ---
 
