@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Ovaries age 10-15 years faster than the rest of your body, starting in your late 30s.</li>
+    <li>✓ Early menopause signals higher risk for heart disease, diabetes, and early death — even decades later.</li>
+    <li>✓ Estrogen isn't just about reproduction; it protects your heart, brain, bones, and metabolism.</li>
+    <li>✓ Most longevity research ignored women, leaving huge gaps in how we treat aging in females.</li>
+    <li>✓ Waiting for menopause symptoms means missing the window to prevent serious health decline.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The human body has roughly 78 organs. Only one of them is on an accelerated aging clock that runs a full decade ahead of everything else — and for half the population, that organ is quietly driving some of the most consequential health transitions they'll ever experience. The ovary doesn't just govern reproduction. It governs biological aging in ways that science is only beginning to fully map, and its decline reshapes the risk landscape for heart disease, dementia, osteoporosis, and metabolic dysfunction in ways that no comparable male organ does. The fact that most longevity research was conducted in men — or male mice — means we've been working from an incomplete map for decades.
 
 This isn't a story about menopause as an endpoint. It's a story about why women's healthspan requires its own framework, its own biomarkers, and its own clinical strategy.
@@ -78,6 +90,23 @@ The emerging framework in women's longevity medicine emphasizes that the window 
 **Have the conversation with your clinician before you're symptomatic.** The standard clinical approach waits for hot flashes, irregular cycles, or bone loss before taking action. The evidence increasingly supports earlier dialogue — particularly for women with risk factors for cardiovascular disease, osteoporosis, or cognitive decline. If your provider isn't fluent in the current MHT evidence or in ovarian aging as a longevity variable, a menopause specialist or longevity medicine physician is a reasonable next step.
 
 The ovary is not a footnote in women's health. It is, for much of the adult lifespan, the organ most likely to determine how the rest of the story goes. It deserves the clinical attention we've been slow to give it.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track ovarian aging:</strong> Monitor menstrual patterns and timing changes in your 30s-40s as an early health signal.</li>
+    <li>→ <strong>Know your menopause age:</strong> Ask your mother and grandmother when they went through menopause to assess your risk.</li>
+    <li>→ <strong>Don't ignore early symptoms:</strong> Hot flashes and sleep disruption aren't cosmetic — they signal systemic changes requiring attention.</li>
+    <li>→ <strong>Discuss estrogen protection:</strong> Talk to your doctor about cardiovascular, metabolic, and bone health strategies before menopause arrives.</li>
+    <li>→ <strong>Demand female-focused care:</strong> Seek providers who understand that women's aging requires its own clinical framework, not male-based protocols.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your ovaries are aging on a different clock than the rest of you — and nobody told you. They start declining in your late 30s, a full decade before your skin shows wrinkles. Here's why it matters: when ovarian function drops, your risk for heart disease, diabetes, dementia, and osteoporosis skyrockets. Estrogen isn't just a reproductive hormone; it runs your cardiovascular system, metabolism, brain health, and immunity. The problem? Most longevity science was done on men or male mice, so doctors have been flying blind on female aging. Early menopause? That's not just a symptom — it's a red flag for serious health decline ahead. Waiting until hot flashes hit means intervening years too late.</p>
+</div>
 
 ---
 

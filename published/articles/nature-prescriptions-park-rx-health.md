@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Doctors in 12+ countries now formally prescribe time in nature as preventive medicine.</li>
+    <li>✓ Two hours weekly in nature shows measurable improvements in wellbeing and self-rated health.</li>
+    <li>✓ Just 15 minutes in green spaces reduces stress hormones, blood pressure, and anxiety.</li>
+    <li>✓ Effects work across all populations and activities—walking, gardening, or simply sitting outside.</li>
+    <li>✓ Nature's benefits are biological, not psychological—your nervous system shifts into relaxation mode.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Your doctor hands you a prescription. You expect a drug name, a dosage, a pharmacy address. Instead, you get the name of a park, a recommended duration, and instructions to go outside. This is not a thought experiment — it is a clinical practice now operating across the NHS, Japan's national health system, New Zealand's GP networks, and more than 125 U.S. healthcare sites through **Park Rx America**. The intriguing part is not the prescription pad. It is that the science behind it is more rigorous than most people expect.
 
 Nature prescriptions sit at the intersection of two bodies of evidence: psychophysiological research showing that natural environments measurably reduce stress hormones, blood pressure, and inflammatory markers, and epidemiological data showing that people who live near green space live longer, report better mental health, and use fewer primary care services. Taken together, these findings have persuaded physicians in at least a dozen countries that recommending a park is not soft medicine. It may be some of the highest-yield preventive medicine available.
@@ -72,6 +84,23 @@ The evidence points toward a specific, achievable target rather than a vague asp
 The prescription is straightforward. The friction is cultural: we have built lives that make going outside the exception rather than the default. The evidence increasingly suggests that reversing that default is not a luxury but a clinical priority.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you are managing a diagnosed mental health or cardiovascular condition.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Aim for 120 minutes:</strong> spend at least two hours per week in any natural environment to see meaningful health gains.</li>
+    <li>→ <strong>Start small if needed:</strong> even 15 minutes in a park produces measurable drops in cortisol and blood pressure.</li>
+    <li>→ <strong>Ask your doctor:</strong> request a nature prescription during your next visit; over 125 U.S. healthcare sites now offer them.</li>
+    <li>→ <strong>Any green space counts:</strong> walking, gardening, or sitting still all trigger the same protective biological response.</li>
+    <li>→ <strong>Make it routine:</strong> schedule nature time weekly like any other medical appointment to build the habit.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your doctor might soon hand you a park instead of a pill. Doctors across the NHS, Japan, and 125+ U.S. healthcare sites are now formally prescribing time outdoors—and the science backs it up. A massive 2019 study found that just two hours in nature weekly boosts wellbeing and health. Even faster: 15 minutes in a forest cuts stress hormones by 12%, lowers blood pressure, and improves heart health. It's not just a nice feeling—your nervous system actually switches into relaxation mode. The benefits work for everyone, whether you're walking, gardening, or sitting quietly. Nature isn't soft medicine. It might be one of the highest-impact preventive treatments available.</p>
+</div>
 
 ---
 

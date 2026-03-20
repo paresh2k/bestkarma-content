@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Two people eating identical meals have wildly different blood sugar responses based on their unique biology.</li>
+    <li>✓ Your gut microbiome, genetics, and lifestyle significantly shape how your body processes food.</li>
+    <li>✓ DNA nutrition tests exist but lack strong evidence they actually improve your long-term health.</li>
+    <li>✓ Continuous glucose monitors and microbiome kits show real data but are ahead of proven clinical benefits.</li>
+    <li>✓ Universal diet rules fail because nutrition is genuinely personal—but personalized tools need stronger validation.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The most striking finding in modern nutrition research isn't about a superfood or a macronutrient ratio. It's about how wildly different two people's blood sugar can spike after eating the exact same meal. In a landmark 2015 study published in *Cell*, Eran Segal, Eran Elinav, and colleagues at the Weizmann Institute measured continuous glucose responses in 800 adults eating standardized meals. The variability was enormous — one person's blood sugar would barely budge after white rice while another's would spike as dramatically as if they'd eaten straight glucose. The average response to a given food told you almost nothing useful about any individual's response to that food. If the average is that misleading, the premise of universal dietary guidelines starts to look shaky.
 
 This is the scientific foundation for personalised nutrition: the idea that the optimal diet isn't fixed, but varies person to person based on genetics, gut microbiome composition, metabolic history, and lifestyle. It's a compelling idea — and it's also now a marketing category, complete with consumer DNA tests, stool sample kits, and wearable glucose monitors promising to decode your unique biology. The science behind the concept is real. The consumer tools are, in most cases, significantly ahead of the evidence that would justify their claims.
@@ -75,6 +87,23 @@ The science of personalised nutrition is advancing faster than the products buil
 Start with the fundamentals. Use personalised tools to refine, not to replace, evidence-based foundations.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly regarding supplementation or interpretation of genetic and metabolic data.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Question universal rules:</strong> Don't assume diet advice that works for others will work for you; individual variation is huge.</li>
+    <li>→ <strong>Track your response:</strong> If you want to know how foods affect you, monitor your own glucose or energy patterns over time.</li>
+    <li>→ <strong>Microbiome matters:</strong> What you eat shapes your gut bacteria, which in turn shapes how you metabolize food—a real feedback loop.</li>
+    <li>→ <strong>Pause on DNA tests:</strong> Skip nutrigenomic DNA tests until evidence shows they meaningfully change health outcomes, not just predict traits.</li>
+    <li>→ <strong>Use CGM selectively:</strong> Continuous glucose monitors provide useful personal data, but only if you act on the patterns you discover.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your body isn't a machine with universal settings. A landmark study showed two people eating the exact same meal can have completely different blood sugar responses. Your genetics, gut bacteria, sleep, and exercise all play a role. The cool part: science is proving nutrition really is personal. The catch: DNA tests and microbiome kits are everywhere right now, but most lack solid evidence they actually improve your health long-term. They show interesting data, but showing data isn't the same as proving it helps. Before buying expensive tests, focus on tracking how *you* actually feel and perform after eating certain foods. That simple observation might teach you more than any kit.</p>
+</div>
 
 ---
 

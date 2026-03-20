@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ PCOS is a metabolic disorder, not just a fertility issue, with serious long-term health risks.</li>
+    <li>✓ Women with PCOS have 3x higher risk of type 2 diabetes, even at normal weight.</li>
+    <li>✓ Cardiovascular disease risk increases significantly, with heart attack and stroke among the threats.</li>
+    <li>✓ Unopposed estrogen exposure raises endometrial cancer risk about 3-fold without intervention.</li>
+    <li>✓ Insulin resistance affects 65-80% of women with PCOS and drives most metabolic complications.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most women with PCOS spend years focused on one question: *Can I get pregnant?* It's an understandable preoccupation — PCOS is the leading cause of anovulatory infertility, and the condition announces itself through irregular cycles, acne, and unwanted hair growth that make fertility the obvious headline. But a growing body of evidence suggests that framing PCOS as primarily a reproductive disorder is a costly misunderstanding. PCOS is, at its core, a metabolic condition — one that quietly elevates your risk of type 2 diabetes, cardiovascular disease, non-alcoholic fatty liver disease, and endometrial cancer across decades of life. The fertility questions matter. But so does what happens after your childbearing years are over.
 
 This is not a reason to panic. It is a reason to pay attention earlier, and more strategically, than most clinicians currently prompt women to do.
@@ -89,6 +101,23 @@ The evidence supports a layered approach. These are specific, achievable startin
 The last row deserves emphasis. Most women with PCOS are screened for metabolic markers at diagnosis, then not again until a problem becomes symptomatic. The evidence argues for annual metabolic surveillance — treating PCOS as the long-term condition it is, not a problem that ends when fertility goals are met.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, including supplements or medications.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Screen early for diabetes:</strong> Get baseline glucose and insulin sensitivity testing now, don't wait for symptoms.</li>
+    <li>→ <strong>Track cardiovascular markers:</strong> Monitor blood pressure, cholesterol, and triglycerides annually starting in your 20s.</li>
+    <li>→ <strong>Manage unopposed estrogen:</strong> Use hormonal contraception or progestogen therapy to prevent endometrial lining overgrowth.</li>
+    <li>→ <strong>Address insulin resistance:</strong> Work with providers on dietary changes and exercise that improve insulin sensitivity.</li>
+    <li>→ <strong>Monitor liver health:</strong> Request liver imaging or fibrosis screening given high NAFLD prevalence in PCOS.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">PCOS isn't just about fertility struggles — it's a metabolic time bomb. Women with PCOS face triple the diabetes risk, significantly higher heart disease odds, and three times the endometrial cancer risk. The culprit? Insulin resistance. Your pancreas works overtime, triggering a cascade of problems: fat accumulation in the liver, unopposed estrogen wreaking havoc on your uterine lining, and damaged blood vessels. The good news: early intervention works. Don't wait until symptoms appear. Get screened now for glucose, cholesterol, and liver health. Manage insulin through diet and exercise. Use hormonal protection against endometrial cancer. Your 40s, 50s, and beyond depend on what you do today.</p>
+</div>
 
 ---
 

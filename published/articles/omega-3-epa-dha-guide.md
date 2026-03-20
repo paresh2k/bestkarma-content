@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Omega-3s aren't one thing — EPA, DHA, and ALA have completely different effects in your body.</li>
+    <li>✓ Plant omega-3s (ALA) barely convert to what you need; only 5-10% becomes EPA, under 0.5% becomes DHA.</li>
+    <li>✓ EPA fights inflammation and supports heart health; DHA builds brain structure and supports cognition.</li>
+    <li>✓ Fish eaters who supplement see modest benefits; non-fish eaters saw 40% fewer heart attacks in trials.</li>
+    <li>✓ High-dose EPA (4g daily) reduced heart events in people with high triglycerides and existing heart disease.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Omega-3 fatty acids are one of the most extensively studied nutrients in medicine and one of the most widely misunderstood. The confusion starts with the fact that "omega-3" describes not one compound but a family of structurally related fatty acids with substantially different biological activities. The popular understanding collapses these differences into a single recommendation — eat more omega-3s — without distinguishing between forms that drive the biology and forms that contribute little.
 
 The distinction matters enough to be worth understanding clearly.
@@ -83,6 +95,23 @@ The FDA guidelines recommend 2-3 servings per week of low-mercury fish for most 
 **Adults over 60 concerned about cognitive aging** — adequate DHA status throughout life appears protective; supplementation in those with low fish intake is reasonable.
 
 **People with inflammatory conditions** — rheumatoid arthritis, IBD, and other chronic inflammatory conditions have consistent evidence for symptom reduction from EPA supplementation.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Eat fatty fish regularly:</strong> aim for 2-3 servings weekly to get meaningful EPA and DHA without supplements.</li>
+    <li>→ <strong>Skip plant-based claims:</strong> walnuts and flax are healthy but don't reliably deliver the EPA/DHA your body needs.</li>
+    <li>→ <strong>Consider supplements if needed:</strong> non-fish eaters may benefit from algae or fish oil to close the gap.</li>
+    <li>→ <strong>Pregnant women prioritize DHA:</strong> ensure adequate DHA intake specifically for fetal brain and retinal development.</li>
+    <li>→ <strong>Talk to your doctor:</strong> if you have high triglycerides or heart disease, prescription-strength EPA may help.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Not all omega-3s are created equal, and that's the whole problem with the hype. Your body needs EPA and DHA (found in fish), but everyone lumps them together with ALA (from plants). Here's the reality: your body barely converts plant omega-3s into the useful stuff — less than 10% becomes EPA, and almost none becomes DHA. EPA is the inflammation-fighter that protects your heart. DHA builds your brain. If you eat fish regularly, you're probably fine. If you don't, a supplement might actually help — studies show non-fish eaters who supplement had 40% fewer heart attacks. Bottom line: fish or supplement, but don't count on walnuts to do the heavy lifting.</p>
+</div>
 
 ---
 

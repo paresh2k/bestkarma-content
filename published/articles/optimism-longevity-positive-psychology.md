@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Optimists live 11–15% longer than pessimists, a gap measured in years, not months.</li>
+    <li>✓ This effect persists after accounting for depression, health behaviors, and socioeconomic status.</li>
+    <li>✓ Optimism is a stable cognitive trait, not just current mood or positive thinking.</li>
+    <li>✓ Optimists have lower cardiovascular stress, better heart rate variability, and less chronic inflammation.</li>
+    <li>✓ The longevity benefit rivals moderate physical activity—making psychology a measurable health variable.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a version of this story that sounds like a motivational poster, and it's easy to dismiss: *happy people live longer*. But the actual finding is more interesting — and more uncomfortable — than that. Dispositional optimism, a stable personality trait that predicts whether you expect good things to happen, is associated with an 11–15% longer lifespan compared to people low in optimism. Not a few months. Years. And the effect holds after controlling for depression, socioeconomic status, baseline health, and health behaviours. This is not the biology of smiling more. It's something deeper.
 
 The science has reached a point where optimism belongs in the same conversation as blood pressure, sleep, and VO2 max — not as soft psychology, but as a measurable predictor of how long and how well you live.
@@ -71,6 +83,23 @@ Here is a practical protocol grounded in the evidence:
 | Physical exercise | 150 min/week moderate or 75 min vigorous | Consistent optimism-mood correlation in Bartholomew 2011 Health Psychology |
 
 None of these require believing that bad things won't happen. They require practising the expectation that you are likely to handle what comes — and finding, repeatedly, that you were right.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Assess your baseline:</strong> Take a validated optimism questionnaire to understand your dispositional outlook as a starting point for change.</li>
+    <li>→ <strong>Reframe expectations:</strong> Practice identifying patterns where outcomes went better than feared—this trains realistic optimism, not toxic positivity.</li>
+    <li>→ <strong>Monitor stress recovery:</strong> Notice how quickly your heart rate and breathing return to normal after stress; slower recovery signals need for intervention.</li>
+    <li>→ <strong>Separate mood from outlook:</strong> You can feel anxious today but still hold a deep belief that things generally work out long-term.</li>
+    <li>→ <strong>Prioritize cardiovascular markers:</strong> Track heart rate variability and blood pressure response to stress as tangible measures of optimism's physiological benefit.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Here's the thing: optimistic people actually live longer—we're talking years, not just a feel-good boost. Studies following nearly 70,000 women and 1,400 men found that those high in dispositional optimism (basically, a stable belief that good things will happen) lived 11–15% longer than pessimists. The wild part? This held true even after accounting for depression, health habits, and socioeconomic status. It's not about forcing yourself to smile. Optimism works through real biology: optimists have lower stress responses, better heart rate recovery, and less chronic inflammation. Think of it like this—if optimism were a drug that reduced heart disease death by 30%, cardiologists would prescribe it to everyone. The takeaway: your underlying belief about the future isn't just psychology. It's measurable, it's physical, and it actually shapes how long you live.</p>
+</div>
 
 ---
 

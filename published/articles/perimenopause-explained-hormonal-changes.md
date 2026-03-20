@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Perimenopause starts in your 40s (or late 30s) and lasts about 7 years, not just menopause at 51.</li>
+    <li>✓ Erratic estrogen swings—not low estrogen—cause most disruptive symptoms during the transition.</li>
+    <li>✓ Progesterone drops early and steeply, explaining why anxiety and sleep issues often come first.</li>
+    <li>✓ This is normal biology affecting your brain, bones, heart, metabolism, sleep, and mood simultaneously.</li>
+    <li>✓ Most women navigate perimenopause without a roadmap, feeling like they're falling apart for unclear reasons.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most women are told that menopause happens around age 51 and involves hot flashes. What they are rarely told is that the transition leading up to it — perimenopause — can begin a full decade earlier, lasts an average of seven years, and involves a hormonal upheaval that touches nearly every system in the body. The brain, bones, cardiovascular system, metabolism, sleep, and mood are all downstream of estrogen. When estrogen becomes erratic, so does almost everything else.
 
 This is not a disease. It is biology. But it is biology that most women enter without a roadmap, which is why so many describe the experience as feeling like they are falling apart without knowing why.
@@ -81,6 +93,23 @@ If you are in your 40s and experiencing symptoms that feel new, unexplained, or 
 - **Find a menopause-informed provider.** The **Menopause Society** (menopause.org) and the **British Menopause Society** (thebms.org.uk) both maintain directories of accredited practitioners.
 
 Perimenopause is long, variable, and undertreated. But it is not invisible — not anymore.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Know your stage:</strong> Track cycle changes and FSH levels with your doctor to identify which perimenopause stage you're in.</li>
+    <li>→ <strong>Prioritize sleep early:</strong> Protect sleep habits now since progesterone decline hits sleep quality before periods become irregular.</li>
+    <li>→ <strong>Track anxiety patterns:</strong> Notice if anxiety or mood shifts appear before menstrual changes—they're often the first warning sign.</li>
+    <li>→ <strong>Understand the volatility:</strong> Recognize that wild hormone swings, not low hormones, drive most symptoms during perimenopause.</li>
+    <li>→ <strong>Get educated now:</strong> Read up on the STRAW+10 framework so you recognize what stage you're entering and prepare accordingly.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Perimenopause isn't something that happens at 51—it's a seven-year biological transition that often starts in your late 30s or 40s. Your ovaries gradually stop responding to hormone signals, causing estrogen to swing wildly (not steadily decline) while progesterone drops faster. That's why anxiety, sleep problems, and mood shifts often hit years before your period becomes irregular. These aren't personal failings—they're downstream effects of hormonal chaos affecting your brain, heart, bones, and metabolism all at once. Most women have no idea this phase is coming, so they blame themselves when they feel off. Knowing it's biology, knowing when it typically starts, and tracking your own patterns can transform a confusing experience into one you can actually navigate.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ GLP-1 drugs like Ozempic cause weight loss, but roughly 40% of it may be muscle, not fat.</li>
+    <li>✓ Rapid weight loss triggers the body to burn muscle tissue when it should preserve it.</li>
+    <li>✓ Without enough protein and resistance training, muscle loss accelerates and metabolism suffers long-term.</li>
+    <li>✓ The clinical trials show this problem but rarely discuss it—you need to know and plan for it.</li>
+    <li>✓ Muscle loss is preventable if you act intentionally during GLP-1 treatment.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people who start Ozempic or Wegovy are thinking about the number on the scale. Few are thinking about what's happening to the tissue underneath. That's a problem — because the clinical trial data tells a story that the prescription pad often doesn't: a meaningful portion of the weight lost on GLP-1 receptor agonists isn't fat. It's muscle.
 
 This isn't a reason to avoid these medications. For the right person, semaglutide and tirzepatide are genuinely transformative tools. But they work by suppressing appetite so effectively that many users enter a sustained caloric deficit deep enough to trigger the same metabolic cascade seen in crash dieting — accelerated lean mass loss, reduced strength, and a metabolic rate that may take years to recover. The good news is that this is largely preventable, if you know what to do.
@@ -102,6 +114,23 @@ This is what the evidence supports, made specific:
 
 **Rate of loss:**
 - If losing more than **1% of body weight per week** consistently, discuss with your clinician whether dose adjustment is appropriate — fast loss is not always better loss
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize protein intake:</strong> aim for 0.7–1g per pound of body weight daily to signal your body to preserve muscle while losing weight.</li>
+    <li>→ <strong>Strength train 3–4x weekly:</strong> resistance exercises create mechanical stress that tells your body to keep muscle tissue despite caloric deficit.</li>
+    <li>→ <strong>Lose weight slowly:</strong> target no more than 0.5–1% of body weight per week to minimize lean mass loss alongside fat.</li>
+    <li>→ <strong>Track body composition:</strong> use DEXA scans or similar methods every 8–12 weeks to monitor fat vs. muscle loss, not just scale weight.</li>
+    <li>→ <strong>Discuss with your doctor:</strong> mention your goal to preserve muscle so your clinician can monitor for metabolic changes and adjust dosing if needed.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">GLP-1 drugs like Ozempic and Mounjaro work by crushing your appetite—which is powerful, but there's a catch. Clinical trials show that about 40% of the weight you lose might be muscle, not fat. Your body burns muscle when weight loss happens too fast and you're not actively protecting it. The fix isn't complicated: eat enough protein (aim high), do strength training regularly, and lose weight gradually. Without these steps, you can end up thinner but weaker, with a slower metabolism that takes years to recover. The good news? This is almost entirely preventable if you're intentional about it from day one.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Racquet sports cut all-cause mortality risk by 47%, outperforming running, cycling, and swimming.</li>
+    <li>✓ Pickleball delivers 60% moderate-to-vigorous intensity play, meeting weekly heart-health targets in three sessions.</li>
+    <li>✓ The sport's explosive movements improve VO2 max, the strongest predictor of longevity available.</li>
+    <li>✓ Social doubles format provides built-in community, which separately extends lifespan independent of exercise.</li>
+    <li>✓ Low barriers to entry make pickleball accessible to adults at any fitness level.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Of all the ways to add years to your life, few come with a waiting list for court time. Pickleball — that improbable hybrid of tennis, badminton, and ping-pong played on a court the size of a large bedroom — is now the fastest-growing sport in the United States, with participation tripling between 2020 and 2023 according to the Sports & Fitness Industry Association. The growth is easy to mock: the name alone does a lot of work. But the biology doesn't care what it's called. A growing body of evidence suggests that the combination of moderate cardiovascular demand, rapid reaction time, and — crucially — the social architecture of a doubles game may make racquet sports among the most potent longevity tools available to adults at any fitness level.
 
 This isn't just an "exercise is good" story. The specific *type* of exercise, and the social context in which it happens, appear to matter enormously. The data will probably surprise you.
@@ -78,6 +90,23 @@ If you are over 60 or have cardiovascular disease, consult your physician before
 The research on exercise, social connection, and aging all point to the same uncomfortable truth: there is no single pill, supplement, or biohack that does what consistent, socially embedded, cognitively demanding physical activity does for human healthspan. Pickleball is not magic. It is, however, an unusually efficient delivery mechanism for several of the most powerful longevity inputs we know of — cardiovascular conditioning, fast-twitch muscle preservation, cognitive engagement, and genuine human connection — packaged in something people actually want to do again next week. That last part may matter more than any of the rest.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have existing cardiovascular or musculoskeletal conditions.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Play racquet sports:</strong> prioritize pickleball, tennis, or badminton over steady-state cardio for superior longevity benefits.</li>
+    <li>→ <strong>Aim for three sessions weekly:</strong> three recreational pickleball games meet American Heart Association cardiovascular targets.</li>
+    <li>→ <strong>Choose doubles games:</strong> the social format amplifies health benefits beyond the physical workout alone.</li>
+    <li>→ <strong>Start regardless of fitness:</strong> pickleball's accessibility means you can begin improving longevity markers immediately.</li>
+    <li>→ <strong>Track your intensity:</strong> aim for 60% of playing time at moderate-to-vigorous heart rate levels.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Forget the name—pickleball is legitimately one of the best longevity tools available. Research shows racquet sports cut mortality risk by 47%, beating running, swimming, and cycling. Why? The explosive bursts combined with sustained aerobic work boost VO2 max (the strongest longevity predictor). Plus, three casual games a week hit your weekly cardio targets. But here's the kicker: the social doubles format matters too. You're getting community connection *and* cardiovascular gains simultaneously. And unlike tennis or squash, pickleball is accessible whether you're 25 or 75. It's low-impact, high-reward, and weirdly fun. That's why it's exploding.</p>
+</div>
 
 ---
 

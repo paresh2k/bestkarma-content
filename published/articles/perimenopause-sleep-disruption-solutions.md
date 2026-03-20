@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Perimenopause makes sleep 2-3x more likely to be severely disrupted than normal aging.</li>
+    <li>✓ Hot flashes cause 72% of nighttime awakenings, often before you consciously feel them.</li>
+    <li>✓ Dropping progesterone weakens the brain's natural 'sleep brake,' making you hypervigilant at night.</li>
+    <li>✓ Deep restorative sleep plummets during perimenopause, harming metabolism, immunity, and memory.</li>
+    <li>✓ This is treatable—hormonal and non-hormonal interventions exist and are getting better.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Around age 47, something shifts. Sleep — which may have been reliable for decades — starts to fracture. You wake at 3am in a pool of sweat, heart pounding. You fall back asleep, then wake again an hour later with your mind racing. By morning you feel like you've been awake all night, even if the clock says otherwise. This isn't stress, and it isn't aging in the ordinary sense. It's perimenopause systematically dismantling the hormonal architecture that makes sleep possible — and for many women, it goes on for years.
 
 What's striking is how severely underrecognized and undertreated this is. A 2023 review in *Nature and Science of Sleep* by Baker and colleagues found that perimenopausal women are **two to three times more likely** to report clinically significant insomnia than premenopausal women of the same age — and yet fewer than a third discuss sleep with their clinician. The good news: the mechanisms are increasingly well understood, and the interventions, both hormonal and non-hormonal, are better than ever.
@@ -84,6 +96,23 @@ The evidence supports a stepped, individualized approach rather than a single so
 The perimenopausal sleep crisis is real, it is biological, and it is not inevitable. The hormonal disruption is fixable — sometimes dramatically so — when women have access to accurate information and clinicians willing to engage with the evidence. If you've been told "this is just aging," it's worth getting a second opinion.
 
 *This article is for informational purposes only. Consult a qualified healthcare provider before making changes to your health routine, particularly regarding hormone therapy or prescription medications.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Talk to your doctor:</strong> fewer than one-third of perimenopausal women discuss sleep issues with clinicians despite needing treatment.</li>
+    <li>→ <strong>Track your sleep patterns:</strong> use actigraphy or a sleep app to identify whether hot flashes or anxiety is the main culprit.</li>
+    <li>→ <strong>Consider hormone therapy:</strong> declining progesterone weakens the brain's natural calming system—HRT may restore it.</li>
+    <li>→ <strong>Address mood and anxiety:</strong> depressive symptoms double poor sleep risk independent of hot flashes.</li>
+    <li>→ <strong>Monitor deep sleep loss:</strong> deep sleep deficits during perimenopause affect metabolism, immunity, and cognition—not just daytime tiredness.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Around age 47, sleep often falls apart—and it's not just stress. Perimenopause systematically disrupts the hormones that make sleep possible. Research shows perimenopausal women are 2–3 times more likely to have clinical insomnia than younger women. Hot flashes triggered 72% of nighttime awakenings in one study, often before you even consciously feel them. The real culprit: progesterone drops early in perimenopause, weakening GABA receptors in your brain—the same ones that benzodiazepines target. Without that chemical brake, your nervous system stays hypervigilant. You lose deep, restorative sleep where growth hormone and cellular repair happen. The silver lining: these mechanisms are now well understood, and treatments—both hormonal and behavioral—are increasingly effective. If you're waking at 3am in sweats, you're not alone, and you don't have to white-knuckle through it.</p>
+</div>
 
 ---
 

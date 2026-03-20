@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Polyphenols are plant compounds (8,000+ types) that explain why plant-rich diets reduce disease and slow aging.</li>
+    <li>✓ They work mainly through gut bacteria, not antioxidants — bacteria transform them into bioactive compounds your body uses.</li>
+    <li>✓ Major sources: berries, tea, coffee, citrus, soy, pomegranate, whole grains, and red wine.</li>
+    <li>✓ High-dose supplements fail because polyphenols need diversity and whole-food context to work properly.</li>
+    <li>✓ Polyphenols modulate inflammation and gene expression at doses your body actually achieves from food.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 When scientists ask why plant-rich diets are associated with reduced inflammation, slower aging, and lower chronic disease risk — and find that high-dose antioxidant supplements generally fail to replicate those benefits — they're encountering a fundamental gap in nutritional understanding.
 
 The answer lies in polyphenols: a vast and structurally diverse family of plant compounds with complex biological activities that science is still mapping. There are more than 8,000 known polyphenols. They are not vitamins or minerals. They are not essential for survival in the classical nutritional sense. But their presence in the diet — at the diversity and concentrations found in whole plant foods — produces biological effects that help explain the epidemiology of plant-rich eating patterns.
@@ -95,6 +107,23 @@ The practical implication is simple: eat colorful plants, frequently, diversely.
 **Brown (catechins, theobromine, chlorogenic acid):** green tea, dark chocolate (70%+), coffee — the last two are the primary polyphenol sources for many Western adults; coffee is, counterintuitively, the single largest source of dietary polyphenols in the US diet by volume
 
 Aiming for 5-6 of these color categories daily, through whole plant foods in varied combinations, captures the polyphenol diversity that epidemiological associations reflect — and feeds the gut microbiome community that performs most of the biological work.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Eat colorful plants:</strong> consume berries, leafy greens, citrus, pomegranate, and red cabbage daily for polyphenol diversity.</li>
+    <li>→ <strong>Skip isolated supplements:</strong> whole foods deliver polyphenols in combinations and doses that actually work in your body.</li>
+    <li>→ <strong>Prioritize whole grains:</strong> they contain phenolic acids and lignans that feed beneficial gut bacteria.</li>
+    <li>→ <strong>Include fermented diversity:</strong> soy, flaxseed, and whole grains optimize gut bacterial conversion of polyphenols.</li>
+    <li>→ <strong>Consistency beats quantity:</strong> regular polyphenol intake matters more than occasional high doses for long-term anti-inflammatory effects.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">There are over 8,000 plant compounds called polyphenols that explain why eating plants keeps you healthier. They're not vitamins — your body doesn't require them to survive. But they do something most people get wrong: they don't work as antioxidants like supplement companies claim. Instead, your gut bacteria eat polyphenols and convert them into compounds that reduce inflammation and even change which genes turn on and off. That's why supplements fail — they're isolated. Real benefits come from the mix you get in whole foods: berries, tea, coffee, greens, beans, whole grains. Skip the expensive polyphenol pills. Eat diverse plants regularly instead. That's where the longevity benefit actually lives.</p>
+</div>
 
 ---
 

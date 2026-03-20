@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Up to 70% of women in perimenopause experience anxiety with no prior psychiatric history.</li>
+    <li>✓ The problem is chaotic hormone fluctuation, not just low estrogen levels.</li>
+    <li>✓ Unpredictable estrogen and progesterone destabilize your brain's natural anxiety-calming systems.</li>
+    <li>✓ Your nervous system literally cannot find stable ground during this transition.</li>
+    <li>✓ Understanding the mechanism helps you respond differently than treating it as a psychological problem.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 If you've sailed through decades of relatively stable moods and then found yourself, somewhere in your early forties, gripped by a new and inexplicable anxiety — a racing heart before a routine meeting, dread arriving with the alarm clock, a sense that something is wrong that you cannot name — you are not imagining it, and you are not falling apart. You are experiencing one of the most underrecognized neurological transitions in medicine. Up to 70% of perimenopausal women report significant anxiety symptoms, according to a 2020 review by Bromberger and Epperson in *Obstetrics and Gynecology Clinics of North America*. Many of them have no prior psychiatric history. What's happening is not a psychological failing. It is a specific, mechanistic shift in how your brain regulates its own chemistry — and understanding it changes everything about how you respond to it.
 
 ---
@@ -72,6 +84,23 @@ The primary action here is advocacy — for yourself, in a clinical system that 
 The anxiety you're experiencing has a mechanism. Mechanisms can be addressed.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, including any decisions about hormone therapy or psychiatric medication.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track hormone patterns:</strong> monitor when anxiety spikes to identify if it correlates with your cycle, then share data with your doctor.</li>
+    <li>→ <strong>Reframe the diagnosis:</strong> recognize this as a neurological transition, not a mental health failure or aging decline.</li>
+    <li>→ <strong>Seek specialized care:</strong> find practitioners who understand perimenopause neurobiology, not just general anxiety treatment.</li>
+    <li>→ <strong>Stabilize your baseline:</strong> prioritize sleep, stress management, and exercise to support GABAergic function during fluctuations.</li>
+    <li>→ <strong>Discuss medication timing:</strong> if considering treatment, ask your doctor about options that address hormonal volatility specifically.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">If you hit your 40s and suddenly feel anxious out of nowhere, your brain isn't broken—your hormones are in chaos. During perimenopause, estrogen and progesterone don't just decline; they wildly spike and crash within days. Your brain relies on these hormones to regulate GABA, the neurochemical equivalent of hitting the brake on anxiety. When hormones fluctuate unpredictably, your brain's anxiety-control system becomes unreliable. This isn't about being weak or developing a psychiatric disorder. It's a specific, temporary neurological shift that 70% of perimenopausal women experience. The good news: understanding the mechanism changes everything about how you treat it.</p>
+</div>
 
 ---
 

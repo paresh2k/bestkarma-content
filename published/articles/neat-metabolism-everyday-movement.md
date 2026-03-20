@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your daily movement outside formal exercise accounts for up to 50% of total calorie burn.</li>
+    <li>✓ Lean people unconsciously move more when overfed; obesity-prone people don't compensate the same way.</li>
+    <li>✓ The body adapts to intense exercise by reducing other metabolic activity, limiting weight loss.</li>
+    <li>✓ Habitual low-intensity movement throughout the day escapes the body's compensatory downregulation.</li>
+    <li>✓ Those 23 hours outside the gym matter more than the one-hour workout for metabolism.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Exercise science has devoted enormous resources to studying the effects of formal exercise sessions — the 45-minute run, the hour at the gym, the structured HIIT class. These sessions matter. But they typically represent 30-60 minutes of a 1,440-minute day. What happens in the remaining 1,380 minutes turns out to be at least as metabolically relevant.
 
 Non-Exercise Activity Thermogenesis — NEAT — is the energy expenditure of all physical activity that is not formal exercise and not sleeping. It includes walking to your car, shifting in your chair, climbing stairs, doing the dishes, standing in line, typing, gesturing when you talk, and the near-constant low-level postural adjustments that keep the body upright. It includes fidgeting. It includes everything that moves muscles in the service of daily life rather than deliberate training.
@@ -76,6 +88,23 @@ Levine's research included fidgeting as a measurable and significant NEAT compon
 However, awareness of fidgeting-equivalent behaviors — subtle postural shifts, foot movement while seated, standing rather than sitting when possible, choosing movement over stillness when both are available — creates opportunities to participate in what might otherwise be automatic behavior that some people simply do more than others.
 
 The deeper message of the NEAT research is simpler: the metabolic cost of how you move through your ordinary day is enormous relative to what any exercise session can achieve alone. A gym membership managed by a desk worker who otherwise sits for 10 hours is doing less metabolic work than the same gym member who simply stands more, walks more as part of daily tasks, and treats ordinary life as an opportunity for movement rather than a sedentary backdrop to formal workouts.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize daily movement:</strong> increase standing, walking, and stair-climbing in normal daily tasks rather than relying solely on structured workouts.</li>
+    <li>→ <strong>Break up sitting:</strong> minimize prolonged sedentary periods throughout the day to maintain metabolic activity and biological health.</li>
+    <li>→ <strong>Track incidental activity:</strong> notice fidgeting, postural shifts, and routine movements—they meaningfully impact total daily energy expenditure.</li>
+    <li>→ <strong>Build movement habits:</strong> create automatic, low-intensity movement patterns that don't trigger compensatory metabolic slowdown like intense exercise does.</li>
+    <li>→ <strong>Embrace the fidget:</strong> small, frequent movements throughout waking hours contribute substantially more to long-term weight management than you think.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You've probably heard you need to exercise, but here's the plot twist: what you do the other 23 hours matters way more. It's called NEAT—basically all the movement that isn't deliberate exercise. Walking to your car, standing at your desk, fidgeting, climbing stairs, doing dishes. In some people, NEAT accounts for 50% of daily calorie burn. Researchers found that lean people automatically move more throughout the day when they eat extra calories, but obesity-prone people don't. The difference? About 2.25 hours of movement daily, mostly non-exercise stuff. Even crazier: your body adapts to intense workouts by slowing down other metabolic processes, partially erasing the calorie deficit. But low-intensity daily movement? It escapes that compensation. Bottom line: stop obsessing over that one-hour gym session. Focus on moving more constantly throughout your day. It's the unsexy truth of metabolism.</p>
+</div>
 
 ---
 

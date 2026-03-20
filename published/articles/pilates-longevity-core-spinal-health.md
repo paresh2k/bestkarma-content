@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Pilates reduces chronic low back pain and disability better than usual care or minimal exercise.</li>
+    <li>✓ Balance improves significantly with Pilates, lowering fall risk in older adults—the leading injury cause.</li>
+    <li>✓ Pilates targets deep stabilizer muscles that prevent injury, not just surface muscles that build strength.</li>
+    <li>✓ Spinal mobility and flexibility gains from Pilates persist months after training stops.</li>
+    <li>✓ In your 50s+, stability and balance matter more for independence than cardiovascular fitness or speed.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a moment, usually sometime in your fifties, when the fitness priorities you held in your thirties start to look slightly naive. Cardiovascular output still matters. Muscle mass matters enormously. But a quieter set of qualities — the ability to stabilize your spine under load, to recover your balance after a stumble, to sit and stand without wincing — turns out to predict independence and quality of life more reliably than your marathon time. Pilates, long dismissed in serious fitness circles as gentle stretching for dancers, has accumulated a surprisingly robust evidence base for exactly these qualities. And the mechanisms behind it illuminate something important about how longevity actually works at the level of bone, nerve, and muscle.
 
 ---
@@ -65,6 +77,23 @@ For most adults starting from a general fitness base, **two to three sessions pe
 If you're managing low back pain, ask specifically for a **clinical or rehabilitation-focused instructor** (often a physiotherapist with Pilates training) for your first 6–8 weeks, then transition to group classes once you've established correct motor patterning. If osteoporosis is a factor, do not proceed with standard group classes without confirming the instructor has specific osteoporosis training.
 
 The goal, ultimately, is not to look like a dancer. It's to be someone who can carry luggage overhead, catch themselves on a slippery step, get up from the floor without using a chair — and still do those things at 75. That case, the evidence is increasingly confident in making.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Prioritize stability training:</strong> shift focus from cardio-heavy workouts to balance and core stability work as you age.</li>
+    <li>→ <strong>Start Pilates for back pain:</strong> if chronic low back pain limits you, evidence shows Pilates outperforms standard care.</li>
+    <li>→ <strong>Strengthen deep cores:</strong> target transversus abdominis and multifidus, not just surface abs, for spinal protection.</li>
+    <li>→ <strong>Test your balance regularly:</strong> use Timed Up and Go or Berg Balance Scale to track fall risk over time.</li>
+    <li>→ <strong>Practice consistency:</strong> maintain Pilates 2-3x weekly to keep flexibility and balance gains from deteriorating.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Think Pilates is just gentle stretching? Science says otherwise. Research shows Pilates beats standard care for chronic back pain, improves balance in ways that actually prevent falls, and strengthens the deep stabilizer muscles your spine relies on. Here's the key insight: your body has two muscle systems. The global muscles create big movements. The local stabilizers—like your transversus abdominis—fire *before* movement happens, creating a protective corset around your spine. Most gym routines ignore these stabilizers entirely. Pilates targets them obsessively. That's why it outperforms other exercises for back pain and balance. In your 50s and beyond, being able to stand up without pain, recover from a stumble, and move without wincing predicts independence far better than marathon times. Pilates addresses exactly that.</p>
+</div>
 
 ---
 
