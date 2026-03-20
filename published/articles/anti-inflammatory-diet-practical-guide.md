@@ -22,6 +22,7 @@ status: validated
     <li>✓ No single meal moves the needle — consistent patterns over months are what the research is measuring</li>
     <li>✓ This isn't a diet — it's a scoring system. Most meals trending anti-inflammatory is the goal</li>
   </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
 </div>
 
 Chronic inflammation doesn't announce itself. There's no fever, no swelling you can see — just a slow, systemic burn that quietly accelerates cardiovascular disease, type 2 diabetes, cognitive decline, and several cancers over decades. The good news: food is one of the most powerful dials you have to turn it down. Not supplements. Not cleanses. Actual food, eaten in specific combinations, with a measurable effect on the biomarkers that matter.
@@ -133,7 +134,7 @@ No single meal will move your CRP meaningfully. The mechanism is cumulative — 
   </ul>
 </div>
 
-<div class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Chronic inflammation is the slow burn behind heart disease, diabetes, and brain decline. You can't feel it — but you can measure it, and food is one of your biggest levers. The anti-inflammatory shopping list: fatty fish twice a week, olive oil daily, berries every day, leafy greens, walnuts, and turmeric with black pepper (that combination boosts absorption by 2,000%). What to cut back: sugary drinks, processed meats, white bread as a staple. The key insight — no single meal matters. What matters is whether most of your meals trend the right way, consistently, for months. Think of it as a pattern, not a diet. Your CRP level is averaging your last 90 days of eating.</p>
 </div>

@@ -22,6 +22,7 @@ status: validated
     <li>✓ The ideal nap is 20–25 minutes before 3pm. Longer = sleep inertia + worse night sleep</li>
     <li>✓ A "nappuccino" (coffee immediately before a nap) beats either alone for post-nap alertness</li>
   </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
 </div>
 
 There is a molecule building up in your brain right now. Every hour you stay awake, it accumulates — quietly, steadily, in the basal forebrain and throughout the cortex — until the pressure becomes impossible to ignore. That molecule is adenosine, and it is the closest thing neuroscience has found to a physical record of wakefulness. It is not a metaphor. Sleep pressure is not just feeling tired. It is a measurable neurochemical state, and understanding how it works explains nearly everything confusing about sleep: why naps help but sometimes backfire, why caffeine eventually fails you, and why sleeping in on weekends doesn't actually fix a week of short nights.
@@ -105,7 +106,7 @@ Given what we know about adenosine kinetics and the two-process model, several c
   </ul>
 </div>
 
-<div class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">There's a molecule called adenosine that builds up in your brain every hour you're awake. The more it accumulates, the sleepier you feel — that's sleep pressure. Caffeine doesn't give you energy. It just blocks adenosine from reaching its receptors, so you can't feel the pressure. But adenosine keeps building. When caffeine wears off, that backlog floods in — that's the crash. The practical rules: stop caffeine 10–12 hours before bed, don't caffeinate within 90 minutes of waking, and nap only between 1–3pm for max 25 minutes. If you want an upgrade, try a nappuccino — drink coffee then nap immediately. Caffeine takes 20–30 minutes to kick in, which means it hits right when you wake up. And remember: no amount of caffeine clears sleep debt. Only sleep does.</p>
 </div>

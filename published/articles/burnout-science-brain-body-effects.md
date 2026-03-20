@@ -22,6 +22,7 @@ status: validated
     <li>✓ This is why burnout people can't sleep even when exhausted: the nervous system is stuck in vigilance mode</li>
     <li>✓ Recovery takes months, not a weekend. Exercise + social connection + structured sleep are the evidence-based levers</li>
   </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
 </div>
 
 Something quietly breaks in the brain before burnout becomes obvious. Long before you're staring at your inbox without comprehension, or canceling plans because you have nothing left to give, your prefrontal cortex is already losing the argument with your amygdala — and your HPA axis has quietly begun to malfunction. Burnout is not a personality flaw, a productivity problem, or even a synonym for exhaustion. It is a measurable physiological state, with traceable effects on your immune system, your cardiovascular health, your hormones, and the literal volume of structures in your brain. The science has been building for decades. It is now unambiguous enough that the World Health Organization added burnout to the International Classification of Diseases in 2019 — not as a medical condition exactly, but as an "occupational phenomenon" that generates them.
@@ -96,7 +97,7 @@ What broke slowly can heal slowly. But only if you understand what broke, and wh
   </ul>
 </div>
 
-<div class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
   <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Burnout isn't just being really tired. It's a physiological state with measurable brain changes: a more reactive amygdala (your threat alarm gets louder), a weakened prefrontal cortex (your ability to calm down gets worse), and a shrinking hippocampus from cortisol damage. Weirdly, people with established burnout often have LOW cortisol — the stress system ran so hot for so long, it stopped responding. That's why you can be exhausted and still unable to sleep — your nervous system is stuck in vigilance mode. Recovery takes months. The evidence-backed path: moderate aerobic exercise most days (this literally regrows hippocampal tissue), consistent sleep timing, scheduled social time, and journaling about feelings rather than trying to solve problems. If you've been intentionally recovering for 4–6 weeks and still can't function, get professional support. The burnout-to-depression pipeline is real.</p>
 </div>
