@@ -13,6 +13,18 @@ readTime: 7
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Chronotype is genetic, not laziness. Your sleep timing is encoded in your DNA, not character.</li>
+    <li>✓ About 50-80% of when you naturally sleep is determined by your genes, not willpower.</li>
+    <li>✓ Teens shift later biologically around puberty—waking at 10am isn't laziness, it's circadian biology.</li>
+    <li>✓ Your chronotype changes across life: kids wake early, teens/young adults peak late, older adults wake very early.</li>
+    <li>✓ Forcing your schedule against your natural timing creates health problems and sleep debt over time.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There are people who spring out of bed at 5:30am, genuinely energized, already thinking through the day. There are people for whom 11pm is when their mind sharpens and creative energy peaks. And there is a wide distribution between these poles — the early types, the late types, and the majority in the intermediate range.
 
 The conventional narrative treats this as habit, discipline, or character. Science has a different account: chronotype is a biological trait, substantially determined by genetics and systematically changing across the lifespan, that predicts when your body is optimally calibrated for sleep, alertness, cognition, and physical performance.
@@ -84,6 +96,23 @@ Individual interventions are helpful but limited. The more meaningful interventi
 Adolescent school start times, university scheduling, and — increasingly — flexible work hours all represent opportunities to reduce the chronic mismatch between biological timing and social demands. The evidence for later school start times improving adolescent health, academic performance, and safety outcomes is now sufficiently strong that the American Academy of Pediatrics has made an unequivocal recommendation.
 
 For individuals working in environments with schedule flexibility, aligning work hours toward chronotype — even partially — produces real improvements in alertness, mood, and performance. The "night owl" forced to excel before 9am is working against their biology. The accommodation costs nothing; the benefit is real.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Stop blaming yourself:</strong> recognize your sleep timing as biological fact, not personal failure or lack of discipline.</li>
+    <li>→ <strong>Know your chronotype:</strong> use free weekends without alarms to identify your natural sleep midpoint and peak hours.</li>
+    <li>→ <strong>Align work timing:</strong> if possible, negotiate schedules that match your genetic chronotype rather than fighting your clock.</li>
+    <li>→ <strong>Advocate for teens:</strong> push schools to start later—adolescent biology naturally shifts 2-3 hours later due to puberty.</li>
+    <li>→ <strong>Optimize by phase:</strong> schedule cognitively demanding work during your personal peak hours, not arbitrary morning slots.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You might think you're lazy for sleeping in, but your sleep schedule is actually written into your DNA. Scientists have found over 350 genes controlling when your body naturally wants to sleep and wake—it's not a choice. Kids are naturally early risers, but around puberty, teenagers' circadian clocks shift 2-3 hours later (biology, not attitude). This mismatch between teen biology and 8am school starts is a real problem. Your chronotype keeps changing through life—you'll gradually become an earlier riser as you age. The key takeaway: stop fighting your natural timing. When you work against your genetic chronotype, you rack up sleep debt and health problems. Instead, understand when you genuinely peak and try to structure your schedule around that.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ 30% of adults have insomnia; sleeping pills only speed up falling asleep by 20-30 minutes</li>
+    <li>✓ Sleeping pills don't fix sleep quality, cause tolerance within days, and linked to dementia risk</li>
+    <li>✓ CBT-I addresses root causes: the behaviors and anxiety that perpetuate insomnia, not just symptoms</li>
+    <li>✓ Sleep restriction therapy—the core CBT-I tool—deliberately limits bed time to rebuild sleep efficiency</li>
+    <li>✓ CBT-I works better than pills long-term with no dependency, rebound insomnia, or tolerance buildup</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 An estimated 30% of adults have insomnia symptoms. About 10% meet criteria for chronic insomnia disorder — difficulty sleeping at least three nights per week for at least three months, producing real daytime impairment. It is one of the most common health complaints in primary care.
 
 The treatment that works best for it — better than sleeping pills, with longer-lasting effects, without dependency or rebound — has been first-line recommended by every major sleep medicine body for more than a decade. Most people with insomnia have never been offered it.
@@ -100,6 +112,23 @@ This article is not an argument that sleeping pills are never appropriate. For s
 For anyone taking sleeping pills long-term, tapering off in conjunction with CBT-I is the evidence-based approach. This should be done under physician supervision, with CBT-I beginning 2-4 weeks before or alongside the taper.
 
 The tool that works is available. That it remains under-used while sleeping pill prescriptions continue at scale is a healthcare system failure worth naming.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Understand CBT-I:</strong> Ask your doctor about cognitive behavioral therapy for insomnia before accepting sleeping pills as your only option</li>
+    <li>→ <strong>Try sleep restriction:</strong> Consolidate sleep by matching time in bed to actual sleep hours, increasing duration only when efficiency improves</li>
+    <li>→ <strong>Address bed anxiety:</strong> Stop using bed for wakefulness—get up if you can't sleep within 20 minutes to retrain your brain</li>
+    <li>→ <strong>Reject tolerance trap:</strong> Know that sleeping pills lose effectiveness within weeks and create rebound insomnia when you try to stop</li>
+    <li>→ <strong>Fix sleep timing:</strong> Maintain consistent sleep and wake times, even weekends, to anchor your circadian rhythm and stabilize sleep</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Insomnia affects 1 in 3 adults, but most never hear about the most effective treatment: CBT-I. Sleeping pills? They barely work—they only speed up falling asleep by 20-30 minutes, destroy sleep quality, cause tolerance within days, and are linked to dementia. CBT-I works differently. It targets the behaviors actually keeping you awake: lying in bed unable to sleep, anxiety about sleep, irregular schedules, trying to oversleep on weekends. The key tool is sleep restriction—sounds counterintuitive, but limiting bed time to match actual sleep forces your brain to consolidate deeper, better sleep. It's uncomfortable for a week or two, but it works long-term without pills, without dependence, without rebound crashes.</p>
+</div>
 
 ---
 

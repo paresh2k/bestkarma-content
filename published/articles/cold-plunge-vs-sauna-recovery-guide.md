@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Sauna use 4-7 times weekly cuts all-cause mortality risk by 40% in studies.</li>
+    <li>✓ Heat triggers heat shock proteins that repair damaged cells and slow aging.</li>
+    <li>✓ Cold plunges flood your system with norepinephrine, boosting focus and mood.</li>
+    <li>✓ Sauna and cold work through opposite biological pathways—timing matters for results.</li>
+    <li>✓ Using them wrong together can cancel benefits; sequence and spacing are key.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a moment in the research on sauna use that stops most people cold — which is to say, it makes them want to sit in the heat more. A 2018 study by **Laukkanen et al.** published in *BMC Medicine* found that Finnish men who used a sauna four to seven times per week had a **40% lower risk of all-cause mortality** compared to those who went once a week. Not cardiovascular mortality — all-cause mortality. That is the kind of number that usually requires a pharmaceutical trial to produce. And it came from sitting in a hot room.
 
 Cold plunges have their own devoted following, with equally striking claims. So which practice is actually worth your time, and do they work better together or against each other? The answer depends almost entirely on what you're trying to accomplish — because these two stressors work through fundamentally different biological pathways, and in some cases, combining them at the wrong moment can cancel out the benefits of the other.
@@ -83,6 +95,23 @@ If you want to do both in a single session, **end with heat if recovery and slee
 What the research does not yet tell us is whether the long-term benefits of regular sauna use — particularly the mortality reductions in Laukkanen's Finnish cohort — are fully transferable to non-Finnish populations, different sauna types (infrared vs. traditional), or those with pre-existing cardiovascular conditions. The mechanistic case is strong, but the epidemiological data was not a randomized controlled trial.
 
 Start with one. Get consistent. Then layer.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Start with sauna first:</strong> Sauna before cold maximizes heat shock protein benefits without interference from cold's recovery pathways.</li>
+    <li>→ <strong>Space sessions apart:</strong> Don't plunge immediately after sauna; let each stress response complete separately for full adaptation.</li>
+    <li>→ <strong>Match practice to goal:</strong> Choose sauna for cardiovascular health and longevity; cold for mental clarity and attention.</li>
+    <li>→ <strong>Build sauna consistency:</strong> Aim for 4-7 sessions weekly to replicate the mortality-reduction benefits found in research.</li>
+    <li>→ <strong>Use cold water temperature:</strong> Keep cold exposure below 15°C to trigger meaningful norepinephrine elevation and anti-inflammatory effects.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Sauna and cold plunges are both legit—but they work completely differently. Regular sauna use (4-7 times weekly) can cut your all-cause mortality risk by 40% because heat triggers cellular repair proteins and trains your cardiovascular system like aerobic exercise. Cold plunges do the opposite: they flood your brain with norepinephrine, sharpening focus and reducing anxiety instantly. Here's the catch: use them in the wrong order and they cancel each other out. Sauna first, then cold, with proper spacing between sessions. Pick your tool based on your goal—sauna for longevity and heart health, cold for mental performance. Don't assume stacking both makes you superhuman.</p>
+</div>
 
 ---
 

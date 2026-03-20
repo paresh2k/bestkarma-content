@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Two people same age can have vastly different heart and artery health—this gap matters more than birthday age.</li>
+    <li>✓ Cardiovascular age is measured through five biological clocks: plaque buildup, arterial stiffness, cardiac stress, endothelial function, and inflammation.</li>
+    <li>✓ Standard cholesterol and blood pressure tests miss early warning signs; advanced screening catches disease before it declares itself.</li>
+    <li>✓ A zero calcium score in young people is not a green light—soft plaque can still be silently accumulating.</li>
+    <li>✓ Arterial stiffness rises with age but the speed is modifiable through lifestyle changes you can control right now.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Two people walk into a clinic, both 52 years old. One has the coronary arteries of a 38-year-old. The other has the arteries of a 71-year-old. Their birthdays are the same. Their biological futures are not. The gap between chronological age and cardiovascular age is arguably the most consequential number in preventive medicine — and for most people, it goes completely unmeasured.
 
 Cardiovascular disease kills more people globally than any other cause, but the usual screenings — total cholesterol, resting blood pressure, a standard ECG — are blunt instruments. They catch disease that has already declared itself. The more interesting question is: how fast is your cardiovascular system aging right now, and what can you actually do to slow it down?
@@ -100,6 +112,23 @@ If you've never measured your cardiovascular age, here's where to start:
 - **Ask your physician** about hs-cTnT and hsCRP if you're building a comprehensive cardiovascular risk picture — these are not standard panels but are increasingly available.
 
 The most important thing to understand is that the number on your birth certificate is fixed. The number representing your cardiovascular age is not.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Get a CAC scan:</strong> Request a coronary artery calcium scan to measure actual plaque burden, especially if you're intermediate-risk by standard metrics.</li>
+    <li>→ <strong>Measure arterial stiffness:</strong> Ask your doctor about pulse wave velocity testing to catch arterial aging early and track improvement.</li>
+    <li>→ <strong>Monitor troponin levels:</strong> Include high-sensitivity troponin T in blood work to detect subclinical cardiac stress before symptoms appear.</li>
+    <li>→ <strong>Don't ignore zero scores:</strong> A zero calcium score under 50 is not permission to ignore lifestyle—soft plaque accumulates silently before calcification.</li>
+    <li>→ <strong>Track multiple markers:</strong> Use CAC, PWV, troponin, endothelial function, and inflammation together for a complete cardiovascular age picture.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You and your friend are both 52. But inside, your arteries might be decades apart. Your cardiovascular age—how old your heart and blood vessels actually are—matters way more than your birthday. Standard tests like cholesterol checks and EKGs are outdated. They only catch disease that's already screaming. The real question is: how fast is your cardiovascular system aging *right now*? Doctors can measure this through five biological clocks: calcified plaque buildup, arterial stiffness, cardiac stress markers, endothelial health, and inflammation. A zero calcium score sounds good, but if you're young with terrible habits, soft plaque is still silently building. The gap between your chronological age and cardiovascular age is the most important number in preventive medicine—and most people never measure it.</p>
+</div>
 
 ---
 

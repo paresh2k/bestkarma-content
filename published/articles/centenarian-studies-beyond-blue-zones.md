@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Centenarians often break wellness rules: smoking, drinking, and being overweight are common.</li>
+    <li>✓ Genetics explain more about reaching 100 than diet, exercise, or stress management.</li>
+    <li>✓ Blue Zones research misses what makes exceptional longevity — it's mostly inherited.</li>
+    <li>✓ Two genes (APOE2 and FOXO3A) appear repeatedly in people who live past 100.</li>
+    <li>✓ Moderate alcohol and being overweight at 70 linked to longer life in studies.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The people who live past 100 don't follow the rules we wrote for them. Many centenarians smoke. Some drink. A surprising number are overweight by midlife standards. When researchers from the **New England Centenarian Study (NECS)** systematically profiled the lifestyle histories of over 1,500 people who'd reached 100 or beyond, they found that the usual suspects — pristine diet, lifelong exercise, low stress — explained far less than expected. What explained far more was something you can't buy, engineer, or find on a wellness retreat: their DNA.
 
 That inconvenient finding doesn't mean lifestyle is irrelevant. It means the Blue Zones framework — however useful as a population-level heuristic — may have given us the wrong map for the territory of *exceptional* longevity. The centenarian studies are drawing a different map.
@@ -70,6 +82,23 @@ The gap between "this is what centenarians have" and "here is what you should do
 **Track biological age, not chronological age.** DNA methylation clocks (GrimAge, DunedinPACE) are increasingly available through consumer testing and offer a better read on your aging trajectory than birth year does. The CALERIE data suggests these clocks are sensitive enough to detect meaningful change in two years — making them useful for evaluating whether your interventions are working.
 
 **Don't mistake Blue Zones heuristics for mechanisms.** Plant-rich diets, social connection, and purpose are probably genuinely good for healthspan. But they are downstream of biology, not substitutes for understanding it. Centenarian genomics is showing us what the biological targets are. The interventions that hit those targets — metabolic flexibility, cellular maintenance, inflammation suppression — are where the evidence is heading.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Stop chasing perfection:</strong> lifestyle matters less for extreme longevity than genetics, so focus on consistency instead of extremes.</li>
+    <li>→ <strong>Know your genetics:</strong> get tested for APOE and FOXO3A variants to understand your actual longevity risk profile.</li>
+    <li>→ <strong>Question wellness dogma:</strong> moderate alcohol and higher BMI at 70 show benefits in centenarian research — context matters.</li>
+    <li>→ <strong>Prioritize what's controllable:</strong> since genes dominate, invest energy in relationships, purpose, and stress management over dietary purity.</li>
+    <li>→ <strong>Read the research:</strong> Blue Zones are useful population guides, but centenarian studies reveal different patterns for extreme aging.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Here's the uncomfortable truth: the healthiest people you know might not live the longest. Centenarian researchers found that people hitting 100+ often smoked, drank, and were overweight. What actually matters? Your DNA. Two genes—APOE2 and FOXO3A—show up constantly in people who crack the century mark. Meanwhile, Blue Zones research (the popular diet-and-lifestyle framework) misses this entirely because it studies populations, not exceptional individuals. The 90+ Study found moderate drinking and being overweight at 70 were linked to *longer* life—the opposite of what wellness culture preaches. Bottom line: genetics loads the gun, but you can't control that. Focus instead on what you can—relationships, purpose, consistency—rather than obsessing over the perfect diet.</p>
+</div>
 
 ---
 

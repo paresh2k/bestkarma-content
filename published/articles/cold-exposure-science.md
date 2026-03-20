@@ -13,6 +13,18 @@ reviewer: bestkarma-review
 reviewedDate: 2026-03-14
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Cold exposure triggers a 200-300% spike in norepinephrine, boosting focus and mood for hours.</li>
+    <li>✓ Regular cold water immersion reduces depression and anxiety as effectively as some antidepressants.</li>
+    <li>✓ Cold activates brown fat, improving insulin sensitivity and glucose metabolism within two weeks.</li>
+    <li>✓ The psychological challenge of discomfort matters — people most afraid of cold see biggest mood gains.</li>
+    <li>✓ Mild, consistent cold exposure works; you don't need extreme ice baths for measurable benefits.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Cold exposure has ancient roots — Scandinavian sauna culture, Ayurvedic practices, Roman bathing rituals — but it's now drawing serious scientific scrutiny. Stripped of the bravado and the ice-bucket influencer content, what does the research actually support?
 
 The short answer: more than skeptics would expect, with important nuances depending on your goals.
@@ -103,3 +115,19 @@ You're not just getting cold. You're practicing being someone who can choose to 
 [^6]: Roberts LA, et al. (2015). Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training. *Journal of Physiology*, 593(18), 4285–4301.
 
 [^7]: Kox M, et al. (2014). Voluntary activation of the sympathetic nervous system and attenuation of the innate immune response in humans. *PNAS*, 111(20), 7379–7384.
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Start gradual:</strong> begin with 30-second cold showers or 14°C water; extreme cold isn't necessary for results.</li>
+    <li>→ <strong>Build consistency:</strong> repeat cold exposure regularly to activate brown fat and sustain norepinephrine benefits over time.</li>
+    <li>→ <strong>Embrace discomfort:</strong> the psychological challenge of facing cold may be as therapeutic as the cold itself.</li>
+    <li>→ <strong>Time it right:</strong> cold exposure creates 3-4 hours of elevated dopamine; schedule it when you need motivation.</li>
+    <li>→ <strong>Track mood shifts:</strong> monitor depression, anxiety, and focus over 2-3 weeks to assess personal response.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Cold water isn't just a TikTok trend—it's backed by real neuroscience. A few minutes in cold water floods your brain with norepinephrine and dopamine, two chemicals that boost focus, mood, and motivation for hours afterward. Studies show regular cold exposure reduces depression symptoms as effectively as some antidepressants, especially if you're initially scared of it (the challenge itself matters). Plus, cold activates brown fat, the metabolic powerhouse that burns calories and improves insulin sensitivity. You don't need extreme ice baths—even mild cold exposure repeated consistently over two weeks produces measurable results. The key is consistency, not intensity.</p>
+</div>

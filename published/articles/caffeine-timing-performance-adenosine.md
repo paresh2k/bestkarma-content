@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Your body produces cortisol naturally within 30-45 minutes of waking, giving you a natural energy boost.</li>
+    <li>✓ Drinking coffee during this cortisol peak may reduce caffeine's effectiveness over time through tolerance.</li>
+    <li>✓ Adenosine builds up during the day to create sleep pressure; caffeine blocks adenosine receptors to fight fatigue.</li>
+    <li>✓ Delaying coffee by 90 minutes lets your natural systems work fully before adding caffeine on top.</li>
+    <li>✓ Timing your caffeine right affects not just morning alertness, but how well you sleep that night.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There's a decent chance you're drinking your morning coffee wrong — not in the sense that it's harming you, but in the sense that you're leaving performance on the table. The recommendation that went mainstream through Andrew Huberman's podcast — delay your first coffee by 90 minutes after waking — sounds like the kind of biohacking trivia that gets cited endlessly and understood rarely. But the underlying science is more interesting than the talking point, and it touches on two separate physiological systems that most caffeine drinkers have never considered together: adenosine clearance and the cortisol awakening response. Getting the timing right doesn't just affect how alert you feel at 9 a.m. It affects how you sleep 16 hours later.
 
 ---
@@ -82,6 +94,23 @@ These are not rules. They are starting points based on the best available mechan
 If you currently drink coffee the moment you wake up and suffer an afternoon crash, the single highest-yield change is pushing that first cup to 90 minutes post-waking and moving the last cup before noon. You may find the afternoon crash lessens within a week — not because the coffee is stronger, but because the adenosine system is finally working with your caffeine rather than against it.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have cardiovascular conditions, anxiety disorders, or sleep disorders.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Wait 90 minutes:</strong> delay your first coffee until 90 minutes after waking to avoid suppressing natural cortisol.</li>
+    <li>→ <strong>Use morning light:</strong> get sunlight exposure immediately upon waking to maximize the cortisol awakening response naturally.</li>
+    <li>→ <strong>Understand tolerance:</strong> stacking caffeine on natural cortisol trains your body to depend more on the drug.</li>
+    <li>→ <strong>Track your sleep:</strong> monitor how shifting caffeine timing affects your sleep quality that same night.</li>
+    <li>→ <strong>Respect adenosine:</strong> remember caffeine blocks fatigue signals—it doesn't create energy, so timing matters for sleep pressure.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">You're probably drinking coffee at the wrong time. Your body naturally floods your brain with cortisol when you wake up—a powerful natural stimulant that peaks 30-45 minutes after rising. When you gulp coffee during this peak, you're stacking caffeine on a system already doing its job, and research suggests this actually trains your body to tolerate caffeine faster. The real magic is adenosine, the fatigue molecule that builds up throughout the day. Caffeine blocks it, making you feel alert. Wait 90 minutes before your first coffee, and you let your natural cortisol peak work alone, then hit the adenosine blockade when it matters most. The payoff? Better morning focus and better sleep 16 hours later.</p>
+</div>
 
 ---
 

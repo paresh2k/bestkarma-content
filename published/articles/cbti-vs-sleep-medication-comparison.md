@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ CBT-I (talk therapy) outperforms sleep pills on nearly every outcome measure.</li>
+    <li>✓ Sleep medication works short-term but effects fade; CBT-I gains last years.</li>
+    <li>✓ CBT-I targets the root cause: an overactivated stress response at bedtime.</li>
+    <li>✓ Major medical organizations now recommend CBT-I first, not medication.</li>
+    <li>✓ CBT-I involves 6-8 structured sessions covering sleep restriction and cognitive work.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most people who struggle to sleep reach for a pill. Their doctor often obliges — in the United States, sleep medication prescriptions run into the tens of millions annually, with zolpidem alone generating over 40 million scripts a year at its peak. What fewer people know is that a structured talk-based therapy outperforms those pills on nearly every meaningful outcome measure — and the effects last far longer. The therapy is called CBT-I: Cognitive Behavioral Therapy for Insomnia. It has been the first-line recommended treatment from the American College of Physicians since 2016, and from the American Academy of Sleep Medicine since 2021. It remains dramatically underused.
 
 This is not an anti-medication argument. Sleep medications have a real place — for acute insomnia, for specific populations, and in combination with behavioral therapy. But if you have chronic insomnia (defined as difficulty initiating or maintaining sleep at least three nights per week, for at least three months, causing daytime impairment), the evidence suggests you've probably been handed the second-best option first.
@@ -83,6 +95,23 @@ If you have chronic insomnia, here is what the evidence supports, in order of pr
 | Benzodiazepines | Moderate–High | Low | High | Avoid for chronic use |
 | DORAs (suvorexant, lemborexant) | Moderate–High | Moderate (data limited) | Low | Pharmacological first-line |
 | CBT-I + medication | High | Moderate–High | Depends on agent | Severe insomnia, combination |
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Ask for CBT-I first:</strong> Request referral to a therapist trained in cognitive behavioral therapy for insomnia before accepting sleep medication.</li>
+    <li>→ <strong>Rebuild bed association:</strong> Only use bed for sleep and sex; leave immediately if awake more than 20 minutes.</li>
+    <li>→ <strong>Accept sleep restriction:</strong> Deliberately limit time in bed to match actual sleep hours to consolidate fragmented sleep.</li>
+    <li>→ <strong>Challenge catastrophic thoughts:</strong> Question beliefs like "I need 8 hours or I'm ruined" that fuel nighttime anxiety.</li>
+    <li>→ <strong>Plan for long-term:</strong> Recognize CBT-I requires upfront effort but produces lasting results, unlike medication rebound effects.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your doctor probably offered you a sleep pill. The science says try therapy first. CBT-I—cognitive behavioral therapy for insomnia—outperforms medication on almost every measure, and the benefits actually stick around. Medication works fast but stops working; therapy rewires how your brain handles bedtime. It's a structured 6-8 week program tackling the real problem: your nervous system treating sleep like a threat. You learn to rebuild your bed's association with sleep, deliberately compress sleep time to strengthen it, and kill the catastrophic thoughts keeping you wired. Major medical groups recommend it first since 2016. It's harder than popping a pill, but it works better and lasts years. Worth asking your doctor about.</p>
+</div>
 
 ---
 

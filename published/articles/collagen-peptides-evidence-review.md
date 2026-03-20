@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Collagen peptides are broken-down collagen that may act as signaling molecules, not just generic protein.</li>
+    <li>✓ Skin benefits are the most scientifically proven: wrinkle reduction and elasticity gains in 8-12 weeks.</li>
+    <li>✓ Studies show 2.5-10g daily doses produce measurable results, especially for people over 45.</li>
+    <li>✓ Joint and gut claims are plausible but lack the same quality evidence as skin research.</li>
+    <li>✓ Marketing hype exceeds science, but real, specific benefits exist if you know which claims to trust.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The supplement aisle wants you to believe collagen is magic. Drink it for glowing skin, lubricated joints, a sealed gut, and whatever else the label promises between photos of radiant 50-year-olds. The marketing is, predictably, ahead of the science. But here's the more interesting story: some of the science is actually pretty good — and it points to real, specific benefits that most people haven't heard explained properly.
 
 The key is knowing which claims are supported, which are plausible but unproven, and which are pure mythology. That's what this article is for.
@@ -93,6 +105,23 @@ For those who want to use the evidence rather than just read it:
 - **General:** Look for a third-party tested product, skip any with proprietary blends that obscure dose transparency, and treat "clinical dose" claims skeptically unless they match the specific study cited on the label.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you are managing a diagnosed joint condition or gastrointestinal disorder.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Target your age:</strong> Start supplementation around 45+ when collagen decline accelerates for maximum impact.</li>
+    <li>→ <strong>Pick the right dose:</strong> Use 2.5-10g daily for 8-12 weeks to see measurable skin improvements.</li>
+    <li>→ <strong>Focus on skin first:</strong> Evaluate collagen for wrinkles and elasticity, not unproven gut or joint claims.</li>
+    <li>→ <strong>Check for Verisol:</strong> Look for this specific branded peptide in supplements—it's the most studied type.</li>
+    <li>→ <strong>Expect modest gains:</strong> Plan for 20% wrinkle reduction and improved hydration, not dramatic transformation.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">The supplement industry oversells collagen, but the science isn't entirely hype. Collagen peptides are broken down into tiny fragments that your body absorbs intact—and some actually reach your skin and cartilage, signaling cells to make more collagen naturally. For skin specifically, the evidence is solid: studies show 2.5-10g daily can reduce wrinkles by 20% and boost elasticity within 8-12 weeks, especially if you're over 45. Joint and gut benefits? Plausible, but not as well-proven. The takeaway: collagen supplements work for skin when dosed right, but they're not the anti-aging magic bullet marketing suggests. Results are real but modest—and usually require 8+ weeks to notice.</p>
+</div>
 
 ---
 

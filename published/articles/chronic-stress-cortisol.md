@@ -13,6 +13,18 @@ readTime: 9
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Stress is designed for short-term physical threats, not modern ongoing problems like work or money.</li>
+    <li>✓ Chronic stress keeps your emergency system running indefinitely, damaging brain structure and function.</li>
+    <li>✓ Prolonged cortisol shrinks your memory center and weakens emotional control while amplifying threat detection.</li>
+    <li>✓ Your immune system becomes paradoxically inflamed and dysfunctional under long-term stress exposure.</li>
+    <li>✓ The body loses ability to turn off the stress response once feedback mechanisms fail.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 The stress response is one of evolution's most elegant designs. Faced with a predator, your hypothalamus fires, your adrenal glands flood the bloodstream with cortisol and adrenaline, your heart rate doubles, glucose is mobilized from the liver, blood flows away from digestion and toward muscles, and your immune system primes for injury. You run or you fight. The threat passes. The system returns to baseline.
 
 This emergency cascade is perfectly suited to the threats humans faced for most of evolutionary history: acute, physical, brief.
@@ -83,6 +95,23 @@ The interventions with the most robust evidence for reducing chronic stress phys
 Chronic stress is not a personality problem or a failure of willpower. It is a biological state produced by a stress response system operating in an environment it wasn't designed for. Understanding it at that level — as a physiological system that can be measured, regulated, and normalized through specific practices — transforms the approach from "trying harder to relax" to targeted intervention on a biological feedback loop.
 
 The system can be recalibrated. The evidence on how is clear. The obstacle is treating stress management as a luxury rather than the primary health intervention it demonstrably is.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Identify your stressors:</strong> List what's actually chronic in your life—mortgage, difficult relationships, work pressure—and distinguish from real threats.</li>
+    <li>→ <strong>Build resolution timelines:</strong> Give yourself concrete end dates for stressful situations where possible to signal safety to your nervous system.</li>
+    <li>→ <strong>Strengthen prefrontal cortex:</strong> Practice deliberate perspective-taking and impulse control through meditation, journaling, or therapy to rebuild executive function.</li>
+    <li>→ <strong>Interrupt the cycle daily:</strong> Use brief breaks for deep breathing or movement to lower cortisol and help reset your baseline.</li>
+    <li>→ <strong>Prioritize sleep and exercise:</strong> Both directly improve hippocampal health and glucocorticoid sensitivity, restoring your stress system's ability to downregulate.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your body's stress system is built for lions, not loan payments. When threats are brief and physical, your nervous system handles it perfectly—then resets. But modern stress is endless: difficult bosses, money worries, toxic relationships. Your body treats these like predators, flooding cortisol indefinitely. The result? Your brain actually shrinks in regions that handle memory and emotional control, while threat-detection areas go into overdrive. You become hyperreactive, forgetful, and anxious. Worse, chronic stress breaks your system's ability to turn itself off. The solution isn't ignoring problems—it's signaling safety through sleep, movement, and creating actual resolution timelines so your nervous system knows the emergency is over.</p>
+</div>
 
 ---
 

@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Creatine isn't just for gym bros—women's brains naturally store less than men's</li>
+    <li>✓ Research shows creatine boosts muscle, strength, and brain energy in women</li>
+    <li>✓ Menstrual cycle phase affects how much strength gain you'll see from creatine</li>
+    <li>✓ Perimenopause causes brain creatine drops; supplementation may restore memory and focus</li>
+    <li>✓ Creatine supports bone density, especially important for postmenopausal women</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Most women who've heard of creatine picture a tub of white powder on a gym bro's shelf. That's a branding problem, not a science problem. The same molecule that's been studied for decades as a performance enhancer in male athletes turns out to have a strikingly different and arguably more compelling story in women — one that touches on cognition, mood, hormones, and bone health, not just bench press numbers.
 
 Here's the part that should reframe how you think about this supplement: the human brain runs on creatine. It uses roughly 20% of your body's total energy budget despite comprising only 2% of your body weight. During periods of high cognitive demand — or hormonal transition — the brain's creatine supply can become rate-limiting. And women, it turns out, have naturally lower baseline creatine stores than men, which may make them more responsive to supplementation across multiple systems.
@@ -85,6 +97,23 @@ Based on the available evidence, here is what a reasonable creatine protocol loo
 Start with 3g/day for the first week to assess GI tolerance, then move to your target dose. The effects are not acute — expect 3–4 weeks before meaningful changes in training performance or cognitive measures.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you are pregnant, nursing, or managing a mood or neurological condition.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Consider supplementation:</strong> Talk to your doctor about 5g daily creatine monohydrate if you're perimenopausal or struggling with focus</li>
+    <li>→ <strong>Time with your cycle:</strong> Track when you supplement relative to your menstrual cycle to optimize strength gains</li>
+    <li>→ <strong>Combine with resistance training:</strong> Creatine works best alongside strength work for muscle and bone benefits</li>
+    <li>→ <strong>Monitor for water retention:</strong> Creatine draws water into muscle cells; stay hydrated and expect slight weight gain</li>
+    <li>→ <strong>Start low, go steady:</strong> Begin with 3-5g daily rather than loading phases to assess tolerance</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Creatine is way more than a gym supplement. Women naturally have lower creatine stores than men, which matters because your brain runs on it—using 20% of your energy despite being 2% of your body weight. New research shows supplementation helps with muscle strength, brain energy during perimenopause, memory, and bone density. The catch? Your menstrual cycle affects how your body responds. The luteal phase blunts some strength gains. If you're dealing with brain fog during perimenopause, or want to boost both muscle and cognition, creatine has solid science behind it. 5g daily is the typical dose. It's cheap, safe, and increasingly backed by women-specific research.</p>
+</div>
 
 ---
 

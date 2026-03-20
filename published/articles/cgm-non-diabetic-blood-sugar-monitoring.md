@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ CGMs measure glucose in fluid under skin, not blood, with a 5-15 minute lag and potential 15% error margin in normal ranges.</li>
+    <li>✓ Blood sugar spikes after white bread are normal in healthy people and resolve within 90 minutes with minimal long-term impact.</li>
+    <li>✓ Healthy people regularly exceed the 140 mg/dL threshold without metabolic harm; transient spikes are normal physiology, not warning signs.</li>
+    <li>✓ Individual glucose responses to identical foods vary dramatically based on genetics, gut microbiome, and other personal factors.</li>
+    <li>✓ CGM accuracy is lower in normal glucose ranges where non-diabetics operate, making real-time alerts potentially misleading.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 If you strap a continuous glucose monitor to your arm and eat a slice of white bread, you will almost certainly watch your blood sugar spike. The app will flash. Your score will drop. You'll feel like you've done something wrong. But here's what that alert doesn't tell you: in a healthy person with a functioning pancreas, that spike is almost certainly going to resolve within 90 minutes, and the long-term health consequences may be close to zero. The question worth asking — the one the $89-per-sensor marketing rarely raises — is whether watching that number go up and then come down is actually doing anything useful for you.
 
 CGMs have become one of the fastest-growing segments in consumer health technology, migrating from hospital wards and endocrinology clinics into the wellness routines of people who have never had a blood sugar problem in their lives. The pitch is compelling: real-time metabolic feedback, personalized nutrition insights, early warning for pre-diabetes. Some of it holds up. A lot of it doesn't.
@@ -66,6 +78,23 @@ If you fall into one of the elevated-risk categories above, or if you're an athl
 For most metabolically healthy adults, an HbA1c test every year or two and a fasting insulin level provide most of the actionable information a CGM would generate — at a fraction of the cost and none of the ambient stress.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you have a history of disordered eating, diabetes, or cardiovascular disease.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Ignore isolated alerts:</strong> single glucose spikes in healthy people don't indicate harm; focus on patterns over weeks, not daily blips.</li>
+    <li>→ <strong>Verify with HbA1c:</strong> confirm metabolic health through standard blood tests rather than relying on CGM readings alone.</li>
+    <li>→ <strong>Test your response:</strong> if you use a CGM, compare your actual response to foods against published ranges for context.</li>
+    <li>→ <strong>Skip if healthy:</strong> unless you have prediabetes or diabetes symptoms, the $89-per-sensor cost likely exceeds the actionable benefit.</li>
+    <li>→ <strong>Watch for context:</strong> CGM data means nothing without knowing your sleep, stress, exercise, and microbiome—all major glucose influencers.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Want a CGM because everyone's talking about them? Here's the reality: they measure glucose in skin fluid, not blood, with delays and errors that matter more when you're healthy. That dramatic spike after white bread? Totally normal. Healthy people regularly spike above 140 mg/dL without problems—their bodies fix it in 90 minutes. The bigger issue: your glucose response to food depends heavily on your genetics, gut bacteria, sleep, and stress. An app alert can't tell you any of that. The sensors are validated mainly for diabetics, so accuracy drops right where you operate. Unless you have prediabetes or diabetes signs, you're probably paying $89 monthly to watch normal physiology happen. Science-backed insight requires context—not just real-time numbers.</p>
+</div>
 
 ---
 

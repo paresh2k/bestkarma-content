@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Estrogen powerfully shapes how women's bodies handle stress — standard stress advice ignores this.</li>
+    <li>✓ High estrogen helps cortisol clear faster and buffers stress; low estrogen makes you more reactive.</li>
+    <li>✓ Your stress sensitivity changes monthly with your cycle, surges during pregnancy, and shifts through perimenopause.</li>
+    <li>✓ Early cycle (low estrogen) makes you hormonally similar to men in stress response.</li>
+    <li>✓ Cortisol dysregulation in women links to bone loss, fat gain, sleep disruption, and depression risk.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Here is something most stress-management advice gets wrong: it was largely developed on male subjects, tested on male subjects, and calibrated to a male stress response. The result is a vast body of "universal" guidance that quietly ignores a biological reality — estrogen is one of the most powerful modulators of the human stress system. Which means that for women, stress isn't just an emotional experience or a lifestyle problem. It's a hormonal event, and it plays out differently depending on whether you're in the luteal phase of your cycle, three months postpartum, or two years into perimenopause. The stakes are not abstract: cortisol dysregulation in women is linked to accelerated bone loss, visceral fat accumulation, disrupted sleep architecture, and increased risk of depression — all outcomes that track closely with estrogen's fluctuating influence on the hypothalamic-pituitary-adrenal (HPA) axis.
 
 Understanding this isn't about adding another item to the wellness to-do list. It's about explaining why the same stressor that felt manageable at 32 can feel physiologically overwhelming at 48 — and what the biology actually tells us to do about it.
@@ -95,6 +107,23 @@ There is no single cortisol protocol. What the evidence supports differs meaning
 The honest caveat: most HPA axis research has studied acute, laboratory-induced stress rather than chronic, real-world cortisol burden. Salivary cortisol testing, widely marketed in direct-to-consumer wellness, remains poorly standardized and difficult to interpret without clinical context — a single morning reading tells you almost nothing. We also lack large RCTs on cycle-matched stress interventions, postpartum HPA recovery protocols, or the specific cortisol mechanisms underlying perimenopausal mood disruption. What we have is strong mechanistic evidence and observational data pointing in consistent directions. That's enough to act on — but not enough to be dogmatic about.
 
 Stress, for women, is not a uniform experience across a lifetime. The biology shifts under your feet, often precisely when life is most demanding. Knowing that the system is the problem — not your resilience — is, at minimum, a place to start.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Track your cycle:</strong> Log stress reactions weekly to spot your high-sensitivity phase and plan demanding tasks for high-estrogen weeks.</li>
+    <li>→ <strong>Adjust intensity by phase:</strong> During low-estrogen phases, reduce stressors when possible and prioritize sleep and recovery protocols.</li>
+    <li>→ <strong>Strengthen negative feedback:</strong> Regular aerobic exercise enhances cortisol clearance regardless of cycle phase.</li>
+    <li>→ <strong>Know your PMDD signs:</strong> If late-cycle anxiety, sleep loss, or mood changes are severe, discuss with a provider—it's neurological, not willpower.</li>
+    <li>→ <strong>Reassess at transitions:</strong> Stress tolerance shifts postpartum and through perimenopause; what worked at 32 may not work at 48.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Most stress advice was built on men—and that's a problem for women. Here's why: estrogen is like a master switch on your stress system. When it's high, your body clears cortisol faster and stays calm. When it's low, you react harder to the same stressors. This doesn't just happen once—it cycles monthly, shifts during pregnancy and postpartum, and changes again through perimenopause. That deadline that felt manageable last month? Might feel overwhelming this week because your estrogen is lower. The biology is real, and it matters for bone health, sleep, fat storage, and mental health. Stop blaming yourself. Start timing your stress awareness to your hormones.</p>
+</div>
 
 ---
 

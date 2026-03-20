@@ -13,6 +13,18 @@ readTime: 8
 status: approved
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Every cell in your body has a 24-hour molecular clock that controls metabolism, immunity, and sleep.</li>
+    <li>✓ When your schedule aligns with this clock, you thrive. When it doesn't, health problems follow.</li>
+    <li>✓ Circadian disruption increases risk of metabolic syndrome, cancer, and depression—independent of total sleep time.</li>
+    <li>✓ Light is the master signal, but meal timing, exercise, and routine also reset your body's clocks.</li>
+    <li>✓ Shift workers face 29-50% higher metabolic syndrome risk because their organs run on conflicting schedules.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 There is a clock inside every cell in your body. Not a metaphor — a literal molecular clock, built from interlocking protein loops that cycle with a period of approximately 24 hours. This clock anticipates the demands of the day before they arrive. It prepares your liver for the metabolic load of breakfast. It primes your immune system for peak function in the early afternoon. It suppresses cortisol so you can sleep, then releases it so you can wake.
 
 When your behavior — your meal timing, your light exposure, your sleep schedule — aligns with this clock, you function well. When it doesn't, the consequences extend far beyond feeling tired.
@@ -76,6 +88,23 @@ Sleep medicine has spent decades focused on duration — how many hours you slee
 You can sleep 7.5 hours and be metabolically damaged if those hours are at the wrong circadian phase, with irregular timing, and surrounded by poor light habits. You can sleep 7 hours with consistent timing, good morning light, and evening darkness and have a well-tuned circadian system supporting every organ in your body.
 
 Working with your body clock costs nothing. Working against it costs years.
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Anchor morning light:</strong> Get bright light exposure within 1-2 hours of waking to synchronize your master clock daily.</li>
+    <li>→ <strong>Eat on schedule:</strong> Consume meals at consistent times to align peripheral organ clocks and improve metabolic health.</li>
+    <li>→ <strong>Avoid late meals:</strong> Eat dinner 2-3 hours before bed to match your circadian metabolic dips and prevent fat storage.</li>
+    <li>→ <strong>Limit evening blue light:</strong> Reduce screen time after sunset to protect melatonin production and sleep quality.</li>
+    <li>→ <strong>Keep consistent routine:</strong> Maintain the same sleep, wake, and meal times daily—even weekends—to prevent internal organ desynchrony.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Your body isn't just running on sleep—it's running on timing. Every organ from your liver to your immune system operates on a 24-hour schedule that expects breakfast at a certain time, peak alertness in the afternoon, and sleep at night. When you eat, sleep, and expose yourself to light randomly, your organs get confused and run on different schedules. The result? Weight gain, higher cancer risk, depression, and metabolic breakdown. This isn't about sleeping more hours; it's about sleeping at the right time. Night shift workers prove this: even with the same total sleep, their misaligned schedules cause 29-50% higher metabolic disease. The fix is simple: sync your life to light and food timing. Your cells will thank you.</p>
+</div>
 
 ---
 

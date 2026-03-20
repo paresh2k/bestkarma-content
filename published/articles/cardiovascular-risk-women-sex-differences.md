@@ -13,6 +13,18 @@ readTime: 8
 status: validated
 ---
 
+<div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
+    <li>✓ Women were excluded from heart disease research until 1993, shaping flawed guidelines still used today.</li>
+    <li>✓ Heart disease kills more women than all cancers combined, yet diagnosis and treatment lag behind men's.</li>
+    <li>✓ Women's heart attack symptoms differ (jaw pain, fatigue, nausea) but doctors are trained to recognize male patterns.</li>
+    <li>✓ Standard risk calculators underestimate danger in women, especially younger women and women of color.</li>
+    <li>✓ Female-specific risk factors like PCOS and premature menopause aren't adequately factored into clinical assessments.</li>
+  </ul>
+  <a href="#quick-read" class="inline-block mt-4 text-xs font-medium text-sage-dark hover:text-sage transition-colors">→ Jump to Quick Read</a>
+</div>
+
 Until 1993, women were routinely excluded from major cardiovascular clinical trials. Not as an oversight — as policy. The assumption was that women were essentially smaller men with hormonal noise that complicated the data. That assumption has cost lives. Today, heart disease kills more women than all cancers combined, yet women are still less likely to be referred for cardiac testing, less likely to receive evidence-based medications after a heart attack, and more likely to be sent home from the emergency department with a diagnosis of anxiety. The problem isn't just historical. It's happening right now, in hospitals with excellent reputations, to patients with real arterial disease.
 
 The gap between how heart disease presents in women and how medicine has been trained to recognize it is one of the most consequential mismatches in modern healthcare. Closing it starts with understanding what the evidence actually says — and knowing which tests to ask for.
@@ -88,6 +100,23 @@ This is not about catastrophizing your risk — it's about getting an accurate p
 The good news is that cardiovascular disease is largely preventable, and the interventions that work — blood pressure control, lipid management, aerobic fitness, not smoking — work in women as well as they do in men. The problem has never been a lack of solutions. It's been a failure to accurately identify who needs them.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine.*
+
+
+<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
+  <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
+    <li>→ <strong>Know your symptoms:</strong> Learn that women's heart attacks present as jaw pain, nausea, unusual fatigue, and back pain—not just chest pain.</li>
+    <li>→ <strong>Challenge the calculator:</strong> Ask your doctor about female-specific risk enhancers beyond standard risk scores, especially if you have PCOS or pregnancy complications.</li>
+    <li>→ <strong>Advocate at visits:</strong> Explicitly mention autoimmune conditions, early menopause, or adverse pregnancy outcomes—doctors often don't connect these to heart disease in women.</li>
+    <li>→ <strong>Request advanced testing:</strong> Ask about coronary angiography or imaging if symptoms are vague but persistent; don't accept anxiety as a diagnosis without cardiac evaluation.</li>
+    <li>→ <strong>Find informed providers:</strong> Seek cardiologists trained in sex-specific cardiology; ask directly if they assess women's risk differently than men's.</li>
+  </ul>
+</div>
+
+<div id="quick-read" class="not-prose rounded-2xl bg-bark px-6 py-5 mt-12 mb-8">
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-cream mb-3">Quick Read</p>
+  <p class="text-sm leading-relaxed" style="color: rgba(250,247,240,0.9)">Here's the reality: heart disease kills more women than all cancers combined, yet we're still using medical guidelines designed for men. Women's heart attacks feel different—jaw pain, nausea, fatigue instead of crushing chest pain—but doctors are trained to spot the male version. Standard risk calculators miss danger in women, especially younger women and women of color. Even worse, female-specific risk factors like PCOS, autoimmune disease, and pregnancy complications aren't properly factored in. Women under 60 are twice as likely to be misdiagnosed after a heart attack and less likely to receive lifesaving treatment. The fix isn't waiting for medicine to catch up—it's knowing your own risk factors, learning different symptoms, and pushing back if you're dismissed as anxious.</p>
+</div>
 
 ---
 
