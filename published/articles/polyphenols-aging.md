@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
-heroImage: "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/polyphenols-aging.jpg"
 category: nutrition
 tags: [polyphenols, antioxidants, plant-foods, gut-health, flavonoids, longevity]
 readTime: 8

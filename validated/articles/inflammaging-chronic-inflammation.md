@@ -2,7 +2,7 @@
 title: "Inflammaging: The Slow-Burning Fire That Drives Every Major Disease of Aging"
 description: "Italian gerontologist Claudio Franceschi coined 'inflammaging' in 2000 to describe the chronic, low-grade inflammation that underlies Alzheimer's, cardiovascular disease, cancer, and diabetes. Understanding it may be the most important thing you can do for your long-term health."
 pubDate: 2026-03-18
-heroImage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/inflammaging-chronic-inflammation.jpg"
 category: longevity
 tags: [inflammation, inflammaging, longevity, diet, lifestyle, body, chronic-disease, anti-inflammatory]
 readTime: 9

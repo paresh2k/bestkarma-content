@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
-heroImage: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/mediterranean-diet-science.jpg"
 category: nutrition
 tags: [mediterranean-diet, cardiovascular-health, nutrition, longevity, olive-oil]
 readTime: 8

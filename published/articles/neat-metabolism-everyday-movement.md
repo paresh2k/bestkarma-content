@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
-heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/neat-metabolism-everyday-movement.jpg"
 category: wellness
 tags: [neat, metabolism, sedentary-behavior, weight-management, movement, energy-expenditure]
 readTime: 8

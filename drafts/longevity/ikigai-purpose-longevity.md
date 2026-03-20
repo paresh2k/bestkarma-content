@@ -2,7 +2,7 @@
 title: "The Ikigai Effect: How Having a Purpose Adds Years to Your Life"
 description: "Decades of research from Japan to the United States confirm that people with a clear sense of purpose live longer, healthier lives. Here's the science behind why your 'why' is a longevity tool."
 pubDate: 2026-03-18
-heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/ikigai-purpose-longevity.jpg"
 category: longevity
 tags: [ikigai, purpose, longevity, mental-health, soul, blue-zones]
 readTime: 8

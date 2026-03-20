@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
-heroImage: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/glymphatic-system-sleep-brain.jpg"
 category: longevity
 tags: [sleep, brain-health, alzheimers, glymphatic, dementia-prevention]
 readTime: 7

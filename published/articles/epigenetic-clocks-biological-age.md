@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
-heroImage: "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/epigenetic-clocks-biological-age.jpg"
 category: longevity
 tags: [epigenetics, biological-age, aging-reversal, dna-methylation, longevity-science]
 readTime: 9

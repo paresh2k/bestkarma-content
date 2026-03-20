@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18
 reviewedDate: 2026-03-18
-heroImage: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/apob-cardiovascular-risk-longevity.jpg"
 category: longevity
 tags: ["ApoB", "cardiovascular", "LDL", "biomarkers", "longevity"]
 readTime: 8

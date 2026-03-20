@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18
 reviewedDate: 2026-03-18
-heroImage: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/chronic-stress-cortisol.jpg"
 category: mind-body
 tags: [stress, cortisol, hpa-axis, chronic-stress, resilience, inflammation]
 readTime: 9

@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
-heroImage: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/sunlight-circadian-health.jpg"
 category: wellness
 tags: [sunlight, circadian-rhythm, cardiovascular-health, mood, vitamin-d, morning-routine]
 readTime: 8

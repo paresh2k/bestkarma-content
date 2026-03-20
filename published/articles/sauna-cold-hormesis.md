@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
-heroImage: "https://images.unsplash.com/photo-1544161513-0179fe746fd5?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/sauna-cold-hormesis.jpg"
 category: longevity
 tags: [sauna, cold-exposure, hormesis, cardiovascular-health, longevity]
 readTime: 7

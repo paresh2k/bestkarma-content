@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
-heroImage: "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/exercise-snacks-movement.jpg"
 category: wellness
 tags: [exercise-snacks, sedentary-behavior, metabolic-health, movement, productivity]
 readTime: 7

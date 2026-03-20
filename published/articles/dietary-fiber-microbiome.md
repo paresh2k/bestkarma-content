@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16
 reviewedDate: 2026-03-16
-heroImage: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/dietary-fiber-microbiome.jpg"
 category: nutrition
 tags: [dietary-fiber, microbiome, gut-health, prebiotic, butyrate, nutrition]
 readTime: 7

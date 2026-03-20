@@ -6,7 +6,7 @@ author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18
 reviewedDate: 2026-03-18
-heroImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&auto=format&fit=crop&q=80"
+heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/purpose-ikigai-health.jpg"
 category: wellness
 tags: [purpose, ikigai, meaning, longevity, mental-health, motivation, wellbeing]
 readTime: 8
