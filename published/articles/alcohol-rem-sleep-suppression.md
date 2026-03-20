@@ -104,11 +104,11 @@ If you drink and care about sleep quality, the evidence points to a few specific
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Skip alcohol** 3-4 hours before bed to preserve REM sleep and sleep stage cycling.</li>
-    <li>→ **Don't use** wine or nightcaps as a sleep aid, even occasionally—one drink measurably harms architecture.</li>
-    <li>→ **Track your sleep** with wearables to see how even light drinking affects your actual sleep quality.</li>
-    <li>→ **Accept the tradeoff:** faster sleep onset isn't worth fragmented, shallow sleep in the second half.</li>
-    <li>→ **Choose alternatives** like cool rooms, magnesium, or meditation to fall asleep without compromising sleep stages.</li>
+    <li>→ <strong>Skip alcohol</strong> 3-4 hours before bed to preserve REM sleep and sleep stage cycling.</li>
+    <li>→ <strong>Don't use</strong> wine or nightcaps as a sleep aid, even occasionally—one drink measurably harms architecture.</li>
+    <li>→ <strong>Track your sleep</strong> with wearables to see how even light drinking affects your actual sleep quality.</li>
+    <li>→ <strong>Accept the tradeoff:</strong> faster sleep onset isn't worth fragmented, shallow sleep in the second half.</li>
+    <li>→ <strong>Choose alternatives</strong> like cool rooms, magnesium, or meditation to fall asleep without compromising sleep stages.</li>
   </ul>
 </div>
 

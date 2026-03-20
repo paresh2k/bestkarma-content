@@ -95,11 +95,11 @@ The brain you have at 75 is being built, or eroded, right now. The good news —
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Control blood pressure** now: midlife hypertension doubles dementia risk decades later.</li>
-    <li>→ **Prioritize sleep quality**, especially deep sleep, to activate your brain's waste-clearing system.</li>
-    <li>→ **Build cognitive reserve** through exercise, social engagement, and learning new skills regularly.</li>
-    <li>→ **Manage cholesterol and diet** to protect blood vessel health in your brain.</li>
-    <li>→ **Act in your forties**, not seventies—the window for prevention is happening right now.</li>
+    <li>→ <strong>Control blood pressure</strong> now: midlife hypertension doubles dementia risk decades later.</li>
+    <li>→ <strong>Prioritize sleep quality</strong>, especially deep sleep, to activate your brain's waste-clearing system.</li>
+    <li>→ <strong>Build cognitive reserve</strong> through exercise, social engagement, and learning new skills regularly.</li>
+    <li>→ <strong>Manage cholesterol and diet</strong> to protect blood vessel health in your brain.</li>
+    <li>→ <strong>Act in your forties</strong>, not seventies—the window for prevention is happening right now.</li>
   </ul>
 </div>
 

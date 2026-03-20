@@ -97,11 +97,11 @@ Bone broth is real food with real compounds and a reasonable — if modest — e
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Don't expect** bone broth to work like a collagen supplement — the science supporting each is different.</li>
-    <li>→ **Check labels** for actual protein content; commercial broths range from 2.5g to 8.4g per cup.</li>
-    <li>→ **Combine broth** with vitamin C and exercise if joint health is your goal; broth alone won't do it.</li>
-    <li>→ **Make or buy** broth for flavor and minerals, not as a medical intervention.</li>
-    <li>→ **Consider hydrolyzed** collagen (2.5–10g daily) if you want clinically-backed joint or skin support.</li>
+    <li>→ <strong>Don't expect</strong> bone broth to work like a collagen supplement — the science supporting each is different.</li>
+    <li>→ <strong>Check labels</strong> for actual protein content; commercial broths range from 2.5g to 8.4g per cup.</li>
+    <li>→ <strong>Combine broth</strong> with vitamin C and exercise if joint health is your goal; broth alone won't do it.</li>
+    <li>→ <strong>Make or buy</strong> broth for flavor and minerals, not as a medical intervention.</li>
+    <li>→ <strong>Consider hydrolyzed</strong> collagen (2.5–10g daily) if you want clinically-backed joint or skin support.</li>
   </ul>
 </div>
 

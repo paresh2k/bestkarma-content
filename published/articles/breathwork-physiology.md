@@ -89,11 +89,11 @@ Within that scope, it remains one of the most evidence-supported, immediately av
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Try cyclic sighing:** Double inhale through nose, then slow exhale through mouth, 5-10 times daily.</li>
-    <li>→ **Use breathing as medicine:** It's the fastest way to activate your parasympathetic (calming) nervous system without drugs.</li>
-    <li>→ **Slow down during panic:** Hyperventilation worsens anxiety; slower breathing restores CO2 balance and calm.</li>
-    <li>→ **Practice coherent breathing:** Aim for 5-6 breaths per minute to maximize heart rate variability and stress relief.</li>
-    <li>→ **Make it a habit:** Just 2-4 minutes daily produces measurable drops in anxiety, cortisol, and improves sleep quality.</li>
+    <li>→ <strong>Try cyclic sighing:</strong> Double inhale through nose, then slow exhale through mouth, 5-10 times daily.</li>
+    <li>→ <strong>Use breathing as medicine:</strong> It's the fastest way to activate your parasympathetic (calming) nervous system without drugs.</li>
+    <li>→ <strong>Slow down during panic:</strong> Hyperventilation worsens anxiety; slower breathing restores CO2 balance and calm.</li>
+    <li>→ <strong>Practice coherent breathing:</strong> Aim for 5-6 breaths per minute to maximize heart rate variability and stress relief.</li>
+    <li>→ <strong>Make it a habit:</strong> Just 2-4 minutes daily produces measurable drops in anxiety, cortisol, and improves sleep quality.</li>
   </ul>
 </div>
 

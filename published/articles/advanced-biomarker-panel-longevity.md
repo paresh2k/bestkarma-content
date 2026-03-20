@@ -131,11 +131,11 @@ The goal of this panel is not to find disease — it's to intercept it. Most of 
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Ask your doctor** for ApoB, Lp(a), and hsCRP at your next physical—they're not standard but matter.</li>
-    <li>→ **Get fasting insulin tested** even if glucose looks normal; it detects metabolic dysfunction early.</li>
-    <li>→ **Request the expanded panel** of 20 biomarkers instead of the basic 6-8 marker workup.</li>
-    <li>→ **Track these annually** as a dashboard of aging speed, not just disease presence or absence.</li>
-    <li>→ **Combine results with lifestyle** changes—some markers like Lp(a) are genetic, but most respond to intervention.</li>
+    <li>→ <strong>Ask your doctor</strong> for ApoB, Lp(a), and hsCRP at your next physical—they're not standard but matter.</li>
+    <li>→ <strong>Get fasting insulin tested</strong> even if glucose looks normal; it detects metabolic dysfunction early.</li>
+    <li>→ <strong>Request the expanded panel</strong> of 20 biomarkers instead of the basic 6-8 marker workup.</li>
+    <li>→ <strong>Track these annually</strong> as a dashboard of aging speed, not just disease presence or absence.</li>
+    <li>→ <strong>Combine results with lifestyle</strong> changes—some markers like Lp(a) are genetic, but most respond to intervention.</li>
   </ul>
 </div>
 

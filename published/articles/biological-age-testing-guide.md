@@ -113,11 +113,11 @@ The value of epigenetic testing isn't that it tells you something your doctor co
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Check which clock** your test uses—GrimAge and DunedinPACE are far more predictive than first-generation versions.</li>
-    <li>→ **Don't panic** if your score is high; it's a risk signal, not a diagnosis or guarantee.</li>
-    <li>→ **Use it as baseline** data to track progress over time, especially if you change diet, exercise, or sleep habits.</li>
-    <li>→ **Combine with other markers**—blood work, fitness tests, and medical history matter more than any single epigenetic score.</li>
-    <li>→ **Discuss results** with a doctor who understands epigenetic clocks; some practitioners oversell their implications.</li>
+    <li>→ <strong>Check which clock</strong> your test uses—GrimAge and DunedinPACE are far more predictive than first-generation versions.</li>
+    <li>→ <strong>Don't panic</strong> if your score is high; it's a risk signal, not a diagnosis or guarantee.</li>
+    <li>→ <strong>Use it as baseline</strong> data to track progress over time, especially if you change diet, exercise, or sleep habits.</li>
+    <li>→ <strong>Combine with other markers</strong>—blood work, fitness tests, and medical history matter more than any single epigenetic score.</li>
+    <li>→ <strong>Discuss results</strong> with a doctor who understands epigenetic clocks; some practitioners oversell their implications.</li>
   </ul>
 </div>
 

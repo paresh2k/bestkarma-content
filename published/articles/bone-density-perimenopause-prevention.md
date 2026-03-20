@@ -102,11 +102,11 @@ The most important thing to understand is that the five to seven years around me
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Start strength training now** if you're in perimenopause; deadlifts, squats, and presses rebuild bone fastest.</li>
-    <li>→ **Don't wait for menopause** to act on bone health—perimenopause is when prevention matters most.</li>
-    <li>→ **Add impact exercise** like jumping or plyometrics alongside heavy lifting for maximum bone density gains.</li>
-    <li>→ **Discuss DEXA screening** with your doctor in your late forties if you have risk factors.</li>
-    <li>→ **Intensity matters more** than gentleness—heavy weights work better than resistance bands for bone protection.</li>
+    <li>→ <strong>Start strength training now</strong> if you're in perimenopause; deadlifts, squats, and presses rebuild bone fastest.</li>
+    <li>→ <strong>Don't wait for menopause</strong> to act on bone health—perimenopause is when prevention matters most.</li>
+    <li>→ <strong>Add impact exercise</strong> like jumping or plyometrics alongside heavy lifting for maximum bone density gains.</li>
+    <li>→ <strong>Discuss DEXA screening</strong> with your doctor in your late forties if you have risk factors.</li>
+    <li>→ <strong>Intensity matters more</strong> than gentleness—heavy weights work better than resistance bands for bone protection.</li>
   </ul>
 </div>
 

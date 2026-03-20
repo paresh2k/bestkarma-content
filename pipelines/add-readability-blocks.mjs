@@ -52,9 +52,14 @@ ${items}
 </div>`;
 }
 
+// Convert **text** markdown to <strong>text</strong> for use inside HTML blocks
+function mdBold(text) {
+  return text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+}
+
 // Build the Key Takeaways HTML block
 function buildKeyTakeawaysBlock(takeaways) {
-  const items = takeaways.map(t => `    <li>${t}</li>`).join('\n');
+  const items = takeaways.map(t => `    <li>${mdBold(t)}</li>`).join('\n');
   return `<div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">

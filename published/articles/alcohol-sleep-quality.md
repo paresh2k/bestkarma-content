@@ -91,11 +91,11 @@ The biology here is not ambiguous. Alcohol accelerates the beginning of sleep an
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Skip the nightcap** — the faster sleep onset isn't worth the fragmented, low-quality sleep that follows.</li>
-    <li>→ **Check your wearable data** after drinking to see your own heart rate elevation and reduced sleep scores.</li>
-    <li>→ **Protect REM sleep** by avoiding alcohol 3-4 hours before bed to preserve emotional and creative recovery.</li>
-    <li>→ **Count the real cost** — you're not just losing sleep quality, you're losing emotional processing and memory consolidation.</li>
-    <li>→ **Notice the cumulative effect** — even moderate drinking several nights weekly compounds sleep damage over weeks and months.</li>
+    <li>→ <strong>Skip the nightcap</strong> — the faster sleep onset isn't worth the fragmented, low-quality sleep that follows.</li>
+    <li>→ <strong>Check your wearable data</strong> after drinking to see your own heart rate elevation and reduced sleep scores.</li>
+    <li>→ <strong>Protect REM sleep</strong> by avoiding alcohol 3-4 hours before bed to preserve emotional and creative recovery.</li>
+    <li>→ <strong>Count the real cost</strong> — you're not just losing sleep quality, you're losing emotional processing and memory consolidation.</li>
+    <li>→ <strong>Notice the cumulative effect</strong> — even moderate drinking several nights weekly compounds sleep damage over weeks and months.</li>
   </ul>
 </div>
 

@@ -97,11 +97,11 @@ ApoB is one of the most cost-effective tests you can add to your next annual blo
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Ask your doctor** about ApoB testing if standard cholesterol results say you're fine but heart disease runs in your family.</li>
-    <li>→ **Don't assume** normal LDL means low cardiovascular risk; request ApoB to get the complete particle-count picture.</li>
-    <li>→ **Track ApoB trends** over time, especially if you're on statins, since it better reflects actual atherosclerosis progression.</li>
-    <li>→ **Discuss ApoB results** with your doctor to guide treatment decisions beyond standard LDL targets.</li>
-    <li>→ **Prioritize particle reduction** through diet, exercise, and medication based on ApoB rather than cholesterol numbers alone.</li>
+    <li>→ <strong>Ask your doctor</strong> about ApoB testing if standard cholesterol results say you're fine but heart disease runs in your family.</li>
+    <li>→ <strong>Don't assume</strong> normal LDL means low cardiovascular risk; request ApoB to get the complete particle-count picture.</li>
+    <li>→ <strong>Track ApoB trends</strong> over time, especially if you're on statins, since it better reflects actual atherosclerosis progression.</li>
+    <li>→ <strong>Discuss ApoB results</strong> with your doctor to guide treatment decisions beyond standard LDL targets.</li>
+    <li>→ <strong>Prioritize particle reduction</strong> through diet, exercise, and medication based on ApoB rather than cholesterol numbers alone.</li>
   </ul>
 </div>
 

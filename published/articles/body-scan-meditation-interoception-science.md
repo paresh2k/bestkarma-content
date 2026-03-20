@@ -95,11 +95,11 @@ The goal is not relaxation, though relaxation may occur. The goal is **attention
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Start a body scan:** Practice 10 minutes daily, moving attention slowly from toes to head without judgment.</li>
-    <li>→ **Notice the difference:** Track how your emotional responses change as you improve internal body awareness.</li>
-    <li>→ **Use MBSR programs:** Follow structured 8-week mindfulness courses for evidence-backed interoception training.</li>
-    <li>→ **Distinguish awareness types:** Understand that feeling confident and being accurate are different—both matter for health.</li>
-    <li>→ **Make it routine:** Consistency matters more than duration; daily practice rewires your insula more effectively.</li>
+    <li>→ <strong>Start a body scan:</strong> Practice 10 minutes daily, moving attention slowly from toes to head without judgment.</li>
+    <li>→ <strong>Notice the difference:</strong> Track how your emotional responses change as you improve internal body awareness.</li>
+    <li>→ <strong>Use MBSR programs:</strong> Follow structured 8-week mindfulness courses for evidence-backed interoception training.</li>
+    <li>→ <strong>Distinguish awareness types:</strong> Understand that feeling confident and being accurate are different—both matter for health.</li>
+    <li>→ <strong>Make it routine:</strong> Consistency matters more than duration; daily practice rewires your insula more effectively.</li>
   </ul>
 </div>
 

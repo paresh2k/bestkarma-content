@@ -85,11 +85,11 @@ For most people in routine modern life, the most reliable underutilized source o
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Seek expansive nature:** Visit mountains, oceans, or night skies to trigger awe's anti-inflammatory effects.</li>
-    <li>→ **Experience live performance:** Attend concerts, theater, or live art to activate parasympathetic nervous system benefits.</li>
-    <li>→ **Watch awe content:** Use online videos of nature and human achievement three times weekly for measurable mood improvement.</li>
-    <li>→ **Find vastness daily:** Seek experiences that stretch your understanding—deep history, cosmology, or moral courage moments.</li>
-    <li>→ **Notice the disruption:** Awe requires cognitive effort. Sit with experiences that don't fit your usual mental frameworks.</li>
+    <li>→ <strong>Seek expansive nature:</strong> Visit mountains, oceans, or night skies to trigger awe's anti-inflammatory effects.</li>
+    <li>→ <strong>Experience live performance:</strong> Attend concerts, theater, or live art to activate parasympathetic nervous system benefits.</li>
+    <li>→ <strong>Watch awe content:</strong> Use online videos of nature and human achievement three times weekly for measurable mood improvement.</li>
+    <li>→ <strong>Find vastness daily:</strong> Seek experiences that stretch your understanding—deep history, cosmology, or moral courage moments.</li>
+    <li>→ <strong>Notice the disruption:</strong> Awe requires cognitive effort. Sit with experiences that don't fit your usual mental frameworks.</li>
   </ul>
 </div>
 

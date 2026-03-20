@@ -110,11 +110,11 @@ One foot on the floor. It turns out that's where a surprising amount of your fut
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Test your balance:** Stand on one leg for 10 seconds daily to gauge your biological health.</li>
-    <li>→ **Train your cerebellum:** Do balance exercises like single-leg stands, tai chi, or yoga regularly.</li>
-    <li>→ **See a doctor if:** You can't balance on one leg for more than 5 seconds.</li>
-    <li>→ **Start small:** Even 20 seconds daily of balance work can improve sensorimotor integration.</li>
-    <li>→ **Track trends:** Declining balance over months may signal neurological changes worth investigating.</li>
+    <li>→ <strong>Test your balance:</strong> Stand on one leg for 10 seconds daily to gauge your biological health.</li>
+    <li>→ <strong>Train your cerebellum:</strong> Do balance exercises like single-leg stands, tai chi, or yoga regularly.</li>
+    <li>→ <strong>See a doctor if:</strong> You can't balance on one leg for more than 5 seconds.</li>
+    <li>→ <strong>Start small:</strong> Even 20 seconds daily of balance work can improve sensorimotor integration.</li>
+    <li>→ <strong>Track trends:</strong> Declining balance over months may signal neurological changes worth investigating.</li>
   </ul>
 </div>
 

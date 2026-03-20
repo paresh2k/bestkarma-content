@@ -89,11 +89,11 @@ The uncomfortable truth is that most of us are very good at leisure, moderately 
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Identify your play type:** Joker, Kinesthete, Explorer, Creator, Storyteller, Competitor, Collector, or Director—then practice it weekly.</li>
-    <li>→ **Distinguish play from exercise:** Recreation has goals; true play is purposeless, voluntary, and intrinsically motivating.</li>
-    <li>→ **Schedule unstructured time:** Block 30 minutes weekly for genuinely purposeless activity without productivity outcomes.</li>
-    <li>→ **Notice time distortion:** When you lose track of time doing something, you're probably playing—protect that.</li>
-    <li>→ **Abandon guilt about play:** It's not laziness; it's a biological health necessity, not a productivity reward.</li>
+    <li>→ <strong>Identify your play type:</strong> Joker, Kinesthete, Explorer, Creator, Storyteller, Competitor, Collector, or Director—then practice it weekly.</li>
+    <li>→ <strong>Distinguish play from exercise:</strong> Recreation has goals; true play is purposeless, voluntary, and intrinsically motivating.</li>
+    <li>→ <strong>Schedule unstructured time:</strong> Block 30 minutes weekly for genuinely purposeless activity without productivity outcomes.</li>
+    <li>→ <strong>Notice time distortion:</strong> When you lose track of time doing something, you're probably playing—protect that.</li>
+    <li>→ <strong>Abandon guilt about play:</strong> It's not laziness; it's a biological health necessity, not a productivity reward.</li>
   </ul>
 </div>
 

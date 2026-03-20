@@ -93,11 +93,11 @@ Blood sugar stability isn't the most glamorous topic in health optimization. But
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ **Track post-meal** glucose responses using continuous glucose monitors to see how your body actually reacts to foods, not just fasting numbers.</li>
-    <li>→ **Test your individual** glucose response to the same foods on different days to find your personal metabolic pattern.</li>
-    <li>→ **Flatten your glucose** spikes by eating protein and fat before carbs, spacing meals appropriately, and timing exercise strategically.</li>
-    <li>→ **Monitor for reactive** hypoglycemia crashes — hunger spikes 2-3 hours after meals signal dysregulated glucose control.</li>
-    <li>→ **Prioritize sleep and** stress management since they directly alter glucose responses independent of diet or exercise.</li>
+    <li>→ <strong>Track post-meal</strong> glucose responses using continuous glucose monitors to see how your body actually reacts to foods, not just fasting numbers.</li>
+    <li>→ <strong>Test your individual</strong> glucose response to the same foods on different days to find your personal metabolic pattern.</li>
+    <li>→ <strong>Flatten your glucose</strong> spikes by eating protein and fat before carbs, spacing meals appropriately, and timing exercise strategically.</li>
+    <li>→ <strong>Monitor for reactive</strong> hypoglycemia crashes — hunger spikes 2-3 hours after meals signal dysregulated glucose control.</li>
+    <li>→ <strong>Prioritize sleep and</strong> stress management since they directly alter glucose responses independent of diet or exercise.</li>
   </ul>
 </div>
 
