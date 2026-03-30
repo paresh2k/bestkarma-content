@@ -59,12 +59,14 @@ async function validateBundleMetadata(bucketDir, slug, required) {
   const sourcesPath = path.join(metadataDir, 'sources.json');
   const reviewPath = path.join(metadataDir, 'review.json');
   const imagePath = path.join(metadataDir, 'image.json');
+  const videoPath = path.join(metadataDir, 'video.json');
   const errors = [];
   const warnings = [];
 
   const hasSources = await fileExists(sourcesPath);
   const hasReview = await fileExists(reviewPath);
   const hasImage = await fileExists(imagePath);
+  const hasVideo = await fileExists(videoPath);
 
   if (required && !hasSources) errors.push(`${slug}: missing sources.json bundle metadata`);
   if (required && !hasReview) errors.push(`${slug}: missing review.json bundle metadata`);
@@ -74,10 +76,15 @@ async function validateBundleMetadata(bucketDir, slug, required) {
     warnings.push(`${slug}: legacy published article is missing one or more bundle metadata files`);
   }
 
+  if (hasVideo) {
+    warnings.push(`${slug}: video.json present; ensure social hooks were reviewed before posting`);
+  }
+
   for (const [label, filePath] of [
     ['sources.json', sourcesPath],
     ['review.json', reviewPath],
     ['image.json', imagePath],
+    ['video.json', videoPath],
   ]) {
     if (!(await fileExists(filePath))) continue;
     try {

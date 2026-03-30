@@ -1,0 +1,82 @@
+{
+  "status": "rendered",
+  "sourceArticleSlug": "alcohol-rem-sleep-suppression",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most people think one drink helps them sleep. The evidence says it wrecks recovery.",
+  "durationSeconds": 25,
+  "script": {
+    "hook": "Most people think one drink helps them sleep.",
+    "beats": [
+      "It may help you fall asleep faster, but that is not the same thing as sleeping well.",
+      "Alcohol suppresses REM and disrupts the second half of the night when your brain should be recovering.",
+      "Even low doses change sleep architecture, so the effect starts earlier than most people realize."
+    ],
+    "close": "If you care about sleep quality, leave more time between drinking and bed. Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Hook card with bold myth-versus-reality framing",
+    "Simple transition from falling asleep fast to fragmented sleep later",
+    "REM and recovery message card",
+    "Practical takeaway and BestKarma close"
+  ],
+  "captions": {
+    "instagram": "A drink can make you sleepy while still damaging the part of sleep that matters most for recovery. Falling asleep faster is not the same as sleeping better. Save this for later.",
+    "facebook": "A lot of people use alcohol like a sleep aid. The problem is that it can suppress REM and fragment the second half of the night. Feeling sleepy is not the same as getting restorative sleep.",
+    "tiktok": "One drink can make you sleepy and still mess with REM. That is why you can sleep fast and wake up feeling off the next day.",
+    "youtube": "One drink before bed may help you fall asleep faster, but it can still suppress REM and reduce the recovery value of your sleep."
+  },
+  "titles": {
+    "instagram": "One Drink Hurts Sleep",
+    "facebook": "Why One Drink Can Wreck Sleep",
+    "tiktok": "One Drink and Bad Sleep",
+    "youtube": "Why One Drink Suppresses REM Sleep"
+  },
+  "hashtags": [
+    "sleep",
+    "sleepscience",
+    "recovery",
+    "health",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Do not say alcohol always causes the same effect in every person.",
+    "Keep the caveat that sedation is not the same as restorative sleep."
+  ],
+  "review": {
+    "reviewedBy": "sample-test",
+    "reviewedAt": "2026-03-29T21:10:00.000Z",
+    "status": "approved",
+    "notes": [
+      "Manual sample package for renderer test."
+    ]
+  },
+  "renderAssets": {
+    "videoPath": "social/shorts/alcohol-rem-sleep-suppression/short.mp4",
+    "coverImagePath": "social/shorts/alcohol-rem-sleep-suppression/cover.jpg",
+    "subtitlePath": "social/shorts/alcohol-rem-sleep-suppression/subtitles.srt"
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

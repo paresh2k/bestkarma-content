@@ -1,0 +1,39 @@
+{
+  "slug": "alcohol-rem-sleep-suppression",
+  "scenes": [
+    {
+      "index": 0,
+      "text": "Most people think one drink helps them sleep.",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "index": 1,
+      "text": "It may help you fall asleep faster, but that is not the same thing as sleeping well.",
+      "start": 5,
+      "end": 10
+    },
+    {
+      "index": 2,
+      "text": "Alcohol suppresses REM and disrupts the second half of the night when your brain should be recovering.",
+      "start": 10,
+      "end": 15
+    },
+    {
+      "index": 3,
+      "text": "Even low doses change sleep architecture, so the effect starts earlier than most people realize.",
+      "start": 15,
+      "end": 20
+    },
+    {
+      "index": 4,
+      "text": "If you care about sleep quality, leave more time between drinking and bed. Follow BestKarma for science-backed health without the hype.",
+      "start": 20,
+      "end": 25
+    }
+  ],
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "renderedAt": "2026-03-30T01:00:40.016Z"
+}

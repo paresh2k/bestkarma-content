@@ -8,7 +8,10 @@
     "prepare-article": "node pipelines/prepare-article.mjs",
     "promote": "node pipelines/promote-article.mjs",
     "draft": "node pipelines/agent-drafter.mjs",
-    "validate-content": "node pipelines/agent-validator.mjs"
+    "validate-content": "node pipelines/agent-validator.mjs",
+    "generate-social-video": "node pipelines/generate-social-video-brief.mjs",
+    "review-social-video": "node pipelines/review-social-video.mjs",
+    "render-short-video": "node pipelines/render-short-video.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",

@@ -7,3 +7,4 @@
 - Reviewer approval is recorded.
 - Health and medical disclaimers are applied where needed.
 - Status is updated before promotion to `published/`.
+- If short-form video assets exist, hooks and captions were reviewed for accuracy and platform fit.

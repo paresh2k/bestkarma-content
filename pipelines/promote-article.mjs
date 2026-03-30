@@ -35,6 +35,14 @@ async function promoteSlug(slug) {
     );
   }
 
+  const optionalFiles = ['video.json'];
+  for (const optionalFile of optionalFiles) {
+    const optionalPath = path.join(sourceBundleDir, optionalFile);
+    if (await fileExists(optionalPath)) {
+      await fs.copyFile(optionalPath, path.join(targetBundleDir, optionalFile));
+    }
+  }
+
   console.log(`  ✓ Promoted: ${slug}`);
   return true;
 }

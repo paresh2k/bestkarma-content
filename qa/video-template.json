@@ -1,0 +1,77 @@
+{
+  "status": "drafted",
+  "sourceArticleSlug": "example-article-slug",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most people think X. The evidence says Y.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "One short sentence that creates curiosity without overclaiming.",
+    "beats": [
+      "Point 1: what people usually believe.",
+      "Point 2: what the evidence actually supports.",
+      "Point 3: the practical takeaway."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "On-screen hook text",
+    "Supporting b-roll or motion graphic",
+    "One stat or key mechanism card",
+    "Final CTA card"
+  ],
+  "captions": {
+    "instagram": "Instagram caption here.",
+    "facebook": "Facebook caption here.",
+    "tiktok": "TikTok caption here.",
+    "youtube": "YouTube Shorts caption here."
+  },
+  "titles": {
+    "instagram": "Instagram cover title",
+    "facebook": "Facebook reel title",
+    "tiktok": "TikTok hook title",
+    "youtube": "YouTube Shorts title"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Do not overstate certainty.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

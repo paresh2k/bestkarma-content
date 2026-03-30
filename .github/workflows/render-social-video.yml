@@ -1,0 +1,71 @@
+name: Render Short Videos
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Specific article slug to render'
+        required: false
+        default: ''
+  push:
+    branches: [main]
+    paths:
+      - 'validated/*.bundle/video.json'
+      - 'published/*.bundle/video.json'
+
+concurrency:
+  group: render-social-video
+  cancel-in-progress: false
+
+jobs:
+  render:
+    name: Render approved short-form videos
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Ensure ffmpeg
+        run: ffmpeg -version
+
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+
+      - name: Render videos
+        env:
+          FFMPEG_BIN: ffmpeg
+        run: |
+          if [ -n "${{ github.event.inputs.slug }}" ]; then
+            node pipelines/render-short-video.mjs "${{ github.event.inputs.slug }}"
+          else
+            node pipelines/render-short-video.mjs
+          fi
+
+      - name: Commit rendered assets
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git config user.name "BestKarma Video Renderer Bot"
+          git config user.email "renderer@bestkarma.com"
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
+          git add validated/ published/ social/
+          git stash
+          git pull --rebase
+          git stash pop
+          git add validated/ published/ social/
+          if git diff --staged --quiet; then
+            echo "No rendered video changes to commit."
+          else
+            git commit -m "Auto-render: short-form video assets"
+            git push
+          fi

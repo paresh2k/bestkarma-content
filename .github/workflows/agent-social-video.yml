@@ -1,0 +1,98 @@
+name: Agent 5 - Social Video Packager
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Specific article slug to package for short-form video'
+        required: false
+        default: ''
+  workflow_run:
+    workflows: ["Agent 4 — Auto-Publisher"]
+    types: [completed]
+    branches: [main]
+  push:
+    branches: [main]
+    paths:
+      - 'validated/articles/*.md'
+      - 'published/articles/*.md'
+
+concurrency:
+  group: agent-social-video
+  cancel-in-progress: false
+
+jobs:
+  package:
+    name: Generate short-form video packages
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+
+      - name: Detect articles missing video packages
+        id: detect
+        run: |
+          COUNT=0
+          TARGET="${{ github.event.inputs.slug }}"
+          if [ -n "$TARGET" ]; then
+            if [ -f "validated/$TARGET.bundle/video.json" ] || [ -f "published/$TARGET.bundle/video.json" ]; then
+              echo "Video package already exists for $TARGET"
+            elif [ -f "validated/articles/$TARGET.md" ] || [ -f "published/articles/$TARGET.md" ]; then
+              COUNT=1
+            fi
+          else
+            for file in validated/articles/*.md published/articles/*.md; do
+              [ -f "$file" ] || continue
+              SLUG=$(basename "$file" .md)
+              if [ ! -f "validated/$SLUG.bundle/video.json" ] && [ ! -f "published/$SLUG.bundle/video.json" ]; then
+                COUNT=$((COUNT + 1))
+              fi
+            done
+          fi
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Found $COUNT article(s) that need video packages."
+
+      - name: Generate video packages
+        if: steps.detect.outputs.count != '0'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MAX_ARTICLES: '10'
+        run: |
+          if [ -n "${{ github.event.inputs.slug }}" ]; then
+            node pipelines/generate-social-video-brief.mjs "${{ github.event.inputs.slug }}"
+          else
+            node pipelines/generate-social-video-brief.mjs
+          fi
+
+      - name: Commit generated packages
+        if: steps.detect.outputs.count != '0'
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git config user.name "BestKarma Social Video Bot"
+          git config user.email "social-video@bestkarma.com"
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
+          git add validated/ published/ social/
+          git stash
+          git pull --rebase
+          git stash pop
+          git add validated/ published/ social/
+          if git diff --staged --quiet; then
+            echo "No social video package changes to commit."
+          else
+            git commit -m "Auto-package: short-form video assets"
+            git push
+          fi
