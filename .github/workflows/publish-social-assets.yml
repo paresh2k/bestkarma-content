@@ -1,0 +1,79 @@
+name: Publish Social Assets
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Article slug'
+        required: true
+      platform:
+        description: 'Platform or all'
+        required: false
+        default: 'all'
+      action:
+        description: 'export, schedule, or publish'
+        required: false
+        default: 'export'
+      scheduled_for:
+        description: 'ISO datetime for schedule action'
+        required: false
+        default: ''
+      published_url:
+        description: 'Published URL for publish action'
+        required: false
+        default: ''
+
+concurrency:
+  group: publish-social-assets
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    name: Export or update social publishing metadata
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+
+      - name: Run publisher skeleton
+        run: |
+          CMD=(node pipelines/publish-social-assets.mjs "${{ github.event.inputs.slug }}" --platform "${{ github.event.inputs.platform }}" --action "${{ github.event.inputs.action }}")
+          if [ -n "${{ github.event.inputs.scheduled_for }}" ]; then
+            CMD+=(--at "${{ github.event.inputs.scheduled_for }}")
+          fi
+          if [ -n "${{ github.event.inputs.published_url }}" ]; then
+            CMD+=(--url "${{ github.event.inputs.published_url }}")
+          fi
+          "${CMD[@]}"
+
+      - name: Commit metadata updates
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git config user.name "BestKarma Social Publisher Bot"
+          git config user.email "social-publisher@bestkarma.com"
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/paresh2k/bestkarma-content.git
+          git add published/ validated/ social/
+          git stash
+          git pull --rebase
+          git stash pop
+          git add published/ validated/ social/
+          if git diff --staged --quiet; then
+            echo "No social publishing metadata changes to commit."
+          else
+            git commit -m "Update social publishing metadata"
+            git push
+          fi

@@ -11,7 +11,8 @@
     "validate-content": "node pipelines/agent-validator.mjs",
     "generate-social-video": "node pipelines/generate-social-video-brief.mjs",
     "review-social-video": "node pipelines/review-social-video.mjs",
-    "render-short-video": "node pipelines/render-short-video.mjs"
+    "render-short-video": "node pipelines/render-short-video.mjs",
+    "publish-social-assets": "node pipelines/publish-social-assets.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.39.0",

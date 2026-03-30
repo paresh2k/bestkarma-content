@@ -160,6 +160,13 @@ Output:
 - populated `publishedUrl`
 - posting timestamps in metadata
 
+Current implementation direction:
+
+- metadata-first scheduler/publisher skeleton
+- writes platform payloads under `social/shorts/<slug>/publish/`
+- updates `video.json` posting status for each platform
+- does not hard-code any third-party API dependency yet
+
 ## Recommended Workflow File
 
 Add:
@@ -169,6 +176,10 @@ Add:
 Also add:
 
 `content-system/.github/workflows/render-social-video.yml`
+
+And add:
+
+`content-system/.github/workflows/publish-social-assets.yml`
 
 Suggested trigger:
 
