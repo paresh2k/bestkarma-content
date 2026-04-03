@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "fermented-foods-microbiome",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Eating fermented foods may boost your gut health more than fiber.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know that fermented foods can improve your gut health more effectively than fiber?",
+    "beats": [
+      "A recent Stanford study found that eating fermented foods daily increased gut microbiome diversity.",
+      "In contrast, a high-fiber diet showed no consistent increase in diversity or reduction in inflammation.",
+      "For those with low microbiome diversity, introducing fermented foods may be a crucial first step."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a colorful array of fermented foods like kimchi, yogurt, and kefir.",
+    "Display a graphic comparing gut microbiome diversity from fermented foods vs. fiber.",
+    "Include a visual of the Stanford study's findings with key stats.",
+    "End with a practical tip on how to incorporate fermented foods into daily meals."
+  ],
+  "captions": {
+    "instagram": "Fermented foods might be the key to better gut health! 🌱 #GutHealth #FermentedFoods",
+    "facebook": "Discover how fermented foods can enhance your gut health more than fiber! #Nutrition #Health",
+    "tiktok": "Think fiber is the best for gut health? Think again! Fermented foods might be the real game-changer! #GutHealth",
+    "youtube": "Learn how fermented foods can improve your gut microbiome better than fiber! #Nutrition #Science"
+  },
+  "titles": {
+    "instagram": "Fermented Foods vs. Fiber: The Surprising Truth",
+    "facebook": "Why Fermented Foods Might Be Better for Your Gut",
+    "tiktok": "Fermented Foods: The Secret to Gut Health?",
+    "youtube": "The Surprising Benefits of Fermented Foods for Your Gut"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

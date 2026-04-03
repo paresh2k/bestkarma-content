@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "financial-stress-and-your-health",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Financial stress can age you at a cellular level.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know that financial stress can actually affect your health?",
+    "beats": [
+      "Chronic financial worry raises cortisol levels, which can damage your body over time.",
+      "Research shows that financial instability is linked to a higher risk of mental health issues and even cardiovascular problems.",
+      "Having an emergency fund can significantly reduce the physiological stress response."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of stressed individuals looking at bills.",
+    "Graph showing cortisol levels in relation to financial stress.",
+    "Clip of someone smiling while checking their emergency fund.",
+    "Text overlay with key statistics about health impacts of financial stress."
+  ],
+  "captions": {
+    "instagram": "Financial stress isn't just mental; it can affect your health too! #FinancialWellness #Health",
+    "facebook": "Did you know financial stress can age you? Learn how to protect your health. #FinancialWellness",
+    "tiktok": "Financial stress can do more than worry you; it can harm your health! #HealthFacts #FinancialStress",
+    "youtube": "Discover the hidden health costs of financial stress and how to mitigate them. #Health #FinancialWellness"
+  },
+  "titles": {
+    "instagram": "The Hidden Cost of Financial Stress",
+    "facebook": "How Financial Stress Affects Your Health",
+    "tiktok": "Financial Stress: A Hidden Health Risk",
+    "youtube": "The Health Impact of Financial Stress"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

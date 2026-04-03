@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "estrogen-brain-cognitive-protection",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Estrogen's decline during menopause could increase Alzheimer's risk.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Estrogen's decline during menopause could increase Alzheimer's risk.",
+    "beats": [
+      "Women develop Alzheimer's at nearly twice the rate of men, and estrogen plays a crucial role.",
+      "Research shows that estrogen helps maintain brain health by supporting glucose metabolism and amyloid clearance.",
+      "However, starting hormone therapy too late may not provide the same protective benefits."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a brain with estrogen molecules highlighted",
+    "Graph showing Alzheimer's risk in men vs women",
+    "Animation of glucose metabolism in neurons",
+    "Clip of a woman consulting with a healthcare provider"
+  ],
+  "captions": {
+    "instagram": "Did you know estrogen loss during menopause can increase Alzheimer's risk? Learn more about the critical window for hormone therapy.",
+    "facebook": "Estrogen plays a key role in brain health, and its decline during menopause may raise Alzheimer's risk. Find out more about hormone therapy timing.",
+    "tiktok": "Estrogen decline during menopause could raise Alzheimer's risk. Timing of hormone therapy matters! #health #Alzheimers",
+    "youtube": "Estrogen's decline during menopause is linked to increased Alzheimer's risk. Discover why timing of hormone therapy is crucial."
+  },
+  "titles": {
+    "instagram": "Estrogen & Alzheimer's Risk",
+    "facebook": "Understanding Estrogen's Role in Brain Health",
+    "tiktok": "Estrogen Loss and Alzheimer's Risk",
+    "youtube": "The Impact of Estrogen on Alzheimer's Disease"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

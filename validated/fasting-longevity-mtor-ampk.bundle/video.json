@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "fasting-longevity-mtor-ampk",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Fasting might be the key to longevity, but it's not about starving yourself.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Fasting might be the key to longevity, but it's not about starving yourself.",
+    "beats": [
+      "Caloric restriction has been shown to extend lifespan in various animals, but translating that to humans is more complex.",
+      "Key players in this process are mTOR and AMPK, which regulate growth and energy balance in our cells.",
+      "Intermittent fasting can activate these pathways without the need for continuous caloric restriction, promoting cellular health."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Animation of a clock showing fasting and eating windows.",
+    "Graph showing lifespan extension in animal studies.",
+    "Illustration of mTOR and AMPK pathways in cells.",
+    "Footage of healthy meals being prepared within a time-restricted eating window."
+  ],
+  "captions": {
+    "instagram": "Fasting isn't about deprivation; it's about timing. Discover how it can support longevity! #health #longevity #sciencebacked",
+    "facebook": "Think fasting is just about eating less? It's more about when you eat! Learn how it can help with longevity. #health #longevity",
+    "tiktok": "Fasting could be your secret to a longer life, but it’s not about starving! Here’s how to do it right. #longevity #fasting",
+    "youtube": "Fasting for longevity: it's not just about eating less, but about eating smart. Find out how! #health #longevity"
+  },
+  "titles": {
+    "instagram": "Fasting for Longevity: The Truth",
+    "facebook": "Unlocking Longevity Through Fasting",
+    "tiktok": "The Truth About Fasting and Longevity",
+    "youtube": "Fasting: A Key to Longevity?"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

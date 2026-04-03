@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "exercise-depression-antidepressant-dose",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Exercise can be as effective as antidepressants for depression.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know exercise can rival antidepressants in treating depression?",
+    "beats": [
+      "A recent meta-analysis found that exercise works about as well as medication for major depression.",
+      "Walking and jogging have a medium-to-large effect size, even better than some medications.",
+      "However, exercise may not work for everyone, especially those with severe depression."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a person jogging in a park",
+    "Graph comparing effect sizes of exercise vs. antidepressants",
+    "Clip of a group exercise class",
+    "Text overlay with key takeaway: 'Exercise isn't a cure-all but can be a powerful tool.'"
+  ],
+  "captions": {
+    "instagram": "Exercise can be as effective as antidepressants for depression. Discover how! #MentalHealth #Exercise",
+    "facebook": "Did you know that exercise can rival antidepressants in treating depression? Learn more about this surprising truth!",
+    "tiktok": "Exercise works as well as antidepressants for depression! But it’s not for everyone. #MentalHealth #ExerciseFacts",
+    "youtube": "Exercise can be just as effective as antidepressants for depression. Here's what you need to know."
+  },
+  "titles": {
+    "instagram": "Exercise vs. Antidepressants: The Surprising Truth",
+    "facebook": "Can Exercise Replace Antidepressants?",
+    "tiktok": "Exercise: A Natural Antidepressant?",
+    "youtube": "The Truth About Exercise and Depression"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

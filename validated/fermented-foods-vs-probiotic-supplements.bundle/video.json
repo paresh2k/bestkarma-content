@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "fermented-foods-vs-probiotic-supplements",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Fermented foods may be more effective for gut health than probiotic supplements.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know fermented foods might be better for your gut than probiotic pills?",
+    "beats": [
+      "A recent study found that a high-fermented-food diet increased microbiome diversity, while a high-fiber diet did not.",
+      "Fermented foods contain a variety of microbial species and beneficial compounds not found in most supplements.",
+      "However, the study had a small sample size and specific conditions, so results may vary for everyone."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a split screen of fermented foods like kimchi and yogurt on one side, and probiotic supplements on the other.",
+    "Highlight the study's findings with animated graphics showing microbiome diversity.",
+    "Display examples of fermented foods and their benefits.",
+    "End with a call to action to follow BestKarma."
+  ],
+  "captions": {
+    "instagram": "Fermented foods might be the key to better gut health over probiotics. 🌱 #GutHealth #FermentedFoods",
+    "facebook": "Could fermented foods be more beneficial for your gut than probiotic supplements? Discover the surprising truth! #GutHealth",
+    "tiktok": "Think probiotics are the best for your gut? Think again! Fermented foods might have the edge. #GutHealth #Probiotics",
+    "youtube": "Fermented foods vs. probiotics: which is better for your gut health? Find out the surprising evidence!"
+  },
+  "titles": {
+    "instagram": "Fermented Foods vs. Probiotics",
+    "facebook": "Which is Better for Your Gut?",
+    "tiktok": "Fermented Foods > Probiotics?",
+    "youtube": "Fermented Foods vs Probiotics: Surprising Findings!"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

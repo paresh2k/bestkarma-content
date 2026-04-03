@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "flow-state-psychology",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most people think happiness comes from relaxation, but flow states reveal a deeper truth.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "What if the key to happiness isn't relaxation, but being fully absorbed in a challenge?",
+    "beats": [
+      "Flow is a state where time feels distorted and effort feels effortless.",
+      "It's achieved when your skills match the challenge, not when you're just coasting.",
+      "Research shows that flow experiences are linked to greater life satisfaction."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a person deeply focused on a challenging task, with a clock speeding up and slowing down.",
+    "Display statistics on flow experiences and life satisfaction.",
+    "Illustrate the balance between challenge and skill with a simple graphic.",
+    "End with a calming visual of someone enjoying a flow state activity."
+  ],
+  "captions": {
+    "instagram": "Did you know that true happiness might come from being fully engaged in challenges? Discover the science of flow! #FlowState #Wellbeing",
+    "facebook": "Happiness isn't just about relaxation. It's about being absorbed in a challenge. Learn how flow states can boost your life satisfaction!",
+    "tiktok": "Think relaxation brings happiness? Think again! Flow states show that being fully engaged in a challenge is the real key. #FlowState #Psychology",
+    "youtube": "Most people seek relaxation for happiness, but flow states reveal that true satisfaction comes from engaging challenges. Here's how to find your flow!"
+  },
+  "titles": {
+    "instagram": "The Surprising Key to Happiness",
+    "facebook": "Unlocking Happiness: The Power of Flow",
+    "tiktok": "Flow: The Secret to True Happiness",
+    "youtube": "Why Flow States Matter for Your Happiness"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

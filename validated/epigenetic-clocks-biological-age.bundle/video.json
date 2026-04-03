@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "epigenetic-clocks-biological-age",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Your biological age can differ significantly from your chronological age.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know that two people born in the same year can have biological ages that differ by a decade?",
+    "beats": [
+      "This difference is measured using epigenetic clocks, which analyze DNA methylation patterns.",
+      "Research shows that lifestyle changes can actually reverse biological aging, with some studies indicating reductions of over three years in just eight weeks.",
+      "However, these findings are still emerging, and more research is needed to fully understand the implications."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of two people with age markers showing chronological vs biological age.",
+    "Animation of DNA methylation patterns being analyzed.",
+    "Graph showing results from a study on biological age reduction.",
+    "Text overlay with a reminder that more research is needed."
+  ],
+  "captions": {
+    "instagram": "Your biological age might surprise you! Learn how lifestyle changes can help reverse it. #Health #Longevity",
+    "facebook": "Did you know that your biological age can be different from your chronological age? Discover how lifestyle changes can make a difference! #LongevityScience",
+    "tiktok": "Two people, same birth year, but different biological ages! Find out how lifestyle can reverse aging. #HealthTips",
+    "youtube": "Your biological age can differ from your chronological age. Learn how lifestyle changes can help reverse it! #ScienceBacked"
+  },
+  "titles": {
+    "instagram": "Biological Age vs Chronological Age",
+    "facebook": "What Is Your Biological Age?",
+    "tiktok": "Can You Reverse Your Biological Age?",
+    "youtube": "Understanding Biological Age and How to Reverse It"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

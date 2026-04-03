@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "exercise-snacks-movement",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Sitting too long can negate your workout benefits.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know that prolonged sitting can harm your health, even if you exercise regularly?",
+    "beats": [
+      "Research shows that sitting for long periods can reduce the effectiveness of your workouts.",
+      "Just 2-3 minutes of light movement every 30 minutes can reactivate important enzymes in your muscles.",
+      "Regular 'exercise snacks' can improve your glucose levels and cognitive function."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of someone sitting at a desk with a timer showing 30 minutes.",
+    "Animation showing the enzyme activity dropping as sitting continues.",
+    "Clip of someone standing up and doing light stretches or walking.",
+    "Text overlay summarizing the benefits of exercise snacks."
+  ],
+  "captions": {
+    "instagram": "Prolonged sitting can negate your workout benefits. Just 2-3 minutes of movement every 30 minutes can help! #ExerciseSnacks #HealthTips",
+    "facebook": "Did you know sitting too long can harm your health even if you exercise? Try short movement breaks to stay healthy! #ExerciseSnacks",
+    "tiktok": "Sitting too long can cancel out your workout gains! Just a few minutes of movement every half hour can make a difference. #HealthHack",
+    "youtube": "Sitting for long periods can negate your workout benefits. Discover how short movement breaks can improve your health!"
+  },
+  "titles": {
+    "instagram": "The Hidden Dangers of Sitting",
+    "facebook": "Why Sitting Too Long Can Hurt Your Health",
+    "tiktok": "Sitting Too Long? Here's Why It Matters!",
+    "youtube": "Exercise Snacks: Improve Your Health with Short Movement Breaks"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}
