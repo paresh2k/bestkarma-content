@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/perimenopause-anxiety-brain-chemistry.jpg"
 category: wellness
-tags: ["perimenopause", "anxiety", "GABA", "estrogen", "brain-chemistry"]
+tags: ["perimenopause", "anxiety", "GABA", "estrogen", "brain-chemistry", "path:women", "collection:most-shared", "collection:women-40"]
 readTime: 8
 status: validated
 ---

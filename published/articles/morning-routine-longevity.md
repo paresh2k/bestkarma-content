@@ -4,7 +4,7 @@ description: "The first 60 minutes after waking set the hormonal and neurologica
 pubDate: 2025-02-27
 heroImage: "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1200&auto=format&fit=crop&q=80"
 category: longevity
-tags: [morning-routine, longevity, habits, cortisol, circadian-rhythm]
+tags: [morning-routine, longevity, habits, cortisol, circadian-rhythm, "collection:midlife"]
 readTime: 6
 featured: false
 status: published

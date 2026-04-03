@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1650897492548-e169a9857373?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHwzfHxuZXJ2b3VzLXN5c3RlbSUyMHBhcmFzeW1wYXRoZXRpYyUyMHN5bXBhdGhldGljJTIwd2VsbG5lc3MlMjBoZWFsdGh8ZW58MXwwfHx8MTc3Mzg1NTc3NXww&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: wellness
-tags: ["nervous-system", "parasympathetic", "sympathetic", "HRV", "stress"]
+tags: ["nervous-system", "parasympathetic", "sympathetic", "HRV", "stress", "path:stress"]
 readTime: 8
 status: validated
 ---

@@ -4,7 +4,7 @@ description: "Most of us count sleep hours, but science shows it's the quality o
 pubDate: 2025-02-20
 heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/the-science-of-deep-sleep.jpg"
 category: sleep
-tags: [sleep, longevity, recovery, circadian-rhythm, health]
+tags: [sleep, longevity, recovery, circadian-rhythm, health, "path:sleep"]
 readTime: 7
 featured: true
 status: published

@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1686828752365-1f90f9c502b4?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHwyfHxzbGVlcC10ZW1wZXJhdHVyZSUyMGNvcmUtY29vbGluZyUyMGRlZXAtc2xlZXAlMjBzbGVlcCUyMGhlYWx0aHxlbnwxfDB8fHwxNzczODEzMzYzfDA&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: sleep
-tags: ["sleep-temperature", "core-cooling", "deep-sleep", "sleep-environment"]
+tags: ["sleep-temperature", "core-cooling", "deep-sleep", "sleep-environment", "path:sleep", "collection:quick-wins"]
 readTime: 8
 status: validated
 ---

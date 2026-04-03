@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1603804449568-2f36c9f12844?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHwzfHxzbGVlcC1kZWJ0JTIwc2xlZXAtZGVwcml2YXRpb24lMjByZWNvdmVyeS1zbGVlcCUyMHNsZWVwJTIwaGVhbHRofGVufDF8MHx8fDE3NzM4MTMwMTN8MA&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: sleep
-tags: ["sleep-debt", "sleep-deprivation", "recovery-sleep", "chronic-sleep-loss"]
+tags: ["sleep-debt", "sleep-deprivation", "recovery-sleep", "chronic-sleep-loss", "collection:midlife"]
 readTime: 8
 status: validated
 ---

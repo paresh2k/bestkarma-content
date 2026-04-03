@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1565894897273-9f4240d4ac56?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHw0fHxleGVyY2lzZSUyMGRlcHJlc3Npb24lMjBhbnRpZGVwcmVzc2FudCUyMG1pbmQtYm9keSUyMGhlYWx0aHxlbnwxfDB8fHwxNzczODUyODQ5fDA&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: mind-body
-tags: ["exercise", "depression", "antidepressant", "BDNF", "mental-health"]
+tags: ["exercise", "depression", "antidepressant", "BDNF", "mental-health", "path:genz", "collection:20s-30s"]
 readTime: 8
 status: validated
 ---

@@ -8,7 +8,7 @@ pubDate: 2026-03-16
 reviewedDate: 2026-03-16
 heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/exercise-snacks-movement.jpg"
 category: wellness
-tags: [exercise-snacks, sedentary-behavior, metabolic-health, movement, productivity]
+tags: [exercise-snacks, sedentary-behavior, metabolic-health, movement, productivity, "collection:quick-wins"]
 readTime: 7
 status: approved
 ---

@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1737108663716-aff4b226b75e?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHw0fHxlc3Ryb2dlbiUyMGJyYWluLWhlYWx0aCUyMGRlbWVudGlhJTIwd2VsbG5lc3MlMjBoZWFsdGh8ZW58MXwwfHx8MTc3Mzg1NTEyNXww&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: wellness
-tags: ["estrogen", "brain-health", "dementia", "Alzheimer", "neuroprotection"]
+tags: ["estrogen", "brain-health", "dementia", "Alzheimer", "neuroprotection", "collection:women-40"]
 readTime: 8
 status: validated
 ---

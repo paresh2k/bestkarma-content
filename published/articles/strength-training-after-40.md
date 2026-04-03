@@ -4,7 +4,7 @@ description: "After 40, we lose 1-2% of muscle mass per year and up to 3% of mus
 pubDate: 2026-03-04
 heroImage: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&auto=format&fit=crop&q=80"
 category: longevity
-tags: [strength-training, muscle, longevity, sarcopenia, body, aging, healthspan, metabolism]
+tags: [strength-training, muscle, longevity, sarcopenia, body, aging, healthspan, metabolism, "path:men", "collection:men"]
 readTime: 8
 featured: false
 status: published

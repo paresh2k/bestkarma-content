@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1692607038273-8f45f4b0b1c7?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHwzfHxiaW9sb2dpY2FsLWFnZSUyMGVwaWdlbmV0aWMtY2xvY2tzJTIwVHJ1QWdlJTIwbG9uZ2V2aXR5JTIwaGVhbHRofGVufDF8MHx8fDE3NzM4MDgzMDF8MA&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: longevity
-tags: ["biological-age", "epigenetic-clocks", "TruAge", "Horvath-clock", "longevity"]
+tags: ["biological-age", "epigenetic-clocks", "TruAge", "Horvath-clock", "longevity", "path:millennials", "collection:midlife"]
 readTime: 8
 status: validated
 ---

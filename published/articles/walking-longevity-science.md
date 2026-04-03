@@ -8,7 +8,7 @@ pubDate: 2026-03-16
 reviewedDate: 2026-03-16
 heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/walking-longevity-science.jpg"
 category: wellness
-tags: [walking, exercise, longevity, cardiovascular-health, metabolism, step-count]
+tags: [walking, exercise, longevity, cardiovascular-health, metabolism, step-count, "collection:quick-wins"]
 readTime: 8
 status: approved
 ---

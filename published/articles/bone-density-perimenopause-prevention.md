@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1508387027939-27cccde53673?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHwyfHxib25lLWRlbnNpdHklMjBwZXJpbWVub3BhdXNlJTIwb3N0ZW9wb3Jvc2lzJTIwd2VsbG5lc3MlMjBoZWFsdGh8ZW58MXwwfHx8MTc3Mzg1NDc4OXww&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: wellness
-tags: ["bone-density", "perimenopause", "osteoporosis", "calcium", "resistance-training"]
+tags: ["bone-density", "perimenopause", "osteoporosis", "calcium", "resistance-training", "path:women", "collection:women-40"]
 readTime: 8
 status: validated
 ---

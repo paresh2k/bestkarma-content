@@ -8,7 +8,7 @@ pubDate: 2026-03-16
 reviewedDate: 2026-03-16
 heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/vagus-nerve-polyvagal.jpg"
 category: mind-body
-tags: [vagus-nerve, polyvagal, nervous-system, hrv, parasympathetic, stress-recovery]
+tags: [vagus-nerve, polyvagal, nervous-system, hrv, parasympathetic, stress-recovery, "path:stress"]
 readTime: 8
 status: approved
 ---

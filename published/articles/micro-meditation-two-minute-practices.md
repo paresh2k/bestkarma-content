@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1630406866478-a2fca6070d25?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHw1fHxtaWNyby1tZWRpdGF0aW9uJTIwbWluZGZ1bG5lc3MlMjBzdHJlc3MlMjBtaW5kLWJvZHklMjBoZWFsdGh8ZW58MXwwfHx8MTc3Mzg1MzQxMXww&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: mind-body
-tags: ["micro-meditation", "mindfulness", "stress", "attention", "practical-meditation"]
+tags: ["micro-meditation", "mindfulness", "stress", "attention", "practical-meditation", "collection:quick-wins"]
 readTime: 8
 status: validated
 ---

@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1685717989816-25b030dfd2d0?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHw0fHxjYXJkaW92YXNjdWxhciUyMHdvbWVuJTIwc2V4LWRpZmZlcmVuY2VzJTIwbG9uZ2V2aXR5JTIwaGVhbHRofGVufDF8MHx8fDE3NzM4MDk3ODh8MA&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: longevity
-tags: ["cardiovascular", "women", "sex-differences", "heart-disease", "longevity"]
+tags: ["cardiovascular", "women", "sex-differences", "heart-disease", "longevity", "collection:women-40"]
 readTime: 8
 status: validated
 ---

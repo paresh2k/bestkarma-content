@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1649168916833-2b08c7da43ce?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHw0fHxtb3V0aC10YXBpbmclMjBzbGVlcCUyMG5hc2FsLWJyZWF0aGluZyUyMHNsZWVwJTIwaGVhbHRofGVufDF8MHx8fDE3NzM4MTI1MjB8MA&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: sleep
-tags: ["mouth-taping", "sleep", "nasal-breathing", "sleep-quality"]
+tags: ["mouth-taping", "sleep", "nasal-breathing", "sleep-quality", "collection:quick-wins"]
 readTime: 8
 status: validated
 ---

@@ -8,7 +8,7 @@ pubDate: 2026-03-18
 reviewedDate: 2026-03-18
 heroImage: "https://images.unsplash.com/photo-1605606437828-598340dfaeb7?ixid=M3w4OTg3NjV8MHwxfHNlYXJjaHwyfHxidXJub3V0JTIwY2hyb25pYy1zdHJlc3MlMjBjb3J0aXNvbCUyMHdlbGxuZXNzJTIwaGVhbHRofGVufDF8MHx8fDE3NzM4NTQ5MTR8MA&ixlib=rb-4.1.0&w=1200&auto=format&fit=crop&q=80"
 category: wellness
-tags: ["burnout", "chronic-stress", "cortisol", "HPA-axis", "recovery"]
+tags: ["burnout", "chronic-stress", "cortisol", "HPA-axis", "recovery", "path:stress", "path:genz", "collection:most-shared", "collection:20s-30s"]
 readTime: 8
 status: validated
 ---

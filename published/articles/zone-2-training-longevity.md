@@ -4,7 +4,7 @@ description: "Elite cyclists, cardiologists, and longevity physicians are all co
 pubDate: 2026-02-09
 heroImage: "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=1200&auto=format&fit=crop&q=80"
 category: longevity
-tags: [zone-2, cardio, longevity, vo2max, mitochondria, exercise, body]
+tags: [zone-2, cardio, longevity, vo2max, mitochondria, exercise, body, "collection:men"]
 readTime: 9
 featured: false
 status: published

@@ -4,7 +4,7 @@ description: "Financial worry is the #1 source of stress for Americans, and it's
 pubDate: 2026-02-19
 heroImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&auto=format&fit=crop&q=80"
 category: wellness
-tags: [financial-wellness, stress, cortisol, mental-health, financial, longevity, inflammation]
+tags: [financial-wellness, stress, cortisol, mental-health, financial, longevity, inflammation, "collection:20s-30s"]
 readTime: 7
 featured: false
 status: published
