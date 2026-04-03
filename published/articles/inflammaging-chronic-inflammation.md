@@ -14,7 +14,7 @@ reviewedDate: 2026-03-14
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Chronic, low-grade inflammation is a primary driver of aging and major diseases.</li>
     <li>✓ Unlike acute inflammation (good), chronic inflammation persists for years without obvious symptoms.</li>

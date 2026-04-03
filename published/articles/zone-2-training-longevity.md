@@ -14,7 +14,7 @@ reviewedDate: 2026-03-14
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Zone 2 is easy-paced cardio where you can talk—it's where real mitochondrial magic happens.</li>
     <li>✓ VO₂ max is the strongest predictor of lifespan, beating smoking and disease risk as a mortality factor.</li>

@@ -1,6 +1,6 @@
 ---
 slug: senolytics-zombie-cells
-title: "Zombie Cells Are Real — And They're Slowly Destroying Your Health"
+title: "Zombie Cells Are Real, and They're Slowly Destroying Your Health"
 description: "Senescent cells accumulate in aging tissue, secreting inflammatory signals that damage surrounding healthy cells. New research on senolytics — drugs and natural compounds that clear them — is rewriting what's possible."
 author: bestkarma-editorial
 reviewer: bestkarma-review
@@ -14,7 +14,7 @@ status: approved
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Zombie cells are damaged cells that stop dividing but refuse to die, lingering in your body indefinitely.</li>
     <li>✓ They leak inflammatory chemicals that damage nearby healthy cells and accelerate aging throughout your body.</li>

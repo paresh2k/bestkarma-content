@@ -14,7 +14,7 @@ status: validated
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Alzheimer's damage starts 15-20 years before symptoms appear, often in your forties.</li>
     <li>✓ Nearly half of dementia cases are preventable through lifestyle changes made in midlife.</li>

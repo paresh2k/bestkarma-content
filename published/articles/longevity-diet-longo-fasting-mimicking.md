@@ -14,7 +14,7 @@ status: validated
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Valter Longo's approach uses two strategies: a baseline plant-based, low-protein diet plus periodic fasting cycles.</li>
     <li>✓ Adults under 65 may benefit from lower protein intake to suppress IGF-1, but this flips after 65.</li>

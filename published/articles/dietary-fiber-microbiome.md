@@ -14,7 +14,7 @@ status: approved
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Most Americans eat 15g fiber daily; experts recommend 25-38g for health.</li>
     <li>✓ Fiber feeds gut bacteria, which produce compounds that reduce inflammation and disease.</li>

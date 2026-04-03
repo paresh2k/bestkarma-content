@@ -14,7 +14,7 @@ status: validated
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Vitamin K2 directs calcium to bones and away from arteries; K1 (leafy greens) doesn't do this.</li>
     <li>✓ People with highest K2 intake had 52% lower risk of arterial calcification and 57% lower cardiovascular death risk.</li>

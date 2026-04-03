@@ -14,7 +14,7 @@ status: approved
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Flow is complete absorption in challenging work — the state where life feels most meaningful and satisfying.</li>
     <li>✓ Flow has nine consistent traits: focus, clear goals, loss of self-consciousness, altered time, intrinsic reward, effortlessness, merged action-awareness, control, and autotelic experience.</li>

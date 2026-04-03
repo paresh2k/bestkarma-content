@@ -14,7 +14,7 @@ status: validated
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Your muscles need 2.5–3g of leucine per meal to trigger growth, not just daily protein totals.</li>
     <li>✓ Leucine activates mTORC1, the master switch that tells muscle cells to build protein.</li>

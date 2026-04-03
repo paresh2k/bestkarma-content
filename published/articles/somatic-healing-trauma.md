@@ -1,6 +1,6 @@
 ---
 slug: somatic-healing-trauma
-title: "Why the Body Keeps the Score — And What Somatic Therapies Do About It"
+title: "Why the Body Keeps the Score, and What Somatic Therapies Do About It"
 description: "Trauma isn't just stored in memories. It lives in the body as unresolved physiological survival responses. Somatic therapies work at this level — and the clinical evidence is growing. Here's what the science shows."
 author: bestkarma-editorial
 reviewer: bestkarma-review
@@ -14,7 +14,7 @@ status: approved
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Talk therapy alone doesn't work for everyone—trauma lives in the body, not just the mind.</li>
     <li>✓ Your nervous system can stay stuck in threat mode long after danger actually passes.</li>

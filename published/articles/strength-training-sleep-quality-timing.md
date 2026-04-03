@@ -1,6 +1,6 @@
 ---
 slug: strength-training-sleep-quality-timing
-title: "How Strength Training Improves Sleep Quality — and the Optimal Timing to Lift"
+title: "How Strength Training Improves Sleep Quality, and When to Lift"
 description: "Resistance training is one of the most consistent lifestyle interventions for improving sleep depth and duration. But timing matters. Here is what the research shows."
 author: bestkarma-editorial
 reviewer: gpt-validator
@@ -14,7 +14,7 @@ status: validated
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Resistance training improves sleep quality as much as clinical insomnia therapy.</li>
     <li>✓ Lifting increases deep sleep (slow-wave sleep) where most recovery happens.</li>

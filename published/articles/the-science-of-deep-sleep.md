@@ -14,7 +14,7 @@ reviewedDate: 2026-03-14
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Sleep structure matters more than hitting 7-9 hours. Deep sleep and REM sleep serve different critical functions.</li>
     <li>✓ Deep sleep clears brain waste linked to Alzheimer's and triggers muscle repair, immunity, and hormone production.</li>

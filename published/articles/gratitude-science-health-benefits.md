@@ -1,5 +1,5 @@
 ---
-title: "Gratitude Is a Practice, Not a Feeling — And the Science Proves It Works"
+title: "Gratitude Is a Practice, Not a Feeling. And the Science Proves It Works"
 description: "Three randomized controlled trials, longitudinal health studies, and neuroimaging research all point the same direction: deliberate gratitude practice produces measurable changes in mental health, inflammation, and longevity. The mechanism is not mysterious."
 pubDate: 2026-02-26
 heroImage: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&auto=format&fit=crop&q=80"
@@ -14,7 +14,7 @@ reviewedDate: 2026-03-14
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Gratitude isn't just a feeling—it's a measurable practice backed by decades of replicated research.</li>
     <li>✓ Writing about five things you're grateful for weekly improves sleep, exercise habits, and physical health.</li>

@@ -1,6 +1,6 @@
 ---
 slug: perimenopause-sleep-disruption-solutions
-title: "How Perimenopause Destroys Sleep — and Evidence-Based Ways to Fix It"
+title: "How Perimenopause Destroys Sleep, and Evidence-Based Ways to Fix It"
 description: "Hot flashes, night sweats, anxiety, and shifting sleep architecture make perimenopause one of the most severe sleep disruptors women experience. Here is what the evidence says about fixing it."
 author: bestkarma-editorial
 reviewer: gpt-validator
@@ -14,7 +14,7 @@ status: validated
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Perimenopause makes sleep 2-3x more likely to be severely disrupted than normal aging.</li>
     <li>✓ Hot flashes cause 72% of nighttime awakenings, often before you consciously feel them.</li>

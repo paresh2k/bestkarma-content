@@ -1,5 +1,5 @@
 ---
-title: "Eight Weeks of Meditation Literally Reshapes Your Brain — The Neuroscience"
+title: "Eight Weeks of Meditation Literally Reshapes Your Brain: The Neuroscience"
 description: "Neuroscientists at Harvard and MIT have documented measurable structural changes in the brain after as little as 8 weeks of mindfulness practice. This is no longer philosophy — it's neuroscience."
 pubDate: 2026-02-12
 heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/meditation-changes-your-brain.jpg"
@@ -14,7 +14,7 @@ reviewedDate: 2026-03-14
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Eight weeks of meditation measurably thickens brain regions tied to memory, learning, and emotional control.</li>
     <li>✓ Meditation shrinks the amygdala, your brain's alarm system, reducing chronic stress and anxiety.</li>

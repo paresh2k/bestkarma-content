@@ -1,6 +1,6 @@
 ---
 slug: epigenetic-clocks-biological-age
-title: "Epigenetic Clocks: How Scientists Measure — and Reverse — Your Biological Age"
+title: "Epigenetic Clocks: How Scientists Measure and Reverse Your Biological Age"
 description: "DNA methylation patterns reveal how fast your cells are aging, independent of your birth year. Here's what epigenetic age means, how it differs from chronological age, and what interventions actually turn back the clock."
 author: bestkarma-editorial
 reviewer: bestkarma-review
@@ -14,7 +14,7 @@ status: approved
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Your biological age can differ from your birth certificate age by a decade or more.</li>
     <li>✓ Epigenetic clocks measure biological age through DNA methylation patterns with striking accuracy.</li>

@@ -14,7 +14,7 @@ status: validated
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Estrogen protects the brain from Alzheimer's through three mechanisms: boosting glucose metabolism, clearing amyloid buildup, and supporting memory neurons.</li>
     <li>✓ Women develop Alzheimer's twice as often as men, and estrogen loss during menopause appears to be a major factor.</li>

@@ -1,5 +1,5 @@
 ---
-title: "Loneliness Is as Deadly as Smoking 15 Cigarettes a Day — Here's the Science"
+title: "Loneliness Is as Deadly as Smoking 15 Cigarettes a Day. Here's the Science"
 description: "A 2015 meta-analysis of 3.7 million people concluded that social isolation is one of the greatest threats to human health. The Harvard Study of Adult Development — the longest study of human happiness ever conducted — agrees."
 pubDate: 2026-02-05
 heroImage: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&auto=format&fit=crop&q=80"
@@ -14,7 +14,7 @@ reviewedDate: 2026-03-14
 ---
 
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR — Read this in 30 seconds</p>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Loneliness is as deadly as smoking 15 cigarettes daily, according to US Surgeon General.</li>
     <li>✓ 3.7 million person study found socially connected people 50% more likely to survive.</li>
