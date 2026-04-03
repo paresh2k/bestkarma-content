@@ -31,5 +31,16 @@
       "health content QA",
       "editorial standards"
     ]
+  },
+  "paresh-chauhan": {
+    "name": "Paresh Chauhan",
+    "role": "Founder & Editor",
+    "credentials": "Health research enthusiast, longevity reader, and builder of BestKarma",
+    "bio": "Paresh started BestKarma after years of reading health and longevity research and realising most of it never reaches the people who need it most — or reaches them wrapped in hype and supplement ads. He is not a doctor or scientist. He is someone who cares deeply about getting this right, which is why every article goes through a structured validation process with primary sources cited inline. BestKarma exists because he believes credible health information should be clear, accessible, and honest about what the evidence does and does not support.",
+    "expertise": [
+      "health research curation",
+      "editorial quality and transparency",
+      "longevity and wellness science communication"
+    ]
   }
 }

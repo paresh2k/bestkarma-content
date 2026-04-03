@@ -2,7 +2,7 @@
 slug: alcohol-rem-sleep-suppression
 title: "Why Even One Drink Suppresses REM and Slow-Wave Sleep"
 description: "Alcohol is one of the most potent suppressors of restorative sleep stages. Even moderate drinking causes measurable changes to sleep architecture that persist into the following day."
-author: bestkarma-editorial
+author: paresh-chauhan
 reviewer: gpt-validator
 pubDate: 2026-03-18
 reviewedDate: 2026-03-18

@@ -2,7 +2,7 @@
 slug: bone-density-perimenopause-prevention
 title: "Bone Density and Perimenopause: The 5-Year Prevention Window"
 description: "Women lose up to 20% of bone density in the 5–7 years around menopause. This window is the most critical for intervention. Here is the evidence for prevention."
-author: bestkarma-editorial
+author: paresh-chauhan
 reviewer: gpt-validator
 pubDate: 2026-03-18
 reviewedDate: 2026-03-18

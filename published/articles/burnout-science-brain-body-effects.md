@@ -2,7 +2,7 @@
 slug: burnout-science-brain-body-effects
 title: "The Science of Burnout: What Chronic Work Stress Does to Your Brain and Body"
 description: "Burnout is not just exhaustion. It is a measurable physiological state with documented effects on the brain, immune system, cardiovascular system, and hormones. Here is what the research shows."
-author: bestkarma-editorial
+author: paresh-chauhan
 reviewer: gpt-validator
 pubDate: 2026-03-18
 reviewedDate: 2026-03-18
