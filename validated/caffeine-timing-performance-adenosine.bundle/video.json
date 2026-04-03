@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "caffeine-timing-performance-adenosine",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Drinking coffee right after waking might be holding back your performance.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Drinking coffee right after waking might be holding back your performance.",
+    "beats": [
+      "Cortisol levels peak shortly after waking, helping you feel alert.",
+      "If you drink coffee too soon, you might blunt this natural boost.",
+      "Waiting 90 minutes allows your body to clear adenosine, improving caffeine's effectiveness."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a clock with time passing to indicate waking up.",
+    "Visualize cortisol levels rising in the body.",
+    "Illustrate adenosine clearance with a graphic of a brain.",
+    "End with a person enjoying coffee after the 90-minute mark."
+  ],
+  "captions": {
+    "instagram": "Could your morning coffee timing be affecting your performance? ☕️ #CaffeineScience #HealthTips",
+    "facebook": "Are you drinking your coffee too soon? Discover how timing can impact your performance. #CaffeineTiming",
+    "tiktok": "Think your coffee is helping you wake up? You might be surprised! #MorningRoutine #Caffeine",
+    "youtube": "Is your morning coffee doing more harm than good? Learn about the best timing for caffeine. #HealthScience"
+  },
+  "titles": {
+    "instagram": "The Right Time for Your Morning Coffee",
+    "facebook": "When Should You Drink Your Coffee?",
+    "tiktok": "The Truth About Morning Coffee Timing",
+    "youtube": "Caffeine Timing: What You Need to Know"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "The 90-minute delay is based on evidence but not validated in a clinical trial."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

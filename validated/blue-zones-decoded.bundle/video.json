@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "blue-zones-decoded",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "You don’t need to live in a Blue Zone to live longer.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "What if I told you longevity isn't just about where you live?",
+    "beats": [
+      "Five regions, known as Blue Zones, show that lifestyle choices matter more than genetics.",
+      "These areas emphasize natural movement, strong social ties, and a plant-forward diet.",
+      "But remember, individual results may vary, and not every claim about longevity is universally applicable."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Map highlighting the five Blue Zones.",
+    "Footage of people engaging in natural movement like walking and gardening.",
+    "Clips of social gatherings showcasing community and connection.",
+    "Images of plant-based meals and traditional foods from the Blue Zones."
+  ],
+  "captions": {
+    "instagram": "You don’t need to live in a Blue Zone to live longer. Discover actionable lifestyle choices that can enhance your longevity! #BlueZones #Longevity #Health",
+    "facebook": "Longevity isn't just about where you live. Learn how lifestyle choices from the Blue Zones can help you live longer! #BlueZones #Health",
+    "tiktok": "What if I told you longevity isn't just about where you live? Discover the lifestyle secrets of the Blue Zones! #Longevity #HealthTips",
+    "youtube": "You don’t need to live in a Blue Zone to live longer. Explore the lifestyle choices that can enhance your longevity! #BlueZones #Health"
+  },
+  "titles": {
+    "instagram": "Live Longer Without Moving",
+    "facebook": "Secrets to Longevity from Blue Zones",
+    "tiktok": "Longevity Secrets You Can Use!",
+    "youtube": "How to Live Longer: Lessons from Blue Zones"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

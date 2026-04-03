@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "breathwork-physiology",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Breathwork is more than relaxation; it can directly change your physiology.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Breathwork is more than relaxation; it can directly change your physiology.",
+    "beats": [
+      "Breathing is the only autonomic function you can control, giving you direct access to your nervous system.",
+      "Research shows that techniques like cyclic sighing can significantly reduce anxiety and improve mood.",
+      "However, while breathwork is powerful, it won't solve underlying stressors in your life."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of someone practicing breathwork in a calm setting.",
+    "Infographic showing the connection between breathwork and the nervous system.",
+    "Clip of a person looking relaxed and happy after breathwork.",
+    "Text overlay summarizing the importance of addressing underlying stressors."
+  ],
+  "captions": {
+    "instagram": "Breathwork can change your physiology! Discover how. #Breathwork #Health",
+    "facebook": "Did you know breathwork can directly impact your nervous system? Learn more about its benefits!",
+    "tiktok": "Breathwork isn't just for relaxation; it can change how your body reacts to stress! #Breathwork",
+    "youtube": "Explore how breathwork can influence your physiology and improve your well-being."
+  },
+  "titles": {
+    "instagram": "Unlock Your Nervous System with Breathwork",
+    "facebook": "Breathwork: A Tool for Change",
+    "tiktok": "Breathwork: More Than Relaxation",
+    "youtube": "How Breathwork Affects Your Physiology"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "burnout-science-brain-body-effects",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Burnout isn't just about feeling tired—it's a measurable state affecting your brain and body.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Burnout isn't just about feeling tired—it's a measurable state affecting your brain and body.",
+    "beats": [
+      "Research shows that burnout leads to changes in brain structure, particularly in the amygdala and prefrontal cortex.",
+      "Chronic stress can elevate cortisol levels, impacting your immune system and increasing inflammation.",
+      "It's important to recognize that recovery from burnout takes time and structured effort."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a tired person at a desk, with graphics showing brain areas affected by burnout.",
+    "Animation illustrating cortisol levels and their effects on the body.",
+    "Footage of people engaging in recovery activities like exercise and socializing.",
+    "Text overlay summarizing the need for structured recovery."
+  ],
+  "captions": {
+    "instagram": "Burnout is more than just fatigue—it's a measurable state that affects your brain and body. Learn more about its impact and recovery.",
+    "facebook": "Did you know burnout can change your brain? It's not just about feeling tired. Discover how to recognize and recover from it.",
+    "tiktok": "Burnout isn't just about being tired. It's a measurable state affecting your brain. Let's talk recovery!",
+    "youtube": "Burnout is a measurable state, not just fatigue. Learn how it affects your brain and body, and how to recover."
+  },
+  "titles": {
+    "instagram": "The Hidden Effects of Burnout",
+    "facebook": "Understanding Burnout: More Than Just Tired",
+    "tiktok": "Burnout: What You Need to Know",
+    "youtube": "Burnout: The Science Behind It"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

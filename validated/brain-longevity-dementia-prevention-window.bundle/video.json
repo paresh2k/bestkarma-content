@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "brain-longevity-dementia-prevention-window",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most people think dementia is a late-life issue, but prevention starts decades earlier.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Dementia often feels far away, but the truth is, it can start much earlier than you think.",
+    "beats": [
+      "Alzheimer's disease begins accumulating damage 15-20 years before symptoms show.",
+      "The critical prevention window is between ages 45 and 55, where lifestyle changes can significantly impact risk.",
+      "Research shows that nearly half of dementia cases might be preventable through lifestyle adjustments."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Opening shot of a clock ticking to symbolize time passing.",
+    "Infographic showing the age range of 45-55 with lifestyle factors listed.",
+    "Footage of people engaging in healthy activities like exercising and socializing.",
+    "Closing shot with the BestKarma logo and a reminder to follow for more health insights."
+  ],
+  "captions": {
+    "instagram": "Dementia can start decades earlier than you think. Learn how to protect your brain now! #DementiaPrevention #Health",
+    "facebook": "Think dementia is a late-life issue? Think again! The time to act is in your 40s. #Longevity #BrainHealth",
+    "tiktok": "Surprising truth: Dementia can begin much earlier. Here’s how to take action in your 40s! #HealthTips #Dementia",
+    "youtube": "Dementia prevention starts in your 40s. Discover the key lifestyle changes you can make today! #Longevity #ScienceBacked"
+  },
+  "titles": {
+    "instagram": "The Truth About Dementia Prevention",
+    "facebook": "When Does Dementia Prevention Start?",
+    "tiktok": "Dementia: Start Preventing It Now!",
+    "youtube": "Dementia Prevention: The Critical 10-Year Window"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

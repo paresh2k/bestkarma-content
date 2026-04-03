@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "biological-age-testing-guide",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Your biological age could be five years older than your chronological age, but that doesn't mean you should panic.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "What if your biological age test says you're older than you think?",
+    "beats": [
+      "Epigenetic clocks measure how your DNA changes with age, but they don't predict your fate.",
+      "A five-year acceleration in GrimAge correlates with increased mortality risk, but it's not a diagnosis.",
+      "Trends over time matter more than a single test result; lifestyle changes can shift your biological age."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a graphic of a clock with biological and chronological age labeled.",
+    "Display a chart showing the correlation between GrimAge acceleration and mortality risk.",
+    "Illustrate a person engaging in healthy habits like exercise and a balanced diet.",
+    "End with a call to action encouraging viewers to follow BestKarma."
+  ],
+  "captions": {
+    "instagram": "Your biological age might surprise you! Learn what it really means. #BiologicalAge #Health",
+    "facebook": "Is your biological age older than your chronological age? Find out what it means and what you can do! #Longevity",
+    "tiktok": "What if your biological age test says you're older? Here's what you need to know! #HealthTruths",
+    "youtube": "Understanding biological age testing: What does a higher score really mean? #ScienceBacked"
+  },
+  "titles": {
+    "instagram": "Biological Age vs. Chronological Age",
+    "facebook": "What Your Biological Age Test Really Means",
+    "tiktok": "Is Your Biological Age Higher Than You Think?",
+    "youtube": "Understanding Your Biological Age Test Results"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

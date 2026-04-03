@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "bone-density-perimenopause-prevention",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most women don't realize the biggest bone loss happens before menopause.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "One surprising truth about bone health during menopause.",
+    "beats": [
+      "Women can lose up to 20% of bone density in the 5-7 years before menopause.",
+      "This rapid decline is due to fluctuating estrogen levels that increase bone resorption.",
+      "Starting preventive measures early can make a significant difference."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a woman looking concerned while reading about menopause.",
+    "Graph showing bone density decline over the years leading to menopause.",
+    "Footage of women engaging in resistance training exercises.",
+    "Text overlay with key takeaways about prevention strategies."
+  ],
+  "captions": {
+    "instagram": "Did you know? Most bone loss occurs before menopause. Learn how to protect your bones! #BoneHealth #Menopause",
+    "facebook": "Surprising fact: Women can lose significant bone density before menopause. Find out how to prevent it! #BoneDensity #HealthTips",
+    "tiktok": "Think menopause is when bone loss starts? Think again! Discover how to protect your bones early. #HealthFacts #Menopause",
+    "youtube": "Most women don't know the critical window for bone health is before menopause. Learn how to take action! #BoneHealth #Wellness"
+  },
+  "titles": {
+    "instagram": "Bone Loss: The Hidden Truth About Menopause",
+    "facebook": "The Truth About Bone Density Loss Before Menopause",
+    "tiktok": "Bone Health: What You Need to Know Before Menopause",
+    "youtube": "Preventing Bone Loss: The Critical Years Before Menopause"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "blood-sugar-glucose-stability",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most people think fasting glucose tests tell the whole story about blood sugar health. They miss a critical factor.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Fasting glucose tests are common, but they can be misleading.",
+    "beats": [
+      "Blood sugar isn't static; it fluctuates throughout the day based on meals, activity, and stress.",
+      "Continuous glucose monitoring reveals that individual responses to the same food can vary dramatically.",
+      "Ignoring post-meal glucose spikes can lead to long-term health issues, even if fasting levels seem normal."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a person taking a fasting glucose test.",
+    "Graph showing fluctuations in blood sugar levels throughout the day.",
+    "Footage of a continuous glucose monitor in action.",
+    "Simple animations illustrating the effects of post-meal glucose spikes."
+  ],
+  "captions": {
+    "instagram": "Fasting glucose tests can be misleading! Discover why monitoring glucose variability matters. #BloodSugar #Health",
+    "facebook": "Think fasting glucose tests tell the whole story? Think again! Learn about the importance of glucose variability. #MetabolicHealth",
+    "tiktok": "Fasting glucose tests might miss crucial details about your health! Find out why glucose variability is key. #HealthFacts",
+    "youtube": "Fasting glucose tests are just part of the picture. Discover why glucose variability is essential for your health."
+  },
+  "titles": {
+    "instagram": "The Truth About Fasting Glucose Tests",
+    "facebook": "Why Fasting Glucose Tests Can Be Misleading",
+    "tiktok": "Fasting Glucose Tests: What They Miss",
+    "youtube": "Understanding Blood Sugar: Beyond Fasting Tests"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

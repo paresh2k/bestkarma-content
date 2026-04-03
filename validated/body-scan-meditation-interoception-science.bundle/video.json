@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "body-scan-meditation-interoception-science",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Body scan meditation can enhance your health in unexpected ways.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know that simply paying attention to your body can improve your health?",
+    "beats": [
+      "The insula processes signals from your body, helping you understand how you feel.",
+      "Body scan meditation trains this awareness, leading to better emotional regulation and pain management.",
+      "However, results can vary, and it may not be suitable for everyone, especially those with trauma histories."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a brain highlighting the insula area.",
+    "Footage of someone practicing body scan meditation.",
+    "Graphics showing benefits like improved emotional regulation.",
+    "Text overlay with a reminder about individual variations in response."
+  ],
+  "captions": {
+    "instagram": "Discover how body scan meditation can enhance your health! 🧘‍♂️✨ #Mindfulness #Health",
+    "facebook": "Learn how paying attention to your body can lead to better health outcomes with body scan meditation.",
+    "tiktok": "Think meditation is just for relaxation? Body scan meditation can actually boost your health! #Meditation #HealthTips",
+    "youtube": "Explore the surprising health benefits of body scan meditation and how it can enhance your well-being."
+  },
+  "titles": {
+    "instagram": "Unlock Health Benefits with Body Scan Meditation",
+    "facebook": "Body Scan Meditation: A Surprising Path to Better Health",
+    "tiktok": "Boost Your Health with Body Scan Meditation",
+    "youtube": "How Body Scan Meditation Can Improve Your Health"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

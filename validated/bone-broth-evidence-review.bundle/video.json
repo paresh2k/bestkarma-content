@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "bone-broth-evidence-review",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Bone broth isn't the miracle cure it's marketed to be.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Bone broth isn't the miracle cure it's marketed to be.",
+    "beats": [
+      "While it does contain beneficial compounds like glycine, the evidence supporting its health claims is modest.",
+      "The protein content varies widely, and it often doesn't deliver the amounts needed for specific benefits.",
+      "For those over 40 with low glycine intake, it can be a tasty addition, but it's not a substitute for supplements."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a pot of simmering bone broth with ingredients.",
+    "Display a chart of protein content variability in bone broths.",
+    "Highlight the amino acids glycine and proline with visuals.",
+    "End with a person enjoying a bowl of broth, looking satisfied."
+  ],
+  "captions": {
+    "instagram": "Bone broth isn't the miracle cure it's marketed to be. Learn the truth about its benefits! #BoneBroth #Nutrition",
+    "facebook": "Think bone broth is a cure-all? The reality is more nuanced. Discover what it really offers! #BoneBroth #HealthFacts",
+    "tiktok": "Bone broth isn’t the miracle cure you think it is. Here’s the real scoop! #BoneBroth #NutritionMyths",
+    "youtube": "Bone broth has been marketed as a health elixir, but the truth is more complex. Find out what it can really do! #BoneBroth"
+  },
+  "titles": {
+    "instagram": "The Truth About Bone Broth",
+    "facebook": "Bone Broth: Myth vs. Reality",
+    "tiktok": "Bone Broth: Not What You Think!",
+    "youtube": "Is Bone Broth a Miracle Cure?"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}
