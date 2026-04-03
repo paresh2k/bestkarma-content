@@ -15,6 +15,25 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const contentRoot = path.resolve(__dirname, '..');
 
+// ── CURATION TAGS ──────────────────────────────────────────────────────────
+// When adding new seeds, include relevant curation tags alongside topic tags.
+// These control where articles appear on the site (Start Here page + homepage).
+//
+// Reading paths (Start Here):
+//   path:sleep, path:stress, path:longevity, path:women, path:men,
+//   path:genz, path:millennials
+//
+// Homepage collections:
+//   collection:most-shared, collection:women-40, collection:men,
+//   collection:quick-wins, collection:20s-30s, collection:midlife
+//
+// Example tags array with curation tags:
+//   tags: ['cortisol', 'HPA-axis', 'burnout', 'path:stress', 'collection:most-shared']
+//
+// Be selective — only add curation tags when the article is a strong fit.
+// Most articles get 1–3 curation tags. See content-guidelines.md for details.
+// ────────────────────────────────────────────────────────────────────────────
+
 const ARTICLES = [
   // ── LONGEVITY ────────────────────────────────────────────────────────────
   {

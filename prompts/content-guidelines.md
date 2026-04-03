@@ -80,6 +80,46 @@ The article you write is the BODY only — do not include frontmatter YAML. The 
 
 ---
 
+## Curation Tags
+
+In addition to topic tags (e.g., `cortisol`, `longevity`, `sleep-architecture`), every article should be evaluated for **curation tags** that control where it appears on the site. These use prefixed namespaces:
+
+### Reading path tags (`path:*`)
+
+These place an article into a guided reading path on the Start Here page. An article can belong to multiple paths.
+
+| Tag | Path title | Use when the article... |
+|---|---|---|
+| `path:sleep` | Fix my sleep | covers sleep quality, circadian rhythm, insomnia, or sleep interventions |
+| `path:stress` | Calm my nervous system | covers stress, burnout, nervous system regulation, or recovery |
+| `path:longevity` | Age better, starting now | covers longevity biomarkers, healthspan, or anti-aging interventions |
+| `path:women` | Women's healthspan | addresses women-specific health (perimenopause, hormones, bone density, etc.) |
+| `path:men` | Men's healthspan | addresses men-specific health (strength, heart, testosterone, visceral fat, etc.) |
+| `path:genz` | Build the foundation now | is relevant to readers in their 20s–30s building health foundations |
+| `path:millennials` | The decade that matters | is relevant to readers 35–45 in the prevention window |
+
+### Collection tags (`collection:*`)
+
+These place an article into a homepage collection. An article can belong to multiple collections.
+
+| Tag | Collection title | Use when the article... |
+|---|---|---|
+| `collection:most-shared` | Most shared | is high-impact, surprising, or the kind of article people forward to friends |
+| `collection:women-40` | Best for women 40+ | is specifically relevant to women's healthspan after 40 |
+| `collection:men` | Best for men | is specifically relevant to men's health and longevity |
+| `collection:quick-wins` | Quick wins | is a short read with one clear, immediately actionable takeaway |
+| `collection:20s-30s` | In your 20s and 30s | covers foundational health habits for younger adults |
+| `collection:midlife` | The midlife playbook | covers prevention and optimization for the 35–45 age range |
+
+### Assignment guidelines
+
+- **Be selective.** Not every article belongs in a path or collection. Only add curation tags when the article is genuinely a strong fit.
+- **Most articles get 1–3 curation tags.** A sleep article might get `path:sleep` and `collection:quick-wins`. A women's bone density article might get `path:women`, `path:longevity`, and `collection:women-40`.
+- **Path tags and collection tags are independent.** An article can be in a path without being in a collection, and vice versa.
+- **Topic tags still come first.** Every article needs 3–5 topic-specific tags. Curation tags are added after them.
+
+---
+
 ## Pillar-Specific Notes
 
 **Longevity:** Focus on mechanisms that extend healthspan, not just lifespan. VO2 max, muscle mass, metabolic health, inflammation, and biological age are recurring themes.
