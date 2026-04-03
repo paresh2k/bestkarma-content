@@ -1,6 +1,6 @@
 ---
 title: "Shinrin-Yoku: The Japanese Science of Forest Bathing and Why It Works"
-description: "Japanese researchers have documented that spending 2 hours in a forest measurably lowers cortisol, blood pressure, and heart rate — while boosting natural killer cells that fight cancer and infection. This is what nature does to your body."
+description: "Japanese researchers have documented that spending 2 hours in a forest measurably lowers cortisol, blood pressure, and heart rate while boosting natural killer cells that fight cancer and infection. This is what nature does to your body."
 pubDate: 2026-02-16
 heroImage: "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&auto=format&fit=crop&q=80"
 category: mind-body

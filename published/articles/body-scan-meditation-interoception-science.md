@@ -1,7 +1,7 @@
 ---
 slug: body-scan-meditation-interoception-science
 title: "Body Scan Meditation: The Neuroscience of Interoception"
-description: "Body scan meditation is one of the most-studied mindfulness techniques. Its mechanism — improving interoceptive awareness — turns out to have wide-ranging health implications."
+description: "Body scan meditation is one of the most-studied mindfulness techniques. Its mechanism, improving interoceptive awareness, turns out to have wide-ranging health implications."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

@@ -1,6 +1,6 @@
 ---
 title: "The Science of Deep Sleep: Why 7 Hours Isn't Enough"
-description: "Most of us count sleep hours, but science shows it's the quality of your sleep architecture — not just the quantity — that determines how well you recover, think, and age."
+description: "Most of us count sleep hours, but science shows it's the quality of your sleep architecture, not just the quantity, that determines how well you recover, think, and age."
 pubDate: 2025-02-20
 heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/the-science-of-deep-sleep.jpg"
 category: sleep

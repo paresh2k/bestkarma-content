@@ -1,7 +1,7 @@
 ---
 slug: magnesium-sleep
 title: "Magnesium and Sleep: The Mineral Most People Are Deficient In"
-description: "Up to 80% of Western adults don't get enough magnesium. It plays a direct role in GABA activation, cortisol regulation, and melatonin production. Here's what the RCTs show — and which form actually works."
+description: "Up to 80% of Western adults don't get enough magnesium. It plays a direct role in GABA activation, cortisol regulation, and melatonin production. Here's what the RCTs show, and which form actually works."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

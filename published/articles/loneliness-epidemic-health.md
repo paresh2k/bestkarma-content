@@ -1,7 +1,7 @@
 ---
 slug: loneliness-epidemic-health
 title: "Loneliness Is as Deadly as Smoking 15 Cigarettes a Day. The Science Finally Proves It."
-description: "Loneliness kills 871,000 people annually and affects 37% of American adults. In 2025, the WHO declared social connection a public health priority. Here's what the biology of loneliness reveals — and what actually helps."
+description: "Loneliness kills 871,000 people annually and affects 37% of American adults. In 2025, the WHO declared social connection a public health priority. Here's what the biology of loneliness reveals, and what actually helps."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

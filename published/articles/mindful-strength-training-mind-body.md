@@ -1,7 +1,7 @@
 ---
 slug: mindful-strength-training-mind-body
 title: "Mindful Strength: How Combining Resistance Training with Mindfulness Changes Outcomes"
-description: "Attentional focus during strength training — specifically internal focus on the working muscle — measurably improves strength and hypertrophy outcomes. Here is the evidence."
+description: "Attentional focus during strength training, specifically internal focus on the working muscle, measurably improves strength and hypertrophy outcomes. Here is the evidence."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

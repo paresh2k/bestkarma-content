@@ -1,7 +1,7 @@
 ---
 slug: tryptophan-serotonin-melatonin-sleep
 title: "Tryptophan, Serotonin, and Melatonin: The Nutritional Pathway to Better Sleep"
-description: "The amino acid tryptophan is the raw material for both serotonin and melatonin. Dietary choices can meaningfully influence this pathway — and your sleep quality."
+description: "The amino acid tryptophan is the raw material for both serotonin and melatonin. Dietary choices can meaningfully influence this pathway, and your sleep quality."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

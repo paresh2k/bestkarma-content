@@ -1,7 +1,7 @@
 ---
 slug: japanese-interval-walking-protocol
 title: "Japanese Interval Walking: The Simple Protocol That Outperformed Standard Cardio"
-description: "Japanese interval walking — alternating 3 minutes of fast walking with 3 minutes of slow walking for 30 minutes — was found to outperform continuous moderate walking across multiple health markers."
+description: "Japanese interval walking, alternating 3 minutes of fast walking with 3 minutes of slow walking for 30 minutes, was found to outperform continuous moderate walking across multiple health markers."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

@@ -1,7 +1,7 @@
 ---
 slug: tai-chi-longevity-evidence
 title: "Tai Chi for Longevity: Falls, Cognition, and Mortality"
-description: "Tai chi has one of the strongest evidence bases of any mind-body practice — particularly for falls prevention, cognitive function, and cardiovascular health in older adults."
+description: "Tai chi has one of the strongest evidence bases of any mind-body practice, particularly for falls prevention, cognitive function, and cardiovascular health in older adults."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

@@ -1,7 +1,7 @@
 ---
 slug: social-jetlag-chronobiology
 title: "Social Jetlag: What Happens When Your Lifestyle Fights Your Body Clock"
-description: "If you sleep later on weekends than weekdays, you have social jetlag. It affects 70% of the working population and is associated with obesity, depression, and impaired cognition — even if your total sleep time is adequate."
+description: "If you sleep later on weekends than weekdays, you have social jetlag. It affects 70% of the working population and is associated with obesity, depression, and impaired cognition, even if your total sleep time is adequate."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

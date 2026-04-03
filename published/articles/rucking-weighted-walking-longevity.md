@@ -1,7 +1,7 @@
 ---
 slug: rucking-weighted-walking-longevity
 title: "Rucking: The Ancient Practice That's Become a Modern Longevity Tool"
-description: "Rucking — walking with a weighted pack — burns significantly more calories than walking, builds posterior chain strength, and provides an accessible entry point to loaded movement for people who don't lift."
+description: "Rucking, walking with a weighted pack, burns significantly more calories than walking, builds posterior chain strength, and provides an accessible entry point to loaded movement for people who don't lift."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

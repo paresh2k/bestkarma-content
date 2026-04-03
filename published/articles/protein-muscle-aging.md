@@ -1,7 +1,7 @@
 ---
 slug: protein-muscle-aging
 title: "Why Protein Is the Most Undervalued Longevity Tool After 40"
-description: "Sarcopenia — muscle loss with aging — starts at 30 and accelerates sharply after 60. The RDA for protein is a minimum for survival, not an optimum for healthy aging. Here's what you actually need."
+description: "Sarcopenia, muscle loss with aging, starts at 30 and accelerates sharply after 60. The RDA for protein is a minimum for survival, not an optimum for healthy aging. Here's what you actually need."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

@@ -1,7 +1,7 @@
 ---
 slug: emotional-regulation-science
 title: "Emotional Regulation: The Science of Not Being Run by Your Feelings"
-description: "Emotional regulation is one of the strongest predictors of mental health, relationship quality, and career outcomes. Here's what the research reveals about how emotions actually work — and the strategies with the best evidence."
+description: "Emotional regulation is one of the strongest predictors of mental health, relationship quality, and career outcomes. Here's what the research reveals about how emotions actually work, and the strategies with the best evidence."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

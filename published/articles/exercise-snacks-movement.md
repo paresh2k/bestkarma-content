@@ -1,7 +1,7 @@
 ---
 slug: exercise-snacks-movement
 title: "Exercise Snacks: Why Breaking Up Sitting Matters As Much As Your Workout"
-description: "Prolonged sitting is an independent health risk — even for people who exercise. Brief 'exercise snacks' throughout the day improve glucose, blood pressure, cognitive function, and cardiovascular health. Here's what the evidence shows."
+description: "Prolonged sitting is an independent health risk, even for people who exercise. Brief 'exercise snacks' throughout the day improve glucose, blood pressure, cognitive function, and cardiovascular health. Here's what the evidence shows."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

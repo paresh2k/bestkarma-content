@@ -1,6 +1,6 @@
 ---
 title: "Eight Weeks of Meditation Literally Reshapes Your Brain: The Neuroscience"
-description: "Neuroscientists at Harvard and MIT have documented measurable structural changes in the brain after as little as 8 weeks of mindfulness practice. This is no longer philosophy — it's neuroscience."
+description: "Neuroscientists at Harvard and MIT have documented measurable structural changes in the brain after as little as 8 weeks of mindfulness practice. This is no longer philosophy. It's neuroscience."
 pubDate: 2026-02-12
 heroImage: "https://pub-e857488a53374c54a7d80bfdd7e3c219.r2.dev/heroes/meditation-changes-your-brain.jpg"
 category: mind-body

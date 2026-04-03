@@ -1,7 +1,7 @@
 ---
 slug: fermented-foods-microbiome
 title: "The Stanford Study That Changed How We Think About Fermented Foods"
-description: "A landmark 2021 Cell paper found that eating fermented foods daily for 10 weeks increased microbiome diversity AND reduced 18 inflammatory markers — while a high-fiber diet did neither. Here's what that means for your plate."
+description: "A landmark 2021 Cell paper found that eating fermented foods daily for 10 weeks increased microbiome diversity AND reduced 18 inflammatory markers, while a high-fiber diet did neither. Here's what that means for your plate."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

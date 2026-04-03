@@ -1,7 +1,7 @@
 ---
 slug: resistant-starch-gut-health-guide
 title: "Resistant Starch: The Overlooked Fiber That Feeds Your Gut Differently"
-description: "Resistant starch escapes digestion in the small intestine and feeds specific beneficial bacteria in the colon. It is one of the most clinically supported prebiotic fibers — and most people eat almost none."
+description: "Resistant starch escapes digestion in the small intestine and feeds specific beneficial bacteria in the colon. It is one of the most clinically supported prebiotic fibers, and most people eat almost none."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

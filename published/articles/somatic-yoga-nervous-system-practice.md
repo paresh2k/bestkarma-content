@@ -1,7 +1,7 @@
 ---
 slug: somatic-yoga-nervous-system-practice
 title: "Somatic Yoga: How Body-Based Movement Differs From Conventional Yoga"
-description: "Somatic yoga emphasises internal sensation over external form — and this shift in attention may be what makes it effective for nervous system regulation and trauma-informed healing."
+description: "Somatic yoga emphasises internal sensation over external form, and this shift in attention may be what makes it effective for nervous system regulation and trauma-informed healing."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

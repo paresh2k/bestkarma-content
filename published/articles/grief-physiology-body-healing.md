@@ -1,7 +1,7 @@
 ---
 slug: grief-physiology-body-healing
 title: "Grief and the Body: The Physiology of Loss and How to Support Healing"
-description: "Grief has measurable physiological effects — on the heart, immune system, brain, and endocrine system. Understanding the biology of grief can change how we support recovery."
+description: "Grief has measurable physiological effects on the heart, immune system, brain, and endocrine system. Understanding the biology of grief can change how we support recovery."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

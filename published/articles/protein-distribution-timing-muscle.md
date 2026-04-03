@@ -1,7 +1,7 @@
 ---
 slug: protein-distribution-timing-muscle
 title: "Protein Distribution: Why When You Eat Protein Matters as Much as How Much"
-description: "Total protein intake is only part of the equation. How you distribute protein across meals — particularly hitting the leucine threshold at each sitting — may be equally important for muscle preservation."
+description: "Total protein intake is only part of the equation. How you distribute protein across meals, particularly hitting the leucine threshold at each sitting, may be equally important for muscle preservation."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

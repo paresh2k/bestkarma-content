@@ -1,7 +1,7 @@
 ---
 slug: sleep-debt-recovery-science
 title: "Sleep Debt: Is It Real, and Can You Pay It Back on Weekends?"
-description: "Sleep debt is real — cognitively, metabolically, and immunologically. Weekend recovery sleep partially compensates. Here is what the research actually shows."
+description: "Sleep debt is real: cognitively, metabolically, and immunologically. Weekend recovery sleep partially compensates. Here is what the research actually shows."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

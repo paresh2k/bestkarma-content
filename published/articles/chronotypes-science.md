@@ -1,7 +1,7 @@
 ---
 slug: chronotypes-science-morning-evening
 title: "Chronotypes: The Science Behind Why You're Not a Morning Person"
-description: "Your chronotype — morning lark, night owl, or somewhere in between — is substantially genetic, changes across the lifespan, and has real health implications when forced into misaligned schedules. Here's what the research shows."
+description: "Your chronotype, whether morning lark, night owl, or somewhere in between, is substantially genetic, changes across the lifespan, and has real health implications when forced into misaligned schedules. Here's what the research shows."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

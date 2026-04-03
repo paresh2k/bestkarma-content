@@ -1,7 +1,7 @@
 ---
 slug: flow-state-psychology
 title: "Flow States: The Science of Being Completely Absorbed (And How to Get There)"
-description: "Flow is among the most studied positive psychological states — and one of the most practically engineerable. Here's what Csikszentmihalyi's research reveals about optimal experience, and what the neuroscience adds."
+description: "Flow is among the most studied positive psychological states, and one of the most practically engineerable. Here's what Csikszentmihalyi's research reveals about optimal experience, and what the neuroscience adds."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

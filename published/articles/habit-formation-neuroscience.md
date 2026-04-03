@@ -1,7 +1,7 @@
 ---
 slug: habit-formation-neuroscience-behavior-change
 title: "Habit Formation: What Neuroscience Actually Says About Building Lasting Behavior"
-description: "Habits are stored as automatized programs in the basal ganglia — they run on cues, not willpower. The '21-day' myth has been replaced by data showing 18-254 days, mediated by behavior complexity. Here's the mechanistic guide to rewiring your behavior."
+description: "Habits are stored as automatized programs in the basal ganglia. They run on cues, not willpower. The '21-day' myth has been replaced by data showing 18-254 days, mediated by behavior complexity. Here's the mechanistic guide to rewiring your behavior."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

@@ -1,7 +1,7 @@
 ---
 slug: walking-yoga-mindful-movement
 title: "Walking Yoga: The Mindful Movement Practice Combining Two Longevity Staples"
-description: "Walking yoga — integrating breath, awareness, and gentle movement sequences into walking — is one of 2025's most searched wellness practices. Here is what the science behind it actually shows."
+description: "Walking yoga, integrating breath, awareness, and gentle movement sequences into walking, is one of 2025's most searched wellness practices. Here is what the science behind it actually shows."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

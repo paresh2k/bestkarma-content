@@ -1,7 +1,7 @@
 ---
 slug: apob-cardiovascular-risk-longevity
 title: "ApoB: The Cardiovascular Biomarker Your Doctor Probably Isn't Testing"
-description: "ApoB — apolipoprotein B — is a more accurate predictor of cardiovascular risk than LDL cholesterol. Here is what it measures, why it matters, and how to get it tested."
+description: "ApoB (apolipoprotein B) is a more accurate predictor of cardiovascular risk than LDL cholesterol. Here is what it measures, why it matters, and how to get it tested."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

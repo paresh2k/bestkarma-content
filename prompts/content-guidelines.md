@@ -66,6 +66,7 @@ The article you write is the BODY only — do not include frontmatter YAML. The 
 - **Medical disclaimers:** For any article touching on medical conditions, supplements, or interventions, include a brief disclaimer: *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine.*
 - **Citations:** Inline references in the text (not footnotes). Name the journal, year, and authors. Full DOIs are not required in the article body.
 - **No listicles:** Do not write "10 things to know about X." Write prose with clear sections.
+- **Avoid em dashes (—):** Use commas, colons, periods, or parentheses instead. Em dashes are overused in web writing and make prose feel breathless. They are never allowed in titles or descriptions. In article body text, avoid them as much as possible. A rare em dash is acceptable when no other punctuation works, but default to cleaner alternatives. Example: instead of "Grip strength — a proxy for systemic health — declines after 40" write "Grip strength, a proxy for systemic health, declines after 40."
 
 ---
 

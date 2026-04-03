@@ -1,7 +1,7 @@
 ---
 slug: nasal-breathing-sleep-physiology
 title: "Nasal Breathing While You Sleep: The Physiology Behind a Better Night"
-description: "The nose is not just a filter — it is a sleep-optimisation system. Nasal breathing during sleep produces nitric oxide, supports oxygen uptake, and protects against arousal. Here is the science."
+description: "The nose is not just a filter. It is a sleep-optimisation system. Nasal breathing during sleep produces nitric oxide, supports oxygen uptake, and protects against arousal. Here is the science."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

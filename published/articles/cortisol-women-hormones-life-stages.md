@@ -1,7 +1,7 @@
 ---
 slug: cortisol-women-hormones-life-stages
 title: "Cortisol and Women: Why Stress Hits Your Hormones Differently at Different Life Stages"
-description: "Estrogen modulates the stress response — which means cortisol dysregulation looks and feels different across a woman's reproductive life, perimenopause, and postmenopause."
+description: "Estrogen modulates the stress response, which means cortisol dysregulation looks and feels different across a woman's reproductive life, perimenopause, and postmenopause."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

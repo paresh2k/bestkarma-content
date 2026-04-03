@@ -1,7 +1,7 @@
 ---
 slug: breathwork-physiology
 title: "Breathwork: The Fastest Evidence-Based Way to Change Your Physiology Right Now"
-description: "Breathing is the only autonomic function you can consciously control — and that gives you direct access to your nervous system. Here's what the science shows about different techniques, which have the best evidence, and a practical starting protocol."
+description: "Breathing is the only autonomic function you can consciously control, and that gives you direct access to your nervous system. Here's what the science shows about different techniques, which have the best evidence, and a practical starting protocol."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

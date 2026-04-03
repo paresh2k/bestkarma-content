@@ -1,7 +1,7 @@
 ---
 slug: menstrual-cycle-sleep-architecture
 title: "How the Menstrual Cycle Changes Sleep Stage Distribution"
-description: "Sleep changes measurably across the menstrual cycle — in architecture, depth, and quality. Most women don't know this, and most sleep advice ignores it."
+description: "Sleep changes measurably across the menstrual cycle in architecture, depth, and quality. Most women don't know this, and most sleep advice ignores it."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

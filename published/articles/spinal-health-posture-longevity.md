@@ -1,7 +1,7 @@
 ---
 slug: spinal-health-posture-longevity
 title: "Spinal Health and Longevity: Why Your Back's Structural Integrity Determines Your Healthspan"
-description: "Spinal degeneration is one of the most common causes of disability and loss of independence as we age — yet it receives almost no attention in longevity medicine. Here is what to know."
+description: "Spinal degeneration is one of the most common causes of disability and loss of independence as we age, yet it receives almost no attention in longevity medicine. Here is what to know."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

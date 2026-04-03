@@ -1,7 +1,7 @@
 ---
 slug: female-athlete-triad-red-s-womens-health
 title: "Relative Energy Deficiency in Sport: What Active Women Need to Know"
-description: "RED-S — formerly called the female athlete triad — is a common, underdiagnosed condition in active women that affects bone health, hormones, cognition, and immune function."
+description: "RED-S, formerly called the female athlete triad, is a common, underdiagnosed condition in active women that affects bone health, hormones, cognition, and immune function."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

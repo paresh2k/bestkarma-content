@@ -1,7 +1,7 @@
 ---
 slug: adenosine-sleep-pressure-neuroscience
 title: "Adenosine and Sleep Pressure: The Neuroscience of Why You Need to Feel Tired"
-description: "Sleep pressure — the drive to sleep — is controlled by adenosine buildup in the brain. Understanding this system explains why naps, caffeine, and sleep deprivation work the way they do."
+description: "Sleep pressure, the drive to sleep, is controlled by adenosine buildup in the brain. Understanding this system explains why naps, caffeine, and sleep deprivation work the way they do."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

@@ -1,7 +1,7 @@
 ---
 slug: chronic-stress-cortisol
 title: "What Happens to Your Body When Stress Never Switches Off"
-description: "Acute stress is adaptive and life-saving. Chronic stress, where the emergency system runs 24/7, damages every major organ system. Here's the biology of chronic stress — and the evidence-based toolkit for down-regulating it."
+description: "Acute stress is adaptive and life-saving. Chronic stress, where the emergency system runs 24/7, damages every major organ system. Here's the biology of chronic stress, and the evidence-based toolkit for down-regulating it."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

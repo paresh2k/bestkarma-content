@@ -1,7 +1,7 @@
 ---
 slug: nature-green-space-health
 title: "The Dose of Outdoors Your Body Is Prescribing Itself"
-description: "Two hours per week in nature is the evidence-based threshold for wellbeing benefits. Forest walking reduces amygdala reactivity. Even a small clinic biotope calms the nervous system. Here's the nature-health research — and how to access it."
+description: "Two hours per week in nature is the evidence-based threshold for wellbeing benefits. Forest walking reduces amygdala reactivity. Even a small clinic biotope calms the nervous system. Here's the nature-health research, and how to access it."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

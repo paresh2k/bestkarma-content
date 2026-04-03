@@ -1,7 +1,7 @@
 ---
 slug: slow-living-cozy-wellness-science
 title: "Slow Living: The Evidence Behind Quieter, Less Optimised Self-Care"
-description: "Optimisation culture is giving way to something quieter — slow living, intentional rest, and \"cozymaxxing.\" Here is what the science says about why deceleration is genuinely good for you."
+description: "Optimisation culture is giving way to something quieter: slow living, intentional rest, and \"cozymaxxing.\" Here is what the science says about why deceleration is genuinely good for you."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

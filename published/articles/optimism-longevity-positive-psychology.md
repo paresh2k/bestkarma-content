@@ -1,7 +1,7 @@
 ---
 slug: optimism-longevity-positive-psychology
 title: "The Longevity Case for Optimism: What Positive Psychology Says About Living Longer"
-description: "Trait optimism is associated with a 15% longer lifespan in large cohort studies. This is not a placebo effect — there are clear biological pathways. Here is the evidence."
+description: "Trait optimism is associated with a 15% longer lifespan in large cohort studies. This is not a placebo effect. There are clear biological pathways. Here is the evidence."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

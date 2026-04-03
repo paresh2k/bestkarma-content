@@ -1,7 +1,7 @@
 ---
 slug: vitamin-d-deficiency-health
 title: "Vitamin D: The Deficiency You Probably Don't Know You Have"
-description: "One billion people worldwide are vitamin D deficient. Its roles extend far beyond bone health — immune function, muscle strength, mood, and cancer risk are all involved. Here's how to know your level and what to do about it."
+description: "One billion people worldwide are vitamin D deficient. Its roles extend far beyond bone health: immune function, muscle strength, mood, and cancer risk are all involved. Here's how to know your level and what to do about it."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

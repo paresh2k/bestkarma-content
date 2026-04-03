@@ -1,7 +1,7 @@
 ---
 slug: sunlight-exposure-circadian-health-beyond-vitamin-d
 title: "Sunlight Is More Than Vitamin D: The Circadian Biology, Mood, and Heart Health You're Missing"
-description: "Morning light sets your circadian clock, UVA exposure releases nitric oxide that lowers blood pressure, and avoiding the sun carries a 2-fold mortality risk. Here's the full spectrum of what sunlight does — and how to use it as a precision health tool."
+description: "Morning light sets your circadian clock, UVA exposure releases nitric oxide that lowers blood pressure, and avoiding the sun carries a 2-fold mortality risk. Here's the full spectrum of what sunlight does, and how to use it as a precision health tool."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

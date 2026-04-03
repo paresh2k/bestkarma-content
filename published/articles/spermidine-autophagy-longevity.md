@@ -1,7 +1,7 @@
 ---
 slug: spermidine-autophagy-longevity
 title: "Spermidine: The Autophagy-Boosting Compound Found in Wheat Germ and Aged Cheese"
-description: "Spermidine is a naturally occurring polyamine that triggers autophagy — the cellular cleanup process that declines with age. Here is what the research shows."
+description: "Spermidine is a naturally occurring polyamine that triggers autophagy, the cellular cleanup process that declines with age. Here is what the research shows."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

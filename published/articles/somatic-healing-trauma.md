@@ -1,7 +1,7 @@
 ---
 slug: somatic-healing-trauma
 title: "Why the Body Keeps the Score, and What Somatic Therapies Do About It"
-description: "Trauma isn't just stored in memories. It lives in the body as unresolved physiological survival responses. Somatic therapies work at this level — and the clinical evidence is growing. Here's what the science shows."
+description: "Trauma isn't just stored in memories. It lives in the body as unresolved physiological survival responses. Somatic therapies work at this level, and the clinical evidence is growing. Here's what the science shows."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

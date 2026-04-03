@@ -1,7 +1,7 @@
 ---
 slug: perimenopause-anxiety-brain-chemistry
 title: "Perimenopause and Anxiety: Why Brain Chemistry Changes in Your 40s"
-description: "Up to 70% of perimenopausal women experience anxiety — often for the first time. The mechanism is hormonal and neurological, not psychological weakness. Here is the science."
+description: "Up to 70% of perimenopausal women experience anxiety, often for the first time. The mechanism is hormonal and neurological, not psychological weakness. Here is the science."
 author: paresh-chauhan
 reviewer: gpt-validator
 pubDate: 2026-03-18

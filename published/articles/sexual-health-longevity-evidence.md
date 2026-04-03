@@ -1,7 +1,7 @@
 ---
 slug: sexual-health-longevity-evidence
 title: "Sexual Health and Longevity: Why Intimacy Matters for Long-Term Wellbeing"
-description: "Sexual health is a meaningful contributor to overall health and longevity — through cardiovascular, immune, psychological, and social pathways. Here is what the research shows."
+description: "Sexual health is a meaningful contributor to overall health and longevity through cardiovascular, immune, psychological, and social pathways. Here is what the research shows."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

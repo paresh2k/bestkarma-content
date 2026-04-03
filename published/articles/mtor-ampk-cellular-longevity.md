@@ -1,7 +1,7 @@
 ---
 slug: mtor-ampk-cellular-longevity
 title: "mTOR vs. AMPK: The Cellular Seesaw at the Heart of Longevity"
-description: "mTOR drives growth. AMPK drives repair. They are in constant opposition — and which one dominates determines how you age at the cellular level."
+description: "mTOR drives growth. AMPK drives repair. They are in constant opposition, and which one dominates determines how you age at the cellular level."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

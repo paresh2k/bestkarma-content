@@ -1,7 +1,7 @@
 ---
 slug: neat-non-exercise-activity-thermogenesis-metabolism
 title: "NEAT: Why the Other 23 Hours Matter More Than Your Workout"
-description: "Non-exercise activity thermogenesis accounts for up to 50% of daily energy expenditure and predicts obesity better than gym attendance. Two people with identical workouts can differ by 2,000 calories/day in daily energy burn. Here's the science of NEAT — and how to use it."
+description: "Non-exercise activity thermogenesis accounts for up to 50% of daily energy expenditure and predicts obesity better than gym attendance. Two people with identical workouts can differ by 2,000 calories/day in daily energy burn. Here's the science of NEAT, and how to use it."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

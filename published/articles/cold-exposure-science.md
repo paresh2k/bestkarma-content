@@ -1,6 +1,6 @@
 ---
 title: "Cold Showers, Ice Baths, and the Science of Deliberate Cold Exposure"
-description: "A 2-minute cold shower can raise norepinephrine by 300% and dopamine by 250%. Here's what the evidence actually says about cold exposure — beyond the hype."
+description: "A 2-minute cold shower can raise norepinephrine by 300% and dopamine by 250%. Here's what the evidence actually says about cold exposure, beyond the hype."
 pubDate: 2026-02-23
 heroImage: "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=1200&auto=format&fit=crop&q=80"
 category: wellness

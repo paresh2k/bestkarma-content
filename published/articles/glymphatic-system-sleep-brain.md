@@ -1,7 +1,7 @@
 ---
 slug: glymphatic-system-sleep-brain
 title: "Your Brain Takes Out the Trash While You Sleep: The Glymphatic System Explained"
-description: "Scientists discovered a brain-cleaning system that only works during deep sleep. It flushes Alzheimer's-linked proteins nightly — making sleep the most powerful dementia prevention tool we know."
+description: "Scientists discovered a brain-cleaning system that only works during deep sleep. It flushes Alzheimer's-linked proteins nightly, making sleep the most powerful dementia prevention tool we know."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

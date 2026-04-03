@@ -1,7 +1,7 @@
 ---
 slug: fermented-foods-vs-probiotic-supplements
 title: "Fermented Foods vs. Probiotic Supplements: Which Actually Works?"
-description: "Both fermented foods and probiotic supplements claim to improve gut health. The evidence for each is different — in strength, mechanism, and practical outcome."
+description: "Both fermented foods and probiotic supplements claim to improve gut health. The evidence for each is different in strength, mechanism, and practical outcome."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

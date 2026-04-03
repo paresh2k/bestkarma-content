@@ -1,7 +1,7 @@
 ---
 slug: centenarian-studies-beyond-blue-zones
 title: "What Centenarian Studies Tell Us That Blue Zones Research Missed"
-description: "Blue Zones research gave us lifestyle heuristics. Centenarian genomics and cohort studies are giving us something more specific — and sometimes contradictory."
+description: "Blue Zones research gave us lifestyle heuristics. Centenarian genomics and cohort studies are giving us something more specific, and sometimes contradictory."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

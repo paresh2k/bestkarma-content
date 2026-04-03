@@ -1,7 +1,7 @@
 ---
 slug: alcohol-sleep-quality
 title: "Why a Nightcap Is Actually Wrecking Your Recovery"
-description: "Alcohol helps you fall asleep faster — then systematically destroys your sleep quality. A 2024 meta-analysis of 27 studies shows it delays REM onset by 18 minutes and reduces REM duration dose-dependently. Here's the full picture."
+description: "Alcohol helps you fall asleep faster, then systematically destroys your sleep quality. A 2024 meta-analysis of 27 studies shows it delays REM onset by 18 minutes and reduces REM duration dose-dependently. Here's the full picture."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

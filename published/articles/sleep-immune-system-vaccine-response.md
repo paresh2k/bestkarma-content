@@ -1,7 +1,7 @@
 ---
 slug: sleep-immune-system-vaccine-response
 title: "The Sleep-Immune Axis: Why Poor Sleep Makes Every Vaccine Less Effective"
-description: "Sleep is not passive recovery — it is an active immune function. Studies show that sleeping less than 6 hours the week before vaccination can cut antibody response by half."
+description: "Sleep is not passive recovery. It is an active immune function. Studies show that sleeping less than 6 hours the week before vaccination can cut antibody response by half."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

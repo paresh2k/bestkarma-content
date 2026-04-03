@@ -1,7 +1,7 @@
 ---
 slug: senomorphics-sasp-aging
 title: "Senomorphics: Suppressing Zombie Cell Secretions Without Killing Them"
-description: "Senolytics kill senescent cells. Senomorphics take a different approach — suppressing the inflammatory signals zombie cells emit. Here is the emerging science."
+description: "Senolytics kill senescent cells. Senomorphics take a different approach: suppressing the inflammatory signals zombie cells emit. Here is the emerging science."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

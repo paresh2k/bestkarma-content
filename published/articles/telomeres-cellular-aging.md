@@ -1,7 +1,7 @@
 ---
 slug: telomeres-cellular-aging
 title: "Telomeres: The Cellular Scoreboard for How You're Actually Aging"
-description: "Every cell in your body keeps a countdown timer at the end of each chromosome. Inflammation shortens it faster than almost anything else. Here's what the science says — and what to do about it."
+description: "Every cell in your body keeps a countdown timer at the end of each chromosome. Inflammation shortens it faster than almost anything else. Here's what the science says, and what to do about it."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

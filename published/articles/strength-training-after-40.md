@@ -1,6 +1,6 @@
 ---
 title: "Strength Training After 40: The Anti-Aging Prescription You're Not Filling"
-description: "After 40, we lose 1–2% of muscle mass per year and up to 3% of muscle strength. But this trajectory is not fixed — resistance training is the most powerful intervention we have to reverse muscle aging and dramatically extend healthspan."
+description: "After 40, we lose 1-2% of muscle mass per year and up to 3% of muscle strength. But this trajectory is not fixed. Resistance training is the most powerful intervention we have to reverse muscle aging and dramatically extend healthspan."
 pubDate: 2026-03-04
 heroImage: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200&auto=format&fit=crop&q=80"
 category: longevity

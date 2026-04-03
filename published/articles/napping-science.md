@@ -1,7 +1,7 @@
 ---
 slug: napping-science-performance-health
 title: "The Science of Napping: When It Helps, When It Hurts, and How to Do It Right"
-description: "A well-timed 20-minute nap restores alertness as effectively as a full cup of coffee. NASA research documented a 34% improvement in performance and 100% improvement in alertness from naps in pilots. But napping has rules — and breaking them undermines your night sleep."
+description: "A well-timed 20-minute nap restores alertness as effectively as a full cup of coffee. NASA research documented a 34% improvement in performance and 100% improvement in alertness from naps in pilots. But napping has rules, and breaking them undermines your night sleep."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

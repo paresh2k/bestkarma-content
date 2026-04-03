@@ -1,7 +1,7 @@
 ---
 slug: gut-microbiome-longevity-centenarians
 title: "What Centenarians' Gut Microbiomes Can Teach Us About Living Longer"
-description: "Studies of 100-year-olds consistently find higher gut microbiome diversity and specific longevity-associated bacterial species. Here's what their microbiomes reveal — and how to cultivate a gut ecosystem that ages well."
+description: "Studies of 100-year-olds consistently find higher gut microbiome diversity and specific longevity-associated bacterial species. Here's what their microbiomes reveal, and how to cultivate a gut ecosystem that ages well."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

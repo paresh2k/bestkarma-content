@@ -1,7 +1,7 @@
 ---
 slug: sleep-wearables-accuracy
 title: "Sleep Trackers: What Oura, WHOOP, and Apple Watch Actually Get Right (And Wrong)"
-description: "Sleep wearables are now validated against polysomnography in peer-reviewed trials. Here's what the 2024-2025 research shows about which devices are most accurate — and how to use data without obsessing over it."
+description: "Sleep wearables are now validated against polysomnography in peer-reviewed trials. Here's what the 2024-2025 research shows about which devices are most accurate, and how to use data without obsessing over it."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

@@ -1,7 +1,7 @@
 ---
 slug: ovarian-aging-womens-longevity
 title: "Ovarian Aging: Why Women's Longevity Needs Its Own Framework"
-description: "Most longevity research was done on men or male animals. The ovary is a central driver of women's healthspan — and its accelerated aging timeline changes everything."
+description: "Most longevity research was done on men or male animals. The ovary is a central driver of women's healthspan, and its accelerated aging timeline changes everything."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

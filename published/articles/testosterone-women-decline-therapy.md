@@ -1,7 +1,7 @@
 ---
 slug: testosterone-women-decline-therapy
 title: "Testosterone in Women: What It Does, When It Declines, and When to Consider Therapy"
-description: "Women produce and need testosterone — but discussion of women's testosterone is almost entirely absent from mainstream healthcare. Here is the evidence on what it does, when it matters, and what the options are."
+description: "Women produce and need testosterone, but discussion of women's testosterone is almost entirely absent from mainstream healthcare. Here is the evidence on what it does, when it matters, and what the options are."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

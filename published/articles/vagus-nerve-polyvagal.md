@@ -1,7 +1,7 @@
 ---
 slug: vagus-nerve-polyvagal
 title: "The Vagus Nerve: Your Body's Built-In Stress Reset System"
-description: "The vagus nerve is the primary pathway of the parasympathetic nervous system — and it can be directly trained. Here's the science behind vagal tone, the polyvagal framework, and practical ways to activate your reset system."
+description: "The vagus nerve is the primary pathway of the parasympathetic nervous system, and it can be directly trained. Here's the science behind vagal tone, the polyvagal framework, and practical ways to activate your reset system."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

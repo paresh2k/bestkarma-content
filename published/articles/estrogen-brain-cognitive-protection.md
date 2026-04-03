@@ -1,7 +1,7 @@
 ---
 slug: estrogen-brain-cognitive-protection
 title: "Estrogen and the Brain: Cognitive Protection Through the Menopause Transition"
-description: "Estrogen has significant neuroprotective effects. Its decline during menopause increases Alzheimer's risk — particularly in women who undergo early or surgical menopause. Here is what the evidence shows."
+description: "Estrogen has significant neuroprotective effects. Its decline during menopause increases Alzheimer's risk, particularly in women who undergo early or surgical menopause. Here is what the evidence shows."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

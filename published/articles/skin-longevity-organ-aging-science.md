@@ -1,7 +1,7 @@
 ---
 slug: skin-longevity-organ-aging-science
 title: "Skin as a Longevity Organ: What Dermatology Science Tells Us About Aging from the Outside In"
-description: "The skin is not just cosmetically important — it is a metabolic, immune, and endocrine organ. How it ages reflects and influences how the rest of the body ages."
+description: "The skin is not just cosmetically important. It is a metabolic, immune, and endocrine organ. How it ages reflects and influences how the rest of the body ages."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

@@ -1,7 +1,7 @@
 ---
 slug: hallmarks-of-aging
 title: "The 12 Hallmarks of Aging: What Science Says Is Actually Happening Inside Your Body"
-description: "From genomic instability to cellular senescence, aging isn't random — it follows predictable biological patterns. Understanding the hallmarks is the first step to slowing them."
+description: "From genomic instability to cellular senescence, aging isn't random. It follows predictable biological patterns. Understanding the hallmarks is the first step to slowing them."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

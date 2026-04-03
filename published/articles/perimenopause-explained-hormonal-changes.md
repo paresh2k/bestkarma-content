@@ -1,7 +1,7 @@
 ---
 slug: perimenopause-explained-hormonal-changes
 title: "Perimenopause 101: What's Actually Happening in Your Body in Your 40s"
-description: "Perimenopause is not a disease — but it is a profound biological transition that most women enter without adequate information. Here is a comprehensive guide to what is happening and why."
+description: "Perimenopause is not a disease, but it is a profound biological transition that most women enter without adequate information. Here is a comprehensive guide to what is happening and why."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

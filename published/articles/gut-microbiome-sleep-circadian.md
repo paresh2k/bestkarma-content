@@ -1,7 +1,7 @@
 ---
 slug: gut-microbiome-sleep-circadian
 title: "The Gut-Sleep Connection: How Your Microbiome Influences Your Circadian Clock"
-description: "The gut microbiome has its own circadian rhythm — and disrupting one disrupts the other. Here is the emerging science connecting your gut bacteria to your sleep quality."
+description: "The gut microbiome has its own circadian rhythm, and disrupting one disrupts the other. Here is the emerging science connecting your gut bacteria to your sleep quality."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

@@ -1,7 +1,7 @@
 ---
 slug: stress-inoculation-hormesis-resilience-science
 title: "Good Stress Is Real: The Science of Hormesis and Building Resilience"
-description: "Low-dose, controllable stress activates cellular pathways that make you biologically stronger. Exercise, fasting, sauna, cold, and even psychological challenge all produce hormetic benefits. Here's the unified science — and how to design deliberate stress exposure."
+description: "Low-dose, controllable stress activates cellular pathways that make you biologically stronger. Exercise, fasting, sauna, cold, and even psychological challenge all produce hormetic benefits. Here's the unified science, and how to design deliberate stress exposure."
 author: bestkarma-editorial
 reviewer: bestkarma-review
 pubDate: 2026-03-16

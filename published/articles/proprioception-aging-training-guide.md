@@ -1,7 +1,7 @@
 ---
 slug: proprioception-aging-training-guide
 title: "Proprioception: The Hidden Sense That Keeps You Upright and Aging Well"
-description: "Proprioception — your body's sense of its own position in space — declines measurably from age 40 and is a primary driver of falls and mobility loss in older adults. It can be trained."
+description: "Proprioception, your body's sense of its own position in space, declines measurably from age 40 and is a primary driver of falls and mobility loss in older adults. It can be trained."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18

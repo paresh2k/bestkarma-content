@@ -1,7 +1,7 @@
 ---
 slug: ozempic-glp1-protein-diet-muscle-loss
 title: "Ozempic and Diet: How GLP-1 Users Should Adjust Protein and Training"
-description: "GLP-1 medications cause significant caloric restriction — which, without intervention, leads to muscle loss alongside fat loss. Here is the evidence-based strategy to preserve muscle on GLP-1s."
+description: "GLP-1 medications cause significant caloric restriction, which, without intervention, leads to muscle loss alongside fat loss. Here is the evidence-based strategy to preserve muscle on GLP-1s."
 author: bestkarma-editorial
 reviewer: gpt-validator
 pubDate: 2026-03-18
