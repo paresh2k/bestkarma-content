@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "centenarian-studies-beyond-blue-zones",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Centenarians often defy our expectations about health and longevity.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Centenarians often defy our expectations about health and longevity.",
+    "beats": [
+      "Many centenarians smoke or drink, and some are even overweight.",
+      "Research shows that genetics play a significant role in their longevity, sometimes more than lifestyle.",
+      "However, behaviors like regular exercise and managing stress still matter."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of centenarians engaging in various activities like smoking or enjoying a drink.",
+    "Graph showing the role of genetics versus lifestyle in longevity.",
+    "Footage of people exercising and practicing stress management techniques.",
+    "Text overlay summarizing key takeaways about longevity."
+  ],
+  "captions": {
+    "instagram": "Centenarians often defy our expectations about health and longevity. Genetics may play a bigger role than we thought! #longevity #health",
+    "facebook": "Did you know many centenarians smoke or drink? Genetics might be more important than lifestyle for longevity. Learn more! #longevity #health",
+    "tiktok": "Centenarians are surprising! Many smoke or drink, and genetics often matter more than lifestyle. #longevity #health",
+    "youtube": "Centenarians often challenge our ideas about health. Genetics may be more crucial than lifestyle for living to 100. #longevity #health"
+  },
+  "titles": {
+    "instagram": "Centenarians Challenge Our Health Beliefs",
+    "facebook": "What Centenarians Teach Us About Longevity",
+    "tiktok": "Centenarians: Surprising Truths About Longevity",
+    "youtube": "What Centenarians Teach Us About Living Longer"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

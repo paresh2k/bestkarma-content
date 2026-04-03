@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "cbti-vs-sleep-medication-comparison",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most people reach for sleep pills, but therapy may offer better long-term results.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Most people reach for sleep pills, but therapy may offer better long-term results.",
+    "beats": [
+      "Sleep medications are commonly prescribed, with millions of prescriptions each year.",
+      "However, studies show that Cognitive Behavioral Therapy for Insomnia (CBT-I) can outperform these medications in effectiveness and durability.",
+      "While medications can help in the short term, they often lead to rebound insomnia and don’t address the underlying issues."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of sleep medication bottles with a statistic overlay about prescriptions.",
+    "Visual of a therapist and patient engaging in CBT-I.",
+    "Graph showing the long-term effectiveness of CBT-I versus medications.",
+    "Text overlay summarizing the importance of addressing insomnia's root causes."
+  ],
+  "captions": {
+    "instagram": "Think sleep pills are the best solution for insomnia? Think again. CBT-I may be more effective long-term.",
+    "facebook": "Many people turn to sleep medications for insomnia, but CBT-I might be the better choice for lasting results.",
+    "tiktok": "Sleep pills are popular, but did you know CBT-I could work better for chronic insomnia? Here’s why.",
+    "youtube": "Sleep medications are often the first choice for insomnia, but CBT-I offers a more sustainable solution."
+  },
+  "titles": {
+    "instagram": "CBT-I vs. Sleep Meds: What Works Better?",
+    "facebook": "Why CBT-I Might Be Better Than Sleep Meds",
+    "tiktok": "The Truth About Sleep Meds vs. Therapy",
+    "youtube": "CBT-I: The Better Option for Insomnia?"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "CBT-I may not be suitable for everyone, especially those with certain medical conditions."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

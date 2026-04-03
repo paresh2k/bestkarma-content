@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "chronic-stress-cortisol",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Chronic stress can actually age your cells faster than you think.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know chronic stress might be aging your cells?",
+    "beats": [
+      "Chronic stress keeps cortisol levels elevated, which can damage your brain and body.",
+      "Research shows that caregivers under stress can experience cellular aging equivalent to 10 years.",
+      "Managing stress through mindfulness or exercise can help reverse some of these effects."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a clock speeding up to symbolize aging.",
+    "Animated graphic showing cortisol levels rising.",
+    "Footage of someone practicing mindfulness or exercising.",
+    "Text overlay summarizing the benefits of stress management."
+  ],
+  "captions": {
+    "instagram": "Chronic stress can age your cells faster than you think. Learn how to manage it! #Stress #Health",
+    "facebook": "Did you know chronic stress might be aging your cells? Discover how to manage stress effectively! #Health #Wellness",
+    "tiktok": "Chronic stress is aging your cells! Here’s how to manage it. #StressManagement #HealthTips",
+    "youtube": "Chronic stress can lead to faster cellular aging. Learn about effective stress management techniques! #Health #Science"
+  },
+  "titles": {
+    "instagram": "How Chronic Stress Ages You",
+    "facebook": "The Aging Effects of Chronic Stress",
+    "tiktok": "Is Stress Aging Your Cells?",
+    "youtube": "Chronic Stress and Cellular Aging"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

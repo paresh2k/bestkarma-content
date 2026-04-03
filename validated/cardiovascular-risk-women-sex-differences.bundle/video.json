@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "cardiovascular-risk-women-sex-differences",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Women often present heart disease differently than men, leading to misdiagnosis.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know heart disease symptoms in women can be very different from men?",
+    "beats": [
+      "Heart disease is the leading cause of death for women, yet many are under-tested.",
+      "Women are more likely to experience atypical symptoms like fatigue and nausea.",
+      "Standard risk calculators often underestimate women's cardiovascular risk."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a woman looking concerned with heart health graphics.",
+    "Infographic showing heart disease statistics in women.",
+    "Clip of a doctor discussing symptoms with a female patient.",
+    "Visual of a risk calculator with a focus on women-specific factors."
+  ],
+  "captions": {
+    "instagram": "Heart disease symptoms in women can be different from men. Know the signs! #HeartHealth",
+    "facebook": "Did you know women often experience different heart disease symptoms than men? It's crucial to recognize these differences. #CardiovascularHealth",
+    "tiktok": "Women’s heart disease symptoms aren’t always the same as men’s. Learn what to look out for! #HeartHealth",
+    "youtube": "Heart disease is often misdiagnosed in women due to different symptoms. Here’s what you need to know."
+  },
+  "titles": {
+    "instagram": "Heart Disease Symptoms in Women",
+    "facebook": "Understanding Women's Heart Health",
+    "tiktok": "Women & Heart Disease: What You Should Know",
+    "youtube": "Why Women Experience Heart Disease Differently"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "cardiovascular-age-measurement",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Your heart could be older or younger than you think.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Your heart could be older or younger than you think.",
+    "beats": [
+      "Two people can be the same age chronologically but have very different cardiovascular ages.",
+      "A coronary artery calcium (CAC) score can reveal hidden plaque in your arteries, impacting your heart health.",
+      "Lifestyle factors can significantly influence these measurements, but results can vary widely."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show two people of the same age with different heart health metrics.",
+    "Display a CAC score chart highlighting the risk levels.",
+    "Illustrate lifestyle changes that can improve cardiovascular age.",
+    "End with a call to action to measure cardiovascular age."
+  ],
+  "captions": {
+    "instagram": "Your heart's age might surprise you! Learn how to measure it. #HeartHealth #Longevity",
+    "facebook": "Did you know your heart could be aging differently than your chronological age? Find out how to measure it! #HeartHealth",
+    "tiktok": "Your heart might be older than you think! Here’s how to measure your cardiovascular age. #HealthTips",
+    "youtube": "Is your heart older than your birth certificate says? Discover how to measure and improve your cardiovascular age."
+  },
+  "titles": {
+    "instagram": "Is Your Heart Older Than You Think?",
+    "facebook": "Measure Your Cardiovascular Age!",
+    "tiktok": "How Old Is Your Heart?",
+    "youtube": "Understanding Your Cardiovascular Age"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

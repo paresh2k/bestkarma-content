@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "cbt-i-insomnia-treatment",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "CBT-I can improve sleep better than sleeping pills, yet most people have never heard of it.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "CBT-I can improve sleep better than sleeping pills, yet most people have never heard of it.",
+    "beats": [
+      "CBT-I, or Cognitive Behavioral Therapy for Insomnia, addresses the behaviors and thoughts that maintain insomnia.",
+      "Unlike sleeping pills, which only mask symptoms, CBT-I targets the root causes, helping 75-80% of chronic insomniacs.",
+      "However, the treatment can be uncomfortable at first, and many abandon it before seeing results."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a person struggling to sleep with pills on the nightstand.",
+    "Animation showing the CBT-I process breaking down insomnia habits.",
+    "Graph illustrating the success rates of CBT-I versus sleeping pills.",
+    "Text overlay with a reminder to ask about CBT-I at your next doctor's visit."
+  ],
+  "captions": {
+    "instagram": "Did you know CBT-I can be more effective than sleeping pills for insomnia? Learn more about this treatment! #Insomnia #CBTI #SleepHealth",
+    "facebook": "CBT-I is a powerful treatment for insomnia that many people don't know about. Discover how it can help you sleep better! #Insomnia #CBTI #SleepHealth",
+    "tiktok": "CBT-I can improve your sleep more effectively than sleeping pills. Why haven’t you heard of it? #Insomnia #CBTI #SleepTips",
+    "youtube": "CBT-I is a proven treatment for insomnia, outperforming sleeping pills. Find out why it's underused! #Insomnia #CBTI #SleepHealth"
+  },
+  "titles": {
+    "instagram": "CBT-I: The Better Sleep Solution",
+    "facebook": "Discover CBT-I: A Better Way to Sleep",
+    "tiktok": "Why CBT-I Beats Sleeping Pills",
+    "youtube": "CBT-I: The Secret to Better Sleep"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

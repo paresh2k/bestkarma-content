@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "cold-exposure-science",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Cold showers can boost your mood more than you might think.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Cold showers can boost your mood more than you might think.",
+    "beats": [
+      "Research shows that just a 2-minute cold shower can increase norepinephrine by up to 300%.",
+      "This neurotransmitter plays a key role in mood and focus, potentially helping with depression.",
+      "However, cold exposure isn't for everyone—consult your doctor if you have heart issues."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Footage of a person taking a cold shower with a surprised expression.",
+    "Graphic showing the increase in norepinephrine levels.",
+    "Clip of someone looking more focused and happy after a cold shower.",
+    "Text overlay with the caveat about consulting a doctor."
+  ],
+  "captions": {
+    "instagram": "Cold showers can boost your mood! A 2-min shower may raise norepinephrine by 300%. But check with your doctor first! #ColdExposure #Health",
+    "facebook": "Did you know cold showers can significantly boost your mood? Just 2 minutes can raise norepinephrine levels by 300%. However, consult your doctor if you have heart issues! #ColdExposure",
+    "tiktok": "Cold showers might just be your new mood booster! A quick 2-minute shower can increase norepinephrine by 300%. Just remember to check with your doctor if you have heart concerns! #ColdExposure",
+    "youtube": "Cold showers can elevate your mood! A 2-minute exposure can increase norepinephrine by 300%. But if you have heart issues, consult your doctor first! #ColdExposure"
+  },
+  "titles": {
+    "instagram": "Cold Showers: Mood Booster?",
+    "facebook": "Can Cold Showers Boost Your Mood?",
+    "tiktok": "Cold Showers & Mood: What You Need to Know!",
+    "youtube": "The Mood-Boosting Benefits of Cold Showers"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

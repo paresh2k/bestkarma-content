@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "chronotypes-science",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Being a night owl isn't just a habit; it's in your DNA.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Many believe night owls are just lazy, but science tells a different story.",
+    "beats": [
+      "Chronotype is a biological trait, largely determined by genetics.",
+      "Studies show that evening chronotypes can face health risks like depression and metabolic issues.",
+      "Shifting your schedule can help, but it's not an overnight fix."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a person waking up early vs. a night owl working late.",
+    "Graph showing the genetic basis of chronotype.",
+    "Infographic highlighting health risks associated with misaligned chronotypes.",
+    "Footage of someone enjoying morning light outdoors."
+  ],
+  "captions": {
+    "instagram": "Your sleep pattern might be in your genes! Discover the science behind chronotypes. #Chronotype #SleepHealth",
+    "facebook": "Did you know your chronotype is largely genetic? Learn how it affects your health and daily life. #Chronotype #Health",
+    "tiktok": "Think being a night owl is just a bad habit? Think again! It's in your DNA. #NightOwl #Chronotype",
+    "youtube": "Explore the science behind chronotypes and how they impact your health. #Chronotype #SleepScience"
+  },
+  "titles": {
+    "instagram": "Is Your Sleep Pattern Genetic?",
+    "facebook": "The Truth About Night Owls",
+    "tiktok": "Night Owls: It's in Your DNA!",
+    "youtube": "Chronotypes: Why You're Not a Morning Person"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

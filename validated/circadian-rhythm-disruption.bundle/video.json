@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "circadian-rhythm-disruption",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Your body clock affects more than just sleep duration.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know your body has a clock that influences your health beyond just how long you sleep?",
+    "beats": [
+      "Every cell in your body has its own 24-hour clock, governed by light and your daily habits.",
+      "When your schedule disrupts this clock, it can lead to serious health issues like metabolic syndrome and increased cancer risk.",
+      "For example, eating at the wrong time can affect how your body processes food, leading to weight gain."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Animation of a clock with cells representing different organs.",
+    "Graph showing the impact of circadian disruption on metabolic health.",
+    "Illustration of food timing and its effects on metabolism.",
+    "A person enjoying morning light outdoors."
+  ],
+  "captions": {
+    "instagram": "Your body clock is crucial for more than just sleep. Learn how to align it for better health! #CircadianRhythm #Health",
+    "facebook": "Did you know your body clock impacts your health beyond sleep? Discover how to align it for better well-being! #CircadianHealth",
+    "tiktok": "Your body clock affects more than sleep! Misalign it, and you risk serious health issues. #BodyClock #HealthTips",
+    "youtube": "Your body clock matters more than you think! Learn how to optimize it for better health outcomes."
+  },
+  "titles": {
+    "instagram": "Why Your Body Clock Matters",
+    "facebook": "The Importance of Your Body Clock",
+    "tiktok": "Your Body Clock Affects Your Health",
+    "youtube": "Understanding Your Body Clock"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "cgm-non-diabetic-blood-sugar-monitoring",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Monitoring your blood sugar with a CGM might not be as beneficial for healthy people as you think.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Many believe CGMs are essential for everyone, but the truth is more nuanced.",
+    "beats": [
+      "CGMs show spikes in glucose after meals, but in healthy individuals, these spikes typically resolve quickly.",
+      "Research indicates that transient spikes are normal and don't necessarily indicate a health problem.",
+      "For most healthy adults, regular blood tests may provide sufficient information without the stress of constant monitoring."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a CGM device with a glucose spike graph.",
+    "Clip of a person eating a meal and checking their CGM.",
+    "Infographic showing research findings on glucose spikes in healthy individuals.",
+    "Footage of a healthcare provider discussing blood tests versus CGM monitoring."
+  ],
+  "captions": {
+    "instagram": "Are continuous glucose monitors really necessary for healthy individuals? The evidence might surprise you. #health #CGM #sciencebacked",
+    "facebook": "Think you need a CGM to monitor your health? The truth is more complicated than you might expect. #health #CGM #sciencebacked",
+    "tiktok": "CGMs are trending, but are they really needed for everyone? Let's break it down! #health #CGM #sciencebacked",
+    "youtube": "Continuous glucose monitors are popular, but are they worth it for healthy people? Find out the truth! #health #CGM #sciencebacked"
+  },
+  "titles": {
+    "instagram": "Do Healthy People Need CGMs?",
+    "facebook": "The Truth About CGMs for Healthy Individuals",
+    "tiktok": "CGMs: Are They Necessary for Everyone?",
+    "youtube": "Are Continuous Glucose Monitors Worth It for Healthy People?"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}
