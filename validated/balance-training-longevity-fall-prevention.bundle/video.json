@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "balance-training-longevity-fall-prevention",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Standing on one leg for just 10 seconds might predict how long you'll live.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Can standing on one leg really predict your lifespan?",
+    "beats": [
+      "A recent study found that failing to balance for 10 seconds increases mortality risk by 84%.",
+      "This isn't just about fitness; it's about how your nervous system functions.",
+      "Balance training can improve your longevity, but it’s not a guaranteed fix."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a person attempting to stand on one leg.",
+    "Display the statistic: '84% higher risk of mortality for those who fail the test.'",
+    "Illustrate the nervous system and its role in balance.",
+    "End with a visual of simple balance training exercises."
+  ],
+  "captions": {
+    "instagram": "Could your balance predict your lifespan? 🤔 #BalanceTraining #Health",
+    "facebook": "Standing on one leg for 10 seconds could reveal more about your health than you think. #Longevity #Balance",
+    "tiktok": "Think balance is just for fitness? It might actually predict how long you'll live! #HealthFacts",
+    "youtube": "Can your ability to balance predict your lifespan? Discover the surprising link! #ScienceBacked"
+  },
+  "titles": {
+    "instagram": "Balance & Longevity: What You Need to Know",
+    "facebook": "The Surprising Link Between Balance and Lifespan",
+    "tiktok": "Can Balance Predict Your Lifespan?",
+    "youtube": "Why Standing on One Leg Could Determine Your Longevity"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

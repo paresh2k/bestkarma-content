@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "advanced-biomarker-panel-longevity",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most annual blood tests miss crucial markers that predict your long-term health.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Are you getting the full picture from your annual blood tests?",
+    "beats": [
+      "Standard blood panels only check a handful of markers, missing critical indicators of aging and disease.",
+      "Longevity medicine suggests a broader panel of 20 biomarkers that can reveal how fast you're aging.",
+      "For example, ApoB is a better predictor of heart disease than traditional LDL measurements."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a standard blood test report with limited markers highlighted.",
+    "Infographic showing the expanded biomarker panel with key markers like ApoB.",
+    "Animation illustrating how ApoB correlates with cardiovascular risk.",
+    "Closing visual with a call to action to consult your doctor about these tests."
+  ],
+  "captions": {
+    "instagram": "Is your annual blood test giving you the full picture? Discover the biomarkers that matter for longevity.",
+    "facebook": "Most blood tests miss crucial markers for long-term health. Learn about the expanded biomarker panel.",
+    "tiktok": "Think your blood test covers everything? Think again! Here’s what you might be missing.",
+    "youtube": "Annual blood tests often overlook vital markers. Find out what to ask your doctor for better health insights."
+  },
+  "titles": {
+    "instagram": "Unlock Your Health Potential",
+    "facebook": "Are You Missing Key Health Markers?",
+    "tiktok": "Your Blood Test Might Be Incomplete!",
+    "youtube": "The Biomarkers You Need for Longevity"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

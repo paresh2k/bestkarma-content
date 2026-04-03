@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "anti-inflammatory-diet-practical-guide",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most people think supplements are the best way to reduce inflammation. The evidence says otherwise.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Food, not supplements, is your best defense against inflammation.",
+    "beats": [
+      "Chronic inflammation can lead to serious health issues, but diet plays a crucial role in managing it.",
+      "Fatty fish, like salmon and sardines, are rich in omega-3s, which help turn off inflammation.",
+      "However, individual responses to dietary changes can vary, so consult your healthcare provider."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a plate with fatty fish and vegetables",
+    "Graph showing the impact of diet on inflammation",
+    "Footage of someone cooking with olive oil",
+    "Text overlay of the key foods to include in an anti-inflammatory diet"
+  ],
+  "captions": {
+    "instagram": "Think supplements are the answer to inflammation? Think again! Food is your best ally. 🍽️ #AntiInflammatoryDiet #BestKarma",
+    "facebook": "Did you know that food can be more effective than supplements in fighting inflammation? Discover the best choices! #Health #Nutrition",
+    "tiktok": "Food, not pills, is key to reducing inflammation! Learn which foods to include in your diet. #HealthTips #BestKarma",
+    "youtube": "Want to fight inflammation? Start with your diet! Here are the foods you should focus on for better health. #Nutrition #ScienceBacked"
+  },
+  "titles": {
+    "instagram": "Food vs. Supplements: The Truth About Inflammation",
+    "facebook": "The Best Way to Fight Inflammation: Food!",
+    "tiktok": "Food is Your Best Defense Against Inflammation!",
+    "youtube": "How to Reduce Inflammation: A Food-Based Approach"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "adult-play-science-health-benefits",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most adults haven't truly played since childhood, and that may be harming their health.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know that play is essential for adult health?",
+    "beats": [
+      "Research shows that unstructured play can lead to better mental health and creativity.",
+      "A study found that adults engaged in play reported higher life satisfaction compared to those who only participated in structured activities.",
+      "However, many adults struggle to incorporate play into their lives due to productivity culture."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of adults engaging in playful activities like games or art.",
+    "Infographic showing the benefits of play on mental health.",
+    "Clip of a study or research paper being referenced.",
+    "Footage of people laughing and enjoying unstructured time together."
+  ],
+  "captions": {
+    "instagram": "Play isn't just for kids! Discover how adult play can boost your health. #health #play",
+    "facebook": "Did you know that play is crucial for adult health? Learn how it can improve your wellbeing! #sciencebacked #play",
+    "tiktok": "Most adults don’t play anymore, and it’s hurting their health. Here’s why you should start! #play #health",
+    "youtube": "The surprising health benefits of adult play. Find out why you need to make time for it! #longevity #wellbeing"
+  },
+  "titles": {
+    "instagram": "The Health Benefits of Adult Play",
+    "facebook": "Why Adults Need to Play More",
+    "tiktok": "Play is Essential for Adult Health!",
+    "youtube": "Unlocking the Power of Play for Adults"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

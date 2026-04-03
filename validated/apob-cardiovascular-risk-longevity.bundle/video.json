@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "apob-cardiovascular-risk-longevity",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "ApoB might be a better predictor of heart health than LDL cholesterol.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know that ApoB could be more important for your heart health than LDL cholesterol?",
+    "beats": [
+      "ApoB measures the number of harmful particles in your blood, while LDL cholesterol measures the amount of cholesterol in those particles.",
+      "Studies show that high ApoB can indicate higher cardiovascular risk, even if your LDL levels are normal.",
+      "However, ApoB testing isn't standard practice yet, so it’s worth asking your doctor about it."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a cholesterol panel with ApoB highlighted",
+    "Animation showing particles entering an artery",
+    "Graph comparing ApoB and LDL cholesterol in predicting heart risk",
+    "Footage of a person discussing health with their doctor"
+  ],
+  "captions": {
+    "instagram": "ApoB might be the key to understanding your heart health better than LDL cholesterol. Ask your doctor about it!",
+    "facebook": "Did you know ApoB could be a more reliable indicator of heart health than LDL cholesterol? Learn why you should ask your doctor about it.",
+    "tiktok": "ApoB is a better predictor of heart health than LDL cholesterol. Make sure to ask your doctor about it!",
+    "youtube": "ApoB could change how we assess heart health. Learn why it matters more than LDL cholesterol."
+  },
+  "titles": {
+    "instagram": "ApoB vs LDL: What You Need to Know",
+    "facebook": "Is ApoB the Heart Health Marker You’re Missing?",
+    "tiktok": "Why ApoB Matters More Than LDL Cholesterol",
+    "youtube": "ApoB: The Key to Better Heart Health?"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

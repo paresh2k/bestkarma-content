@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "astaxanthin-antioxidant-longevity",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Astaxanthin is an antioxidant that's 6,000 times stronger than vitamin C, but its benefits for longevity aren't as clear as you might think.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Astaxanthin is an antioxidant that's 6,000 times stronger than vitamin C, but its benefits for longevity aren't as clear as you might think.",
+    "beats": [
+      "Astaxanthin is found in salmon and has unique properties that allow it to neutralize free radicals effectively.",
+      "Human studies show some benefits for skin aging and exercise recovery, but results are mixed and not universally applicable.",
+      "It's crucial to consider food sources like wild salmon over supplements, as the evidence for long-term benefits is still uncertain."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a salmon fillet highlighting its pink color due to astaxanthin.",
+    "Display a comparison chart of astaxanthin's antioxidant strength versus vitamin C.",
+    "Include clips of skincare and exercise to represent the benefits observed in studies.",
+    "End with a visual of a balanced meal featuring salmon."
+  ],
+  "captions": {
+    "instagram": "Astaxanthin is a powerful antioxidant, but its long-term benefits are still being studied. Consider food sources first! #health #longevity",
+    "facebook": "Did you know astaxanthin is 6,000 times stronger than vitamin C? But its benefits for longevity are still uncertain. Learn more! #sciencebacked",
+    "tiktok": "Astaxanthin is super strong, but don't rush to supplements just yet! Food sources like salmon might be your best bet. #healthtips",
+    "youtube": "Astaxanthin is a potent antioxidant, but its role in longevity isn't fully understood. Discover the facts! #nutrition"
+  },
+  "titles": {
+    "instagram": "Astaxanthin: A Powerful Antioxidant?",
+    "facebook": "The Truth About Astaxanthin",
+    "tiktok": "Astaxanthin: Strong but Uncertain",
+    "youtube": "Astaxanthin: What You Need to Know"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

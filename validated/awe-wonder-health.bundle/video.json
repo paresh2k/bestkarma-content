@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "awe-wonder-health",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Awe can actually lower inflammation in your body.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know that experiencing awe can have real health benefits?",
+    "beats": [
+      "Research shows that awe reduces levels of IL-6, an inflammatory marker linked to chronic disease.",
+      "Awe activates the vagus nerve, which helps lower stress hormones and inflammation.",
+      "To cultivate awe, try spending time in nature or stargazing—these experiences can enhance your wellbeing."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a stunning natural landscape to evoke awe.",
+    "Graphic showing the connection between awe and reduced inflammation.",
+    "Clips of people enjoying nature and stargazing.",
+    "Text overlay with the practical tip to spend time in awe-inducing environments."
+  ],
+  "captions": {
+    "instagram": "Awe can lower inflammation! 🌌 Discover how this powerful emotion can boost your health. #Awe #Health #Wellbeing",
+    "facebook": "Did you know that experiencing awe can help reduce inflammation in your body? Find out how! #Awe #Health",
+    "tiktok": "Awe isn't just a feeling—it's a health booster! Learn how it can lower inflammation. #Awe #HealthTips",
+    "youtube": "Awe can lower inflammation and improve wellbeing. Here's how to cultivate it in your life! #Awe #Health"
+  },
+  "titles": {
+    "instagram": "How Awe Can Boost Your Health",
+    "facebook": "The Health Benefits of Awe",
+    "tiktok": "Awe: The Emotion That Lowers Inflammation",
+    "youtube": "Cultivating Awe for Better Health"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

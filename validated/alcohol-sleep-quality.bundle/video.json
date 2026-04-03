@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "alcohol-sleep-quality",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Drinking before bed may help you fall asleep faster, but it wrecks your sleep quality.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "One drink can help you sleep, but it disrupts your sleep architecture.",
+    "beats": [
+      "Alcohol accelerates sleep onset but delays REM sleep by 18 minutes, according to a 2024 meta-analysis.",
+      "REM sleep is crucial for emotional processing and cognitive function, and its disruption can lead to increased stress.",
+      "Regular drinking can worsen sleep quality over time, making it harder to sleep without alcohol."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a person pouring a drink with a clock indicating bedtime approaching.",
+    "Display a graphic illustrating the sleep cycle, highlighting REM sleep.",
+    "Include a statistic overlay about REM sleep delay from the meta-analysis.",
+    "End with a person looking tired in the morning, followed by a reminder to consider alternatives to alcohol for sleep."
+  ],
+  "captions": {
+    "instagram": "Think a nightcap helps you sleep? It might actually be hurting your sleep quality. #SleepScience #Alcohol",
+    "facebook": "Many believe a drink before bed aids sleep, but it can actually disrupt your sleep quality. Learn more about the effects of alcohol on sleep.",
+    "tiktok": "A nightcap might help you fall asleep, but it wrecks your sleep quality. Here's why! #SleepTips #HealthFacts",
+    "youtube": "Does alcohol help you sleep? The truth is it disrupts your sleep quality. Find out how."
+  },
+  "titles": {
+    "instagram": "Alcohol and Sleep: The Surprising Truth",
+    "facebook": "The Truth About Alcohol and Sleep Quality",
+    "tiktok": "Does Alcohol Really Help You Sleep?",
+    "youtube": "Why Alcohol Wrecks Your Sleep Quality"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

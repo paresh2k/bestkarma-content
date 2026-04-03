@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "alcohol-rem-sleep-suppression",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "One drink before bed might seem helpful, but it actually disrupts your sleep.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "One drink before bed might seem helpful, but it actually disrupts your sleep.",
+    "beats": [
+      "Alcohol can help you fall asleep faster, but it suppresses REM sleep, which is crucial for memory and emotional processing.",
+      "Studies show that even low doses of alcohol can significantly reduce REM sleep duration and quality.",
+      "The effects can linger into the next day, impacting your overall recovery and brain health."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a glass of wine next to a bed to illustrate the common belief.",
+    "Display a brain graphic highlighting REM sleep functions.",
+    "Use a chart showing the relationship between alcohol consumption and REM sleep suppression.",
+    "End with a person checking their sleep data on a wearable device."
+  ],
+  "captions": {
+    "instagram": "Think a drink helps you sleep? It might actually disrupt your REM sleep. Learn more! #SleepHealth #Alcohol",
+    "facebook": "Did you know that even one drink can disrupt your REM sleep? Discover the surprising truth about alcohol and sleep! #SleepHealth",
+    "tiktok": "One drink before bed? It might help you fall asleep, but it disrupts REM sleep! #SleepTips #HealthFacts",
+    "youtube": "Alcohol may seem like a sleep aid, but it actually disrupts REM sleep. Find out how! #SleepScience"
+  },
+  "titles": {
+    "instagram": "Does One Drink Help You Sleep?",
+    "facebook": "The Truth About Alcohol and Sleep",
+    "tiktok": "Alcohol: Friend or Foe for Sleep?",
+    "youtube": "How Alcohol Affects Your Sleep Quality"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

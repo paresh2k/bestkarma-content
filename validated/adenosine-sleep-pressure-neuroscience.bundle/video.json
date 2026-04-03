@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "adenosine-sleep-pressure-neuroscience",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Caffeine doesn't give you energy; it just masks your sleep pressure.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Caffeine doesn't give you energy; it just masks your sleep pressure.",
+    "beats": [
+      "Adenosine builds up in your brain the longer you stay awake, creating a biological need for sleep.",
+      "When you consume caffeine, it blocks adenosine receptors, preventing you from feeling tired, but it doesn't stop adenosine production.",
+      "This leads to a 'caffeine crash' when the effects wear off, revealing the sleep debt you've accumulated."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a brain with adenosine levels rising over time.",
+    "Animation showing caffeine blocking adenosine receptors.",
+    "Graph illustrating the 'caffeine crash' effect.",
+    "Text overlay with practical tips on caffeine consumption and napping."
+  ],
+  "captions": {
+    "instagram": "Did you know caffeine just masks your sleep pressure? Learn how adenosine affects your sleep! #SleepScience #Caffeine",
+    "facebook": "Caffeine might help you feel awake, but it doesn't eliminate sleep pressure. Find out how adenosine works! #HealthFacts",
+    "tiktok": "Caffeine doesn’t give you energy; it just hides your sleep pressure. Here’s why that matters! #SleepHacks",
+    "youtube": "Caffeine blocks adenosine, but it doesn’t stop its production. Discover the science behind sleep pressure! #SleepScience"
+  },
+  "titles": {
+    "instagram": "Caffeine and Sleep Pressure: The Truth",
+    "facebook": "The Real Truth About Caffeine and Sleep",
+    "tiktok": "Caffeine: Energy or Illusion?",
+    "youtube": "Understanding Caffeine and Sleep Pressure"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}
