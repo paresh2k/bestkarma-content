@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "dietary-fiber-microbiome",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most people think fiber is just about quantity. Research shows diversity matters more.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Fiber isn't just about how much you eat.",
+    "beats": [
+      "The average American consumes only 15 grams of fiber daily, far below the recommended 25-38 grams.",
+      "Diverse fiber types feed different gut bacteria, supporting a healthier microbiome.",
+      "Aim for 30 different plant foods each week to boost your gut health."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a graphic of fiber intake statistics.",
+    "Display different types of fiber-rich foods.",
+    "Illustrate the concept of a diverse microbiome.",
+    "Highlight the number '30' with images of various plants."
+  ],
+  "captions": {
+    "instagram": "Fiber isn't just about quantity. Diversity is key for gut health! #FiberFacts",
+    "facebook": "Did you know? It's not just how much fiber you eat, but the variety that matters for your gut health.",
+    "tiktok": "Most people think fiber is just about quantity. Research shows diversity matters more! #GutHealth",
+    "youtube": "Fiber isn't just about how much you eat. The diversity of fiber is crucial for a healthy gut microbiome."
+  },
+  "titles": {
+    "instagram": "The Truth About Fiber",
+    "facebook": "Why Fiber Diversity Matters",
+    "tiktok": "Fiber: It's About Diversity, Not Just Quantity!",
+    "youtube": "The Importance of Fiber Diversity for Gut Health"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

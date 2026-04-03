@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "dietary-guidelines-2025-2030-changes",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "The new dietary guidelines may surprise you: protein needs are higher than you think.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know the recommended protein intake might be too low for many of us?",
+    "beats": [
+      "Current guidelines suggest 0.8 grams of protein per kilogram of body weight, but research indicates this may not be enough for optimal health.",
+      "Studies show that older adults, in particular, benefit from higher protein intakes, around 1.2 to 1.6 grams per kilogram.",
+      "It's not just about protein quantity; the quality and timing of protein intake matter too."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a graphic of protein sources with their grams per serving.",
+    "Display a chart comparing the current RDA vs. suggested higher intake for older adults.",
+    "Include a clip of someone preparing a protein-rich meal.",
+    "End with a calming visual of a balanced plate of food."
+  ],
+  "captions": {
+    "instagram": "The protein you need might be more than you think! #DietaryGuidelines #Nutrition",
+    "facebook": "Are you getting enough protein? The new guidelines suggest you might need more than you think! #Health #Nutrition",
+    "tiktok": "Think you’re getting enough protein? You might need more! Here’s why. #Nutrition #DietaryGuidelines",
+    "youtube": "The latest dietary guidelines suggest higher protein needs for optimal health. Find out more!"
+  },
+  "titles": {
+    "instagram": "Are You Getting Enough Protein?",
+    "facebook": "New Protein Guidelines You Need to Know!",
+    "tiktok": "Protein Needs: Are You Meeting Them?",
+    "youtube": "Understanding New Dietary Protein Guidelines"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

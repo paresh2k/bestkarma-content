@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "electrolytes-balance-guide",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Most people think electrolyte balance is just for athletes, but it affects everyone.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know that 60% of American adults don’t get enough potassium?",
+    "beats": [
+      "Electrolytes like sodium, potassium, and magnesium are crucial for nerve function and muscle contraction.",
+      "A staggering number of everyday people are missing out on these essential minerals, leading to potential health issues.",
+      "Dietary sources like leafy greens and nuts can help fill these gaps better than supplements."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a person looking confused about electrolytes.",
+    "Infographic showing statistics on potassium and magnesium deficiency.",
+    "Footage of healthy foods rich in potassium and magnesium.",
+    "Text overlay with the practical advice for dietary intake."
+  ],
+  "captions": {
+    "instagram": "Electrolyte balance isn't just for athletes! Learn why it matters for everyone. 🌱 #health #nutrition",
+    "facebook": "Think electrolyte balance is just for athletes? Think again! Discover why it matters for everyone. 🌿 #health #nutrition",
+    "tiktok": "Did you know most adults are low on potassium? It’s not just a sports thing! 🌱 #healthtips",
+    "youtube": "Electrolyte balance is crucial for everyone, not just athletes. Here’s what you need to know! #health #nutrition"
+  },
+  "titles": {
+    "instagram": "Why Electrolytes Matter for Everyone",
+    "facebook": "Electrolytes: A Concern for Everyone",
+    "tiktok": "Electrolytes Aren't Just for Athletes!",
+    "youtube": "The Truth About Electrolytes for Everyday Health"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

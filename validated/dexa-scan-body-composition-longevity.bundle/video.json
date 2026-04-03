@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "dexa-scan-body-composition-longevity",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "BMI might not tell you the whole story about your health.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Most people think BMI is a reliable health metric.",
+    "beats": [
+      "But it fails to account for body composition, missing critical factors like muscle mass and visceral fat.",
+      "DEXA scans provide a clearer picture, measuring lean mass, fat distribution, and bone density.",
+      "These factors are independently linked to longevity, revealing risks that BMI overlooks."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a scale with BMI numbers and a confused person.",
+    "Transition to a DEXA scan machine with visuals of body composition data.",
+    "Highlight statistics about muscle mass and longevity.",
+    "End with a visual of a healthy lifestyle promoting muscle and bone health."
+  ],
+  "captions": {
+    "instagram": "BMI isn't the full story of your health. DEXA scans reveal what really matters for longevity. #Health #Longevity #ScienceBacked",
+    "facebook": "Think BMI tells you everything about your health? Think again. DEXA scans show the real picture of body composition and longevity. #Health #Longevity",
+    "tiktok": "BMI might mislead you about your health. DEXA scans uncover the truth about your body composition. #Health #Longevity",
+    "youtube": "Is BMI a reliable health metric? Discover how DEXA scans provide a better understanding of your body composition and longevity."
+  },
+  "titles": {
+    "instagram": "Why BMI Can Mislead Your Health",
+    "facebook": "The Truth About BMI vs. DEXA Scans",
+    "tiktok": "BMI vs. DEXA: What's the Real Health Metric?",
+    "youtube": "Understanding Body Composition: DEXA vs. BMI"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

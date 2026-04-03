@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "dental-health-systemic",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Your gum health might impact your heart and brain more than you think.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Your gum health might impact your heart and brain more than you think.",
+    "beats": [
+      "Periodontal disease can increase cardiovascular event risk by 20-50%.",
+      "Bacteria from gum disease can enter the bloodstream and contribute to heart issues.",
+      "Research suggests a link between gum disease and Alzheimer's, but more studies are needed."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show an animated heart and brain with gum disease imagery.",
+    "Display statistics on cardiovascular risk associated with gum disease.",
+    "Illustrate bacteria entering the bloodstream.",
+    "End with a call to action for dental health check-ups."
+  ],
+  "captions": {
+    "instagram": "Your gum health might be more important than you think! 🦷❤️ #DentalHealth #HeartHealth",
+    "facebook": "Did you know your gums can affect your heart and brain? Learn more about the dental-systemic connection! #HealthFacts",
+    "tiktok": "Gum disease isn't just about your mouth. It can impact your heart and brain health! 🦷💔 #HealthMyths",
+    "youtube": "Exploring the surprising connection between gum health and systemic diseases like heart issues and Alzheimer's. #DentalHealth"
+  },
+  "titles": {
+    "instagram": "The Surprising Truth About Gum Health",
+    "facebook": "Gum Health: More Important Than You Think",
+    "tiktok": "Gum Disease Affects Your Heart & Brain?",
+    "youtube": "How Your Gums Impact Your Overall Health"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

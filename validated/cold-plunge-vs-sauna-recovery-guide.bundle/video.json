@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "cold-plunge-vs-sauna-recovery-guide",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Did you know that cold plunges might actually hinder muscle growth after workouts?",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Cold plunges can reduce soreness, but they might also limit your muscle gains.",
+    "beats": [
+      "Cold immersion triggers a norepinephrine response, improving mood and alertness.",
+      "However, using cold water right after strength training can blunt muscle growth.",
+      "Timing is key: wait at least four hours post-workout for cold exposure to avoid interfering with muscle adaptation."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "A split-screen showing a person in a cold plunge and another lifting weights.",
+    "Graphical representation of norepinephrine levels rising after cold exposure.",
+    "Animation showing muscle fibers and the effect of cold on muscle growth.",
+    "Text overlay summarizing the importance of timing for cold exposure."
+  ],
+  "captions": {
+    "instagram": "Cold plunges can help with soreness, but they might hinder muscle growth if used right after workouts. Timing is everything!",
+    "facebook": "Think cold plunges are always beneficial? They can help with soreness, but using them immediately after strength training might limit your muscle gains. Timing matters!",
+    "tiktok": "Cold plunges can boost mood, but did you know they might hurt your muscle growth if used right after lifting? Wait a few hours for best results!",
+    "youtube": "Cold plunges are great for recovery, but if you want to build muscle, avoid them right after your workouts. Learn the right timing!"
+  },
+  "titles": {
+    "instagram": "Cold Plunge vs. Muscle Growth",
+    "facebook": "The Truth About Cold Plunges and Muscle Growth",
+    "tiktok": "Cold Plunge: Friend or Foe for Muscle Gains?",
+    "youtube": "Cold Plunge Timing: What You Need to Know"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

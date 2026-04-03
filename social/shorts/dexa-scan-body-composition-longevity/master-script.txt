@@ -1,0 +1,8 @@
+Hook: Most people think BMI is a reliable health metric.
+
+Beats:
+1. But it fails to account for body composition, missing critical factors like muscle mass and visceral fat.
+2. DEXA scans provide a clearer picture, measuring lean mass, fat distribution, and bone density.
+3. These factors are independently linked to longevity, revealing risks that BMI overlooks.
+
+Close: Follow BestKarma for science-backed health without the hype.

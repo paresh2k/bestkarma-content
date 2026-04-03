@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "collagen-peptides-evidence-review",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Collagen supplements might not be the miracle you think they are.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Many believe collagen is a cure-all for skin, joints, and gut health.",
+    "beats": [
+      "But while some evidence supports specific benefits, the marketing often oversells the science.",
+      "For skin, studies show modest improvements in hydration and elasticity with collagen peptides.",
+      "However, for gut health, the evidence is still lacking and needs more research."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a bottle of collagen supplements with exaggerated claims.",
+    "Display a chart showing skin elasticity improvements from studies.",
+    "Illustrate a gut with a question mark to signify uncertainty.",
+    "End with a calm, inviting image of a person consulting a healthcare provider."
+  ],
+  "captions": {
+    "instagram": "Collagen might not be the miracle you think. Here’s the truth about its benefits. #health #nutrition",
+    "facebook": "Think collagen is a cure-all? The truth is more nuanced. Learn what the evidence really says about collagen supplements.",
+    "tiktok": "Collagen supplements aren’t magic! Some benefits exist, but the hype is often misleading. #healthtips #collagen",
+    "youtube": "Is collagen the miracle supplement it claims to be? Let’s break down the evidence for skin, joints, and gut health."
+  },
+  "titles": {
+    "instagram": "The Truth About Collagen Supplements",
+    "facebook": "Collagen: Miracle or Myth?",
+    "tiktok": "Collagen Supplements: What You Should Know",
+    "youtube": "Understanding Collagen: Benefits and Myths"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

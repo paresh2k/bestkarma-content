@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "creatine-women-benefits",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Creatine isn't just for muscle; it may boost brain health in women too.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know creatine can benefit women beyond just muscle gain?",
+    "beats": [
+      "Most women associate creatine with gym performance, but research shows it may enhance brain function and mood.",
+      "Women naturally have lower creatine levels, making them potentially more responsive to supplementation.",
+      "Studies suggest creatine can improve cognitive performance, especially during hormonal changes."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Show a woman lifting weights with creatine powder in the background.",
+    "Display a brain graphic highlighting energy use.",
+    "Include a visual of a woman studying or working, looking focused.",
+    "End with a graphic of the BestKarma logo and a soft call to action."
+  ],
+  "captions": {
+    "instagram": "Creatine may boost brain health in women, not just muscles. Learn more! #creatine #brainhealth",
+    "facebook": "Discover how creatine can benefit women beyond just muscle gain. #creatine #womenhealth",
+    "tiktok": "Think creatine is just for the gym? It might help your brain too! #creatine #brainhealth",
+    "youtube": "Creatine isn't just for muscle; it may boost brain health in women too. Find out how!"
+  },
+  "titles": {
+    "instagram": "Creatine: More Than Muscle for Women",
+    "facebook": "The Surprising Benefits of Creatine for Women",
+    "tiktok": "Creatine for Women: Brain Benefits?",
+    "youtube": "Creatine: Boosting Women's Brain Health"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

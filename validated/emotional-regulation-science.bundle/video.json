@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "emotional-regulation-science",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Emotions aren't the enemy; they're essential information.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Emotions aren't the enemy; they're essential information.",
+    "beats": [
+      "Many believe that strong emotions are irrational, but they're actually signals that inform our decisions.",
+      "The key isn't to suppress feelings but to regulate them effectively, which can be learned.",
+      "Research shows that strategies like cognitive reappraisal can help manage emotional responses without losing insight."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a brain highlighting emotional pathways",
+    "Animation showing emotions as signals (like traffic lights)",
+    "Clip of someone practicing cognitive reappraisal",
+    "Text overlay summarizing key strategies for emotional regulation"
+  ],
+  "captions": {
+    "instagram": "Emotions are essential signals, not enemies. Learn to regulate them effectively! #EmotionalRegulation #MentalHealth",
+    "facebook": "Did you know that emotions are signals that can guide your decisions? Discover how to regulate them effectively! #EmotionalRegulation",
+    "tiktok": "Think emotions are just distractions? Think again! They're essential signals. Learn to manage them! #MentalHealth #EmotionalRegulation",
+    "youtube": "Emotions are not the enemy; they provide essential information. Learn how to regulate them effectively for better mental health."
+  },
+  "titles": {
+    "instagram": "Emotions: Essential Signals, Not Enemies",
+    "facebook": "Regulate Your Emotions for Better Decisions",
+    "tiktok": "Emotions Aren't the Enemy!",
+    "youtube": "Mastering Emotional Regulation"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}

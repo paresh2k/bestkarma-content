@@ -1,0 +1,76 @@
+{
+  "status": "needs-review",
+  "sourceArticleSlug": "cortisol-women-hormones-life-stages",
+  "approvedArticleStatus": "validated",
+  "angle": "counterintuitive-truth",
+  "hook": "Stress affects women differently at various life stages, and it's more than just emotional.",
+  "durationSeconds": 30,
+  "script": {
+    "hook": "Did you know that stress impacts women's hormones differently throughout their lives?",
+    "beats": [
+      "Estrogen plays a crucial role in how women respond to stress, affecting cortisol levels.",
+      "During reproductive years, women have lower cortisol reactivity when estrogen is high, but this changes dramatically in perimenopause.",
+      "Cortisol dysregulation can lead to serious health issues, including depression and bone loss."
+    ],
+    "close": "Follow BestKarma for science-backed health without the hype."
+  },
+  "visualPlan": [
+    "Visual of a woman experiencing stress in different life stages.",
+    "Graph showing cortisol levels across the menstrual cycle.",
+    "Illustration of estrogen's impact on the stress response.",
+    "Text overlay summarizing the health risks associated with cortisol dysregulation."
+  ],
+  "captions": {
+    "instagram": "Stress isn't just emotional for women; it’s a hormonal event. Learn how it changes across life stages. #health #sciencebacked",
+    "facebook": "Did you know stress affects women differently depending on their life stage? Discover the hormonal impact. #wellness #cortisol",
+    "tiktok": "Stress impacts women’s hormones in surprising ways! Let’s break it down. #health #stress #women",
+    "youtube": "How does stress affect women's hormones differently at various life stages? Find out in this video! #sciencebacked #wellness"
+  },
+  "titles": {
+    "instagram": "How Stress Affects Women Differently",
+    "facebook": "Stress and Women's Hormones: What You Need to Know",
+    "tiktok": "The Hormonal Impact of Stress on Women",
+    "youtube": "Understanding Stress and Hormones in Women"
+  },
+  "hashtags": [
+    "health",
+    "longevity",
+    "sciencebacked"
+  ],
+  "complianceNotes": [
+    "Do not imply diagnosis or treatment.",
+    "Retain at least one meaningful caveat from the article."
+  ],
+  "review": {
+    "reviewedBy": null,
+    "reviewedAt": null,
+    "status": "pending"
+  },
+  "renderAssets": {
+    "videoPath": null,
+    "coverImagePath": null,
+    "subtitlePath": null
+  },
+  "posting": {
+    "instagram": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "facebook": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "tiktok": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    },
+    "youtube": {
+      "status": "not-scheduled",
+      "scheduledFor": null,
+      "publishedUrl": null
+    }
+  }
+}
