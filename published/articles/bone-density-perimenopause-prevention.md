@@ -87,6 +87,8 @@ Current guidelines from the **U.S. Preventive Services Task Force (USPSTF)** rec
 
 The evidence converges on a manageable set of actions:
 
+*The following ranges reflect what research and major guidelines have studied — your doctor can advise on what's appropriate based on your baseline levels, dietary intake, and overall health picture.*
+
 | Intervention | Evidence Target | Practical Starting Point |
 |---|---|---|
 | Resistance training | 2x/week, compound lifts at high intensity (LIFTMOR protocol) | Deadlifts, squats, overhead press with progressive load |

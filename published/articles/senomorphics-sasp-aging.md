@@ -27,6 +27,8 @@ status: validated
 
 There is a version of cellular aging that looks less like a quiet shutdown and more like a slow riot. Senescent cells — damaged, dysfunctional cells that have stopped dividing but refuse to die — don't just sit inertly in aging tissue. They broadcast. They release a continuous stream of inflammatory proteins, proteases, and signaling molecules that corrode the surrounding tissue, recruit immune dysfunction, and accelerate the aging of neighboring healthy cells. Researchers have taken to calling them zombie cells, and the metaphor is apt: they're not dead, but they're making everything around them worse.
 
+> ⚠️ *This article discusses prescription medications. It describes research findings, not personal guidance. Do not use this information to self-prescribe.*
+
 Most of the public conversation around zombie cells has focused on **senolytics** — drugs that kill senescent cells outright. But a quieter, arguably more nuanced approach is gaining traction in the geroscience community: **senomorphics**. Rather than eliminating the cells, senomorphics suppress the toxic signals they emit. Think of it less as pest control and more as noise-canceling headphones for a cell that won't stop screaming.
 
 ---
@@ -95,7 +97,7 @@ Biomarker development also lags. There is no validated blood test for SASP burde
 
 For most healthy adults, the honest answer is that the clinical translation of senomorphic interventions is not yet at the point of confident individual recommendation. But context matters, and a few things are worth knowing.
 
-**Rapamycin** is being used off-label by a growing number of longevity-oriented clinicians — typically at low intermittent doses (2–6 mg weekly) to minimize immunosuppression while capturing mTOR inhibition benefits. If you are considering it, this requires a physician partner who understands the pharmacology and can monitor for side effects including lipid changes and wound healing impairment.
+**Rapamycin** is being used off-label by a growing number of longevity-oriented clinicians at low intermittent doses — the specific protocol, if any, would be determined by a physician familiar with the pharmacology and monitoring requirements.
 
 **Lifestyle interventions** that independently suppress mTOR and reduce systemic inflammation remain the accessible foundation: **caloric restriction or time-restricted eating** (which activates autophagy through overlapping pathways), **zone 2 aerobic exercise** (which reduces circulating inflammatory markers and supports mitochondrial health), and **resistance training** (which mitigates sarcopenia, one of SASP's clinical consequences). These are not substitutes for pharmacological senomorphics — but they operate on adjacent mechanisms and carry no meaningful downside.
 

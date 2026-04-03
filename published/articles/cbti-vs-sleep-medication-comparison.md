@@ -29,6 +29,8 @@ Most people who struggle to sleep reach for a pill. Their doctor often obliges �
 
 This is not an anti-medication argument. Sleep medications have a real place — for acute insomnia, for specific populations, and in combination with behavioral therapy. But if you have chronic insomnia (defined as difficulty initiating or maintaining sleep at least three nights per week, for at least three months, causing daytime impairment), the evidence suggests you've probably been handed the second-best option first.
 
+> ⚠️ *This article discusses prescription medications. It describes research findings, not personal guidance. Do not use this information to self-prescribe.*
+
 ---
 
 ## What CBT-I Actually Is
@@ -82,7 +84,7 @@ If you have chronic insomnia, here is what the evidence supports, in order of pr
 
 **First line:** Structured CBT-I, delivered by a trained therapist or via a validated digital program (Sleepio, Somryst, or Insomnia Coach from the VA). Commit to 6–8 weeks. Expect the sleep restriction component to be uncomfortable for weeks 2–3. This is expected and is not a sign that the treatment isn't working.
 
-**If CBT-I access is limited or you need short-term stabilization:** A DORA (suvorexant 10–20mg or lemborexant 5–10mg) has the most favorable short-term risk profile among current pharmacological options. Use for the shortest necessary period (ideally ≤4 weeks) and begin CBT-I concurrently if possible.
+**If CBT-I access is limited or you need short-term stabilization:** If short-term pharmaceutical support is needed, your prescribing clinician may consider a dual orexin receptor antagonist (DORA) — ask them specifically about the evidence profile of different drug classes, as they vary meaningfully in tolerance and dependency risk.
 
 **If you are currently on a Z-drug or benzodiazepine:** Do not discontinue abruptly — taper slowly under medical supervision. CBT-I has been specifically studied as a tool to support benzodiazepine tapering; a **2014 study by Morin and colleagues in JAMA Internal Medicine** of 93 older adults found that CBT-I improved tapering success versus medication management alone.
 

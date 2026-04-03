@@ -83,7 +83,7 @@ Given the available data, here is what a reasonable protocol looks like — cali
 Adults over 50 with early memory concerns or subjective cognitive decline, where the Mori 2009 and Saitsu 2019 findings are most applicable. Healthy younger adults seeking cognitive enhancement have a weaker evidentiary basis, though the Docherty 2023 findings offer some preliminary support for attention and stress effects.
 
 **Dosing:**
-The Mori 2009 trial used **3g/day of dried fruiting body powder**. More standardized extracts typically use **500–1,000mg/day**, with products standardized to beta-glucan content (look for ≥20–30% beta-glucans as a quality signal). There is no established optimal dose for healthy adults.
+Trials have used **3g/day of dried fruiting body powder**; more concentrated extracts have used **500–1,000mg daily** in study protocols, with products standardized to beta-glucan content (look for ≥20–30% beta-glucans as a quality signal). There is no established optimal dose for healthy adults.
 
 **Form:**
 - Fruiting body extracts (standardized to beta-glucans) are best supported by the original human trials

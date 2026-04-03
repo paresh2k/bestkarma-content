@@ -16,7 +16,7 @@ status: validated
 <div class="not-prose rounded-2xl border border-sage-light/40 bg-mist px-6 py-5 mb-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
-    <li>✓ Sauna use 4-7 times weekly cuts all-cause mortality risk by 40% in studies.</li>
+    <li>✓ Sauna use 4-7 times weekly was associated with 40% lower all-cause mortality risk in Finnish cohort data.</li>
     <li>✓ Heat triggers heat shock proteins that repair damaged cells and slow aging.</li>
     <li>✓ Cold plunges flood your system with norepinephrine, boosting focus and mood.</li>
     <li>✓ Sauna and cold work through opposite biological pathways—timing matters for results.</li>

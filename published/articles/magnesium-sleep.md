@@ -79,7 +79,7 @@ Not all magnesium supplements are equivalent. The form determines how much magne
 
 **Magnesium oxide:** The cheapest and most widely sold form. Very poorly absorbed (approximately 4% bioavailability). Acts primarily as an osmotic laxative in the GI tract. Not useful for sleep support. Avoid.
 
-**Dose:** 200-400mg of elemental magnesium, 1-2 hours before sleep. Higher doses increase risk of gastrointestinal side effects without proportionally greater sleep benefit.
+**Dose:** Most clinical protocols have used 200–400 mg of elemental magnesium; the right starting point and form depends on your individual situation. Higher doses increase risk of gastrointestinal side effects without proportionally greater sleep benefit.
 
 ## Food Sources First
 

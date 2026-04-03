@@ -101,7 +101,7 @@ These are standard blood tests. Most physicians do not order them routinely — 
 
 **5. Gut microbiome support** — dietary fiber (target 30g+ daily), fermented foods (yogurt, kimchi, kefir), limiting antibiotics to medically necessary use.
 
-**6. Omega-3 supplementation** — EPA and DHA from fish oil at 2–4g/day has been shown in meta-analyses to significantly reduce CRP and IL-6. The 2019 VITAL trial (NEJM) found omega-3 supplementation reduced cardiovascular events in people without prior cardiovascular disease.
+**6. Omega-3 supplementation** — EPA and DHA from fish oil at 2–4g/day is the range studied in clinical trials for CRP reduction — your needs would depend on baseline levels and whether this is a food-first or supplement approach. Meta-analyses show significant reductions in CRP and IL-6 at these doses. The 2019 VITAL trial (NEJM) found omega-3 supplementation reduced cardiovascular events in people without prior cardiovascular disease.
 
 The research on inflammaging offers one of the clearest convergence points in all of medicine: the same lifestyle interventions that reduce chronic inflammation also reduce the risk of virtually every major cause of death and disability. This is not coincidence. Inflammation is the shared upstream mechanism.
 

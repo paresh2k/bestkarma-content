@@ -81,7 +81,7 @@ The good news is that meaningful amounts of spermidine are available from foods 
 
 **On supplementation:**
 - If you're considering spermidine supplements, products typically deliver **0.5–5 mg/day**, most often derived from wheat germ extract.
-- The Wirth et al. trial used **1.2 mg/day**; some commercial products offer higher doses, but the dose-response curve in humans is not well established.
+- The Wirth et al. trial used **1.2 mg/day**; some commercial products offer higher doses, but the dose-response curve in humans is not well established. The optimal supplemental dose has not been established — the 1.2 mg/day used in the Wirth pilot is one reference point, not a validated recommendation.
 - There is no established upper safe limit, and the compound appears well-tolerated in human trials to date — but given the early state of clinical evidence, dietary sources are the more defensible route for most people.
 
 Spermidine won't single-handedly stop aging. But it may be one of a small number of dietary compounds where the mechanism is real, the observational signal is meaningful, and the intervention — eating more wheat germ and natto — is genuinely low-risk. In a field full of supplements with compelling theory and disappointing evidence, that combination is worth paying attention to.

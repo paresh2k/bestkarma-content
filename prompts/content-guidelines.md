@@ -120,6 +120,54 @@ These place an article into a homepage collection. An article can belong to mult
 
 ---
 
+## Content Liability Guardrails
+
+These rules are required for all articles. They protect readers and reduce legal liability.
+
+### 1. Prescription drugs — NEVER include:
+- Specific mg doses for any prescription medication
+- Titration schedules for prescription medications
+- Off-label dosing protocols (even if "commonly used")
+- Combination drug stacks or drug interaction guidance
+- Specific prescription drug names alongside dose amounts in the same sentence
+
+ALWAYS reframe to: "The dosing protocol, if any, is a conversation for a physician familiar with [condition] and your individual health profile."
+
+### 2. Supplement dosing — ALLOWED with correct framing:
+- "Research has used doses of X" ✓
+- "Clinical trials have tested X" ✓
+- "Studies show benefit at X dose" ✓
+
+NOT ALLOWED:
+- "Take X mg daily" ✗
+- "Start with X, build to Y" ✗ (unless framed as research protocol, not personal advice)
+- Dosage tables framed as self-selection guides ✗
+- Segmenting populations and telling each what to take ✗
+
+### 3. Outcome language — AVOID:
+- "scientifically proven to work" → use "supported by research" or "evidence suggests"
+- "proven to" → use "associated with" or "shown in studies to"
+- "will improve / will prevent / will reverse" → use "may support" or "research suggests it can"
+- Superlatives like "most proven" → use "has the strongest evidence base"
+- "dramatically" for health outcomes → use "significantly" with study context
+- "cuts risk by X%" → "was associated with X% lower risk in [study name]"
+
+### 4. Personalized advice — AVOID:
+- Telling specific demographic groups what they "should" take
+- Framing research doses as personal recommendations
+- Action items that direct readers to start, take, or begin a supplement without hedging
+- ALWAYS include a call-to-action referencing a healthcare provider where any supplement, drug, or clinical intervention is discussed
+
+### 5. Required elements — INCLUDE IN EVERY ARTICLE:
+- Disclaimer footer (already in template — keep)
+- For any article discussing prescription medications: add a callout near the top: "⚠️ This article discusses prescription medications. It describes research findings, not personal guidance. Do not use this article to self-prescribe."
+- For supplement or intervention articles: add one sentence early in the article: "This article is for informational purposes only. Consult a qualified healthcare provider before making changes to your health routine."
+
+### 6. Quick-read and video summary blocks:
+Apply the same scrutiny as the article body. These short blocks are the most shared and screenshotted content, often where absolute language appears. A liability flag in a quick-read block is more risky than one buried in the body because it gets shared without context.
+
+---
+
 ## Pillar-Specific Notes
 
 **Longevity:** Focus on mechanisms that extend healthspan, not just lifespan. VO2 max, muscle mass, metabolic health, inflammation, and biological age are recurring themes.

@@ -85,7 +85,7 @@ Chronotype is not fully fixed — it can be partially shifted through consistent
 
 **Evening light reduction.** Dimming home lighting and reducing blue light exposure in the 2 hours before target bedtime reduces the melatonin-suppressing effect that keeps evening types awake later.
 
-**Low-dose melatonin, timed correctly.** Melatonin taken 5-6 hours before natural sleep onset (not at bedtime — that's incorrect use for phase shifting) can advance circadian timing in evening chronotypes. Doses of 0.5-1mg are physiologically appropriate; commercial doses of 5-10mg are unnecessary and may produce pharmacological rather than chronobiological effects.
+**Low-dose melatonin, timed correctly.** Melatonin taken 5-6 hours before natural sleep onset (not at bedtime — that's incorrect use for phase shifting) can advance circadian timing in evening chronotypes. If using melatonin for circadian adjustment, research suggests 0.5–1mg is physiologically sufficient for phase-shifting — higher commercial doses don't produce better circadian effects and aren't recommended. Discuss timing and use with your doctor if you're using it regularly.
 
 **What doesn't work:** Willpower. Forcing yourself into bed 3 hours before your natural sleep onset will produce hours of lying awake. The body doesn't shift overnight. Consistent, gradual, signal-based approaches over weeks are what move the clock.
 

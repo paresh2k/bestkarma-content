@@ -74,7 +74,7 @@ The American Heart Association recommendation — two servings of fatty fish per
 
 Sardines deserve special mention: they are inexpensive, widely available canned, have low mercury content (small fish, short-lived, low on the food chain), and are nutritionally outstanding — providing calcium (from bones), vitamin D, and B12 alongside omega-3s.
 
-**For supplements:** Fish oil quality varies significantly. Oxidized (rancid) fish oil has no meaningful health benefit and may cause harm. The International Fish Oil Standards (IFOS) certification indicates independent third-party testing for oxidation, contaminants, and label accuracy. For general supplementation, 1-2g per day combined EPA+DHA is appropriate. For triglyceride reduction, prescription-grade omega-3 formulations (Vascepa, Lovaza) at 4g/day are the clinically validated approach.
+**For supplements:** Fish oil quality varies significantly. Oxidized (rancid) fish oil has no meaningful health benefit and may cause harm. The International Fish Oil Standards (IFOS) certification indicates independent third-party testing for oxidation, contaminants, and label accuracy. For general supplementation, 1-2g per day combined EPA+DHA is appropriate. For significant triglyceride reduction, prescription-grade omega-3 formulations have been studied at 4g/day — this is a prescription intervention, not an OTC decision, and would be determined by a physician managing your cardiovascular risk.
 
 **Algae oil** provides DHA directly — and some products provide EPA as well. Fish obtain their EPA and DHA from algae; algae oil cuts out the intermediary. For vegans and vegetarians, algae oil is the only viable way to obtain preformed DHA/EPA without fish consumption. It's nutritionally equivalent to fish oil for the same doses of EPA+DHA.
 
@@ -85,6 +85,8 @@ Mercury in fish is a genuine concern, particularly for pregnant women and young 
 The FDA guidelines recommend 2-3 servings per week of low-mercury fish for most adults, and specifically recommend sardines, salmon, pollock, light canned tuna, catfish, and tilapia as choices with favorable omega-3 content and low mercury. For pregnant women, avoiding high-mercury fish while maintaining intake of low-mercury options is the current guidance.
 
 ## Who Needs to Pay Attention Most
+
+Research suggests that certain groups may benefit from higher omega-3 attention — though individual needs vary and a healthcare provider can help assess yours.
 
 **Everyone who doesn't eat fatty fish regularly** — if you're not eating 2 servings per week of the high-EPA/DHA species, supplementing 1-2g/day EPA+DHA provides insurance against deficiency.
 

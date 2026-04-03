@@ -27,6 +27,8 @@ status: validated
 
 For a drug that's never been approved for healthy humans, rapamycin has accumulated a remarkable following among longevity physicians and researchers who take it themselves. Matt Kaeberlein, one of the field's most rigorous scientists, has been taking it. Peter Attia has discussed taking it publicly for years. The PEARL trial — the first randomized, placebo-controlled study of rapamycin in healthy, middle-aged adults — was supposed to answer the question everyone had been circling. What it actually showed is more interesting, and more honest, than either the enthusiasts or the skeptics wanted.
 
+> ⚠️ *This article discusses prescription medications. It describes research findings, not personal guidance. Do not use this information to self-prescribe.*
+
 The short version: the trial did not produce a statistically significant primary endpoint. The longer version is that several secondary biomarkers moved in directions that matter, the safety profile was cleaner than many expected, and the honest read of the data is that we know more than we did — and still far less than we need to.
 
 ---
@@ -79,7 +81,7 @@ There is also the **glucose metabolism concern**. Rapamycin inhibits mTOR comple
 
 Rapamycin is not approved for healthy aging. Physicians who prescribe it off-label for longevity purposes — and there are a growing number of them — are operating on a risk-benefit calculus that is still being written. The honest case for it, as articulated by Attia in his book *Outlive* and in various public discussions, is that the preclinical evidence is among the strongest of any longevity intervention, the human immune data is genuinely promising, and the safety profile with weekly low-dose use appears manageable. The honest case against it is that we do not have long-term human data, the primary endpoint of the only controlled human trial did not hit, and the downside risks — however apparently modest — are being absorbed by individuals rather than studied at scale.
 
-If you are a healthy adult weighing this question, the protocol most commonly used in longevity medicine — based on Kaeberlein's work, Attia's public framing, and the PEARL dosing arms — is **5–6 mg once weekly**, with periodic breaks and regular monitoring of fasting glucose, lipids, and CBC. Some physicians add metformin or berberine during rapamycin use to buffer potential glycemic effects, though this combination has not been rigorously studied. The decision is not one to make without a physician who knows the literature — and ideally, without baseline bloodwork that gives you a sense of your individual metabolic risk.
+If you are a healthy adult weighing this question, the dosing protocols used in longevity medicine vary and remain under active study — the PEARL trial tested 5 mg and 10 mg weekly arms, and appropriate dosing, if any, is a question for a physician who knows the literature and your individual labs.
 
 What the PEARL trial gave us is not a green light. It is the beginning of a conversation that the field has needed to have out loud, in controlled conditions, for a long time. That is worth something.
 

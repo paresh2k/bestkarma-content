@@ -77,7 +77,7 @@ The right approach depends on who you are and what you're doing.
 
 **For most adults (low-to-moderate activity):**
 - Prioritize dietary potassium: aim for the WHO-recommended 3,500 mg/day through vegetables, legumes, and fruit — not supplements
-- Dietary magnesium target: 400 mg/day for men, 310–320 mg/day for women; if dietary intake is consistently below this, a **magnesium glycinate or magnesium malate supplement at 200–400 mg** in the evening is well-tolerated and has the most favorable absorption data (avoid magnesium oxide — bioavailability is poor)
+- Dietary magnesium target: 400 mg/day for men, 310–320 mg/day for women; if dietary intake is consistently below recommended levels, a magnesium glycinate or malate supplement may help — research has used 200–400 mg doses, though the right amount depends on your individual dietary baseline and symptoms. These forms have the most favorable absorption data (avoid magnesium oxide — bioavailability is poor)
 - Monitor sodium: for most desk-bound adults, sodium *restriction* (reducing processed food) is more relevant than supplementation
 
 **For active adults (60+ minutes of vigorous exercise, especially in heat):**

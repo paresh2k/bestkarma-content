@@ -90,7 +90,7 @@ Within that scope, it remains one of the most evidence-supported, immediately av
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
     <li>→ <strong>Try cyclic sighing:</strong> Double inhale through nose, then slow exhale through mouth, 5-10 times daily.</li>
-    <li>→ <strong>Use breathing as medicine:</strong> It's the fastest way to activate your parasympathetic (calming) nervous system without drugs.</li>
+    <li>→ <strong>Use breathing as a tool:</strong> Controlled breathing is one of the most accessible ways to activate your parasympathetic nervous system.</li>
     <li>→ <strong>Slow down during panic:</strong> Hyperventilation worsens anxiety; slower breathing restores CO2 balance and calm.</li>
     <li>→ <strong>Practice coherent breathing:</strong> Aim for 5-6 breaths per minute to maximize heart rate variability and stress relief.</li>
     <li>→ <strong>Make it a habit:</strong> Just 2-4 minutes daily produces measurable drops in anxiety, cortisol, and improves sleep quality.</li>

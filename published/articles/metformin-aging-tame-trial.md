@@ -27,6 +27,8 @@ status: validated
 
 For decades, metformin was unremarkable — a cheap, generic diabetes drug that kept blood sugar in check and collected little excitement from anyone outside endocrinology. Then researchers started noticing something strange: diabetic patients taking metformin were, in some analyses, living longer than non-diabetic patients who weren't taking it. Not just dying less from diabetes complications — actually outliving people who didn't have diabetes in the first place. That observation launched one of the most consequential experiments in the history of medicine.
 
+> ⚠️ *This article discusses prescription medications. It describes research findings, not personal guidance. Do not use this information to self-prescribe.*
+
 The **TAME trial** (Targeting Aging with Metformin) — designed by geroscientist **Nir Barzilai** of the Albert Einstein College of Medicine — is the first randomized controlled trial explicitly designed to treat aging as a disease target, not a background condition. It doesn't aim to cure cancer or prevent heart attacks as its primary endpoint. It aims to slow the biological process that makes all those things more likely. The FDA's willingness to accept "aging" as a trial endpoint was itself a landmark — a signal that the science of geroscience had matured enough to demand serious clinical infrastructure.
 
 ---
@@ -69,7 +71,7 @@ Metformin also reduces **vitamin B12 absorption** over time through a mechanism 
 
 Given the current state of evidence, here is a defensible framework for thinking about metformin:
 
-**If you are over 65, non-diabetic, and have at least one significant age-related risk factor** (cardiovascular disease, metabolic syndrome, elevated inflammatory markers, family history of early cancer or dementia), the TAME trial's rationale most directly applies to you. A conversation with a physician about off-label use is reasonable and increasingly common in longevity medicine practice. The dose used in TAME is **1,500 mg/day of extended-release metformin**, typically titrated up from 500 mg to reduce GI effects.
+**If you are over 65, non-diabetic, and have at least one significant age-related risk factor** (cardiovascular disease, metabolic syndrome, elevated inflammatory markers, family history of early cancer or dementia), the TAME trial's rationale most directly applies to you. A conversation with a physician about whether the TAME trial's rationale applies to your situation is reasonable — but appropriate dosing, if any, would be determined by your doctor based on kidney function and your individual health profile. The trial itself is studying whether this drug should be used in healthy adults at all; that question hasn't been answered yet.
 
 **If you are under 60, metabolically healthy, and exercise regularly**, the calculus is more complex. The exercise-blunting evidence from Konopka et al. should give you pause. Some clinicians in longevity practice — including **Peter Attia**, who has written extensively on this question — have moved away from metformin for this reason, reasoning that the exercise adaptation benefit forgone may exceed the modest longevity signal from AMPK activation alone. If you are in this group and still want to pursue this pathway, monitoring options matter: baseline and annual B12 testing, and honest tracking of whether fitness metrics plateau unusually.
 

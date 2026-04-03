@@ -27,6 +27,8 @@ status: validated
 
 Three drugs, combined. A 30% extension in mouse lifespan. The researchers running the experiment hadn't expected the result to be that clean.
 
+> ⚠️ *This article discusses prescription medications. It describes research findings, not personal guidance. Do not use this information to self-prescribe.*
+
 The **Interventions Testing Program (ITP)** — a rigorous, multi-site NIA-funded initiative that tests longevity compounds in genetically heterogeneous mice — has spent nearly two decades producing some of the most credible lifespan data in aging biology. Most interventions fail. Resveratrol failed. Most antioxidants failed. But rapamycin worked, repeatedly, even when started late in life. And when the ITP began stacking drugs with complementary mechanisms, something interesting happened: the effects didn't just add — in some combinations, they appeared to multiply.
 
 The question that follows is the uncomfortable one. If you're a 45-year-old who has read the ITP data and is already taking metformin off-label, should you add rapamycin? Should you add acarbose? At what point does thoughtful longevity optimization become reckless polypharmacy?
@@ -89,10 +91,12 @@ The interaction profile of all three combined in a human over years or decades i
 
 If you're an evidence-literate adult considering any of these compounds, here's how to think about it honestly:
 
-- **Metformin** has the best human safety profile and the weakest mouse lifespan data of the three. If you're non-diabetic and interested, the TAME trial protocol (1,500–1,700mg/day of extended-release metformin) is the most evidence-anchored dose. Weigh the exercise-blunting concern seriously if resistance training is central to your health strategy.
-- **Acarbose** has solid human safety data and the strongest ITP combination signal. Doses used in the ITP were approximately 1,000mg/kg diet; human equivalent doses in diabetes are typically 25–100mg three times daily with meals. GI side effects can be managed by starting very low (25mg once daily) and titrating slowly.
-- **Rapamycin** carries the most uncertainty and the most meaningful risks for immunocompetent adults. Intermittent dosing (weekly rather than daily) is the protocol most longevity physicians currently use to target mTORC1 while minimizing immunosuppression; typical doses discussed in the literature are 5–10mg weekly. This requires physician oversight.
+- **Metformin** has the best human safety profile and the weakest mouse lifespan data of the three. Weigh the exercise-blunting concern seriously if resistance training is central to your health strategy.
+- **Acarbose** has solid human safety data and the strongest ITP combination signal. GI side effects are common and dose-dependent.
+- **Rapamycin** carries the most uncertainty and the most meaningful risks for immunocompetent adults.
 - **Stacking all three** is the least supported by human evidence and the most dependent on a physician who can monitor lipids, glucose, kidney function, and immune markers regularly.
+
+Dosing protocols for each of these drugs vary across clinical contexts and are not something to determine independently — they require physician oversight, baseline bloodwork, and monitoring.
 
 The ITP data is genuinely exciting — not because it tells us what to do, but because it gives us the most rigorous mammalian framework we have for thinking about combination longevity pharmacology. The honest version of the headline is: *it worked in mice, the mechanisms make sense in humans, and we are years away from knowing whether the bet pays off.*
 

@@ -89,7 +89,7 @@ What broke slowly can heal slowly. But only if you understand what broke, and wh
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ <strong>Exercise is the #1 recovery tool</strong> — moderate aerobic exercise (30–45 min, 4–5x/week) directly rebuilds hippocampal volume</li>
+    <li>→ <strong>Exercise is a high-priority recovery tool</strong> — moderate aerobic exercise consistently shows hippocampal volume benefits in research</li>
     <li>→ <strong>Social connection is not optional</strong> — schedule it like a meeting. Perceived support measurably lowers IL-6 and cortisol</li>
     <li>→ <strong>Consistent sleep timing matters more than duration</strong> — the cortisol awakening response is highly sensitive to irregular schedules</li>
     <li>→ <strong>Write about feelings, not solutions</strong> — expressive journaling (not problem-solving) reduces rumination and inflammation</li>

@@ -89,12 +89,14 @@ It is also true that most long-term PCOS outcome studies were conducted before t
 
 The evidence supports a layered approach. These are specific, achievable starting points:
 
+*The following are interventions studied in PCOS populations — which if any are appropriate for you, and at what dose, is a clinical decision with your prescribing provider.*
+
 | Intervention | Dose / Specifics | Evidence Level |
 |---|---|---|
 | Resistance training | 3 x/week, progressive loading, 45–60 min | Strong (Kogure et al. 2020) |
 | Low-GI diet | Prioritise legumes, whole grains, non-starchy vegetables; minimise refined carbohydrates | Moderate (Marsh et al. 2010) |
 | Metformin | 500–1500mg/day (titrated with prescriber) | Strong (Morley et al. 2020 Cochrane) |
-| Myo-inositol | 2–4g/day in divided doses | Moderate, emerging (Unfer et al. 2019) |
+| Myo-inositol | 2–4g/day in divided doses (the dose most studied in trials — the right approach for you may vary) | Moderate, emerging (Unfer et al. 2019) |
 | Progestogen therapy | If anovulatory: induce regular withdrawal bleeds (discuss with gynaecologist) | Clinical consensus |
 | Annual metabolic screening | Fasting glucose, HbA1c, lipids, liver enzymes — start at diagnosis, not midlife | Clinical guideline recommendation |
 

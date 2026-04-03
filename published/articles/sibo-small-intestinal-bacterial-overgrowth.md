@@ -27,6 +27,8 @@ status: validated
 
 You can eat a perfectly clean diet — no gluten, no dairy, no processed food — and still spend every afternoon looking six months pregnant. The bloating is real, the discomfort is real, and the standard reassurance ("it's probably just IBS") is, for a significant subset of sufferers, wrong. What's actually happening is a bacterial problem in a place bacteria aren't supposed to thrive in large numbers: the small intestine.
 
+> ⚠️ *This article discusses prescription medications. It describes research findings, not personal guidance. Do not use this information to self-prescribe.*
+
 Small intestinal bacterial overgrowth — SIBO — is increasingly recognized as one of the most underdiagnosed conditions in gastroenterology. A 2020 meta-analysis by **Ghoshal et al.** in the *Journal of Gastroenterology and Hepatology*, pooling data from 11 studies and over 1,200 patients with IBS, found that roughly **36% of IBS patients tested positive for SIBO** using breath testing — compared to 10% of healthy controls. That gap is striking. It suggests that for millions of people cycling through elimination diets and digestive enzymes, the root cause hasn't been addressed at all.
 
 ---
@@ -79,7 +81,7 @@ The **low-FODMAP diet** (restricting fermentable oligosaccharides, disaccharides
 
 Here is the honest reckoning: SIBO comes back. Recurrence rates of **44% within 9 months** have been reported (**Lauritano et al., 2008, *American Journal of Gastroenterology***), and without addressing the underlying cause, repeat antibiotic courses become the norm. This is where **prokinetics** — agents that stimulate gut motility and restore MMC function — become important.
 
-Low-dose **naltrexone** (LDN), **prucalopride**, and the herbal prokinetic **Iberogast** have all been used for MMC support with varying evidence. The most studied pharmaceutical option is **low-dose erythromycin** (a macrolide antibiotic that also acts as a motilin agonist at low doses), though long-term antibiotic use for prokinesis raises its own concerns. **5-HTP**, a serotonin precursor, has theoretical appeal given serotonin's role in gut motility, but clinical evidence in SIBO-specific populations is sparse.
+Several prescription prokinetic medications have been used — which is appropriate for you is a conversation for your prescribing physician. The herbal prokinetic **Iberogast** has also been used for MMC support with varying evidence. **5-HTP**, a serotonin precursor, has theoretical appeal given serotonin's role in gut motility, but clinical evidence in SIBO-specific populations is sparse.
 
 The pragmatic approach recommended in current clinical practice is to identify and treat the *underlying cause* — address hypochlorhydria, optimize thyroid function, review PPI use — and use prokinetics between antibiotic courses or after treatment to reduce the MMC dysfunction that allows bacterial repopulation.
 
@@ -89,7 +91,7 @@ The pragmatic approach recommended in current clinical practice is to identify a
 
 If the symptom pattern above sounds familiar, the logical next step is a breath test through your gastroenterologist or, where available, a telehealth GI service. Treatment decisions should follow testing results. A general framework:
 
-- **Hydrogen-dominant SIBO:** Rifaximin 550 mg three times daily for 14 days (prescription required); consider low-FODMAP during treatment to reduce symptoms
+- **Hydrogen-dominant SIBO:** The most commonly used antibiotic for hydrogen-dominant SIBO is rifaximin, a prescription medication — your gastroenterologist will determine the appropriate dose and duration based on your breath test results and history. Consider low-FODMAP during treatment to reduce symptoms
 - **Methane-dominant (IMO):** Rifaximin + neomycin combination; discuss with a gastroenterologist
 - **Refractory or antibiotic-intolerant cases:** Elemental diet for 14–21 days — high burden, high efficacy
 - **Maintenance:** Discuss a prokinetic agent with your provider; address root causes (PPI reduction if appropriate, thyroid optimization, motility support)

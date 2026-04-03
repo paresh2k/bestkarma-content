@@ -129,7 +129,7 @@ That's the signal worth acting on.
     <li>→ <strong>Track methylation markers:</strong> Use epigenetic clocks to monitor whether lifestyle changes actually slow aging.</li>
     <li>→ <strong>Prioritize methylation-supporting diet:</strong> Eat plant-rich foods and nutrients that influence DNA methylation patterns positively.</li>
     <li>→ <strong>Measure what matters:</strong> Focus on GrimAge or PhenoAge for the most clinically relevant aging data.</li>
-    <li>→ <strong>Reverse your clock:</strong> Commit to sustained diet and lifestyle changes proven to lower biological age measurably.</li>
+    <li>→ <strong>Support your clock:</strong> Sustained diet and lifestyle changes are consistently associated with favorable biological age markers in research.</li>
   </ul>
 </div>
 

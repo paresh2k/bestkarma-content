@@ -27,6 +27,8 @@ status: validated
 
 Around age 47, something shifts. Sleep — which may have been reliable for decades — starts to fracture. You wake at 3am in a pool of sweat, heart pounding. You fall back asleep, then wake again an hour later with your mind racing. By morning you feel like you've been awake all night, even if the clock says otherwise. This isn't stress, and it isn't aging in the ordinary sense. It's perimenopause systematically dismantling the hormonal architecture that makes sleep possible — and for many women, it goes on for years.
 
+> ⚠️ *This article discusses prescription medications. It describes research findings, not personal guidance. Do not use this information to self-prescribe.*
+
 What's striking is how severely underrecognized and undertreated this is. A 2023 review in *Nature and Science of Sleep* by Baker and colleagues found that perimenopausal women are **two to three times more likely** to report clinically significant insomnia than premenopausal women of the same age — and yet fewer than a third discuss sleep with their clinician. The good news: the mechanisms are increasingly well understood, and the interventions, both hormonal and non-hormonal, are better than ever.
 
 ---
@@ -65,7 +67,7 @@ The overall benefit-risk profile of MHT has been substantially rehabilitated sin
 
 For women who cannot or prefer not to use MHT, the evidence base has expanded meaningfully in recent years.
 
-**Fezolinetant** (brand name Veozah), approved by the FDA in 2023, is a neurokinin 3 receptor antagonist that acts directly on the KNDy neurons in the hypothalamus responsible for triggering hot flashes. In the **SKYLIGHT 1 and 2 phase 3 trials** (Johnson and colleagues, *JAMA*, 2023), fezolinetant 45mg daily reduced hot flash frequency by approximately 60% at 12 weeks compared to a 45% reduction with placebo — with statistically significant improvements in sleep disturbance scores on the PROMIS Sleep Disturbance scale. It is the first non-hormonal drug approved specifically for VMS, and for women with hormone-sensitive cancers or strong HRT contraindications, it represents a genuine new option.
+**Fezolinetant** (brand name Veozah), approved by the FDA in 2023, is a neurokinin 3 receptor antagonist that acts directly on the KNDy neurons in the hypothalamus responsible for triggering hot flashes. In the **SKYLIGHT 1 and 2 phase 3 trials** (Johnson and colleagues, *JAMA*, 2023), fezolinetant reduced hot flash frequency by approximately 60% at 12 weeks compared to a 45% reduction with placebo — with statistically significant improvements in sleep disturbance scores on the PROMIS Sleep Disturbance scale. It is the first non-hormonal drug approved specifically for VMS, and for women with hormone-sensitive cancers or strong HRT contraindications, it represents a genuine new option. Your prescribing clinician will determine the appropriate dose.
 
 **Cognitive Behavioral Therapy for Insomnia (CBT-I)** remains the gold-standard first-line treatment for insomnia in any population, and perimenopausal women are no exception. A 2019 RCT by Kalmbach and colleagues in *Sleep* found that four sessions of CBT-I significantly reduced insomnia severity, dysfunctional sleep cognitions, and presleep arousal in perimenopausal and postmenopausal women — and crucially, these gains were maintained at six-month follow-up. CBT-I works by restructuring the hypervigilant relationship with sleep that perimenopause tends to create; it targets the anxiety spiral as directly as the wakefulness itself.
 
@@ -87,7 +89,7 @@ The evidence supports a stepped, individualized approach rather than a single so
 **If symptoms are moderate-to-severe (discuss with your clinician):**
 - Request a formal VMS and sleep assessment from a menopause-informed physician
 - Discuss MHT candidacy — ideally including **transdermal estradiol** (lower thrombotic risk than oral) and **oral micronized progesterone** at bedtime (GABAergic sleep benefit)
-- If HRT is contraindicated, discuss **fezolinetant** (FDA-approved 2023) or, for mood-comorbid cases, low-dose SSNRIs (venlafaxine has evidence for VMS reduction from Loprinzi et al., *Lancet*, 2000)
+- If HRT is contraindicated, discuss **fezolinetant** (FDA-approved 2023) or, for mood-comorbid cases, venlafaxine — an antidepressant that has shown efficacy for VMS in women who cannot or prefer not to use hormone therapy — discuss with a specialist who can assess its appropriateness for your situation (Loprinzi et al., *Lancet*, 2000)
 
 **For persistent insomnia despite VMS control:**
 - Continue CBT-I — residual insomnia often has a conditioned, behavioral component that persists even after VMS resolve

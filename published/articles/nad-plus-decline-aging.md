@@ -96,7 +96,7 @@ The NAD+ biology is real and important. The decline with aging is real and signi
 
 NMN and NR supplements raise NAD+ in humans. This is established. Whether that biochemical effect translates into meaningful clinical outcomes at commercially available doses remains an open question. The supplement industry prices these products based on the biology and animal data; the human outcome data is still catching up.
 
-For people who want to act on the NAD+ biology now: maximize the lifestyle interventions that raise NAD+ endogenously. Then, if you want to supplement after establishing that baseline, NR or NMN at 250-500 mg/day has a reasonable safety profile and biological plausibility, even if the human outcome evidence is still developing.
+For people who want to act on the NAD+ biology now: maximize the lifestyle interventions that raise NAD+ endogenously. Then, if you want to supplement after establishing that baseline, NR or NMN at the doses studied in trials (250–500 mg/day) has a reasonable safety profile, though the human outcome evidence is still developing — worth a conversation with your doctor if you're considering it.
 
 The most expensive supplement in the world won't substitute for the metabolic signaling that exercise and fasting produce. Start there.
 

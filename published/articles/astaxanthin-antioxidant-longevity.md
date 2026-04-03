@@ -109,7 +109,7 @@ If you are an athlete considering astaxanthin for recovery, be aware of the theo
 <div class="not-prose rounded-2xl border border-terracotta/20 bg-terracotta/5 px-6 py-5 my-8">
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
-    <li>→ <strong>Try 6 mg daily</strong> if you're concerned about skin aging from sun exposure—the most proven benefit.</li>
+    <li>→ Research for skin aging has most consistently used 6 mg daily — discuss supplementation with your doctor, particularly if you take blood thinners.</li>
     <li>→ <strong>Combine oral plus topical</strong> astaxanthin for better results than either approach alone.</li>
     <li>→ <strong>Source from salmon</strong> or quality supplements; it's fat-soluble, so take with food for absorption.</li>
     <li>→ <strong>Don't expect miracles</strong> for exercise recovery—promising data exists but isn't yet conclusive in humans.</li>

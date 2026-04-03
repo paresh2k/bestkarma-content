@@ -83,6 +83,8 @@ The pregnancy question deserves particular honesty: **we don't know**. Creatine 
 
 Based on the available evidence, here is what a reasonable creatine protocol looks like for women:
 
+*These doses reflect what has been tested in research studies — the right approach depends on your goals, health context, and individual response. Discuss any use for mood support with a prescribing provider.*
+
 | Goal | Dose | Form | Timing |
 |---|---|---|---|
 | Muscle / strength | 3–5 g/day | Creatine monohydrate | Any time; consistency matters more than timing |
@@ -94,7 +96,7 @@ Based on the available evidence, here is what a reasonable creatine protocol loo
 
 **On form:** Creatine monohydrate is the most studied, least expensive, and most consistently effective form. Products marketed as superior — kre-alkalyn, creatine HCl, buffered creatine — do not have evidence supporting better outcomes in women or anyone else.
 
-Start with 3g/day for the first week to assess GI tolerance, then move to your target dose. The effects are not acute — expect 3–4 weeks before meaningful changes in training performance or cognitive measures.
+Research protocols have typically started with lower doses to assess GI tolerance before building to the target dose. The effects are not acute — expect 3–4 weeks before meaningful changes in training performance or cognitive measures.
 
 *This article is for informational purposes. Consult a qualified healthcare provider before making changes to your health routine, particularly if you are pregnant, nursing, or managing a mood or neurological condition.*
 

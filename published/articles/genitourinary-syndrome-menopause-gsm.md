@@ -29,6 +29,8 @@ Here's something that will strike most people as backward: the most distressing 
 
 Hot flashes get the headlines, the sympathy, and the treatment conversations. But hot flashes, for the majority of women, eventually ease. The symptom that quietly intensifies for the rest of a woman's life — affecting her comfort, her sexuality, her bladder, and her sense of self — is one that fewer than a quarter of affected women ever discuss with a doctor. It doesn't have a catchy name. Until recently, it barely had a name at all.
 
+> ⚠️ *This article discusses prescription medications. It describes research findings, not personal guidance. Do not use this information to self-prescribe.*
+
 **Genitourinary syndrome of menopause**, or GSM, affects at least 50% of postmenopausal women, and unlike virtually every other menopause symptom, it does not get better with time. It gets worse. Without treatment, the tissues of the vulva, vagina, and lower urinary tract — all densely populated with estrogen receptors — progressively thin, dry, and lose elasticity. The consequences range from painful sex and chronic discharge to recurrent urinary tract infections and urinary urgency. It is not a minor quality-of-life inconvenience. It is a progressive condition with a biological clock attached, and the silence around it is, in every meaningful sense, making women sicker.
 
 ---
@@ -87,7 +89,7 @@ GSM is progressive. Earlier treatment is more effective and easier. If you recog
 |---|---|---|
 | Mild dryness | Vaginal moisturizer (hyaluronic acid or polycarbophil) 2–3x/week | Non-hormonal; start immediately |
 | Moderate symptoms | Low-dose vaginal estrogen (suppository, ring, or cream) | Most evidence; minimal systemic absorption |
-| Cannot use vaginal estrogen | Ospemifene 60mg oral daily | Requires prescription; avoid with history of blood clots |
+| Cannot use vaginal estrogen | Ospemifene (oral, prescription only) | Avoid with history of blood clots — discuss candidacy with your prescriber |
 | Significant systemic menopause symptoms + GSM | Systemic HRT | Discuss risks/benefits with a menopause specialist |
 
 If your doctor dismisses your symptoms as "normal aging," they are half right — GSM is common — and entirely wrong in the conclusion that follows. Common is not the same as untreatable. **The Menopause Society's provider locator (menopause.org) and the British Menopause Society's accredited specialist directory are useful starting points for finding a clinician with genuine expertise.**

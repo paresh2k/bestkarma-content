@@ -17,7 +17,7 @@ status: validated
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Collagen peptides are broken-down collagen that may act as signaling molecules, not just generic protein.</li>
-    <li>✓ Skin benefits are the most scientifically proven: wrinkle reduction and elasticity gains in 8-12 weeks.</li>
+    <li>✓ Skin benefits have the strongest evidence base: several RCTs show modest improvements in wrinkle depth and skin elasticity over 8-12 weeks.</li>
     <li>✓ Studies show 2.5-10g daily doses produce measurable results, especially for people over 45.</li>
     <li>✓ Joint and gut claims are plausible but lack the same quality evidence as skin research.</li>
     <li>✓ Marketing hype exceeds science, but real, specific benefits exist if you know which claims to trust.</li>
@@ -111,7 +111,7 @@ For those who want to use the evidence rather than just read it:
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-terracotta mb-3">Key Takeaways</p>
   <ul class="mt-2 space-y-2 text-sm text-bark leading-relaxed">
     <li>→ <strong>Target your age:</strong> Start supplementation around 45+ when collagen decline accelerates for maximum impact.</li>
-    <li>→ <strong>Pick the right dose:</strong> Use 2.5-10g daily for 8-12 weeks to see measurable skin improvements.</li>
+    <li>→ Research has used 2.5–10g daily for 8–12 weeks — the specific dose and form worth discussing with your doctor, particularly if managing a joint or GI condition.</li>
     <li>→ <strong>Focus on skin first:</strong> Evaluate collagen for wrinkles and elasticity, not unproven gut or joint claims.</li>
     <li>→ <strong>Check for Verisol:</strong> Look for this specific branded peptide in supplements—it's the most studied type.</li>
     <li>→ <strong>Expect modest gains:</strong> Plan for 20% wrinkle reduction and improved hydration, not dramatic transformation.</li>

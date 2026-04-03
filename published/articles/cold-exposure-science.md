@@ -17,7 +17,7 @@ reviewedDate: 2026-03-14
   <p class="text-xs font-semibold uppercase tracking-[0.2em] text-sage-dark mb-3">TL;DR · Read this in 30 seconds</p>
   <ul class="mt-2 space-y-2 text-sm text-stone leading-relaxed">
     <li>✓ Cold exposure triggers a 200-300% spike in norepinephrine, boosting focus and mood for hours.</li>
-    <li>✓ Regular cold water immersion reduces depression and anxiety as effectively as some antidepressants.</li>
+    <li>✓ Some research suggests cold water immersion may meaningfully reduce depression and anxiety symptoms, though direct comparisons to antidepressants require more study.</li>
     <li>✓ Cold activates brown fat, improving insulin sensitivity and glucose metabolism within two weeks.</li>
     <li>✓ The psychological challenge of discomfort matters — people most afraid of cold see biggest mood gains.</li>
     <li>✓ Mild, consistent cold exposure works; you don't need extreme ice baths for measurable benefits.</li>

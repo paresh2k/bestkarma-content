@@ -72,13 +72,13 @@ The standard test is a serum 25(OH)D — 25-hydroxyvitamin D — level, availabl
 
 **Form.** Vitamin D3 (cholecalciferol) is significantly more effective than D2 (ergocalciferol) at raising serum 25(OH)D. D3 is derived from lanolin (sheep's wool) or lichen (for vegan formulations). D2 is plant-derived but pharmacokinetically inferior.
 
-**Dose for deficiency correction.** For people starting below 20 ng/mL: 4,000-6,000 IU/day for 8-12 weeks, followed by retesting. For people in the insufficient range (20-30 ng/mL): 2,000-4,000 IU/day for correction, then maintenance dosing.
+**Dose for deficiency correction.** For people who are deficient, correction doses are typically higher — your doctor can advise on the right amount based on your baseline level. Correction dose ranges vary significantly with severity of deficiency; don't estimate them without a baseline test and medical input.
 
 **Maintenance dose for most adults.** 1,000-2,000 IU/day D3 is sufficient for most people with adequate sun exposure in summer to maintain status above 30 ng/mL year-round. For people with minimal sun exposure or dark skin at high latitudes: 2,000-4,000 IU/day year-round.
 
 **Take with fat.** Vitamin D is fat-soluble; absorption is improved when taken with a fat-containing meal. The difference is meaningful — taking D3 with a fatty meal can increase absorption by 50% compared to fasting.
 
-**Vitamin K2 pairing.** At higher doses of vitamin D supplementation (2,000+ IU/day), many clinicians recommend co-supplementing with vitamin K2 (MK-7 form, 100-200mcg/day). The rationale: vitamin D increases calcium absorption, and K2 directs absorbed calcium to bones rather than soft tissues and arteries, potentially reducing arterial calcification risk from high-dose D3. The evidence for this interaction is mechanistically plausible though not conclusively established in large trials.
+**Vitamin K2 pairing.** At higher doses of vitamin D supplementation (2,000+ IU/day), some clinicians suggest co-supplementing with vitamin K2 (MK-7 form, 100-200mcg/day). The rationale: vitamin D increases calcium absorption, and K2 directs absorbed calcium to bones rather than soft tissues and arteries, potentially reducing arterial calcification risk from high-dose D3. The evidence for this interaction is mechanistically plausible though not conclusively established in large trials.
 
 **Monitor.** Vitamin D toxicity from supplementation is rare below 10,000 IU/day in most adults, but testing every 6-12 months if taking doses above 2,000 IU/day is reasonable clinical practice.
 
